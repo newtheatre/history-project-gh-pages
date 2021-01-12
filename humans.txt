@@ -1,0 +1,38 @@
+/* TEAM */
+  Project Lead: Will Pimblett
+  Bio: https://history.newtheatre.org.uk/people/will_pimblett/
+
+  Editor: Phil Geller
+  Bio: https://history.newtheatre.org.uk/people/philip_geller/
+
+  Editor: Nick Stevenson
+  Bio: https://history.newtheatre.org.uk/people/nick_stevenson/
+
+  Editor: Ben Woodford
+  Bio: https://history.newtheatre.org.uk/people/ben_woodford/
+
+  Editor: Sam Osborne
+  Bio: https://history.newtheatre.org.uk/people/sam_osborne/
+
+  Editor: Jack Ellis
+  Bio: https://history.newtheatre.org.uk/people/jack_ellis/
+
+  Contributor: David Taylor
+  Bio: https://history.newtheatre.org.uk/people/david_taylor/
+
+  Contributor: Skylar Turnbull Hurd
+  Bio: https://history.newtheatre.org.uk/people/skylar_turnbull_hurd/
+
+  
+/* THANKS */
+  Vagrant Setup: Tom Price
+
+  Browser testing tools generously provided by BrowserStack.
+
+/* SITE */
+  Last update: 2021-01-12
+  Language: English
+  Doctype: HTML5
+  Build: Gulp, Jekyll, Travis CI
+  Test: htmltest, jsonlint
+  IDE: Sublime Text

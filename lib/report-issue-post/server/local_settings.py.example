@@ -1,0 +1,6 @@
+GITHUB_USER = ""
+GITHUB_TOKEN = ""
+GITHUB_REPO = "wjdp/report-issue-post"
+GITHUB_LABEL = "webform"
+
+WEBSITE_URL = ""
