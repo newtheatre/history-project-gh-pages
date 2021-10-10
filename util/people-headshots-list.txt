@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2021-09-10 22:09.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2021-10-10 16:32.*
 
 
 
@@ -34,6 +34,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Florence Sandford-Richardson](https://history.newtheatre.org.uk/people/florence_sandford-richardson/)
 - [ ] [George Waring](https://history.newtheatre.org.uk/people/george_waring/)
 - [x] [Heather Peace](https://history.newtheatre.org.uk/people/heather_peace/)
+- [x] [Helena Hunt](https://history.newtheatre.org.uk/people/helena_hunt/)
 - [x] [Hugh Purves](https://history.newtheatre.org.uk/people/hugh_purves/)
 - [x] [Ian Sheard](https://history.newtheatre.org.uk/people/ian_sheard/)
 - [x] [Jack Ellis](https://history.newtheatre.org.uk/people/jack_ellis/)
