@@ -1124,6 +1124,11 @@
                 "title": "2019-20",
                 "roles": ["Costume, Props and Make-Up Manager"]
             }
+        
+            ,{
+                "title": "2020-21",
+                "roles": ["Secretary"]
+            }
         ],
         "link": "/people/alice_walker/"
     }
@@ -2878,6 +2883,11 @@
                 "title": "2019-20",
                 "roles": ["Company Master Carpenter"]
             }
+        
+            ,{
+                "title": "2020-21",
+                "roles": ["Theatre Manager"]
+            }
         ],
         "link": "/people/barney_hartwill/"
     }
@@ -4474,7 +4484,12 @@
                 "roles": ["Taff"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2020-21",
+                "roles": ["IT Manager"]
+            }
+        ],
         "link": "/people/bill_hayes/"
     }
     
@@ -4784,7 +4799,12 @@
                 "roles": ["M Multirole","Sound Designer","Poster Designer","Meme Supplier"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2020-21",
+                "roles": ["Unscripted Coordinator and Engagement Officer"]
+            }
+        ],
         "link": "/people/caetano_capurro/"
     }
     
@@ -4869,6 +4889,11 @@
             {
                 "title": "2019-20",
                 "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "2020-21",
+                "roles": ["External Relations Manager"]
             }
         ],
         "link": "/people/caitie_pardoe/"
@@ -5410,7 +5435,12 @@
                 "roles": ["Lighting Designer","Director"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2020-21",
+                "roles": ["Technical Manager"]
+            }
+        ],
         "link": "/people/cecilia_alexander/"
     }
     
@@ -5465,7 +5495,7 @@
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/charlie_basley/'><img src='https://photos.smugmug.com/photos/i-wPnQfmW/0/140x140!/i-wPnQfmW-140x140!.jpg' class='search-result-poster-thumb' alt='Charlie Basley' /></a>",
         "course": ["American and Canadian Studies BA"],
-        "graduated": 2019,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -5551,6 +5581,11 @@
         "committees": [
             {
                 "title": "2018-19",
+                "roles": ["Costume, Props and Make-Up Manager"]
+            }
+        
+            ,{
+                "title": "2020-21",
                 "roles": ["Costume, Props and Make-Up Manager"]
             }
         ],
@@ -9753,7 +9788,12 @@
                 "roles": ["Lighting Designer"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2020-21",
+                "roles": ["Publicity Manager"]
+            }
+        ],
         "link": "/people/ella_seber-rajan/"
     }
     
@@ -10293,7 +10333,12 @@
                 "roles": ["Alistair","Publicity Assistant"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2020-21",
+                "roles": ["Front of House Manager"]
+            }
+        ],
         "link": "/people/em_rule/"
     }
     
@@ -16298,6 +16343,11 @@
                 "title": "2019-20",
                 "roles": ["Fringe Coordinator"]
             }
+        
+            ,{
+                "title": "2020-21",
+                "roles": ["Fringe Coordinator"]
+            }
         ],
         "link": "/people/jack_titley/"
     }
@@ -16648,6 +16698,11 @@
             {
                 "title": "2019-20",
                 "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "2020-21",
+                "roles": ["In-House Coordinator"]
             }
         ],
         "link": "/people/jake_levy/"
@@ -26993,6 +27048,11 @@
                 "title": "2019-20",
                 "roles": ["Theatre Manager"]
             }
+        
+            ,{
+                "title": "2020-21",
+                "roles": ["President"]
+            }
         ],
         "link": "/people/nadia_elalfi/"
     }
@@ -28023,7 +28083,12 @@
                 "roles": ["Chris","Technical Director"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2020-21",
+                "roles": ["Company Master Carpenter"]
+            }
+        ],
         "link": "/people/nicholas_landon/"
     }
     
@@ -29852,7 +29917,12 @@
                 "roles": ["Assistant Director"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2020-21",
+                "roles": ["Company Stage Manager"]
+            }
+        ],
         "link": "/people/pete_rouse/"
     }
     
@@ -33956,7 +34026,12 @@
                 "roles": ["Make-up & Hair Assistant"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2020-21",
+                "roles": ["Social and Fundraising Coordinator"]
+            }
+        ],
         "link": "/people/sofia_bassani/"
     }
     
@@ -33992,7 +34067,12 @@
                 "roles": ["Technical Director"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2020-21",
+                "roles": ["Treasurer"]
+            }
+        ],
         "link": "/people/sofia_loreti/"
     }
     
@@ -34759,6 +34839,11 @@
         "committees": [
             {
                 "title": "2019-20",
+                "roles": ["Company Technical Director"]
+            }
+        
+            ,{
+                "title": "2020-21",
                 "roles": ["Company Technical Director"]
             }
         ],
@@ -90702,7 +90787,12 @@
                 "roles": ["Director","Poster Designer"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2020-21",
+                "roles": ["Publicity Manager"]
+            }
+        ],
         "link": "/people/ace_edwards/"
     }
     
@@ -91053,7 +91143,12 @@
                 "roles": ["Max"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2020-21",
+                "roles": ["IT Manager"]
+            }
+        ],
         "link": "/people/max_nichols/"
     }
     
