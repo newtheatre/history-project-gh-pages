@@ -4045,6 +4045,11 @@
             }
         
             ,{
+                "title": "Kiss my neck not my lips",
+                "roles": ["Photographer"]
+            }
+        
+            ,{
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Director"]
             }
@@ -7329,6 +7334,11 @@
             ,{
                 "title": "Still Alice",
                 "roles": ["Dr Davis / Dan"]
+            }
+        
+            ,{
+                "title": "La Casa de Bernarda Alba",
+                "roles": ["Photographer"]
             }
         
             ,{
@@ -90108,6 +90118,11 @@
             }
         
             ,{
+                "title": "Edward II",
+                "roles": ["Photographer"]
+            }
+        
+            ,{
                 "title": "All My Sons",
                 "roles": ["Publicity Assistant"]
             }
@@ -90903,6 +90918,27 @@
     
 
     ,
+    "george_westaway" : {
+        "name": "George Westaway",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Vincent River",
+                "roles": ["Photographer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/george_westaway/"
+    }
+    
+
+    ,
     "joe_caputo" : {
         "name": "Joe Caputo",
         "type": "person",
@@ -90920,6 +90956,37 @@
         ],
         "committees": [],
         "link": "/people/joe_caputo/"
+    }
+    
+
+    ,
+    "josh_spear" : {
+        "name": "Josh Spear",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Wonderful World of Dissocia",
+                "roles": ["Photographer"]
+            }
+        
+            ,{
+                "title": "Celebration",
+                "roles": ["Photographer"]
+            }
+        
+            ,{
+                "title": "All My Sons",
+                "roles": ["Photographer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/josh_spear/"
     }
     
 
@@ -91072,32 +91139,6 @@
         ],
         "committees": [],
         "link": "/people/rachel_elphick/"
-    }
-    
-
-    ,
-    "josh_spear" : {
-        "name": "Josh Spear",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Celebration",
-                "roles": ["Photographer"]
-            }
-        
-            ,{
-                "title": "All My Sons",
-                "roles": ["Photographer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/josh_spear/"
     }
     
 
