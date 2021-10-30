@@ -34903,6 +34903,11 @@
                 "title": "To Become A King Is To Become A Killer",
                 "roles": ["Tabitha"]
             }
+        
+            ,{
+                "title": "In House Shows Cancelled due to Covid-19",
+                "roles": ["Ed"]
+            }
         ],
         "committees": [],
         "link": "/people/tash_wanigaratne/"
@@ -91233,27 +91238,6 @@
         ],
         "committees": [],
         "link": "/people/anna_bulcock/"
-    }
-    
-
-    ,
-    "tash_wanigarante" : {
-        "name": "Tash Wanigarante",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "In House Shows Cancelled due to Covid-19",
-                "roles": ["Ed"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/tash_wanigarante/"
     }
     
 
