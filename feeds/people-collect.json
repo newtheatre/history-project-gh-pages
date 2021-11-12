@@ -24887,7 +24887,12 @@
         "course": null,
         "graduated": 1991,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "Epsom Downs",
+                "roles": ["Key Grip"]
+            }
+        ],
         "committees": [],
         "link": "/people/mark_curry/"
     }
@@ -31080,6 +31085,11 @@
         "award": [],
         "shows": [
             {
+                "title": "The Fire Raisers",
+                "roles": ["Fireman 2","Director"]
+            }
+        
+            ,{
                 "title": "Storybook",
                 "roles": ["Director"]
             }
@@ -40515,6 +40525,37 @@
     
 
     ,
+    "nick_earle" : {
+        "name": "Nick Earle",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Real Thing",
+                "roles": ["Lighting"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1988-89",
+                "roles": ["Assistant Theatre Manager"]
+            }
+        
+            ,{
+                "title": "1989-90",
+                "roles": ["Assistant Theatre Manager"]
+            }
+        ],
+        "link": "/people/nick_earle/"
+    }
+    
+
+    ,
     "claire_dykema" : {
         "name": "Claire Dykema",
         "type": "person",
@@ -40526,6 +40567,16 @@
         "award": [],
         "shows": [
             {
+                "title": "The Crucible",
+                "roles": ["Betty Parris"]
+            }
+        
+            ,{
+                "title": "Epsom Downs",
+                "roles": ["Programme"]
+            }
+        
+            ,{
                 "title": "Macbeth",
                 "roles": ["Director"]
             }
@@ -57980,6 +58031,482 @@
     
 
     ,
+    "john_keane" : {
+        "name": "John Keane",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Real Thing",
+                "roles": ["Max"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/john_keane/"
+    }
+    
+
+    ,
+    "helen_punt" : {
+        "name": "Helen Punt",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1991,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Real Thing",
+                "roles": ["Charlotte"]
+            }
+        
+            ,{
+                "title": "Epsom Downs",
+                "roles": ["Sharon / Miss Motrom / Horse Owner / Woman at the Beer Tent"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Witch"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/helen_punt/"
+    }
+    
+
+    ,
+    "linderay_irvine" : {
+        "name": "Linderay Irvine",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Real Thing",
+                "roles": ["Henry"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/linderay_irvine/"
+    }
+    
+
+    ,
+    "emma_hillman" : {
+        "name": "Emma Hillman",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Real Thing",
+                "roles": ["Annie"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/emma_hillman/"
+    }
+    
+
+    ,
+    "jo_ford" : {
+        "name": "Jo Ford",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Real Thing",
+                "roles": ["Debbie"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jo_ford/"
+    }
+    
+
+    ,
+    "nick_clark" : {
+        "name": "Nick Clark",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Real Thing",
+                "roles": ["Brodie","Director"]
+            }
+        
+            ,{
+                "title": "Epsom Downs",
+                "roles": ["The Derby / The Horseowner","Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nick_clark/"
+    }
+    
+
+    ,
+    "kate_gordon" : {
+        "name": "Kate Gordon",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Real Thing",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Epsom Downs",
+                "roles": ["Margaret / Bunny Girl"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/kate_gordon/"
+    }
+    
+
+    ,
+    "alan_salmon" : {
+        "name": "Alan Salmon",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Real Thing",
+                "roles": ["Sound"]
+            }
+        
+            ,{
+                "title": "Epsom Downs",
+                "roles": ["Sound"]
+            }
+        
+            ,{
+                "title": "The Fire Raisers",
+                "roles": ["Sound Engineer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alan_salmon/"
+    }
+    
+
+    ,
+    "helen_ferguson" : {
+        "name": "Helen Ferguson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Real Thing",
+                "roles": ["Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/helen_ferguson/"
+    }
+    
+
+    ,
+    "andrew_morrison" : {
+        "name": "Andrew Morrison",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Rev. Parris"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/andrew_morrison/"
+    }
+    
+
+    ,
+    "michelle_mason" : {
+        "name": "Michelle Mason",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Tituba"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/michelle_mason/"
+    }
+    
+
+    ,
+    "carmel_sher" : {
+        "name": "Carmel Sher",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Abigail Williams"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/carmel_sher/"
+    }
+    
+
+    ,
+    "judith_james" : {
+        "name": "Judith James",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Susanna Wallcott"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/judith_james/"
+    }
+    
+
+    ,
+    "barbara_inglin" : {
+        "name": "Barbara Inglin",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Ann Putnam"]
+            }
+        
+            ,{
+                "title": "The Fire Raisers",
+                "roles": ["Babette Biedermann"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/barbara_inglin/"
+    }
+    
+
+    ,
+    "phil_jarratt" : {
+        "name": "Phil Jarratt",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Thomas Putnam","Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/phil_jarratt/"
+    }
+    
+
+    ,
+    "rebecca_willetts" : {
+        "name": "Rebecca Willetts",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Mercy Lewis"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rebecca_willetts/"
+    }
+    
+
+    ,
+    "caroline_claxton" : {
+        "name": "Caroline Claxton",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Mary Warren"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/caroline_claxton/"
+    }
+    
+
+    ,
+    "rob_palmer" : {
+        "name": "Rob Palmer",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["John Proctor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rob_palmer/"
+    }
+    
+
+    ,
+    "ann_hawley" : {
+        "name": "Ann Hawley",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Rebecca Nurse"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ann_hawley/"
+    }
+    
+
+    ,
+    "phil_simmonds" : {
+        "name": "Phil Simmonds",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Giles Corey"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/phil_simmonds/"
+    }
+    
+
+    ,
+    "rob_rode" : {
+        "name": "Rob Rode",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Rev. John Hale"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rob_rode/"
+    }
+    
+
+    ,
     "lesley_jones" : {
         "name": "Lesley Jones",
         "type": "person",
@@ -57991,12 +58518,263 @@
         "award": [],
         "shows": [
             {
+                "title": "The Crucible",
+                "roles": ["Elizabeth Proctor"]
+            }
+        
+            ,{
+                "title": "Epsom Downs",
+                "roles": ["Primrose / Emaily Wilding Davison / Dorothy Delaune"]
+            }
+        
+            ,{
                 "title": "Macbeth",
                 "roles": ["Lady Macbeth"]
             }
         ],
         "committees": [],
         "link": "/people/lesley_jones/"
+    }
+    
+
+    ,
+    "adrian_gregory" : {
+        "name": "Adrian Gregory",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Francis Nurse"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/adrian_gregory/"
+    }
+    
+
+    ,
+    "mark_barrett" : {
+        "name": "Mark Barrett",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Ezekial Cheever"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/mark_barrett/"
+    }
+    
+
+    ,
+    "luke_freeman" : {
+        "name": "Luke Freeman",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Marshal Herrick"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/luke_freeman/"
+    }
+    
+
+    ,
+    "tim_buxton" : {
+        "name": "Tim Buxton",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Judge Hawthorn"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/tim_buxton/"
+    }
+    
+
+    ,
+    "simon_king" : {
+        "name": "Simon King",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Deputy-Gov. Danforth"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/simon_king/"
+    }
+    
+
+    ,
+    "susanna_shaw" : {
+        "name": "Susanna Shaw",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Sarah Good","A Salem Girl"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/susanna_shaw/"
+    }
+    
+
+    ,
+    "tricia_crofts" : {
+        "name": "Tricia Crofts",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Martha Corey","A Salem Girl"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/tricia_crofts/"
+    }
+    
+
+    ,
+    "judith_mercy" : {
+        "name": "Judith Mercy",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "The Fire Raisers",
+                "roles": ["Stage Manger"]
+            }
+        
+            ,{
+                "title": "The Dumbwaiter / The Room",
+                "roles": ["Sound"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/judith_mercy/"
+    }
+    
+
+    ,
+    "tom_denman" : {
+        "name": "Tom Denman",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Lighting"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/tom_denman/"
+    }
+    
+
+    ,
+    "angela_hockley" : {
+        "name": "Angela Hockley",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/angela_hockley/"
+    }
+    
+
+    ,
+    "trudie_stephens" : {
+        "name": "Trudie Stephens",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Sound"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/trudie_stephens/"
     }
     
 
@@ -58012,12 +58790,903 @@
         "award": [],
         "shows": [
             {
+                "title": "The Crucible",
+                "roles": ["Poster Design","Programme Design"]
+            }
+        
+            ,{
+                "title": "Kafka's Dick",
+                "roles": ["Father"]
+            }
+        
+            ,{
                 "title": "Macbeth",
                 "roles": ["Ross"]
             }
         ],
         "committees": [],
         "link": "/people/simon_heath/"
+    }
+    
+
+    ,
+    "andy_davies" : {
+        "name": "Andy Davies",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "Kafka's Dick",
+                "roles": ["Kafka"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/andy_davies/"
+    }
+    
+
+    ,
+    "william_blackburn" : {
+        "name": "William Blackburn",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "Kafka's Dick",
+                "roles": ["Brod"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/william_blackburn/"
+    }
+    
+
+    ,
+    "hazel_dunderdale" : {
+        "name": "Hazel Dunderdale",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "Kafka's Dick",
+                "roles": ["Linda"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/hazel_dunderdale/"
+    }
+    
+
+    ,
+    "mark_nelson" : {
+        "name": "Mark Nelson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "Kafka's Dick",
+                "roles": ["Sydney"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/mark_nelson/"
+    }
+    
+
+    ,
+    "david_amstel" : {
+        "name": "David Amstel",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "Kafka's Dick",
+                "roles": ["Hermann K"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/david_amstel/"
+    }
+    
+
+    ,
+    "manon_amirkhanian" : {
+        "name": "Manon Amirkhanian",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "Kafka's Dick",
+                "roles": ["Julie"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/manon_amirkhanian/"
+    }
+    
+
+    ,
+    "ruth_lewis" : {
+        "name": "Ruth Lewis",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "Kafka's Dick",
+                "roles": ["Director","Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ruth_lewis/"
+    }
+    
+
+    ,
+    "donna_longman" : {
+        "name": "Donna Longman",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "Kafka's Dick",
+                "roles": ["Lighting"]
+            }
+        
+            ,{
+                "title": "Epsom Downs",
+                "roles": ["Lighting"]
+            }
+        
+            ,{
+                "title": "The Fire Raisers",
+                "roles": ["Lighting Engineer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/donna_longman/"
+    }
+    
+
+    ,
+    "jonathan_hughes" : {
+        "name": "Jonathan Hughes",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "Kafka's Dick",
+                "roles": ["Posters"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jonathan_hughes/"
+    }
+    
+
+    ,
+    "heather_reid" : {
+        "name": "Heather Reid",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "Kafka's Dick",
+                "roles": ["Tortoise"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/heather_reid/"
+    }
+    
+
+    ,
+    "cathy_hawkins" : {
+        "name": "Cathy Hawkins",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1989,
+        "award": [],
+        "shows": [
+            {
+                "title": "Kafka's Dick",
+                "roles": ["Tortoise"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/cathy_hawkins/"
+    }
+    
+
+    ,
+    "jonathan_keane" : {
+        "name": "Jonathan Keane",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "Epsom Downs",
+                "roles": ["Bobby / Jocks / Jubilee Chicken Trader"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jonathan_keane/"
+    }
+    
+
+    ,
+    "ian_hawkins" : {
+        "name": "Ian Hawkins",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "Epsom Downs",
+                "roles": ["Sandy / The Aga Khan / Les / Horse Owner / Beer Tent Drunk"]
+            }
+        
+            ,{
+                "title": "The Dumbwaiter / The Room",
+                "roles": ["Ben (The Dumbwaiter)"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ian_hawkins/"
+    }
+    
+
+    ,
+    "rob_bradly" : {
+        "name": "Rob Bradly",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "Epsom Downs",
+                "roles": ["Charles Pearce / Mack / Morry / Horse / The Course"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rob_bradly/"
+    }
+    
+
+    ,
+    "russ_hobson" : {
+        "name": "Russ Hobson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "Epsom Downs",
+                "roles": ["Supt Blue / Down and Out Man / Grandpa / Louis"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/russ_hobson/"
+    }
+    
+
+    ,
+    "ed_donald" : {
+        "name": "Ed Donald",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "Epsom Downs",
+                "roles": ["Mr Tillotson / Hugh / Jockey / Policeman / Kermit Frog Trader"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ed_donald/"
+    }
+    
+
+    ,
+    "shelagh_roberts" : {
+        "name": "Shelagh Roberts",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "Epsom Downs",
+                "roles": ["Minty"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/shelagh_roberts/"
+    }
+    
+
+    ,
+    "lindesay_irbine" : {
+        "name": "Lindesay Irbine",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "Epsom Downs",
+                "roles": ["Lord Rack / Roger Coyle / Stable Lad / Bud"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lindesay_irbine/"
+    }
+    
+
+    ,
+    "tasmin_pickard" : {
+        "name": "Tasmin Pickard",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "Epsom Downs",
+                "roles": ["Sweet Woman / Beer Tent Drunk"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/tasmin_pickard/"
+    }
+    
+
+    ,
+    "mareike_von_spreckelsen" : {
+        "name": "Mareike Von Spreckelsen",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "Epsom Downs",
+                "roles": ["Posters"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/mareike_von_spreckelsen/"
+    }
+    
+
+    ,
+    "kim_stephenson" : {
+        "name": "Kim Stephenson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "Epsom Downs",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/kim_stephenson/"
+    }
+    
+
+    ,
+    "daniel_monaghan" : {
+        "name": "Daniel Monaghan",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "Epsom Downs",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/daniel_monaghan/"
+    }
+    
+
+    ,
+    "alex_graves" : {
+        "name": "Alex Graves",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "Epsom Downs",
+                "roles": ["Programme","Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alex_graves/"
+    }
+    
+
+    ,
+    "matthew_hayes" : {
+        "name": "Matthew Hayes",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Fire Raisers",
+                "roles": ["Gottleib Biedermann"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/matthew_hayes/"
+    }
+    
+
+    ,
+    "paul_casey" : {
+        "name": "Paul Casey",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Fire Raisers",
+                "roles": ["Fireman 1","Policeman"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/paul_casey/"
+    }
+    
+
+    ,
+    "sheila_callaghan" : {
+        "name": "Sheila Callaghan",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Fire Raisers",
+                "roles": ["Fireman 3"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sheila_callaghan/"
+    }
+    
+
+    ,
+    "lucy_chappel" : {
+        "name": "Lucy Chappel",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Fire Raisers",
+                "roles": ["Anna"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lucy_chappel/"
+    }
+    
+
+    ,
+    "james_winter" : {
+        "name": "James Winter",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Fire Raisers",
+                "roles": ["Schmitz"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/james_winter/"
+    }
+    
+
+    ,
+    "russel_hobson" : {
+        "name": "Russel Hobson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Fire Raisers",
+                "roles": ["Eisenring"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/russel_hobson/"
+    }
+    
+
+    ,
+    "marion_bates" : {
+        "name": "Marion Bates",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Fire Raisers",
+                "roles": ["Frau Knechtling"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/marion_bates/"
+    }
+    
+
+    ,
+    "gavin_mcguffie" : {
+        "name": "Gavin McGuffie",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Fire Raisers",
+                "roles": ["Ph.D","Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "The Dumbwaiter / The Room",
+                "roles": ["Lighting"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/gavin_mcguffie/"
+    }
+    
+
+    ,
+    "hussein_ali" : {
+        "name": "Hussein Ali",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Fire Raisers",
+                "roles": ["Musical Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/hussein_ali/"
+    }
+    
+
+    ,
+    "miranda_white" : {
+        "name": "Miranda White",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Fire Raisers",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/miranda_white/"
+    }
+    
+
+    ,
+    "dan_korn" : {
+        "name": "Dan Korn",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Dumbwaiter / The Room",
+                "roles": ["Gus (The Dumbwaiter)"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/dan_korn/"
+    }
+    
+
+    ,
+    "isabel_scott_plumber" : {
+        "name": "Isabel Scott Plumber",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Dumbwaiter / The Room",
+                "roles": ["Rose (The Room)"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/isabel_scott_plumber/"
+    }
+    
+
+    ,
+    "matthew_f_hayes" : {
+        "name": "Matthew F. Hayes",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Dumbwaiter / The Room",
+                "roles": ["Bert (The Room)","Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/matthew_f_hayes/"
+    }
+    
+
+    ,
+    "sean_mitchell" : {
+        "name": "Sean Mitchell",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Dumbwaiter / The Room",
+                "roles": ["Mr. Kidd (The Room)"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sean_mitchell/"
+    }
+    
+
+    ,
+    "eddie_harper" : {
+        "name": "Eddie Harper",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Dumbwaiter / The Room",
+                "roles": ["Mr. Sands (The Room)"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/eddie_harper/"
+    }
+    
+
+    ,
+    "gerrie_haws" : {
+        "name": "Gerrie Haws",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Dumbwaiter / The Room",
+                "roles": ["Mrs. Sands (The Room)"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/gerrie_haws/"
+    }
+    
+
+    ,
+    "alan_levy" : {
+        "name": "Alan Levy",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Dumbwaiter / The Room",
+                "roles": ["Riley (The Room)"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alan_levy/"
+    }
+    
+
+    ,
+    "catherine_howard" : {
+        "name": "Catherine Howard",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Dumbwaiter / The Room",
+                "roles": ["Sound"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/catherine_howard/"
     }
     
 
@@ -58039,27 +59708,6 @@
         ],
         "committees": [],
         "link": "/people/jon_keane/"
-    }
-    
-
-    ,
-    "helen_punt" : {
-        "name": "Helen Punt",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1991,
-        "award": [],
-        "shows": [
-            {
-                "title": "Macbeth",
-                "roles": ["Witch"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/helen_punt/"
     }
     
 
