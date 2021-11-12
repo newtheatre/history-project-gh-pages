@@ -17160,6 +17160,11 @@
             }
         
             ,{
+                "title": "A Clockwork Orange",
+                "roles": ["Lighting, Sound and Computer Effects"]
+            }
+        
+            ,{
                 "title": "The Fall of the House of Usher",
                 "roles": ["Sound Designer"]
             }
@@ -25323,6 +25328,11 @@
             ,{
                 "title": "Rosencrantz and Guildenstern Are Dead",
                 "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "A Clockwork Orange",
+                "roles": ["Lighting, Sound and Computer Effects"]
             }
         
             ,{
@@ -34736,6 +34746,106 @@
         "award": [],
         "shows": [
             {
+                "title": "4.48 Psychosis",
+                "roles": ["Lighting Technician"]
+            }
+        
+            ,{
+                "title": "House of Bernada Alba",
+                "roles": ["Lighting Technician"]
+            }
+        
+            ,{
+                "title": "Lysistrata",
+                "roles": ["Lighting Technician"]
+            }
+        
+            ,{
+                "title": "Bouncers & Shakers",
+                "roles": ["Lighting Technician"]
+            }
+        
+            ,{
+                "title": "No Exit",
+                "roles": ["Lighting Technician"]
+            }
+        
+            ,{
+                "title": "7 Minutes 31",
+                "roles": ["Lighting Technician"]
+            }
+        
+            ,{
+                "title": "Under the Blacklight",
+                "roles": ["Lighting Technician"]
+            }
+        
+            ,{
+                "title": "Disco Pigs",
+                "roles": ["Lighting & Sound Technician"]
+            }
+        
+            ,{
+                "title": "After Miss Julie",
+                "roles": ["Lighting & Sound Technician"]
+            }
+        
+            ,{
+                "title": "Half a Heartbeat",
+                "roles": ["Lighting & Sound Technician"]
+            }
+        
+            ,{
+                "title": "The Dragon Botherers",
+                "roles": ["Lighting & Sound Technician"]
+            }
+        
+            ,{
+                "title": "The Third Condiment",
+                "roles": ["Lighting & Sound Technician"]
+            }
+        
+            ,{
+                "title": "The Crucible",
+                "roles": ["Lighting Technician"]
+            }
+        
+            ,{
+                "title": "A Perfect Ganesh",
+                "roles": ["Lighting & Sound Technician"]
+            }
+        
+            ,{
+                "title": "A Clockwork Orange",
+                "roles": ["Lighting, Sound and Computer Effects"]
+            }
+        
+            ,{
+                "title": "Nowhere Warm",
+                "roles": ["Lighting & Sound Technician"]
+            }
+        
+            ,{
+                "title": "Offending the Audience",
+                "roles": ["Lighting & Sound Technician"]
+            }
+        
+            ,{
+                "title": "Nature's Pretenders",
+                "roles": ["Lighting Designer","Sound Designer"]
+            }
+        
+            ,{
+                "title": "Habeas Corpus",
+                "roles": ["Lighting & Sound Technician","Publicity"]
+            }
+        
+            ,{
+                "title": "The Sieve Never Leaks",
+                "roles": ["Lighting & Sound Technician","Publicity"]
+            }
+        
+            ,{
                 "title": "A Day In The Life",
                 "roles": ["Technical Team"]
             }
@@ -68658,6 +68768,48 @@
         ],
         "committees": [],
         "link": "/people/natalie_barclay/"
+    }
+    
+
+    ,
+    "phil_geller" : {
+        "name": "Phil Geller",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2009,
+        "award": [],
+        "shows": [
+            {
+                "title": "A Clockwork Orange",
+                "roles": ["Lighting, Sound and Computer Effects"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/phil_geller/"
+    }
+    
+
+    ,
+    "alex_newell" : {
+        "name": "Alex Newell",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2009,
+        "award": [],
+        "shows": [
+            {
+                "title": "A Clockwork Orange",
+                "roles": ["Lighting, Sound and Computer Effects"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alex_newell/"
     }
     
 
