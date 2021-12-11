@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2021-12-11 12:28.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2021-12-11 19:56.*
 
 
 
@@ -53,7 +53,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Jessica Hutchings](https://history.newtheatre.org.uk/people/jessica_hutchings/)
 - [ ] [Jo Harris](https://history.newtheatre.org.uk/people/jo_harris/)
 - [ ] [John Haseler](https://history.newtheatre.org.uk/people/john_haseler/)
-- [ ] [John Schwiller](https://history.newtheatre.org.uk/people/john_schwiller/)
+- [x] [John Schwiller](https://history.newtheatre.org.uk/people/john_schwiller/)
 - [x] [Jon Davison](https://history.newtheatre.org.uk/people/jon_davison/)
 - [x] [Jonathan Taylor Davies](https://history.newtheatre.org.uk/people/jonathan_taylor_davies/)
 - [x] [Joseph Heil](https://history.newtheatre.org.uk/people/joseph_heil/)
@@ -62,7 +62,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Kathryn Feavers](https://history.newtheatre.org.uk/people/kathryn_feavers/)
 - [ ] [Kevin Sullivan](https://history.newtheatre.org.uk/people/kevin_sullivan/)
 - [ ] [Kurban Kassam](https://history.newtheatre.org.uk/people/kurban_kassam/)
-- [ ] [Laura Finckh](https://history.newtheatre.org.uk/people/laura_finckh/)
+- [x] [Laura Finckh](https://history.newtheatre.org.uk/people/laura_finckh/)
 - [x] [Lawrence Bolton](https://history.newtheatre.org.uk/people/lawrence_bolton/)
 - [x] [Lucien Jack](https://history.newtheatre.org.uk/people/lucien_jack/)
 - [ ] [Margaret Clark](https://history.newtheatre.org.uk/people/margaret_clark/)

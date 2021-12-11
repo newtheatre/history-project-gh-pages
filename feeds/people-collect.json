@@ -6613,7 +6613,7 @@
         "shows": [
             {
                 "title": "Journey's End",
-                "roles": ["Lighting Designer"]
+                "roles": ["Lighting Operator"]
             }
         
             ,{
@@ -7242,6 +7242,11 @@
             ,{
                 "title": "Oedipus Rex",
                 "roles": ["Music"]
+            }
+        
+            ,{
+                "title": "Tango",
+                "roles": ["Arthur"]
             }
         
             ,{
@@ -12987,6 +12992,11 @@
                 "title": "Vatzlav",
                 "roles": [null,"Director"]
             }
+        
+            ,{
+                "title": "Tango",
+                "roles": ["Director"]
+            }
         ],
         "committees": [],
         "link": "/people/frank_ward/"
@@ -16074,7 +16084,7 @@
         
             ,{
                 "title": "Edward II",
-                "roles": ["Shadow Technical Director"]
+                "roles": ["Assistant Technical Director"]
             }
         
             ,{
@@ -19914,7 +19924,7 @@
         "type": "person",
         "excerpt": "After leaving uni in 76 I went into rep at Leatherhead as an electrician/Lighting Designer, continuing the pyromania on the panto and almost burning down the theatre. I then joined CCT Theatre Lighting where I spent 10yrs as Technical Director, designing lighting equipment as seen in Abba’s “Super Trouper”, Human...",
         "bio": "After leaving uni in 76 I went into rep at Leatherhead as an electrician/Lighting Designer, continuing the pyromania on the panto and almost burning down the theatre.\n\nI then joined CCT Theatre Lighting where I spent 10yrs as Technical Director, designing lighting equipment as seen in Abba’s “Super Trouper”, Human League’s “Don’t You Want Me”, “Cats”, a Joe Jackson tour and much of the first fit out of the National Theatre.\n\nI continued to light shows such as Stephen Poliakoff’s “American Days” at the ICA with Antony Sher, Toyah, Phil Daniels and Mel Smith; Michael Meyer’s “Lunatic and Lover” at The Old Red Lion with Miles Anderson and Jonathan Kydd; and a Tom Robinson tour which included 2-4-6-8 Motorway which gave me the idea for another sheetmetal patent for rotating the gobos used to project the four numbers.\n\nThen I left the biz in 86 and became an Engineering and Management Consultant, eventually at Logica for 18yrs. Finally I went into software QA with Jive. Most recently in my semi-retirement I’ve been fighting Brexit.\n",
-        
+        "poster_thumb_tag": "<a href='/people/john_schwiller/'><img src='https://photos.smugmug.com/photos/i-MWHhXbK/0/140x140!/i-MWHhXbK-140x140!.jpg' class='search-result-poster-thumb' alt='John Schwiller' /></a>",
         "course": ["Physics"],
         "graduated": 1976,
         "award": [],
@@ -19925,13 +19935,18 @@
             }
         
             ,{
-                "title": "The Threepenny Opera",
-                "roles": ["Construction"]
+                "title": "Tango",
+                "roles": ["Set Designer","Set Builder","Stage Manager"]
             }
         
             ,{
-                "title": "Iolanthe",
-                "roles": ["Set Design"]
+                "title": "The Threepenny Opera",
+                "roles": ["Stage Manager","Construction"]
+            }
+        
+            ,{
+                "title": "Journey's End",
+                "roles": ["Stage Manager and Pyrotechnician"]
             }
         ],
         "committees": [],
@@ -19958,11 +19973,6 @@
             ,{
                 "title": "Serjeant Musgrave's Dance",
                 "roles": ["Private Attercliffe"]
-            }
-        
-            ,{
-                "title": "Tango",
-                "roles": ["Arthur"]
             }
         
             ,{
@@ -22069,7 +22079,7 @@
         "type": "person",
         "excerpt": "\n",
         "bio": "\n",
-        
+        "poster_thumb_tag": "<a href='/people/laura_finckh/'><img src='https://photos.smugmug.com/photos/i-J82XcNR/0/140x140!/i-J82XcNR-140x140!.png' class='search-result-poster-thumb' alt='Laura Finckh' /></a>",
         "course": ["International Literatures BA"],
         "graduated": 2019,
         "award": [],
@@ -30060,48 +30070,12 @@
     
 
     ,
-    "paul_kerensa" : {
-        "name": "Paul Kerensa",
-        "type": "person",
-        "excerpt": "Since Graduating, Paul has gone on to have an extensive career in both Television and Radio. His Writing credits include the BBC sitcoms Not Going Out and Miranda, and he is a regular contributor to BBC Radio 2’s Pause for Thought. Paul has won numerous awards for both his writing...",
-        "bio": "Since Graduating, Paul has gone on to have an extensive career in both Television and Radio. His Writing credits include the BBC sitcoms Not Going Out and Miranda, and he is a regular contributor to BBC Radio 2’s Pause for Thought. Paul has won numerous awards for both his writing and performing, including ITV’s Take The Mike stand-up award, A British Comedy Award for Miranda and a BAFTA also for Miranda. Paul is a regular up at the Edinburgh Fringe, and performs at both comedy clubs and churches.\n",
-        "poster_thumb_tag": "<a href='/people/paul_kerensa/'><img src='https://photos.smugmug.com/photos/i-dwxQCCF/0/140x140!/i-dwxQCCF-140x140!.jpg' class='search-result-poster-thumb' alt='Paul Kerensa' /></a>",
-        "course": null,
-        "graduated": 2000,
-        "award": [],
-        "shows": [
-            {
-                "title": "Little Shop of Horrors",
-                "roles": ["Orin the Dentist"]
-            }
-        
-            ,{
-                "title": "12 Angry Men",
-                "roles": ["Juror No 10"]
-            }
-        
-            ,{
-                "title": "Tom Jones",
-                "roles": ["Squire Western"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1999-00",
-                "roles": ["Secretary"]
-            }
-        ],
-        "link": "/people/paul_kerensa/"
-    }
-    
-
-    ,
     "paul_young" : {
         "name": "Paul Young",
         "type": "person",
-        "excerpt": "\n",
-        "bio": "\n",
-        
+        "excerpt": "Since Graduating, Paul has gone on to have an extensive career in both Television and Radio. His Writing credits include the BBC sitcoms Not Going Out and Miranda, and he is a regular contributor to BBC Radio 2’s Pause for Thought. Paul has won numerous awards for both his writing...",
+        "bio": "Since Graduating, Paul has gone on to have an extensive career in both Television and Radio. His Writing credits include the BBC sitcoms Not Going Out and Miranda, and he is a regular contributor to BBC Radio 2’s Pause for Thought. Paul has won numerous awards for both his writing and performing, including ITV’s Take The Mike stand-up award, A British Comedy Award for Miranda and a BAFTA also for Miranda. Paul is a regular up at the Edinburgh Fringe, and performs at both comedy clubs and churches.\n",
+        "poster_thumb_tag": "<a href='/people/paul_young/'><img src='https://photos.smugmug.com/photos/i-dwxQCCF/0/140x140!/i-dwxQCCF-140x140!.jpg' class='search-result-poster-thumb' alt='Paul Young' /></a>",
         "course": null,
         "graduated": 2000,
         "award": [],
@@ -30114,6 +30088,11 @@
             ,{
                 "title": "The Last Supper",
                 "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Lenton Boulevard",
+                "roles": ["Director","Writer"]
             }
         
             ,{
@@ -38283,6 +38262,11 @@
         "award": [],
         "shows": [
             {
+                "title": "Lenton Boulevard",
+                "roles": ["unknown"]
+            }
+        
+            ,{
                 "title": "In Bed With Sue Lawley",
                 "roles": ["Joe Devivre"]
             }
@@ -38320,7 +38304,7 @@
         "shows": [
             {
                 "title": "Lenton Boulevard",
-                "roles": ["Director","Producer","Writer"]
+                "roles": ["Producer"]
             }
         
             ,{
@@ -40933,6 +40917,42 @@
             }
         ],
         "link": "/people/john_wordsworth/"
+    }
+    
+
+    ,
+    "paul_kerensa" : {
+        "name": "Paul Kerensa",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2000,
+        "award": [],
+        "shows": [
+            {
+                "title": "Little Shop of Horrors",
+                "roles": ["Orin the Dentist"]
+            }
+        
+            ,{
+                "title": "12 Angry Men",
+                "roles": ["Juror No 10"]
+            }
+        
+            ,{
+                "title": "Tom Jones",
+                "roles": ["Squire Western"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1999-00",
+                "roles": ["Secretary"]
+            }
+        ],
+        "link": "/people/paul_kerensa/"
     }
     
 
@@ -51468,6 +51488,11 @@
                 "title": "Inherit the Wind",
                 "roles": ["Properties"]
             }
+        
+            ,{
+                "title": "The Threepenny Opera",
+                "roles": ["Assistant Director"]
+            }
         ],
         "committees": [],
         "link": "/people/lesley_foxton/"
@@ -51690,8 +51715,8 @@
     
 
     ,
-    "louise_tate" : {
-        "name": "Louise Tate",
+    "louise_tatt" : {
+        "name": "Louise Tatt",
         "type": "person",
         "excerpt": "",
         "bio": "",
@@ -51706,7 +51731,7 @@
             }
         ],
         "committees": [],
-        "link": "/people/louise_tate/"
+        "link": "/people/louise_tatt/"
     }
     
 
@@ -52004,74 +52029,6 @@
     
 
     ,
-    "lesley_foxtow" : {
-        "name": "Lesley Foxtow",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1975,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Threepenny Opera",
-                "roles": ["Assistant Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/lesley_foxtow/"
-    }
-    
-
-    ,
-    "jenny_tiriamani" : {
-        "name": "Jenny Tiriamani",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1976,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Threepenny Opera",
-                "roles": ["Designer"]
-            }
-        
-            ,{
-                "title": "The Possessed",
-                "roles": ["Set Designer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/jenny_tiriamani/"
-    }
-    
-
-    ,
-    "joan_schwiller" : {
-        "name": "Joan Schwiller",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1975,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Threepenny Opera",
-                "roles": ["Stage Manager"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/joan_schwiller/"
-    }
-    
-
-    ,
     "andrews_varoent" : {
         "name": "Andrews Varoent",
         "type": "person",
@@ -52163,12 +52120,17 @@
         "bio": "",
         
         "course": null,
-        "graduated": 1975,
+        "graduated": 1976,
         "award": [],
         "shows": [
             {
                 "title": "The Threepenny Opera",
-                "roles": ["Construction","Lighting"]
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Journey's End",
+                "roles": ["Lighting Designer"]
             }
         ],
         "committees": [],
@@ -53728,6 +53690,27 @@
         ],
         "committees": [],
         "link": "/people/penn_smith/"
+    }
+    
+
+    ,
+    "jenny_tiriamani" : {
+        "name": "Jenny Tiriamani",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1976,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Possessed",
+                "roles": ["Set Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jenny_tiriamani/"
     }
     
 
@@ -63269,6 +63252,74 @@
     
 
     ,
+    "eva_mcgovern" : {
+        "name": "Eva McGovern",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2000,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lenton Boulevard",
+                "roles": ["unknown"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/eva_mcgovern/"
+    }
+    
+
+    ,
+    "toby_brack" : {
+        "name": "Toby Brack",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2003,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lenton Boulevard",
+                "roles": ["unknown"]
+            }
+        
+            ,{
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["Mike"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/toby_brack/"
+    }
+    
+
+    ,
+    "charli_keefe" : {
+        "name": "Charli Keefe",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2000,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lenton Boulevard",
+                "roles": ["unknown"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/charli_keefe/"
+    }
+    
+
+    ,
     "james_law" : {
         "name": "James Law",
         "type": "person",
@@ -67506,27 +67557,6 @@
         ],
         "committees": [],
         "link": "/people/mike_dawe/"
-    }
-    
-
-    ,
-    "toby_brack" : {
-        "name": "Toby Brack",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2003,
-        "award": [],
-        "shows": [
-            {
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["Mike"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/toby_brack/"
     }
     
 
