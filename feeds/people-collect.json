@@ -916,6 +916,42 @@
     
 
     ,
+    "alexandra_turner" : {
+        "name": "Alexandra Turner",
+        "type": "person",
+        "excerpt": "Primary school teacher. Married another Nottingham student and had two children. Still involved in amateur performing arts, usually as performer, but often as MD, director, committee member: brass bands, church choirs, operas, musicals, vocal groups and cabarets. Hugely enthusiastic about performing arts in my school!\n",
+        "bio": "Primary school teacher. Married another Nottingham student and had two children. Still involved in amateur performing arts, usually as performer, but often as MD, director, committee member: brass bands, church choirs, operas, musicals, vocal groups and cabarets. Hugely enthusiastic about performing arts in my school!\n",
+        
+        "course": ["French Studies"],
+        "graduated": 2004,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Homecoming",
+                "roles": ["Producer","Props and Costumes"]
+            }
+        
+            ,{
+                "title": "Cabaret",
+                "roles": ["Band"]
+            }
+        
+            ,{
+                "title": "Let My People Go",
+                "roles": ["Musical Director"]
+            }
+        
+            ,{
+                "title": "Age Concern",
+                "roles": ["Coordinator"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alexandra_turner/"
+    }
+    
+
+    ,
     "alfie_cranmer" : {
         "name": "Alfie Cranmer",
         "type": "person",
@@ -2278,6 +2314,27 @@
         ],
         "committees": [],
         "link": "/people/anna_wheatley/"
+    }
+    
+
+    ,
+    "annabel_byrom" : {
+        "name": "Annabel Byrom",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": ["Philosophy, Politics and Economics"],
+        "graduated": 1997,
+        "award": [],
+        "shows": [
+            {
+                "title": "In House Shows Cancelled due to Covid-19",
+                "roles": ["James"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/annabel_byrom/"
     }
     
 
@@ -10209,10 +10266,10 @@
     "ellie_roberts" : {
         "name": "Ellie Roberts",
         "type": "person",
-        "excerpt": "\n",
-        "bio": "\n",
+        "excerpt": "I once hid under a pile of decking for a committee game of hide ‘n’ seek. Don’t do it. It was really dusty and I didn’t even win.\n",
+        "bio": "I once hid under a pile of decking for a committee game of hide ‘n’ seek. Don’t do it. It was really dusty and I didn’t even win.\n",
         "poster_thumb_tag": "<a href='/people/ellie_roberts/'><img src='https://photos.smugmug.com/photos/i-RdJSvFw/0/140x140!/i-RdJSvFw-140x140!.jpg' class='search-result-poster-thumb' alt='Ellie Roberts' /></a>",
-        "course": ["English BA"],
+        "course": ["BA English"],
         "graduated": 2020,
         "award": [],
         "shows": [
@@ -12509,6 +12566,22 @@
     
 
     ,
+    "florence_avis" : {
+        "name": "Florence Avis",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": ["English BA"],
+        "graduated": 2021,
+        "award": [],
+        "shows": [],
+        "committees": [],
+        "link": "/people/florence_avis/"
+    }
+    
+
+    ,
     "florence_bell" : {
         "name": "Florence Bell",
         "type": "person",
@@ -13096,6 +13169,67 @@
         ],
         "committees": [],
         "link": "/people/geethika_ayilliath/"
+    }
+    
+
+    ,
+    "gemma_robinson" : {
+        "name": "Gemma Robinson",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": ["English Studies"],
+        "graduated": 1997,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Bear",
+                "roles": ["Elena"]
+            }
+        
+            ,{
+                "title": "Arcadia",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "A Midsummer Night's Dream",
+                "roles": ["Quince"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Anarchist",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Birthday Party",
+                "roles": ["Lulu"]
+            }
+        
+            ,{
+                "title": "Twelfth Night",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Mad Forest",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Top Girls",
+                "roles": ["Marlene"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1996-97",
+                "roles": ["President"]
+            }
+        ],
+        "link": "/people/gemma_robinson/"
     }
     
 
@@ -16265,10 +16399,10 @@
     "jack_linley" : {
         "name": "Jack Linley",
         "type": "person",
-        "excerpt": "\n",
-        "bio": "\n",
+        "excerpt": "It was good while it lasted.\n",
+        "bio": "It was good while it lasted.\n",
         "poster_thumb_tag": "<a href='/people/jack_linley/'><img src='https://photos.smugmug.com/photos/i-BdPwJdw/0/140x140!/i-BdPwJdw-140x140!.jpg' class='search-result-poster-thumb' alt='Jack Linley' /></a>",
-        "course": null,
+        "course": ["Economics and International Economics BSc","Economics MSc"],
         "graduated": null,
         "award": [],
         "shows": [
@@ -19775,6 +19909,37 @@
     
 
     ,
+    "john_schwiller" : {
+        "name": "John Schwiller",
+        "type": "person",
+        "excerpt": "After leaving uni in 76 I went into rep at Leatherhead as an electrician/Lighting Designer, continuing the pyromania on the panto and almost burning down the theatre. I then joined CCT Theatre Lighting where I spent 10yrs as Technical Director, designing lighting equipment as seen in Abba’s “Super Trouper”, Human...",
+        "bio": "After leaving uni in 76 I went into rep at Leatherhead as an electrician/Lighting Designer, continuing the pyromania on the panto and almost burning down the theatre.\n\nI then joined CCT Theatre Lighting where I spent 10yrs as Technical Director, designing lighting equipment as seen in Abba’s “Super Trouper”, Human League’s “Don’t You Want Me”, “Cats”, a Joe Jackson tour and much of the first fit out of the National Theatre.\n\nI continued to light shows such as Stephen Poliakoff’s “American Days” at the ICA with Antony Sher, Toyah, Phil Daniels and Mel Smith; Michael Meyer’s “Lunatic and Lover” at The Old Red Lion with Miles Anderson and Jonathan Kydd; and a Tom Robinson tour which included 2-4-6-8 Motorway which gave me the idea for another sheetmetal patent for rotating the gobos used to project the four numbers.\n\nThen I left the biz in 86 and became an Engineering and Management Consultant, eventually at Logica for 18yrs. Finally I went into software QA with Jive. Most recently in my semi-retirement I’ve been fighting Brexit.\n",
+        
+        "course": ["Physics"],
+        "graduated": 1976,
+        "award": [],
+        "shows": [
+            {
+                "title": "Serjeant Musgrave's Dance",
+                "roles": ["Set Construction"]
+            }
+        
+            ,{
+                "title": "The Threepenny Opera",
+                "roles": ["Construction"]
+            }
+        
+            ,{
+                "title": "Iolanthe",
+                "roles": ["Set Design"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/john_schwiller/"
+    }
+    
+
+    ,
     "john_thewlis" : {
         "name": "John Thewlis",
         "type": "person",
@@ -21895,6 +22060,57 @@
         ],
         "committees": [],
         "link": "/people/laura_cremona/"
+    }
+    
+
+    ,
+    "laura_finckh" : {
+        "name": "Laura Finckh",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": ["International Literatures BA"],
+        "graduated": 2019,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "The Beauty Queen Of Leenane",
+                "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "Super Hero Inc.: Phase One of the NNT Theatrical Universe",
+                "roles": ["Slo-Mo"]
+            }
+        
+            ,{
+                "title": "Glassy Ceiling, Concrete Flaw",
+                "roles": ["Mr. Knutson"]
+            }
+        
+            ,{
+                "title": "When I Watch You, I Like to Leave the Sound Off",
+                "roles": ["Assistant Poster Designer"]
+            }
+        
+            ,{
+                "title": "Forgetfulness Therapy",
+                "roles": ["Doctor Walshe"]
+            }
+        
+            ,{
+                "title": "Nothing To See Here",
+                "roles": ["Techie (Tech Goblin)","Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/laura_finckh/"
     }
     
 
@@ -33935,6 +34151,52 @@
     
 
     ,
+    "simon_thompson" : {
+        "name": "Simon Thompson",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": ["French with Film Studies"],
+        "graduated": 2008,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Trial",
+                "roles": ["Guard / Bailiff"]
+            }
+        
+            ,{
+                "title": "Blood Wedding",
+                "roles": ["Woodcutter 1"]
+            }
+        
+            ,{
+                "title": "The Slippery Soapbox",
+                "roles": ["Graham / Leotard Man"]
+            }
+        
+            ,{
+                "title": "Death of a Salesman",
+                "roles": ["Stanley"]
+            }
+        
+            ,{
+                "title": "The Crucible",
+                "roles": ["Deputy Governor Danforth"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2007-08",
+                "roles": ["External Events Coordinator"]
+            }
+        ],
+        "link": "/people/simon_thompson/"
+    }
+    
+
+    ,
     "skylar_turnbull_hurd" : {
         "name": "Skylar Turnbull Hurd",
         "type": "person",
@@ -34381,7 +34643,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/sophie_walton/'><img src='https://photos.smugmug.com/photos/i-6FBDCL9/0/140x140!/i-6FBDCL9-140x140!.jpg' class='search-result-poster-thumb' alt='Sophie Walton' /></a>",
-        "course": null,
+        "course": ["Psychology"],
         "graduated": 2018,
         "award": "Commendation",
         "shows": [
@@ -49871,37 +50133,6 @@
     
 
     ,
-    "john_schwiller" : {
-        "name": "John Schwiller",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1977,
-        "award": [],
-        "shows": [
-            {
-                "title": "Serjeant Musgrave's Dance",
-                "roles": ["Set Construction"]
-            }
-        
-            ,{
-                "title": "The Threepenny Opera",
-                "roles": ["Construction"]
-            }
-        
-            ,{
-                "title": "Iolanthe",
-                "roles": ["Set Design"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/john_schwiller/"
-    }
-    
-
-    ,
     "mike_russell" : {
         "name": "Mike Russell",
         "type": "person",
@@ -61811,42 +62042,6 @@
     
 
     ,
-    "gemma_robinson" : {
-        "name": "Gemma Robinson",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1997,
-        "award": [],
-        "shows": [
-            {
-                "title": "Arcadia",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Accidental Death of an Anarchist",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Twelfth Night",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Mad Forest",
-                "roles": ["Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/gemma_robinson/"
-    }
-    
-
-    ,
     "cathy_ayton" : {
         "name": "Cathy Ayton",
         "type": "person",
@@ -65123,37 +65318,6 @@
         ],
         "committees": [],
         "link": "/people/george_perrett/"
-    }
-    
-
-    ,
-    "alexandra_turner" : {
-        "name": "Alexandra Turner",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2002,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Homecoming",
-                "roles": ["Producer","Props and Costumes"]
-            }
-        
-            ,{
-                "title": "Let My People Go",
-                "roles": ["Musical Director"]
-            }
-        
-            ,{
-                "title": "Age Concern",
-                "roles": ["Coordinator"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/alexandra_turner/"
     }
     
 
@@ -68626,27 +68790,6 @@
         ],
         "committees": [],
         "link": "/people/andy_slater/"
-    }
-    
-
-    ,
-    "simon_thompson" : {
-        "name": "Simon Thompson",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2005,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Trial",
-                "roles": ["Guard / Bailiff"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/simon_thompson/"
     }
     
 
@@ -90069,57 +90212,6 @@
     
 
     ,
-    "laura_finckh" : {
-        "name": "Laura Finckh",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2019,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "The Beauty Queen Of Leenane",
-                "roles": ["Assistant Director"]
-            }
-        
-            ,{
-                "title": "Super Hero Inc.: Phase One of the NNT Theatrical Universe",
-                "roles": ["Slo-Mo"]
-            }
-        
-            ,{
-                "title": "Glassy Ceiling, Concrete Flaw",
-                "roles": ["Mr. Knutson"]
-            }
-        
-            ,{
-                "title": "When I Watch You, I Like to Leave the Sound Off",
-                "roles": ["Assistant Poster Designer"]
-            }
-        
-            ,{
-                "title": "Forgetfulness Therapy",
-                "roles": ["Doctor Walshe"]
-            }
-        
-            ,{
-                "title": "Nothing To See Here",
-                "roles": ["Techie (Tech Goblin)","Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/laura_finckh/"
-    }
-    
-
-    ,
     "jake_gausden" : {
         "name": "Jake Gausden",
         "type": "person",
@@ -93811,27 +93903,6 @@
         ],
         "committees": [],
         "link": "/people/hannah_odriscoll/"
-    }
-    
-
-    ,
-    "annabel_byrom" : {
-        "name": "Annabel Byrom",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "In House Shows Cancelled due to Covid-19",
-                "roles": ["James"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/annabel_byrom/"
     }
     
 
