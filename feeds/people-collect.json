@@ -1154,6 +1154,31 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Director","Make-up & Hair Assistant"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Far Apart",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Speaking Solo",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Sadness"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Actor 4"]
+            }
         ],
         "committees": [
             {
@@ -1229,6 +1254,11 @@
             ,{
                 "title": "Edward II",
                 "roles": ["Stagehand"]
+            }
+        
+            ,{
+                "title": "faces.",
+                "roles": ["Producer"]
             }
         ],
         "committees": [],
@@ -2934,6 +2964,21 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Set Designer"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "What Could Be Worse Than Jumping?",
+                "roles": ["Video Editor"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Actor 1"]
+            }
         ],
         "committees": [
             {
@@ -4348,6 +4393,16 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Producer"]
             }
+        
+            ,{
+                "title": "Autumn Showers",
+                "roles": ["Creative Assistant"]
+            }
+        
+            ,{
+                "title": "What Could Be Worse Than Jumping?",
+                "roles": ["Co-Director","Producer"]
+            }
         ],
         "committees": [],
         "link": "/people/beth_white/"
@@ -4544,6 +4599,11 @@
             ,{
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Taff"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Creative Assistant"]
             }
         ],
         "committees": [
@@ -4860,6 +4920,36 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["M Multirole","Sound Designer","Poster Designer","Meme Supplier"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Executive Producer","Director"]
+            }
+        
+            ,{
+                "title": "Hello World",
+                "roles": ["Graphic Designer","Poster Designer"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Video Editor"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Sound Editor and Designer"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Co-Director"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Actor 2","Director"]
+            }
         ],
         "committees": [
             {
@@ -4950,6 +5040,21 @@
             ,{
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "It's Not Rocket Science",
+                "roles": ["Female Multi-Role"]
             }
         ],
         "committees": [
@@ -5501,6 +5606,36 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Lighting Designer","Director"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "What Could Be Worse Than Jumping?",
+                "roles": ["Captioner"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Co-Director"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Co-Ordinator / Reviewer","Editor"]
+            }
+        
+            ,{
+                "title": "It's Not Rocket Science",
+                "roles": ["Director"]
+            }
         ],
         "committees": [
             {
@@ -5644,6 +5779,31 @@
                 "title": "Incognito",
                 "roles": ["Make-up Assistant"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Autumn Showers",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Flinty"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Creative Assistant"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Actor 3"]
+            }
         ],
         "committees": [
             {
@@ -5684,6 +5844,11 @@
             ,{
                 "title": "All My Sons",
                 "roles": ["Bert"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Vernon / Committee 2","Director"]
             }
         ],
         "committees": [],
@@ -6046,6 +6211,11 @@
             ,{
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Production Assistant"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
             }
         ],
         "committees": [],
@@ -7508,6 +7678,11 @@
             ,{
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "What Could Be Worse Than Jumping?",
+                "roles": ["The Doctor / Tikhon"]
             }
         ],
         "committees": [],
@@ -9700,6 +9875,11 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Harry"]
             }
+        
+            ,{
+                "title": "faces.",
+                "roles": ["Narrator 4"]
+            }
         ],
         "committees": [],
         "link": "/people/eleanor_rickenbach/"
@@ -9868,6 +10048,21 @@
             ,{
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "faces.",
+                "roles": ["Narrator 2"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Publicity Manager"]
             }
         ],
         "committees": [
@@ -10256,6 +10451,16 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Heidi Howard"]
             }
+        
+            ,{
+                "title": "What Could Be Worse Than Jumping?",
+                "roles": ["Video Editor"]
+            }
+        
+            ,{
+                "title": "Speaking Solo",
+                "roles": ["Writer"]
+            }
         ],
         "committees": [
             {
@@ -10419,6 +10624,21 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Alistair","Publicity Assistant"]
             }
+        
+            ,{
+                "title": "Far Apart",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "faces.",
+                "roles": ["Narrator 3"]
+            }
+        
+            ,{
+                "title": "Speaking Solo",
+                "roles": ["Producer"]
+            }
         ],
         "committees": [
             {
@@ -10464,6 +10684,11 @@
             ,{
                 "title": "All My Sons",
                 "roles": ["Ann Deever"]
+            }
+        
+            ,{
+                "title": "Speaking Solo",
+                "roles": ["Writer"]
             }
         ],
         "committees": [],
@@ -11209,6 +11434,16 @@
             ,{
                 "title": "Vincent River",
                 "roles": ["Technical Operator"]
+            }
+        
+            ,{
+                "title": "Autumn Showers",
+                "roles": ["Captioner"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Captioner"]
             }
         ],
         "committees": [
@@ -13058,6 +13293,16 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Lisa"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Alice"]
+            }
         ],
         "committees": [
             {
@@ -13644,6 +13889,16 @@
             ,{
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Far Apart",
+                "roles": ["Cal"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Happiness"]
             }
         ],
         "committees": [],
@@ -15160,6 +15415,31 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Kiki/ Terri"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "Madhouse",
+                "roles": ["Producer"]
+            }
         ],
         "committees": [
             {
@@ -15644,6 +15924,11 @@
             {
                 "title": "Edward II",
                 "roles": ["Isabella"]
+            }
+        
+            ,{
+                "title": "It's Not Rocket Science",
+                "roles": ["Eve"]
             }
         ],
         "committees": [],
@@ -16516,6 +16801,26 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Lighting Designer"]
             }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Jasper"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Speaking Solo",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Anger"]
+            }
         ],
         "committees": [
             {
@@ -16622,6 +16927,16 @@
             ,{
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Artie"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Poster Designer / Narrator"]
             }
         ],
         "committees": [],
@@ -16876,6 +17191,16 @@
             ,{
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Narrator V.O."]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Mason"]
             }
         ],
         "committees": [
@@ -18899,6 +19224,11 @@
                 "title": "Celebration",
                 "roles": ["Prue"]
             }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Nervousness"]
+            }
         ],
         "committees": [],
         "link": "/people/jessica_staplehurst/"
@@ -19312,6 +19642,11 @@
             ,{
                 "title": "Celebration",
                 "roles": ["Matt"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
             }
         ],
         "committees": [],
@@ -21462,6 +21797,26 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Maggie"]
             }
+        
+            ,{
+                "title": "Autumn Showers",
+                "roles": ["Sofia 1"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Chrissy"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Love"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Lucy"]
+            }
         ],
         "committees": [],
         "link": "/people/katie_booth/"
@@ -21544,6 +21899,11 @@
             {
                 "title": "La Casa de Bernarda Alba",
                 "roles": ["Adela"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
             }
         ],
         "committees": [],
@@ -22961,6 +23321,21 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Producer"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Far Apart",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "faces.",
+                "roles": ["Publicity Assistant"]
+            }
         ],
         "committees": [],
         "link": "/people/libby_horobin/"
@@ -23158,6 +23533,11 @@
             ,{
                 "title": "Kiss my neck not my lips",
                 "roles": ["Lydia"]
+            }
+        
+            ,{
+                "title": "Autumn Showers",
+                "roles": ["Sofia 2"]
             }
         ],
         "committees": [],
@@ -23925,6 +24305,11 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Jeremy"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
         ],
         "committees": [],
         "link": "/people/louise_tallon/"
@@ -24098,6 +24483,11 @@
             ,{
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Adam"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
             }
         ],
         "committees": [],
@@ -26425,7 +26815,7 @@
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/megan_peace/'><img src='https://photos.smugmug.com/photos/i-9wB89rD/0/140x140!/i-9wB89rD-140x140!.jpg' class='search-result-poster-thumb' alt='Megan Peace' /></a>",
         "course": null,
-        "graduated": 2019,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -26436,6 +26826,16 @@
             ,{
                 "title": "Doctor Faustus",
                 "roles": ["Wrath / Melchizedek"]
+            }
+        
+            ,{
+                "title": "Autumn Showers",
+                "roles": ["Katherine"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Mac"]
             }
         ],
         "committees": [],
@@ -27317,6 +27717,26 @@
             ,{
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Producer","Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Envy"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Sophie's Mum","Producer"]
             }
         ],
         "committees": [
@@ -28362,6 +28782,21 @@
             ,{
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Chris","Technical Director"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Match One"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Nick Baslehamn","Director"]
             }
         ],
         "committees": [
@@ -29537,6 +29972,21 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Stage Manager"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Hello World",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Publicity"]
+            }
         ],
         "committees": [],
         "link": "/people/oliver_binns/"
@@ -29884,6 +30334,21 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Pyrrhus"]
             }
+        
+            ,{
+                "title": "What Could Be Worse Than Jumping?",
+                "roles": ["Co-Director"]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["News Reporter"]
+            }
+        
+            ,{
+                "title": "Madhouse",
+                "roles": ["Ollie"]
+            }
         ],
         "committees": [],
         "link": "/people/olly_oregan/"
@@ -30170,6 +30635,26 @@
             ,{
                 "title": "La Casa de Bernarda Alba",
                 "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Assistant Director","Poster Designer"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Piig"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Actor 5","Poster / Thumbnail Designer"]
+            }
+        
+            ,{
+                "title": "Madhouse",
+                "roles": ["Goose"]
             }
         ],
         "committees": [
@@ -30685,6 +31170,11 @@
                 "title": "La Casa de Bernarda Alba",
                 "roles": ["Angustias"]
             }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Creative Assistant"]
+            }
         ],
         "committees": [
             {
@@ -30954,6 +31444,31 @@
             ,{
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["F Multirole"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Sally"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Interviewer / Multi-Role"]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Tech Company Representative"]
+            }
+        
+            ,{
+                "title": "Madhouse",
+                "roles": ["Lisa"]
             }
         ],
         "committees": [
@@ -31577,6 +32092,11 @@
             ,{
                 "title": "All My Sons",
                 "roles": ["Joe Keller"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
             }
         ],
         "committees": [],
@@ -32288,6 +32808,11 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Reegan","GN Multirole"]
             }
+        
+            ,{
+                "title": "Far Apart",
+                "roles": ["Video Editor"]
+            }
         ],
         "committees": [],
         "link": "/people/rose_edgeworth/"
@@ -32523,6 +33048,11 @@
             ,{
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Troy"]
+            }
+        
+            ,{
+                "title": "faces.",
+                "roles": ["Director"]
             }
         ],
         "committees": [],
@@ -34290,6 +34820,31 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Evelyn","Assistant Sound Designer"]
             }
+        
+            ,{
+                "title": "Hello World",
+                "roles": ["Captioner","Video Editor"]
+            }
+        
+            ,{
+                "title": "Far Apart",
+                "roles": ["Poster Designer","Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Assistant Video Editor","Graphics Designer"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Assistant Editor"]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Poster Designer"]
+            }
         ],
         "committees": [
             {
@@ -34346,6 +34901,11 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Make-up & Hair Assistant"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
         ],
         "committees": [
             {
@@ -34386,6 +34946,11 @@
             ,{
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
             }
         ],
         "committees": [
@@ -35256,6 +35821,21 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Video Designer","Sound Designer","Foyer Lighting Design"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "faces.",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Captioner"]
+            }
         ],
         "committees": [
             {
@@ -35413,6 +35993,11 @@
             ,{
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Ed"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Fiona"]
             }
         ],
         "committees": [],
@@ -38010,6 +38595,16 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Lighting Designer","Publicity Assistant"]
             }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Captioner"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Graphic Designer","Trailer Editor"]
+            }
         ],
         "committees": [
             {
@@ -40074,6 +40669,31 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Director","Poster Designer"]
             }
+        
+            ,{
+                "title": "Autumn Showers",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Laura"]
+            }
+        
+            ,{
+                "title": "What Could Be Worse Than Jumping?",
+                "roles": ["Katherine Compert"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Speaking Solo",
+                "roles": ["Actor","Graphics"]
+            }
         ],
         "committees": [
             {
@@ -40105,6 +40725,16 @@
                 "title": "Pilgrimage",
                 "roles": ["Max"]
             }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Match Three"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Visual Editor"]
+            }
         ],
         "committees": [
             {
@@ -40131,7 +40761,22 @@
         "course": null,
         "graduated": null,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Madhouse",
+                "roles": ["Director"]
+            }
+        ],
         "committees": [
             {
                 "title": "2021-22",
@@ -40152,7 +40797,27 @@
         "course": null,
         "graduated": null,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "It's Not Rocket Science",
+                "roles": ["Producer"]
+            }
+        ],
         "committees": [
             {
                 "title": "2021-22",
@@ -40173,7 +40838,27 @@
         "course": null,
         "graduated": null,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Harry"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Interviewer / Multi-Role"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Emotional Multi-Role"]
+            }
+        ],
         "committees": [
             {
                 "title": "2021-22",
@@ -40204,6 +40889,16 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Producer"]
             }
+        
+            ,{
+                "title": "Far Apart",
+                "roles": ["Video Editor"]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Co-Director"]
+            }
         ],
         "committees": [
             {
@@ -40225,7 +40920,22 @@
         "course": null,
         "graduated": null,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Hello World",
+                "roles": ["Video Editor","Graphic Designer"]
+            }
+        
+            ,{
+                "title": "Speaking Solo",
+                "roles": ["Editor"]
+            }
+        ],
         "committees": [
             {
                 "title": "2021-22",
@@ -40246,7 +40956,32 @@
         "course": null,
         "graduated": null,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Hello World",
+                "roles": ["Composer","Sound Designer"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "It's Not Rocket Science",
+                "roles": ["Technical Director"]
+            }
+        ],
         "committees": [
             {
                 "title": "2021-22",
@@ -40267,7 +41002,27 @@
         "course": null,
         "graduated": null,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Far Apart",
+                "roles": ["Andi"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Video Editor"]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Creative Assistant"]
+            }
+        ],
         "committees": [
             {
                 "title": "2021-22",
@@ -90564,6 +91319,11 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Stage Manager"]
             }
+        
+            ,{
+                "title": "What Could Be Worse Than Jumping?",
+                "roles": ["Publicity Assistant"]
+            }
         ],
         "committees": [],
         "link": "/people/abie_whitehead/"
@@ -91582,6 +92342,21 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Poster Designer","Publicity Assistant"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Sound Designer / Committee 1"]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Assistant Producer"]
+            }
         ],
         "committees": [],
         "link": "/people/laura_sherratt/"
@@ -91675,6 +92450,16 @@
             ,{
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "Hello World",
+                "roles": ["Creative Assistant"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Editor"]
             }
         ],
         "committees": [],
@@ -92031,12 +92816,17 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2019,
+        "graduated": null,
         "award": [],
         "shows": [
             {
                 "title": "Things I Know To Be True",
                 "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "Autumn Showers",
+                "roles": ["Shadow Producer"]
             }
         ],
         "committees": [],
@@ -92643,6 +93433,11 @@
                 "title": "Freshers' Fringe",
                 "roles": [null]
             }
+        
+            ,{
+                "title": "Autumn Showers",
+                "roles": ["Assistant Producer"]
+            }
         ],
         "committees": [],
         "link": "/people/lottie_wright/"
@@ -92787,6 +93582,11 @@
             ,{
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Gwen"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
             }
         ],
         "committees": [],
@@ -93282,6 +94082,11 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Sound Designer"]
             }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Sound Designer"]
+            }
         ],
         "committees": [],
         "link": "/people/jacob_dean/"
@@ -93317,6 +94122,26 @@
             ,{
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Autumn Showers",
+                "roles": ["Sound Designer","Video Editor"]
+            }
+        
+            ,{
+                "title": "faces.",
+                "roles": ["Assistant Video Editor"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Video Editor"]
             }
         ],
         "committees": [],
@@ -93616,6 +94441,11 @@
                 "title": "The Wonderful World of Dissocia",
                 "roles": ["Design Assistant (Puppets)"]
             }
+        
+            ,{
+                "title": "It's Not Rocket Science",
+                "roles": ["Creative Assistant"]
+            }
         ],
         "committees": [],
         "link": "/people/molly_symms/"
@@ -93726,6 +94556,31 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Technical Director","Sound Designer"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "faces.",
+                "roles": ["Video Editor"]
+            }
+        
+            ,{
+                "title": "What Could Be Worse Than Jumping?",
+                "roles": ["Video Editor"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Assistant Producer"]
+            }
         ],
         "committees": [],
         "link": "/people/jesse_rough/"
@@ -93745,6 +94600,11 @@
         "shows": [
             {
                 "title": "La Casa de Bernarda Alba",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
                 "roles": ["Shadow Director"]
             }
         ],
@@ -93909,6 +94769,11 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Dolores"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
         ],
         "committees": [],
         "link": "/people/anna_bulcock/"
@@ -93971,6 +94836,31 @@
             {
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Chorus Member"]
+            }
+        
+            ,{
+                "title": "Speaking Solo",
+                "roles": ["Writer"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Video Editor"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Editor"]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Alex Bradbury"]
+            }
+        
+            ,{
+                "title": "Madhouse",
+                "roles": ["Soniya"]
             }
         ],
         "committees": [],
@@ -94103,6 +94993,26 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Assistant Director"]
             }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Autumn Showers",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Speaking Solo",
+                "roles": ["Writer"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Shadow Producer"]
+            }
         ],
         "committees": [],
         "link": "/people/alexandra_hogg/"
@@ -94213,6 +95123,16 @@
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Assistant Director"]
             }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Co-Director"]
+            }
+        
+            ,{
+                "title": "It's Not Rocket Science",
+                "roles": ["Male Multi-Role"]
+            }
         ],
         "committees": [],
         "link": "/people/kishan_ganatra/"
@@ -94321,6 +95241,1342 @@
         ],
         "committees": [],
         "link": "/people/emily_cormack/"
+    }
+    
+
+    ,
+    "roni_altman" : {
+        "name": "Roni Altman",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/roni_altman/"
+    }
+    
+
+    ,
+    "amelia_hackett" : {
+        "name": "Amelia Hackett",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Hello World",
+                "roles": ["One"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/amelia_hackett/"
+    }
+    
+
+    ,
+    "sophie_walters" : {
+        "name": "Sophie Walters",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sophie_walters/"
+    }
+    
+
+    ,
+    "guilia_duggan" : {
+        "name": "Guilia Duggan",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/guilia_duggan/"
+    }
+    
+
+    ,
+    "harrison_hudson" : {
+        "name": "Harrison Hudson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/harrison_hudson/"
+    }
+    
+
+    ,
+    "mimi_clay" : {
+        "name": "Mimi Clay",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Hello World",
+                "roles": ["Zero"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/mimi_clay/"
+    }
+    
+
+    ,
+    "saajan_mann" : {
+        "name": "Saajan Mann",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/saajan_mann/"
+    }
+    
+
+    ,
+    "tom_stoney" : {
+        "name": "Tom Stoney",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/tom_stoney/"
+    }
+    
+
+    ,
+    "conor_waldock" : {
+        "name": "Conor Waldock",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/conor_waldock/"
+    }
+    
+
+    ,
+    "luci_dodd" : {
+        "name": "Luci Dodd",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/luci_dodd/"
+    }
+    
+
+    ,
+    "cigdem_celiker" : {
+        "name": "Cigdem Celiker",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/cigdem_celiker/"
+    }
+    
+
+    ,
+    "abraham_botha" : {
+        "name": "Abraham Botha",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Hello World",
+                "roles": ["Assistant Director","Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Publicity Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/abraham_botha/"
+    }
+    
+
+    ,
+    "megan_jackman" : {
+        "name": "Megan Jackman",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/megan_jackman/"
+    }
+    
+
+    ,
+    "rachel_allcock" : {
+        "name": "Rachel Allcock",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Sophie"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rachel_allcock/"
+    }
+    
+
+    ,
+    "talia_krais" : {
+        "name": "Talia Krais",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/talia_krais/"
+    }
+    
+
+    ,
+    "iain_messore" : {
+        "name": "Iain Messore",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/iain_messore/"
+    }
+    
+
+    ,
+    "maria_mcdonagh" : {
+        "name": "Maria Mcdonagh",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/maria_mcdonagh/"
+    }
+    
+
+    ,
+    "georgie_bullen" : {
+        "name": "Georgie Bullen",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/georgie_bullen/"
+    }
+    
+
+    ,
+    "isabel_johnson" : {
+        "name": "Isabel Johnson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Madhouse",
+                "roles": ["Annie"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/isabel_johnson/"
+    }
+    
+
+    ,
+    "alice_clapham" : {
+        "name": "Alice Clapham",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alice_clapham/"
+    }
+    
+
+    ,
+    "freya_howcutt" : {
+        "name": "Freya Howcutt",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/freya_howcutt/"
+    }
+    
+
+    ,
+    "daisy_miles" : {
+        "name": "Daisy Miles",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Sadie"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/daisy_miles/"
+    }
+    
+
+    ,
+    "sophie_lagden" : {
+        "name": "Sophie Lagden",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sophie_lagden/"
+    }
+    
+
+    ,
+    "amelia_fleming" : {
+        "name": "Amelia Fleming",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/amelia_fleming/"
+    }
+    
+
+    ,
+    "naomi_hallowell" : {
+        "name": "Naomi Hallowell",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/naomi_hallowell/"
+    }
+    
+
+    ,
+    "jeremy_grau" : {
+        "name": "Jeremy Grau",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jeremy_grau/"
+    }
+    
+
+    ,
+    "charlotte_armitage" : {
+        "name": "Charlotte Armitage",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/charlotte_armitage/"
+    }
+    
+
+    ,
+    "tom_taylor" : {
+        "name": "Tom Taylor",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/tom_taylor/"
+    }
+    
+
+    ,
+    "hatty_mcgrath" : {
+        "name": "Hatty McGrath",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/hatty_mcgrath/"
+    }
+    
+
+    ,
+    "priya_joshi" : {
+        "name": "Priya Joshi",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/priya_joshi/"
+    }
+    
+
+    ,
+    "victoria_inzari" : {
+        "name": "Victoria Inzari",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/victoria_inzari/"
+    }
+    
+
+    ,
+    "ella_seber_rajan" : {
+        "name": "Ella Seber Rajan",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ella_seber_rajan/"
+    }
+    
+
+    ,
+    "cheidza_mcnab" : {
+        "name": "Cheidza McNab",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/cheidza_mcnab/"
+    }
+    
+
+    ,
+    "nick_landon" : {
+        "name": "Nick Landon",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Hello World",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nick_landon/"
+    }
+    
+
+    ,
+    "mikey_flannery" : {
+        "name": "Mikey Flannery",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Far Apart",
+                "roles": ["Alex"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/mikey_flannery/"
+    }
+    
+
+    ,
+    "gabrielle_teriaca" : {
+        "name": "Gabrielle Teriaca",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Far Apart",
+                "roles": ["Assistant Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/gabrielle_teriaca/"
+    }
+    
+
+    ,
+    "izzy_de_bono" : {
+        "name": "Izzy De Bono",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Far Apart",
+                "roles": ["Creative Assistant","Captioner"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Publicity Assistant","Sound Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/izzy_de_bono/"
+    }
+    
+
+    ,
+    "lauren_brady" : {
+        "name": "Lauren Brady",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Autumn Showers",
+                "roles": ["Shadow Director","Video Editor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lauren_brady/"
+    }
+    
+
+    ,
+    "giulia_duggan" : {
+        "name": "Giulia Duggan",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Autumn Showers",
+                "roles": ["Creative Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/giulia_duggan/"
+    }
+    
+
+    ,
+    "james_fellas-laurie" : {
+        "name": "James Fellas-Laurie",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Familiar Strangers",
+                "roles": ["Match Two"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/james_fellas-laurie/"
+    }
+    
+
+    ,
+    "phoebe_marshall" : {
+        "name": "Phoebe Marshall",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Familiar Strangers",
+                "roles": ["Assistant Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/phoebe_marshall/"
+    }
+    
+
+    ,
+    "shayla_dimaano" : {
+        "name": "Shayla Dimaano",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Familiar Strangers",
+                "roles": ["Video Editor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/shayla_dimaano/"
+    }
+    
+
+    ,
+    "sam_osbourne" : {
+        "name": "Sam Osbourne",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Familiar Strangers",
+                "roles": ["Captioner"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sam_osbourne/"
+    }
+    
+
+    ,
+    "connor_waldock" : {
+        "name": "Connor Waldock",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Shadow Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/connor_waldock/"
+    }
+    
+
+    ,
+    "laura_garvin-gomez" : {
+        "name": "Laura Garvin-Gomez",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "faces.",
+                "roles": ["Narrator 1"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/laura_garvin-gomez/"
+    }
+    
+
+    ,
+    "joseph_holmes-milner" : {
+        "name": "Joseph Holmes-Milner",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "faces.",
+                "roles": ["Assistant Shadow Director","Dramaturg"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/joseph_holmes-milner/"
+    }
+    
+
+    ,
+    "nadia_elafi" : {
+        "name": "Nadia Elafi",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "faces.",
+                "roles": ["Creative Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nadia_elafi/"
+    }
+    
+
+    ,
+    "japneet_marataru" : {
+        "name": "Japneet Marataru",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "faces.",
+                "roles": ["Creative Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/japneet_marataru/"
+    }
+    
+
+    ,
+    "skylar_turbull_hurd" : {
+        "name": "Skylar Turbull Hurd",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "faces.",
+                "roles": ["Captioner"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/skylar_turbull_hurd/"
+    }
+    
+
+    ,
+    "charlie_catmur" : {
+        "name": "Charlie Catmur",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "What Could Be Worse Than Jumping?",
+                "roles": ["Nikolai Stavrogin"]
+            }
+        
+            ,{
+                "title": "Madhouse",
+                "roles": ["Billy"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/charlie_catmur/"
+    }
+    
+
+    ,
+    "holly_west" : {
+        "name": "Holly West",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "What Could Be Worse Than Jumping?",
+                "roles": ["Creative Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/holly_west/"
+    }
+    
+
+    ,
+    "raphael_chenais" : {
+        "name": "Raphael Chenais",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "What Could Be Worse Than Jumping?",
+                "roles": ["Original Music Composer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/raphael_chenais/"
+    }
+    
+
+    ,
+    "erin_verlaque" : {
+        "name": "Erin Verlaque",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Accelerate",
+                "roles": ["Shadow Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/erin_verlaque/"
+    }
+    
+
+    ,
+    "rosie_thackeray" : {
+        "name": "Rosie Thackeray",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Accelerate",
+                "roles": ["Script Editor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rosie_thackeray/"
+    }
+    
+
+    ,
+    "callum_james" : {
+        "name": "Callum James",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Accelerate",
+                "roles": ["Script Editor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/callum_james/"
+    }
+    
+
+    ,
+    "megan_smith" : {
+        "name": "Megan Smith",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Speaking Solo",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Government Official"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/megan_smith/"
+    }
+    
+
+    ,
+    "jakmes_eykyn" : {
+        "name": "Jakmes Eykyn",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Speaking Solo",
+                "roles": ["Actor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jakmes_eykyn/"
+    }
+    
+
+    ,
+    "geethika_ayiliath" : {
+        "name": "Geethika Ayiliath",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Speaking Solo",
+                "roles": ["Writer"]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Assistant Director","Publicity Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/geethika_ayiliath/"
+    }
+    
+
+    ,
+    "millie_hackett" : {
+        "name": "Millie Hackett",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Self-ish",
+                "roles": ["Shadow Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/millie_hackett/"
+    }
+    
+
+    ,
+    "melina_williams" : {
+        "name": "Melina Williams",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "2021",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/melina_williams/"
+    }
+    
+
+    ,
+    "patrick_richards" : {
+        "name": "Patrick Richards",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Madhouse",
+                "roles": ["Technical Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/patrick_richards/"
     }
     
 
