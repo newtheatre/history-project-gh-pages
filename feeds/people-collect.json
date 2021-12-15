@@ -26700,6 +26700,47 @@
     
 
     ,
+    "max_nichols" : {
+        "name": "Max Nichols",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/max_nichols/'><img src='https://photos.smugmug.com/photos/i-8XwJg7R/0/140x140!/i-8XwJg7R-140x140!.jpg' class='search-result-poster-thumb' alt='Max Nichols' /></a>",
+        "course": "BA Politics and International Relations",
+        "graduated": 2022,
+        "award": [],
+        "shows": [
+            {
+                "title": "Pilgrimage",
+                "roles": ["Max"]
+            }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Match Three"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Visual Editor"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2020-21",
+                "roles": ["IT Manager"]
+            }
+        
+            ,{
+                "title": "2021-22",
+                "roles": ["Treasurer"]
+            }
+        ],
+        "link": "/people/max_nichols/"
+    }
+    
+
+    ,
     "max_wyman" : {
         "name": "Max Wyman",
         "type": "person",
@@ -40707,47 +40748,6 @@
             }
         ],
         "link": "/people/ace_edwards/"
-    }
-    
-
-    ,
-    "max_nichols" : {
-        "name": "Max Nichols",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Pilgrimage",
-                "roles": ["Max"]
-            }
-        
-            ,{
-                "title": "Familiar Strangers",
-                "roles": ["Match Three"]
-            }
-        
-            ,{
-                "title": "Accelerate",
-                "roles": ["Visual Editor"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2020-21",
-                "roles": ["IT Manager"]
-            }
-        
-            ,{
-                "title": "2021-22",
-                "roles": ["Treasurer"]
-            }
-        ],
-        "link": "/people/max_nichols/"
     }
     
 
