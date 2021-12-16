@@ -17219,6 +17219,42 @@
     
 
     ,
+    "james_appleby" : {
+        "name": "James Appleby",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/james_appleby/'><img src='https://photos.smugmug.com/photos/i-pGVGNqL/0/140x140!/i-pGVGNqL-140x140!.jpg' class='search-result-poster-thumb' alt='James Appleby' /></a>",
+        "course": "MEng Mechanical Engineering",
+        "graduated": 2025,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Hello World",
+                "roles": ["Video Editor","Graphic Designer"]
+            }
+        
+            ,{
+                "title": "Speaking Solo",
+                "roles": ["Editor"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2021-22",
+                "roles": ["Technical Manager"]
+            }
+        ],
+        "link": "/people/james_appleby/"
+    }
+    
+
+    ,
     "james_bentley" : {
         "name": "James Bentley",
         "type": "person",
@@ -40907,42 +40943,6 @@
             }
         ],
         "link": "/people/jasmine_butler/"
-    }
-    
-
-    ,
-    "james_appleby" : {
-        "name": "James Appleby",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "Hello World",
-                "roles": ["Video Editor","Graphic Designer"]
-            }
-        
-            ,{
-                "title": "Speaking Solo",
-                "roles": ["Editor"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2021-22",
-                "roles": ["Technical Manager"]
-            }
-        ],
-        "link": "/people/james_appleby/"
     }
     
 
