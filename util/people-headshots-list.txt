@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2021-12-16 12:32.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2021-12-16 12:44.*
 
 
 
@@ -29,6 +29,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [Ellie Eagleton](https://history.newtheatre.org.uk/people/ellie_eagleton/)
 - [x] [Ellie Harding](https://history.newtheatre.org.uk/people/ellie_harding/)
 - [x] [Ellie Roberts](https://history.newtheatre.org.uk/people/ellie_roberts/)
+- [ ] [Eloise Dooley](https://history.newtheatre.org.uk/people/eloise_dooley/)
 - [ ] [Emily Medhurst](https://history.newtheatre.org.uk/people/emily_medhurst/)
 - [ ] [Emma Begg](https://history.newtheatre.org.uk/people/emma_begg/)
 - [ ] [Emma Dearden](https://history.newtheatre.org.uk/people/emma_dearden/)
@@ -65,6 +66,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [Laura Finckh](https://history.newtheatre.org.uk/people/laura_finckh/)
 - [x] [Lawrence Bolton](https://history.newtheatre.org.uk/people/lawrence_bolton/)
 - [x] [Lucien Jack](https://history.newtheatre.org.uk/people/lucien_jack/)
+- [ ] [Madeleine Craig](https://history.newtheatre.org.uk/people/madeleine_craig/)
 - [ ] [Margaret Clark](https://history.newtheatre.org.uk/people/margaret_clark/)
 - [x] [Mark Heywood](https://history.newtheatre.org.uk/people/mark_heywood/)
 - [ ] [Matt Wilks](https://history.newtheatre.org.uk/people/matt_wilks/)

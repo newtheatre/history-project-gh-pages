@@ -1684,8 +1684,8 @@
     "amy_naylor" : {
         "name": "Amy Naylor",
         "type": "person",
-        "excerpt": "\n",
-        "bio": "\n",
+        "excerpt": "Amy went on to complete an MPhil in Critical Approaches to Children’s Literature at the University of Cambridge in 2018. She is currently pursuing her PhD in English Literature at the University of Liverpool.\n",
+        "bio": "Amy went on to complete an MPhil in Critical Approaches to Children’s Literature at the University of Cambridge in 2018. She is currently pursuing her PhD in English Literature at the University of Liverpool.\n",
         "poster_thumb_tag": "<a href='/people/amy_naylor/'><img src='https://photos.smugmug.com/photos/i-L37kKzR/0/140x140!/i-L37kKzR-140x140!.jpg' class='search-result-poster-thumb' alt='Amy Naylor' /></a>",
         "course": ["English"],
         "graduated": 2017,
@@ -10576,6 +10576,42 @@
         "shows": [],
         "committees": [],
         "link": "/people/ellie_salter/"
+    }
+    
+
+    ,
+    "eloise_dooley" : {
+        "name": "Eloise Dooley",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": ["BA Hons Philosophy"],
+        "graduated": 1999,
+        "award": [],
+        "shows": [
+            {
+                "title": "Grant Meets Death",
+                "roles": ["Multirole B"]
+            }
+        
+            ,{
+                "title": "A Midsummer Night's Dream",
+                "roles": ["Lysander"]
+            }
+        
+            ,{
+                "title": "In House Shows Cancelled due to Covid-19",
+                "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "Fringe Shows Cancelled due to Covid-19",
+                "roles": ["Mermaid"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/eloise_dooley/"
     }
     
 
@@ -25300,6 +25336,42 @@
             }
         ],
         "link": "/people/maddy_strauss/"
+    }
+    
+
+    ,
+    "madeleine_craig" : {
+        "name": "Madeleine Craig",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": ["English"],
+        "graduated": 2023,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Madhouse",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2021-22",
+                "roles": ["Fringe Coordinator"]
+            }
+        ],
+        "link": "/people/madeleine_craig/"
     }
     
 
@@ -40784,42 +40856,6 @@
             }
         ],
         "link": "/people/ace_edwards/"
-    }
-    
-
-    ,
-    "madeleine_craig" : {
-        "name": "Madeleine Craig",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "Familiar Strangers",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Madhouse",
-                "roles": ["Director"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2021-22",
-                "roles": ["Fringe Coordinator"]
-            }
-        ],
-        "link": "/people/madeleine_craig/"
     }
     
 
@@ -92018,42 +92054,6 @@
         ],
         "committees": [],
         "link": "/people/naomi_james/"
-    }
-    
-
-    ,
-    "eloise_dooley" : {
-        "name": "Eloise Dooley",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Grant Meets Death",
-                "roles": ["Multirole B"]
-            }
-        
-            ,{
-                "title": "A Midsummer Night's Dream",
-                "roles": ["Lysander"]
-            }
-        
-            ,{
-                "title": "In House Shows Cancelled due to Covid-19",
-                "roles": ["Assistant Director"]
-            }
-        
-            ,{
-                "title": "Fringe Shows Cancelled due to Covid-19",
-                "roles": ["Mermaid"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/eloise_dooley/"
     }
     
 
