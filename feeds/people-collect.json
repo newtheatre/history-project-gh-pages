@@ -5695,9 +5695,9 @@
         "type": "person",
         "excerpt": "\n",
         "bio": "\n",
-        "poster_thumb_tag": "<a href='/people/charlie_basley/'><img src='https://photos.smugmug.com/photos/i-wPnQfmW/0/140x140!/i-wPnQfmW-140x140!.jpg' class='search-result-poster-thumb' alt='Charlie Basley' /></a>",
-        "course": ["American and Canadian Studies BA"],
-        "graduated": null,
+        "poster_thumb_tag": "<a href='/people/charlie_basley/'><img src='https://photos.smugmug.com/photos/i-mnjbCPZ/0/140x140!/i-mnjbCPZ-140x140!.jpg' class='search-result-poster-thumb' alt='Charlie Basley' /></a>",
+        "course": "BA American and Canadian Studies",
+        "graduated": 2022,
         "award": [],
         "shows": [
             {
