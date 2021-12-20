@@ -161,13 +161,79 @@
     
 
     ,
+    "ace_edwards" : {
+        "name": "Ace Edwards",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/ace_edwards/'><img src='https://photos.smugmug.com/photos/i-KnrqqB5/0/140x140!/i-KnrqqB5-140x140!.jpg' class='search-result-poster-thumb' alt='Ace Edwards' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "A Midsummer Night's Dream",
+                "roles": ["Snout"]
+            }
+        
+            ,{
+                "title": "Kiss my neck not my lips",
+                "roles": ["Hen"]
+            }
+        
+            ,{
+                "title": "In House Shows Cancelled due to Covid-19",
+                "roles": ["Director","Poster Designer"]
+            }
+        
+            ,{
+                "title": "Autumn Showers",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Laura"]
+            }
+        
+            ,{
+                "title": "What Could Be Worse Than Jumping?",
+                "roles": ["Katherine Compert"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Speaking Solo",
+                "roles": ["Actor","Graphics"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2020-21",
+                "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "2021-22",
+                "roles": ["Publicity Manager"]
+            }
+        ],
+        "link": "/people/ace_edwards/"
+    }
+    
+
+    ,
     "adam_collins" : {
         "name": "Adam Collins",
         "type": "person",
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/adam_collins/'><img src='https://photos.smugmug.com/photos/i-Xv6p64L/0/140x140!/i-Xv6p64L-140x140!.png' class='search-result-poster-thumb' alt='Adam Collins' /></a>",
-        "course": "History and Politics BA",
+        "course": "BA History and Politics",
         "graduated": 2020,
         "award": [],
         "shows": [
@@ -865,7 +931,7 @@
         "excerpt": "\n",
         "bio": "\n",
         
-        "course": ["Politics and International Relations BA"],
+        "course": ["BA Politics and International Relations"],
         "graduated": 2019,
         "award": [],
         "shows": [
@@ -1071,7 +1137,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/alice_walker/'><img src='https://photos.smugmug.com/photos/i-GTgk6cC/0/140x140!/i-GTgk6cC-140x140!.jpg' class='search-result-poster-thumb' alt='Alice Walker' /></a>",
-        "course": ["Ancient History and History BA"],
+        "course": ["BA Ancient History and History"],
         "graduated": null,
         "award": [],
         "shows": [
@@ -1540,7 +1606,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/amy_crighton/'><img src='https://photos.smugmug.com/photos/i-rVpF84k/0/140x140!/i-rVpF84k-140x140!.jpg' class='search-result-poster-thumb' alt='Amy Crighton' /></a>",
-        "course": ["English BA"],
+        "course": ["BA English"],
         "graduated": 2019,
         "award": [],
         "shows": [
@@ -2369,6 +2435,52 @@
     
 
     ,
+    "annamarie_schooling" : {
+        "name": "Annamarie Schooling",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/annamarie_schooling/'><img src='https://photos.smugmug.com/photos/i-T9Vxsx6/0/140x140!/i-T9Vxsx6-140x140!.jpg' class='search-result-poster-thumb' alt='Annamarie Schooling' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Hello World",
+                "roles": ["Composer","Sound Designer"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "The Show Must Go On(Line)",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "It's Not Rocket Science",
+                "roles": ["Technical Director"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2021-22",
+                "roles": ["Company Technical Director"]
+            }
+        ],
+        "link": "/people/annamarie_schooling/"
+    }
+    
+
+    ,
     "anneliese_mackintosh" : {
         "name": "Anneliese Mackintosh",
         "type": "person",
@@ -2896,7 +3008,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/barney_hartwill/'><img src='https://photos.smugmug.com/photos/i-NpcGhsG/0/140x140!/i-NpcGhsG-140x140!.jpg' class='search-result-poster-thumb' alt='Barney Hartwill' /></a>",
-        "course": ["Politics and International Relations BA"],
+        "course": ["BA Politics and International Relations"],
         "graduated": null,
         "award": [],
         "shows": [
@@ -3757,10 +3869,10 @@
     "ben_woodford" : {
         "name": "Ben Woodford",
         "type": "person",
-        "excerpt": "\n",
-        "bio": "\n",
+        "excerpt": "Getting involved with NNT was without a doubt the best decision I made at University. Being involved in such a rich and diverse number of shows in a number of different capacities allowed me to gain experience to pursue Technical Theatre after Uni. My year on committee was the best...",
+        "bio": "Getting involved with NNT was without a doubt the best decision I made at University. Being involved in such a rich and diverse number of shows in a number of different capacities allowed me to gain experience to pursue Technical Theatre after Uni.\n\nMy year on committee was the best year of my life so far. I made a number of lifelong friends and was involved with some of the best shows I’ve ever been a part of.\n\nSince graduating I’ve not been fully able to shake off NNT, and from time to time you’ll still find me back in the building fixing something or just being around and helpful.\n",
         "poster_thumb_tag": "<a href='/people/ben_woodford/'><img src='https://photos.smugmug.com/photos/i-cpDjp3Q/0/140x140!/i-cpDjp3Q-140x140!.jpg' class='search-result-poster-thumb' alt='Ben Woodford' /></a>",
-        "course": ["History BA"],
+        "course": ["BA History"],
         "graduated": 2018,
         "award": "Merit",
         "shows": [
@@ -4173,7 +4285,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/beth_mullen/'><img src='https://photos.smugmug.com/photos/i-sT7fj5J/0/140x140!/i-sT7fj5J-140x140!.jpg' class='search-result-poster-thumb' alt='Beth Mullen' /></a>",
-        "course": ["Economics","Behavioural Economics MSc"],
+        "course": ["BSc Economics","MSc Behavioural Economics"],
         "graduated": 2018,
         "award": "Merit",
         "shows": [
@@ -4416,7 +4528,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/beth_wilson/'><img src='https://photos.smugmug.com/photos/i-SjPG3Rg/0/140x140!/i-SjPG3Rg-140x140!.jpg' class='search-result-poster-thumb' alt='Beth Wilson' /></a>",
-        "course": ["English with Creative Writing BA","English Literature MA"],
+        "course": ["BA English with Creative Writing","MA English Literature"],
         "graduated": 2017,
         "award": [],
         "shows": [
@@ -4577,7 +4689,7 @@
         "excerpt": "I once ate a raw onion onstage as a joke that did not even get a laugh\n",
         "bio": "I once ate a raw onion onstage as a joke that did not even get a laugh\n",
         "poster_thumb_tag": "<a href='/people/bill_hayes/'><img src='https://photos.smugmug.com/photos/i-v3xZkm5/0/140x140!/i-v3xZkm5-140x140!.png' class='search-result-poster-thumb' alt='Bill Hayes' /></a>",
-        "course": ["Philosophy BA"],
+        "course": ["BA Philosophy"],
         "graduated": 2022,
         "award": [],
         "shows": [
@@ -5210,7 +5322,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/cameron_brett/'><img src='https://photos.smugmug.com/photos/i-qqVwd9j/0/140x140!/i-qqVwd9j-140x140!.jpg' class='search-result-poster-thumb' alt='Cameron Brett' /></a>",
-        "course": ["Modern European Studies BA"],
+        "course": ["BA Modern European Studies"],
         "graduated": null,
         "award": [],
         "shows": [
@@ -5311,7 +5423,7 @@
         "excerpt": "\n",
         "bio": "\n",
         
-        "course": ["English BA"],
+        "course": ["BA English"],
         "graduated": 2017,
         "award": [],
         "shows": [
@@ -5696,7 +5808,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/charlie_basley/'><img src='https://photos.smugmug.com/photos/i-mnjbCPZ/0/140x140!/i-mnjbCPZ-140x140!.jpg' class='search-result-poster-thumb' alt='Charlie Basley' /></a>",
-        "course": "BA American and Canadian Studies",
+        "course": ["BA American and Canadian Studies"],
         "graduated": 2022,
         "award": [],
         "shows": [
@@ -6098,7 +6210,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/charlotte_sanders/'><img src='https://photos.smugmug.com/photos/i-M9fTtmR/0/140x140!/i-M9fTtmR-140x140!.jpg' class='search-result-poster-thumb' alt='Charlotte Sanders' /></a>",
-        "course": ["Politics BA"],
+        "course": ["BA Politics"],
         "graduated": 2018,
         "award": "Merit",
         "shows": [
@@ -7127,7 +7239,7 @@
         "excerpt": "Doing the tech on Westside Story whilst at the same time being in the play!!!\n",
         "bio": "Doing the tech on Westside Story whilst at the same time being in the play!!!\n",
         
-        "course": ["History BA"],
+        "course": ["BA History"],
         "graduated": 1995,
         "award": [],
         "shows": [
@@ -7189,7 +7301,7 @@
         "excerpt": "\n",
         "bio": "\n",
         
-        "course": "Chemistry and Molecular Physics",
+        "course": ["Chemistry and Molecular Physics"],
         "graduated": 1997,
         "award": [],
         "shows": [
@@ -7548,7 +7660,7 @@
         "excerpt": "Since graduating, Chambers has worked with New Theatre friends Nick Ostler and Mark Huckerby to create ‘The Amazing Adrenalini Brothers!’, inspired from a New Theatre 1993 sketch show. The cartoon has seen international success since 2002 when it was picked up by Pesky Ltd. It features three brothers, Xan, Adi...",
         "bio": "Since graduating, Chambers has worked with New Theatre friends Nick Ostler and Mark Huckerby to create ‘The Amazing Adrenalini Brothers!’, inspired from a New Theatre 1993 sketch show. The cartoon has seen international success since 2002 when it was picked up by Pesky Ltd.\n\nIt features three brothers, Xan, Adi and Enk, who are from Rendoosia and take part in death-defying stunts in every episode with their catchphrase “Yahzaa!”. ‘The Amazing Adrenalini Brothers!’ won the Best Children’s Animation BAFTA in 2006.\n",
         
-        "course": "American Studies",
+        "course": ["American Studies"],
         "graduated": 1996,
         "award": [],
         "shows": [],
@@ -7888,7 +8000,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/daniel_morris/'><img src='https://photos.smugmug.com/photos/i-cxWKwjn/0/140x140!/i-cxWKwjn-140x140!.jpg' class='search-result-poster-thumb' alt='Daniel Morris' /></a>",
-        "course": ["Physics MSc"],
+        "course": ["MSci Physics"],
         "graduated": null,
         "award": [],
         "shows": [
@@ -9052,7 +9164,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/david_taylor/'><img src='https://photos.smugmug.com/photos/i-rb9QxRz/0/140x140!/i-rb9QxRz-140x140!.jpg' class='search-result-poster-thumb' alt='David Taylor' /></a>",
-        "course": ["Physics MSci"],
+        "course": ["MSci Physics"],
         "graduated": 2018,
         "award": "Commendation",
         "shows": [
@@ -9246,6 +9358,47 @@
         ],
         "committees": [],
         "link": "/people/deborah_kelani-afolabi/"
+    }
+    
+
+    ,
+    "demi_idowu" : {
+        "name": "Demi Idowu",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/demi_idowu/'><img src='https://photos.smugmug.com/photos/i-bNnbgFk/0/140x140!/i-bNnbgFk-140x140!.jpg' class='search-result-poster-thumb' alt='Demi Idowu' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Harry"]
+            }
+        
+            ,{
+                "title": "Accelerate",
+                "roles": ["Interviewer / Multi-Role"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Emotional Multi-Role"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2021-22",
+                "roles": ["Publicity Manager"]
+            }
+        ],
+        "link": "/people/demi_idowu/"
     }
     
 
@@ -9502,7 +9655,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/ed_eggleton/'><img src='https://photos.smugmug.com/photos/i-9JLrGSv/0/140x140!/i-9JLrGSv-140x140!.jpg' class='search-result-poster-thumb' alt='Ed Eggleton' /></a>",
-        "course": ["Philosophy BA"],
+        "course": ["BA Philosophy"],
         "graduated": 2018,
         "award": "Commendation",
         "shows": [
@@ -10367,7 +10520,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/ellie_eagleton/'><img src='https://photos.smugmug.com/photos/i-nQMvdXf/0/140x140!/i-nQMvdXf-140x140!.jpg' class='search-result-poster-thumb' alt='Ellie Eagleton' /></a>",
-        "course": ["English with Creative Writing BA"],
+        "course": ["BA English with Creative Writing"],
         "graduated": 2020,
         "award": [],
         "shows": [
@@ -11612,7 +11765,7 @@
         "excerpt": "\n",
         "bio": "\n",
         
-        "course": "History Skills",
+        "course": ["History Skills"],
         "graduated": 2013,
         "award": [],
         "shows": [
@@ -11886,7 +12039,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/emma_pallett/'><img src='https://photos.smugmug.com/photos/i-QKBLFbL/0/140x140!/i-QKBLFbL-140x140!.jpg' class='search-result-poster-thumb' alt='Emma Pallett' /></a>",
-        "course": ["English with Creative Writing BA"],
+        "course": ["BA English with Creative Writing"],
         "graduated": 2019,
         "award": [],
         "shows": [
@@ -11962,7 +12115,7 @@
         "excerpt": "As someone who had only ever intended to do tech…New Theatre gave me just about every other role I could imagine. After a chance e-mail sent to the members of Flute Group from Yichen Wu, the composer for Fu Baxter’s Clockwork Orange, I volunteered to play the flute in the...",
         "bio": "As someone who had only ever intended to do tech…New Theatre gave me just about every other role I could imagine. After a chance e-mail sent to the members of Flute Group from Yichen Wu, the composer for Fu Baxter’s Clockwork Orange, I volunteered to play the flute in the wings each night. After that, I couldn’t stay away. I played Molly in Female of the Species, Niobe in Love of the Nightingale, stage managed Blithe Spirit and Ghetto, directed a segment of Educating Rita for Freshers Fringe and….somehow ended up being the winner on the first night of Strictly Coming Stars in Your Eyes On Ice after being a backup dancer to my friend Lois singing Bad Romance! I loved every moment of my time with NT, the thrill of callbacks, waiting for casting phone calls that sometimes came and sometimes didn’t, all night get-ins, buying 30 worth of cheap plates to hurl off a ladder, learning how to use my comms, clambering over the box office in heels for an entrance, corpsing on stage, hiring a Schneiser gun and learning how to set it up, Opening Night Saveras, after parties, my first time in Ocean…even the dreaded PPB (Post Play Blues.) I miss it. I miss it all.\n\n",
         
-        "course": ["Modern Language Studies BA"],
+        "course": ["BA Modern Language Studies"],
         "graduated": 2012,
         "award": [],
         "shows": [
@@ -12292,7 +12445,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/eric_crouch/'><img src='https://photos.smugmug.com/photos/i-wL8NkcZ/0/140x140!/i-wL8NkcZ-140x140!.jpg' class='search-result-poster-thumb' alt='Eric Crouch' /></a>",
-        "course": ["Philosophy, Politics, and Economics BA"],
+        "course": ["BA Philosophy, Politics, and Economics"],
         "graduated": 2019,
         "award": [],
         "shows": [
@@ -12414,7 +12567,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/esther_townsend/'><img src='https://photos.smugmug.com/photos/i-4Rj7nDH/0/140x140!/i-4Rj7nDH-140x140!.png' class='search-result-poster-thumb' alt='Esther Townsend' /></a>",
-        "course": ["Sociology BA"],
+        "course": ["BA Sociology"],
         "graduated": null,
         "award": [],
         "shows": [
@@ -12574,7 +12727,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/felicity_chilver/'><img src='https://photos.smugmug.com/photos/i-6X263Mc/0/140x140!/i-6X263Mc-140x140!.jpg' class='search-result-poster-thumb' alt='Felicity Chilver' /></a>",
-        "course": ["English Literature MA"],
+        "course": ["MA English Literature"],
         "graduated": 2018,
         "award": "Fellowship",
         "shows": [
@@ -13281,7 +13434,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/gabriella_teriaca/'><img src='https://photos.smugmug.com/photos/i-FjvLpBn/0/140x140!/i-FjvLpBn-140x140!.jpg' class='search-result-poster-thumb' alt='Gabriella Teriaca' /></a>",
-        "course": ["Mathematics BSc"],
+        "course": ["BSc Mathematics"],
         "graduated": 2021,
         "award": [],
         "shows": [
@@ -13782,7 +13935,7 @@
         "excerpt": "\n",
         "bio": "\n",
         
-        "course": ["International Relations BA Hons"],
+        "course": ["BA (Hons) International Relations"],
         "graduated": 2018,
         "award": "Merit",
         "shows": [
@@ -14026,7 +14179,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/gigi_george/'><img src='https://photos.smugmug.com/photos/i-s4Kp5GN/0/140x140!/i-s4Kp5GN-140x140!.jpg' class='search-result-poster-thumb' alt='Gigi George' /></a>",
-        "course": ["English BA"],
+        "course": ["BA English"],
         "graduated": 2018,
         "award": "Merit",
         "shows": [
@@ -15242,7 +15395,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/harry_robertson/'><img src='https://photos.smugmug.com/photos/i-kC5wJPX/0/140x140!/i-kC5wJPX-140x140!.jpg' class='search-result-poster-thumb' alt='Harry Robertson' /></a>",
-        "course": ["English and Classical Civilisation BA (Hons)","Film, Screen and Television Industries MA"],
+        "course": ["BA English and Classical Civilisation","MA Film, Screen and Television Industries"],
         "graduated": 2017,
         "award": [],
         "shows": [
@@ -15979,7 +16132,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/iona_hampson/'><img src='https://photos.smugmug.com/photos/i-7bg8jk3/0/140x140!/i-7bg8jk3-140x140!.jpg' class='search-result-poster-thumb' alt='Iona Hampson' /></a>",
-        "course": ["Ancient History and History BA"],
+        "course": ["BA Ancient History and History"],
         "graduated": 2016,
         "award": [],
         "shows": [
@@ -16112,7 +16265,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/isabelle_cadwallader/'><img src='https://photos.smugmug.com/photos/i-bPfstmL/0/140x140!/i-bPfstmL-140x140!.jpg' class='search-result-poster-thumb' alt='Isabelle Cadwallader' /></a>",
-        "course": ["History BA"],
+        "course": ["BA History"],
         "graduated": 2019,
         "award": [],
         "shows": [
@@ -16274,7 +16427,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/izzy_de_bono/'><img src='https://photos.smugmug.com/photos/i-8gcGZcV/0/140x140!/i-8gcGZcV-140x140!.jpg' class='search-result-poster-thumb' alt='Izzy de Bono' /></a>",
-        "course": "Food Science",
+        "course": ["Food Science"],
         "graduated": null,
         "award": [],
         "shows": [
@@ -16471,7 +16624,7 @@
         "excerpt": "I took my time joining the NNT, properly doing so midway through second year. Thankfully I was doing a 4-year course, so I hadn’t wasted that much time not being there. I joined saying I’d do backstage stuff as a cover for when my acting wasn’t good enough for people...",
         "bio": "I took my time joining the NNT, properly doing so midway through second year.\nThankfully I was doing a 4-year course, so I hadn’t wasted that much time not being there.\nI joined saying I’d do backstage stuff as a cover for when my acting wasn’t good enough for people to want me to be in their shows.\n\nTurned out that was unnecessary.\n\n9 proper acting roles, and 2 voiceovers later, I’ve still managed to do a lot of backstage stuff; I was in charge of the workshop for 2 years (somehow), and instigated 2 changes to the name of the role, leaving me as hopefully the only Company Set Technician the NNT will ever have.\nI’ve put wheels on things, made a range cooker out of wood in about 3 hours with zero plan as to how to do it, and made little boxes that people shine torches through to display Facebook reacts.\nI’ve “fathered” a bunch of theatre freshers, and with three sketches doubled the number of sound cues in Freshers’ Fringe 2018.\nI’ve learned how to sound and video design from scratch.\nI’ve done more shows with a put-on accent than without.\nMore than any of that though I’ve met a lot of people along the way who I’ll always have time for.\n",
         "poster_thumb_tag": "<a href='/people/jack_ellis/'><img src='https://photos.smugmug.com/photos/i-dLq4fHz/0/140x140!/i-dLq4fHz-140x140!.jpg' class='search-result-poster-thumb' alt='Jack Ellis' /></a>",
-        "course": ["Computer Science MSc"],
+        "course": ["MSc Computer Science"],
         "graduated": 2019,
         "award": "Fellowship",
         "shows": [
@@ -17200,7 +17353,7 @@
         "excerpt": "When I started university, I didn’t really want to do theatre. Then I did a one-man show where I had to do full-frontal nudity so I couldn’t really leave after that.\n",
         "bio": "When I started university, I didn’t really want to do theatre. Then I did a one-man show where I had to do full-frontal nudity so I couldn’t really leave after that.\n",
         "poster_thumb_tag": "<a href='/people/jake_levy/'><img src='https://photos.smugmug.com/photos/i-MGMPXnV/0/140x140!/i-MGMPXnV-140x140!.jpg' class='search-result-poster-thumb' alt='Jake Levy' /></a>",
-        "course": ["Politics and International Relations BA"],
+        "course": ["BA Politics and International Relations"],
         "graduated": 2021,
         "award": [],
         "shows": [
@@ -17403,7 +17556,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/james_curling/'><img src='https://photos.smugmug.com/photos/i-W8ZHRJV/0/140x140!/i-W8ZHRJV-140x140!.jpg' class='search-result-poster-thumb' alt='James Curling' /></a>",
-        "course": ["Archaeology BA"],
+        "course": ["BA Archaeology"],
         "graduated": 2018,
         "award": "Fellowship",
         "shows": [
@@ -17906,10 +18059,10 @@
     "james_pheasey" : {
         "name": "James Pheasey",
         "type": "person",
-        "excerpt": "SU President (2019/2020)\n",
-        "bio": "SU President (2019/2020)\n",
+        "excerpt": "\n",
+        "bio": "\n",
         
-        "course": ["Philosophy BA","Philosophy MA"],
+        "course": ["BA Philosophy","MA Philosophy"],
         "graduated": 2019,
         "award": [],
         "shows": [
@@ -18554,6 +18707,47 @@
     
 
     ,
+    "jasmine_butler" : {
+        "name": "Jasmine Butler",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/jasmine_butler/'><img src='https://photos.smugmug.com/photos/i-Z2hHG7X/0/140x140!/i-Z2hHG7X-140x140!.jpg' class='search-result-poster-thumb' alt='Jasmine Butler' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Edward II",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "In House Shows Cancelled due to Covid-19",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Far Apart",
+                "roles": ["Video Editor"]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Co-Director"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2021-22",
+                "roles": ["Company Stage Manager"]
+            }
+        ],
+        "link": "/people/jasmine_butler/"
+    }
+    
+
+    ,
     "jason_lasky" : {
         "name": "Jason Lasky",
         "type": "person",
@@ -18690,7 +18884,7 @@
         "excerpt": "\n",
         "bio": "\n",
         
-        "course": ["Psychology BSc (Hons)"],
+        "course": ["BSc (Hons) Psychology"],
         "graduated": null,
         "award": [],
         "shows": [],
@@ -18732,7 +18926,7 @@
         "excerpt": "\n",
         "bio": "\n",
         
-        "course": ["Ancient History and History BA"],
+        "course": ["BA Ancient History and History"],
         "graduated": 2017,
         "award": [],
         "shows": [
@@ -18904,7 +19098,7 @@
         "excerpt": "I started working at the theatre in my first year of University in 2015 by, mostly, shadowing every role I could. However, I didn’t start getting fully involved until my adopted theatre mum Darcey (adopted because I didn’t do Freshers’ Fringe and only did backstage roles) sent me a message...",
         "bio": "I started working at the theatre in my first year of University in 2015 by, mostly, shadowing every role I could. However, I didn’t start getting fully involved until my adopted theatre mum Darcey (adopted because I didn’t do Freshers’ Fringe and only did backstage roles) sent me a message to the effect of “you might be interested in running for committee”. With her encouragement, I ran for Workshop Manager and was elected to the 16-17 committee. I was also lucky enough to be invited up to Edinburgh Festival Fringe 2016 with an external company made mostly of NNT members, Strickland Productions, a company I went on to work with for 3 Edinburgh runs.\n\nIn my time as Workshop Manager, I was responsible for helping to run the weekly get ins and get outs for both the In House and Fringe seasons, particularly regarding the set design/construction. As well as this, I helped to maintain the workshop equipment and train the membership in its usage.\n\nHowever, the main project that I undertook this year on committee was Unscripted. As committee, we decided we wanted to extend the role of the previously named drama club which ran an un-auditioned project to be a full devising troupe writing and performing our own scripts. I offered to take it on thinking that it would be a chill weekly session with a few other people. Cut to the winter holidays where we were writing a script for 17 actors with a 6 strong creative team of directors and writers. Camp Macbeth was an incredibly strong start to Unscripted’s lifespan and the ticket sales directly contributed to NNTs season charity. I’m so proud of running Camp Macbeth and Potential (the summer term Unscripted show) for the people it brought into the theatre as their first chance as a project and for what it then did for the NNT. Unscripted is making its way to being a third season alongside with In House and Fringe and has an entire committee position to help run it!\n\nIn my third year, I got involved with as many shows in as many different roles as I could, including a run of 5 different shows in 5 different roles in 5 weeks. Third year also saw my first (and only real) acting credit as the 9 year old child in A Doll’s House. Finally, being 5ft HAD helped me out, even if I did corpse my way through every single show. I also got the opportunity to produce Dirk Gently’s Holistic Detective Agency, a show that I thought about or worked on for just under a year and saw me on a production team with one of closest friends. Dirk was a purposefully silly time and I loved literally every second of working on it.\n\nI couldn’t quite let Uni and NNT go and so in my MSc year I worked on numerous more shows including directing Adult Child/Dead Child and producing The Seagull (a show which, again, I worked on with an incredibly close friend for a very long time - it was a bit of a white whale for us and I was happy to have finally conquered it). Alongside this, I was also In House Coordinator, managing 16 productions across both the Autumn and Spring semester seasons. Within this role I also produced the second NNT 72 in 72 initiative of Twelfth Night. I also finally took a show to Edinburgh Festival Fringe with the NNT itself, producing Franz and Marie: Woyzeck Retold.\n\nNNT has given me so much joy to be a part of for 4 years, and I’m incredibly grateful for all of the skills I was able to develop, all of the projects I got to complete, and all of the friends I made along the way. It’s a very special building and a very special community and I sincerely thank everyone who made my time at NNT possible. Here’s to everything that is to come.\n\n(Oh and in my final In House show I was a plant in a scripted role and I didn’t corpse. It all gets better, folks.)\n",
         "poster_thumb_tag": "<a href='/people/jess_donn/'><img src='https://photos.smugmug.com/photos/i-HFSsz9T/0/140x140!/i-HFSsz9T-140x140!.jpg' class='search-result-poster-thumb' alt='Jess Donn' /></a>",
-        "course": ["Computer Science BSci","Human Computer Interaction MSci"],
+        "course": ["BSci Computer Science","MSci Human Computer Interaction"],
         "graduated": 2019,
         "award": "Fellowship",
         "shows": [
@@ -20848,7 +21042,7 @@
         "excerpt": "In my fist year I learned what it means to be “Blanched”, was stopped outside of Coates and asked to help build set for Innocent Infidelity, stayed up to 2am far too many times and left a semi permanent impression in the tech box seats for too much operating… not...",
         "bio": "In my fist year I learned what it means to be “Blanched”, was stopped outside of Coates and asked to help build set for Innocent Infidelity, stayed up to 2am far too many times and left a semi permanent impression in the tech box seats for too much operating… not much has changed 4 years later :)\n\nI work as a casual technician at Lakeside Arts Centre and Nottingham Concert Hall, in addition to carefully ‘burn’ carbon fibres continuing my PhD research. I still spend every weekend in the Theatre.\n",
         "poster_thumb_tag": "<a href='/people/joseph_heil/'><img src='https://photos.smugmug.com/photos/i-fX9MPP9/0/140x140!/i-fX9MPP9-140x140!.jpg' class='search-result-poster-thumb' alt='Joseph Heil' /></a>",
-        "course": "Materials Engineering and Design, PhD",
+        "course": ["PhD Materials Engineering and Design"],
         "graduated": 2015,
         "award": "Fellowship",
         "shows": [
@@ -21990,7 +22184,7 @@
         "excerpt": "Since her graduation, Katie went on to study musical theatre at the Guildford School of Acting. She’s best known for her part in the London production of Wicked where she played the role of Nessarose. Since then she has played many other roles such as Sandy from Grease, Belle from...",
         "bio": "Since her graduation, Katie went on to study musical theatre at the Guildford School of Acting. She’s best known for her part in the London production of Wicked where she played the role of Nessarose.\n\nSince then she has played many other roles such as Sandy from Grease, Belle from Beauty and the Beast as well as Sister Mary Robert in Sister Act. She has also played at the Theatre Royal in Nottingham a mere two years after her graduation where she played Swallow, one of the lead roles, in Whistle Down the Wind where she received a glowing review.\n",
         "poster_thumb_tag": "<a href='/people/katie_rowley-jones/'><img src='https://photos.smugmug.com/photos/i-7xVgHsL/0/140x140!/i-7xVgHsL-140x140!.jpg' class='search-result-poster-thumb' alt='Katie Rowley-Jones' /></a>",
-        "course": ["Law BA (Hons)"],
+        "course": ["BA (Hons) Law"],
         "graduated": 2000,
         "award": [],
         "shows": [
@@ -22706,7 +22900,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/laura_wolczyk/'><img src='https://photos.smugmug.com/photos/i-2sL63cf/0/140x140!/i-2sL63cf-140x140!.jpg' class='search-result-poster-thumb' alt='Laura Wolczyk' /></a>",
-        "course": ["Zoology BSc"],
+        "course": ["BSc Zoology"],
         "graduated": 2018,
         "award": "Merit",
         "shows": [
@@ -22932,7 +23126,7 @@
         "excerpt": "Lauren worked professionally as a child and entered the industry again, after having qualified as a primary school teacher, in July 2016.\n",
         "bio": "Lauren worked professionally as a child and entered the industry again, after having qualified as a primary school teacher, in July 2016.\n",
         "poster_thumb_tag": "<a href='/people/lauren_grant/'><img src='https://photos.smugmug.com/photos/i-Ftj5Tmx/0/140x140!/i-Ftj5Tmx-140x140!.jpg' class='search-result-poster-thumb' alt='Lauren Grant' /></a>",
-        "course": "BSc Psychology",
+        "course": ["BSc Psychology"],
         "graduated": 2013,
         "award": [],
         "shows": [
@@ -23212,6 +23406,47 @@
             }
         ],
         "link": "/people/lee_denny/"
+    }
+    
+
+    ,
+    "lelah_gorgin" : {
+        "name": "Lelah Gorgin",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/lelah_gorgin/'><img src='https://photos.smugmug.com/photos/i-BpfPXp3/0/140x140!/i-BpfPXp3-140x140!.jpg' class='search-result-poster-thumb' alt='Lelah Gorgin' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Far Apart",
+                "roles": ["Andi"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Video Editor"]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Creative Assistant"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2021-22",
+                "roles": ["Costume, Props and Make-Up Manager"]
+            }
+        ],
+        "link": "/people/lelah_gorgin/"
     }
     
 
@@ -24044,7 +24279,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/lois_baglin/'><img src='https://photos.smugmug.com/photos/i-Gq7zMf7/0/140x140!/i-Gq7zMf7-140x140!.jpg' class='search-result-poster-thumb' alt='Lois Baglin' /></a>",
-        "course": ["English BA"],
+        "course": ["BA English"],
         "graduated": 2019,
         "award": [],
         "shows": [
@@ -24395,7 +24630,7 @@
         "excerpt": "Lucien is now a stand up comedian.\n",
         "bio": "Lucien is now a stand up comedian.\n",
         "poster_thumb_tag": "<a href='/people/lucien_jack/'><img src='https://photos.smugmug.com/photos/i-Dj6HJ2t/0/140x140!/i-Dj6HJ2t-140x140!.jpg' class='search-result-poster-thumb' alt='Lucien Jack' /></a>",
-        "course": ["Hispanic Studies and Russian BA"],
+        "course": ["BA Hispanic Studies and Russian"],
         "graduated": 2010,
         "award": [],
         "shows": [
@@ -24574,7 +24809,7 @@
         "excerpt": "I’m a freelance Producer, Production Manager and Video Systems engineer. I tour with the likes of Bjork and work on large events around the world.\n",
         "bio": "I’m a freelance Producer, Production Manager and Video Systems engineer. I tour with the likes of Bjork and work on large events around the world.\n",
         
-        "course": ["Biochemistry and Genetics BSc"],
+        "course": ["BSc Biochemistry and Genetics"],
         "graduated": 2003,
         "award": [],
         "shows": [
@@ -25220,7 +25455,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/maddy_strauss/'><img src='https://photos.smugmug.com/photos/i-bHBD54B/0/140x140!/i-bHBD54B-140x140!.jpg' class='search-result-poster-thumb' alt='Maddy Strauss' /></a>",
-        "course": ["History BA"],
+        "course": ["BA History"],
         "graduated": 2018,
         "award": "Fellowship",
         "shows": [
@@ -25345,7 +25580,7 @@
         "type": "person",
         "excerpt": "\n",
         "bio": "\n",
-        
+        "poster_thumb_tag": "<a href='/people/madeleine_craig/'><img src='https://photos.smugmug.com/photos/i-HPcm55s/0/140x140!/i-HPcm55s-140x140!.jpg' class='search-result-poster-thumb' alt='Madeleine Craig' /></a>",
         "course": ["English"],
         "graduated": 2023,
         "award": [],
@@ -25741,7 +25976,7 @@
         "excerpt": "Since graduating, Huckerby has worked with New Theatre friends Nick Ostler and Dan Chambers to create ‘The Amazing Adrenalini Brothers!’, inspired from a New Theatre 1993 sketch show. The cartoon has seen international success since 2002 when it was picked up by Pesky Ltd. It features three brothers, Xan, Adi...",
         "bio": "Since graduating, Huckerby has worked with New Theatre friends Nick Ostler and Dan Chambers to create ‘The Amazing Adrenalini Brothers!’, inspired from a New Theatre 1993 sketch show. The cartoon has seen international success since 2002 when it was picked up by Pesky Ltd.\n\nIt features three brothers, Xan, Adi and Enk, who are from Rendoosia and take part in death-defying stunts in every episode with their catchphrase “Yahzaa!”. ‘The Amazing Adrenalini Brothers!’ won the Best Children’s Animation BAFTA in 2006.\n",
         
-        "course": "American Studies",
+        "course": ["American Studies"],
         "graduated": 1996,
         "award": [],
         "shows": [],
@@ -26025,7 +26260,7 @@
         "excerpt": "After Graduating in 2009, Matt began freelancing as a lighting designer. In 2013 he graduated from the Royal Academy of Dramatic Art, having studied Stage Electrics and Lighting Design. Since then he has gone on to work currently for the National Theatre and in 2014, returned to RADA where he...",
         "bio": "After Graduating in 2009, Matt began freelancing as a lighting designer. In 2013 he graduated from the Royal Academy of Dramatic Art, having studied Stage Electrics and Lighting Design. Since then he has gone on to work currently for the National Theatre and in 2014, returned to RADA where he is currently the Assistant Head of Lighting.\n",
         "poster_thumb_tag": "<a href='/people/matt_leventhall/'><img src='https://photos.smugmug.com/photos/i-rzcdPpN/0/140x140!/i-rzcdPpN-140x140!.jpg' class='search-result-poster-thumb' alt='Matt Leventhall' /></a>",
-        "course": "Philosophy",
+        "course": ["Philosophy"],
         "graduated": 2009,
         "award": "Fellowship",
         "shows": [
@@ -26999,7 +27234,7 @@
         "excerpt": "Every moment in-between the six back to back auditions to being part of a production staged at the Edinburgh Fringe Festival! I wish I had got involved from the first year as there were such amazing people I met through the theatre. I’ve moved to London and started working in...",
         "bio": "Every moment in-between the six back to back auditions to being part of a production staged at the Edinburgh Fringe Festival! I wish I had got involved from the first year as there were such amazing people I met through the theatre.\n\nI’ve moved to London and started working in the word of IT and business. On the side, I’ve done a short course in Meisner Acting, as well as singing and song writing lessons. Moving to London there is no shortage of musical gigs and talent and I’ve been inspired to develop my musical and acting creativity.\n\n",
         
-        "course": ["Biotechnology Bsc"],
+        "course": ["BSc Biotechnology"],
         "graduated": 2016,
         "award": [],
         "shows": [
@@ -27216,7 +27451,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/miguel_barrulas/'><img src='https://photos.smugmug.com/photos/i-Rq7Q6bf/0/140x140!/i-Rq7Q6bf-140x140!.jpg' class='search-result-poster-thumb' alt='Miguel Barrulas' /></a>",
-        "course": ["Natural Sciences MSci"],
+        "course": ["MSci Natural Sciences"],
         "graduated": 2019,
         "award": "Fellowship",
         "shows": [
@@ -27915,7 +28150,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/nat_henderson/'><img src='https://photos.smugmug.com/photos/i-8HQP9xH/0/140x140!/i-8HQP9xH-140x140!.jpg' class='search-result-poster-thumb' alt='Nat Henderson' /></a>",
-        "course": ["English BA"],
+        "course": ["BA English"],
         "graduated": null,
         "award": [],
         "shows": [
@@ -29246,7 +29481,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/nick_gill/'><img src='https://photos.smugmug.com/photos/i-3xMcmD4/0/140x140!/i-3xMcmD4-140x140!.jpg' class='search-result-poster-thumb' alt='Nick Gill' /></a>",
-        "course": ["Politics (Hons) BA"],
+        "course": ["BA (Hons) Politics"],
         "graduated": 2016,
         "award": "Fellowship",
         "shows": [
@@ -29510,7 +29745,7 @@
         "excerpt": "Since graduating, Ostler has worked with New Theatre friends Mark Huckerby and Dan Chambers to create ‘The Amazing Adrenalini Brothers!’, inspired from a New Theatre 1993 sketch show. The cartoon has seen international success since 2002 when it was picked up by Pesky Ltd. It features three brothers, Xan, Adi...",
         "bio": "Since graduating, Ostler has worked with New Theatre friends Mark Huckerby and Dan Chambers to create ‘The Amazing Adrenalini Brothers!’, inspired from a New Theatre 1993 sketch show. The cartoon has seen international success since 2002 when it was picked up by Pesky Ltd.\n\nIt features three brothers, Xan, Adi and Enk, who are from Rendoosia and take part in death-defying stunts in every episode with their catchphrase “Yahzaa!”. ‘The Amazing Adrenalini Brothers!’ won the Best Children’s Animation BAFTA in 2006.\n",
         
-        "course": "Politics",
+        "course": ["Politics"],
         "graduated": 1996,
         "award": [],
         "shows": [],
@@ -29624,7 +29859,7 @@
         "excerpt": "I have very fond memories of my time at the Nottingham New Theatre. I produced five shows at NNT, and the highlight of my first year was taking our production of Bed by Jim Cartwright to the Djanogly Theatre at Nottingham Lakeside Arts for a week-long run. I also thoroughly...",
         "bio": "I have very fond memories of my time at the Nottingham New Theatre. I produced five shows at NNT, and the highlight of my first year was taking our production of Bed by Jim Cartwright to the Djanogly Theatre at Nottingham Lakeside Arts for a week-long run. I also thoroughly enjoyed my time as Treasurer, and was proud to take on the role of President during a time of huge change for the theatre and the redevelopment of the building. Since graduating I spent a year working at Nottingham Lakeside Arts as their Arts Administration Intern, and I have now moved back to Lancashire. I am the Associate Producer for JB Shorts in Manchester, an evening of six 15 minute plays by top TV writers, and Producer of RopeWalk Productions, a musical theatre company set up along with other NNT Alumni. I am currently working on projects with my sister and theatre director Liz Stevenson, also an NNT alumnus.\n",
         "poster_thumb_tag": "<a href='/people/nick_stevenson/'><img src='https://photos.smugmug.com/photos/i-vRML2VN/0/140x140!/i-vRML2VN-140x140!.jpg' class='search-result-poster-thumb' alt='Nick Stevenson' /></a>",
-        "course": "Law",
+        "course": ["Law"],
         "graduated": 2014,
         "award": "Fellowship",
         "shows": [
@@ -29715,7 +29950,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/nick_sutton-smith/'><img src='https://photos.smugmug.com/photos/i-Jx2LqS7/0/140x140!/i-Jx2LqS7-140x140!.jpg' class='search-result-poster-thumb' alt='Nick Sutton-Smith' /></a>",
-        "course": ["English and History BA"],
+        "course": ["BA English and History"],
         "graduated": 2018,
         "award": [],
         "shows": [
@@ -30247,7 +30482,7 @@
         "excerpt": "\n",
         "bio": "\n",
         
-        "course": ["Design Engineering MEng"],
+        "course": ["MEng Design Engineering"],
         "graduated": 2018,
         "award": [],
         "shows": [
@@ -31363,7 +31598,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/rachael_baines/'><img src='https://photos.smugmug.com/photos/i-gr45r4Z/0/140x140!/i-gr45r4Z-140x140!.jpg' class='search-result-poster-thumb' alt='Rachael Baines' /></a>",
-        "course": ["English BA"],
+        "course": ["BA English"],
         "graduated": 2018,
         "award": "Merit",
         "shows": [
@@ -31800,13 +32035,34 @@
     
 
     ,
+    "raquel_chambers" : {
+        "name": "Raquel Chambers",
+        "type": "person",
+        "excerpt": "I was Musical Director of the University of Nottingham Revival Gospel Choir, Sep-July 2017-2018.\n",
+        "bio": "I was Musical Director of the University of Nottingham Revival Gospel Choir, Sep-July 2017-2018.\n",
+        
+        "course": ["Sociology"],
+        "graduated": 2018,
+        "award": [],
+        "shows": [
+            {
+                "title": "Hinged",
+                "roles": ["Choir"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/raquel_chambers/"
+    }
+    
+
+    ,
     "ray_butler" : {
         "name": "Ray Butler",
         "type": "person",
         "excerpt": "PhD at Cranfield University, Job at Anglian Water. Also a member of the TEC Alumni community.\n",
         "bio": "PhD at Cranfield University, Job at Anglian Water. Also a member of the TEC Alumni community.\n",
         
-        "course": ["Biology","Plant Genetic Manipulation Msc","Environmental Science Msc"],
+        "course": ["Biology","MSc Plant Genetic Manipulation","MSc Environmental Science"],
         "graduated": 1997,
         "award": [],
         "shows": [],
@@ -31883,7 +32139,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/reilly_salmon/'><img src='https://photos.smugmug.com/photos/i-rVbz62J/0/140x140!/i-rVbz62J-140x140!.jpg' class='search-result-poster-thumb' alt='Reilly Salmon' /></a>",
-        "course": ["Criminology and Sociology BA"],
+        "course": ["BA Criminology and Sociology"],
         "graduated": null,
         "award": [],
         "shows": [
@@ -32286,7 +32542,7 @@
         "excerpt": "Currently undertaking an MRes in Psychological Research Methods in preparation for my PhD.\n\n",
         "bio": "Currently undertaking an MRes in Psychological Research Methods in preparation for my PhD.\n\n",
         
-        "course": ["Psychology BSc"],
+        "course": ["BSc Psychology"],
         "graduated": 2013,
         "award": [],
         "shows": [
@@ -32358,7 +32614,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/rohan_rakhit/'><img src='https://photos.smugmug.com/photos/i-2tzLCzc/0/140x140!/i-2tzLCzc-140x140!.jpg' class='search-result-poster-thumb' alt='Rohan Rakhit' /></a>",
-        "course": ["History BA"],
+        "course": ["BA History"],
         "graduated": 2020,
         "award": [],
         "shows": [
@@ -33402,7 +33658,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/sally_nesbitt/'><img src='https://photos.smugmug.com/photos/i-Sh6K69q/0/140x140!/i-Sh6K69q-140x140!.jpg' class='search-result-poster-thumb' alt='Sally Nesbitt' /></a>",
-        "course": ["History BA"],
+        "course": ["BA History"],
         "graduated": null,
         "award": [],
         "shows": [
@@ -33792,7 +34048,7 @@
         "excerpt": "I joined the NNT in my first year, and never looked back. I met so many marvelous people, who helped me realise that physics absolutely was not for me. So, in my third year, I started English. And met some more fabulous people. I had the best time, and got...",
         "bio": "I joined the NNT in my first year, and never looked back. I met so many marvelous people, who helped me realise that physics absolutely was not for me. So, in my third year, I started English. And met some more fabulous people. I had the best time, and got the opportunity to do so many amazing things: making websites, crewing, producing, and even a one-time directing stint in first slot Fringe. It always came back to tech, and I wouldn’t have it any other way.\n",
         "poster_thumb_tag": "<a href='/people/sam_osborne/'><img src='https://photos.smugmug.com/photos/i-FdvDHQm/0/140x140!/i-FdvDHQm-140x140!.jpg' class='search-result-poster-thumb' alt='Sam Osborne' /></a>",
-        "course": ["English BA"],
+        "course": ["BA English"],
         "graduated": 2019,
         "award": [],
         "shows": [
@@ -34532,7 +34788,7 @@
         "excerpt": "Since graduating, Seb has gone on to Teaching in Richmond. He occasionally operates tech for Two Box productions, which was founded by other New Theatre Alumni, Lawrence Bolton.\n",
         "bio": "Since graduating, Seb has gone on to Teaching in Richmond. He occasionally operates tech for Two Box productions, which was founded by other New Theatre Alumni, Lawrence Bolton.\n",
         
-        "course": ["French and Russian BA"],
+        "course": ["BA French and Russian"],
         "graduated": 2014,
         "award": "Commendation",
         "shows": [
@@ -34861,7 +35117,7 @@
         "excerpt": "I liked to climb up really tall things or climb under really low things, or climb inside really small things. I also once left my laptop under a seat during a whole performance that I was Technical Directing. I could normally be seen running around the theatre trying to find...",
         "bio": "I liked to climb up really tall things or climb under really low things, or climb inside really small things.\n\nI also once left my laptop under a seat during a whole performance that I was Technical Directing.\n\nI could normally be seen running around the theatre trying to find my glasses. Or my phone. Or my laptop.\n",
         "poster_thumb_tag": "<a href='/people/skylar_turnbull_hurd/'><img src='https://photos.smugmug.com/photos/i-xV4QvD5/1/140x140!/i-xV4QvD5-140x140!.jpg' class='search-result-poster-thumb' alt='Skylar Turnbull Hurd' /></a>",
-        "course": ["Philosophy BA"],
+        "course": ["BA Philosophy"],
         "graduated": 2020,
         "award": [],
         "shows": [
@@ -35438,7 +35694,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/sophy_baxter/'><img src='https://photos.smugmug.com/photos/i-52CWvj4/0/140x140!/i-52CWvj4-140x140!.jpg' class='search-result-poster-thumb' alt='Sophy Baxter' /></a>",
-        "course": "BSc Nursing",
+        "course": ["BSc Nursing"],
         "graduated": 2022,
         "award": [],
         "shows": [
@@ -35536,7 +35792,7 @@
         "excerpt": "Largely through a busy medical career and family life, I’ve done minimal acting since. I directed The Yorkshire Mystery Plays in a church production in the 1980s and [was] lighting designer at the Birmingham Crescent (‘Camille’ and ‘When We We Married’) in the late 1980s. Outside theatre, I specialised in...",
         "bio": "Largely through a busy medical career and family life, I’ve done minimal acting since. I directed The Yorkshire Mystery Plays in a church production in the 1980s and [was] lighting designer at the Birmingham Crescent (‘Camille’ and ‘When We We Married’) in the late 1980s.\n\nOutside theatre, I specialised in psychiatry, trained in Nottingham then the West Midlands, before West Yorkshire where I still live, having retired. Ive taken an Arts &amp; Humanities degree with the Open University. I’m a part-time volunteer and trustee at Yorkshire MESMAC, and so linked to West Yorkshire Queer Stories, an LGBTQ+ oral history project that has inspired some powerful art, as well as producing an enduring online archive of interviews.\n",
         
-        "course": "Medicine BMed BM BS",
+        "course": ["BMed BM BS Medicine"],
         "graduated": 1978,
         "award": [],
         "shows": [
@@ -36161,7 +36417,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/ted_marriott/'><img src='https://photos.smugmug.com/photos/i-KzmdfPV/0/140x140!/i-KzmdfPV-140x140!.jpg' class='search-result-poster-thumb' alt='Ted Marriott' /></a>",
-        "course": ["English BA"],
+        "course": ["BA English"],
         "graduated": 2018,
         "award": "Merit",
         "shows": [
@@ -36548,7 +36804,7 @@
         "excerpt": "Academic career in applied mathematics and theoretical physics\nProfessor of Applied Mathematical Physics, University of Southampton 1995-2015\nPopular Science: Soap, Science and Flat Screen TVs (OUP 2011) (with David Dunmur)\n\n",
         "bio": "Academic career in applied mathematics and theoretical physics\nProfessor of Applied Mathematical Physics, University of Southampton 1995-2015\nPopular Science: Soap, Science and Flat Screen TVs (OUP 2011) (with David Dunmur)\n\n",
         
-        "course": ["Theoretical Physics PhD"],
+        "course": ["PhD Theoretical Physics"],
         "graduated": 1975,
         "award": [],
         "shows": [
@@ -37392,7 +37648,7 @@
         "excerpt": "After graduating from the University of Nottingham, he began his MA in Ethnographic and Documentary Film at University College London.\n\nCurrently, back in Tbilisi, Georgia, where he founded a film company “Toko-Eke”.\n",
         "bio": "After graduating from the University of Nottingham, he began his MA in Ethnographic and Documentary Film at University College London.\n\nCurrently, back in Tbilisi, Georgia, where he founded a film company “Toko-Eke”.\n",
         "poster_thumb_tag": "<a href='/people/tornike_koplatadze/'><img src='https://photos.smugmug.com/photos/i-2rP2GvC/0/140x140!/i-2rP2GvC-140x140!.jpg' class='search-result-poster-thumb' alt='Tornike Koplatadze' /></a>",
-        "course": "Film and Television Studies BA",
+        "course": ["BA Film and Television Studies"],
         "graduated": 2016,
         "award": [],
         "shows": [
@@ -37564,7 +37820,7 @@
         "excerpt": "My time at NNT started when a bloke I’d met only a few days prior, Ollie Shortt, told me about this little theatre on campus doing plays that he thought I’d might want to join. I’d always done musical theatre previously, but never straight plays. Cut to 3 months later...",
         "bio": "My time at NNT started when a bloke I’d met only a few days prior, Ollie Shortt, told me about this little theatre on campus doing plays that he thought I’d might want to join. I’d always done musical theatre previously, but never straight plays. Cut to 3 months later and after playing copious amounts of Mafia, I had my trousers round my ankles, running around the stage like my life depended upon it.\n\nI spent my the rest of that year, and my second, acting, before realising I really did suck at learning lines and fancied doing that bit where you still got to go to the rehearsals, but didn’t have to learn any of the words, and could actually pick which play you wanted to do. Coincidentally, it was at this point that I really began to feel the effects of an anxiety disorder that prevented me from acting for a good while, and something which would impact a lot of the manner in which I directed theatre.\n\nSo from then on, I started directing. My first couple of outings were wonderful fun, from the female focused Sex Cells, a show I believed proudly brought back some of the spirit of the NNT comedies I’d been a part of in my first year, to Someone Who’ll Watch Over Me, which I genuinely believe is the show with the least percentage of correct lines ever performed on the NNT stage.\n\nNot ready to leave university yet, I took on a Masters degree. I was then given a show called W;t, possibly the hardest show I have directed to date. Directing a show about a dying woman learning to come to terms with her terminal cancer through metaphysical poetry was not something I’d ever expected when I came in, a staunch comedy actor in my first year. The experience of directing that show, and the wonderful reception it received, is not something I’d ever forget.\n\nFor what was meant to be finally, I decided to see just how much in the other direction I could go, and took on the behemoth of directing a show which I’d been told in my first year “would probably get laughed out of proposals.” Lots of drugs, one very disgusting toilet, and the audience seeing slightly too much of Pete later, Trainspotting was meant to be the moment I bowed out at NNT. Immensely proud of it, I was finally ready to go.\n\nOver the Summer of 2017, I got incredibly sick and found myself still at university writing my LLM thesis in October. Still clinging onto the last vestiges of my studentship, I proposed a show with a friend, but as producer this time. Sadly, that was not to last as the friend was required to drop out of the show relatively quickly, and I somehow ended up directing Collaborators, a show about a show which the writer is forced to write. Everyone saw the irony. But after a wonderfully large cast, many of whom I am proud to say were brand new members to the theatre in a show I hoped they enjoyed as the first of their careers, I was tired and ready to go.\n\nNNT gave me some of the most phenomenal experiences of my university career, and I can’t thank all those who made it what it was enough.\n\nAfter I graduated, inspired by my work on Trainspotting, I applied to study Applied Theatre MA at Central School for Speech and Drama, looking to move into theatre designed to foster integration among communities damaged by austerity, and newly released prisoners. I was lucky enough to be accepted, but unfortunately due to changing circumstances and the cost of fees, I couldn’t take up my place. The place is still waiting there though, and I’ll let you all know when I finally get there…\n\nBut for now, I’m working in press relations for StepChange, a debt charity helping people suffering from problem debt in Westminster, and seeing theatre at every opportunity I get.\n\n",
         "poster_thumb_tag": "<a href='/people/will_berrington/'><img src='https://photos.smugmug.com/photos/i-r84CJ9n/0/140x140!/i-r84CJ9n-140x140!.jpg' class='search-result-poster-thumb' alt='Will Berrington' /></a>",
-        "course": ["Law LLB","Public International Law LLM"],
+        "course": ["LLB Law","LLM Public International Law"],
         "graduated": 2017,
         "award": [],
         "shows": [
@@ -38298,6 +38554,47 @@
         ],
         "committees": [],
         "link": "/people/yee_heng_yeh/"
+    }
+    
+
+    ,
+    "ylana_gibert" : {
+        "name": "Ylana Gibert",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/ylana_gibert/'><img src='https://photos.smugmug.com/photos/i-CRzNvQt/0/140x140!/i-CRzNvQt-140x140!.jpg' class='search-result-poster-thumb' alt='Ylana Gibert' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "Self-ish",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "It's Not Rocket Science",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2021-22",
+                "roles": ["External Relations Manager"]
+            }
+        ],
+        "link": "/people/ylana_gibert/"
     }
     
 
@@ -40790,282 +41087,6 @@
             }
         ],
         "link": "/people/tom_gladstone/"
-    }
-    
-
-    ,
-    "ace_edwards" : {
-        "name": "Ace Edwards",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "A Midsummer Night's Dream",
-                "roles": ["Snout"]
-            }
-        
-            ,{
-                "title": "Kiss my neck not my lips",
-                "roles": ["Hen"]
-            }
-        
-            ,{
-                "title": "In House Shows Cancelled due to Covid-19",
-                "roles": ["Director","Poster Designer"]
-            }
-        
-            ,{
-                "title": "Autumn Showers",
-                "roles": ["Poster Designer"]
-            }
-        
-            ,{
-                "title": "Familiar Strangers",
-                "roles": ["Laura"]
-            }
-        
-            ,{
-                "title": "What Could Be Worse Than Jumping?",
-                "roles": ["Katherine Compert"]
-            }
-        
-            ,{
-                "title": "Accelerate",
-                "roles": ["Publicity Manager"]
-            }
-        
-            ,{
-                "title": "Speaking Solo",
-                "roles": ["Actor","Graphics"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2020-21",
-                "roles": ["Publicity Manager"]
-            }
-        
-            ,{
-                "title": "2021-22",
-                "roles": ["Publicity Manager"]
-            }
-        ],
-        "link": "/people/ace_edwards/"
-    }
-    
-
-    ,
-    "ylana_gibert" : {
-        "name": "Ylana Gibert",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "When Sally Met Gary, Henry, Harry",
-                "roles": ["Co-Producer"]
-            }
-        
-            ,{
-                "title": "Self-ish",
-                "roles": ["Co-Producer"]
-            }
-        
-            ,{
-                "title": "It's Not Rocket Science",
-                "roles": ["Producer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2021-22",
-                "roles": ["External Relations Manager"]
-            }
-        ],
-        "link": "/people/ylana_gibert/"
-    }
-    
-
-    ,
-    "demi_idowu" : {
-        "name": "Demi Idowu",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "When Sally Met Gary, Henry, Harry",
-                "roles": ["Harry"]
-            }
-        
-            ,{
-                "title": "Accelerate",
-                "roles": ["Interviewer / Multi-Role"]
-            }
-        
-            ,{
-                "title": "Self-ish",
-                "roles": ["Emotional Multi-Role"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2021-22",
-                "roles": ["Publicity Manager"]
-            }
-        ],
-        "link": "/people/demi_idowu/"
-    }
-    
-
-    ,
-    "jasmine_butler" : {
-        "name": "Jasmine Butler",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Edward II",
-                "roles": ["Shadow Director"]
-            }
-        
-            ,{
-                "title": "In House Shows Cancelled due to Covid-19",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Far Apart",
-                "roles": ["Video Editor"]
-            }
-        
-            ,{
-                "title": "2021",
-                "roles": ["Co-Director"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2021-22",
-                "roles": ["Company Stage Manager"]
-            }
-        ],
-        "link": "/people/jasmine_butler/"
-    }
-    
-
-    ,
-    "annamarie_schooling" : {
-        "name": "Annamarie Schooling",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "Hello World",
-                "roles": ["Composer","Sound Designer"]
-            }
-        
-            ,{
-                "title": "Self-ish",
-                "roles": ["Sound Designer"]
-            }
-        
-            ,{
-                "title": "The Show Must Go On(Line)",
-                "roles": ["Sound Designer"]
-            }
-        
-            ,{
-                "title": "It's Not Rocket Science",
-                "roles": ["Technical Director"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2021-22",
-                "roles": ["Company Technical Director"]
-            }
-        ],
-        "link": "/people/annamarie_schooling/"
-    }
-    
-
-    ,
-    "lelah_gorgin" : {
-        "name": "Lelah Gorgin",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "Far Apart",
-                "roles": ["Andi"]
-            }
-        
-            ,{
-                "title": "Self-ish",
-                "roles": ["Video Editor"]
-            }
-        
-            ,{
-                "title": "2021",
-                "roles": ["Creative Assistant"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2021-22",
-                "roles": ["Costume, Props and Make-Up Manager"]
-            }
-        ],
-        "link": "/people/lelah_gorgin/"
     }
     
 
@@ -86616,27 +86637,6 @@
         ],
         "committees": [],
         "link": "/people/gwen_morris/"
-    }
-    
-
-    ,
-    "raquel_chambers" : {
-        "name": "Raquel Chambers",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2016,
-        "award": [],
-        "shows": [
-            {
-                "title": "Hinged",
-                "roles": ["Choir"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/raquel_chambers/"
     }
     
 

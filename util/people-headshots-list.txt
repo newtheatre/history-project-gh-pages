@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2021-12-18 11:19.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2021-12-20 11:33.*
 
 
 
@@ -17,6 +17,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [Anthony Green](https://history.newtheatre.org.uk/people/anthony_green/)
 - [ ] [Ben Cave](https://history.newtheatre.org.uk/people/ben_cave/)
 - [x] [Ben Hollands](https://history.newtheatre.org.uk/people/ben_hollands/)
+- [x] [Ben Woodford](https://history.newtheatre.org.uk/people/ben_woodford/)
 - [x] [Callum Walker](https://history.newtheatre.org.uk/people/callum_walker/)
 - [ ] [Cameron Walker](https://history.newtheatre.org.uk/people/cameron_walker/)
 - [x] [Charlotte van Rhee](https://history.newtheatre.org.uk/people/charlotte_van_rhee/)
@@ -66,7 +67,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [Laura Finckh](https://history.newtheatre.org.uk/people/laura_finckh/)
 - [x] [Lawrence Bolton](https://history.newtheatre.org.uk/people/lawrence_bolton/)
 - [x] [Lucien Jack](https://history.newtheatre.org.uk/people/lucien_jack/)
-- [ ] [Madeleine Craig](https://history.newtheatre.org.uk/people/madeleine_craig/)
+- [x] [Madeleine Craig](https://history.newtheatre.org.uk/people/madeleine_craig/)
 - [ ] [Margaret Clark](https://history.newtheatre.org.uk/people/margaret_clark/)
 - [x] [Mark Heywood](https://history.newtheatre.org.uk/people/mark_heywood/)
 - [ ] [Matt Wilks](https://history.newtheatre.org.uk/people/matt_wilks/)
@@ -81,6 +82,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Peter Hunter Johnston](https://history.newtheatre.org.uk/people/peter_hunter_johnston/)
 - [ ] [Philip Bluer](https://history.newtheatre.org.uk/people/philip_bluer/)
 - [x] [Philip Geller](https://history.newtheatre.org.uk/people/philip_geller/)
+- [ ] [Raquel Chambers](https://history.newtheatre.org.uk/people/raquel_chambers/)
 - [ ] [Ray Butler](https://history.newtheatre.org.uk/people/ray_butler/)
 - [ ] [Robert Bradley](https://history.newtheatre.org.uk/people/robert_bradley/)
 - [ ] [Robyn Lawes](https://history.newtheatre.org.uk/people/robyn_lawes/)
