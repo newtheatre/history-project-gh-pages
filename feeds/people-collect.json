@@ -538,7 +538,7 @@
         
             ,{
                 "title": "Nature's Pretenders",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -881,7 +881,7 @@
         
             ,{
                 "title": "Ring Ring",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -1066,12 +1066,17 @@
         
             ,{
                 "title": "TwinSS",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "Macbeth",
                 "roles": ["Macbeth"]
+            }
+        
+            ,{
+                "title": "TwinSS",
+                "roles": ["Playwright"]
             }
         
             ,{
@@ -1344,6 +1349,11 @@
         "award": [],
         "shows": [
             {
+                "title": "Breakfast Not Included",
+                "roles": ["Playwright"]
+            }
+        
+            ,{
                 "title": "Once a Catholic",
                 "roles": [null]
             }
@@ -2008,7 +2018,7 @@
         
             ,{
                 "title": "Warehouse 364",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -2585,7 +2595,7 @@
         "shows": [
             {
                 "title": "7 Minutes 31",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -2595,7 +2605,7 @@
         
             ,{
                 "title": "Cross Stitching",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -3562,7 +3572,7 @@
         
             ,{
                 "title": "The Toyland Murders",
-                "roles": ["Director","Poster Designer"]
+                "roles": ["Playwright","Director","Poster Designer"]
             }
         
             ,{
@@ -3715,7 +3725,7 @@
         
             ,{
                 "title": "Timon/Titus by William Shakespeare",
-                "roles": ["Director"]
+                "roles": ["Translator","Director"]
             }
         
             ,{
@@ -3725,17 +3735,17 @@
         
             ,{
                 "title": "Working Class Hero",
-                "roles": ["Father"]
+                "roles": ["Father","Playwright"]
             }
         
             ,{
                 "title": "Working Class Hero",
-                "roles": ["Father"]
+                "roles": ["Father","Playwright"]
             }
         
             ,{
                 "title": "Working Class Hero",
-                "roles": ["Father"]
+                "roles": ["Father","Playwright"]
             }
         ],
         "committees": [],
@@ -3837,7 +3847,7 @@
         
             ,{
                 "title": "Queen B",
-                "roles": ["Director","Playwright"]
+                "roles": ["Playwright","Director","Playwright"]
             }
         
             ,{
@@ -4715,7 +4725,7 @@
         
             ,{
                 "title": "Accelerate",
-                "roles": ["Creative Assistant"]
+                "roles": ["Playwright","Creative Assistant"]
             }
         ],
         "committees": [
@@ -5222,7 +5232,7 @@
         
             ,{
                 "title": "The Black Dog on My Sofa",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -5282,7 +5292,7 @@
         
             ,{
                 "title": "Esse SA Essay",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -5292,7 +5302,7 @@
         
             ,{
                 "title": "Vehement",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -5378,7 +5388,7 @@
         
             ,{
                 "title": "When I Watch You, I Like to Leave the Sound Off",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -5726,7 +5736,7 @@
         
             ,{
                 "title": "When Sally Met Gary, Henry, Harry",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -5746,7 +5756,7 @@
         
             ,{
                 "title": "It's Not Rocket Science",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [
@@ -7865,7 +7875,7 @@
         
             ,{
                 "title": "Franz Woyzeck",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -7900,7 +7910,7 @@
         
             ,{
                 "title": "Doctor Faustus",
-                "roles": ["Director","Technical Operator"]
+                "roles": ["Adaptor","Director","Technical Operator"]
             }
         
             ,{
@@ -7940,7 +7950,7 @@
         
             ,{
                 "title": "Pareidolia: The Circus of Truth and Consequence",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -7970,17 +7980,17 @@
         
             ,{
                 "title": "Franz and Marie: Woyzeck Retold",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "Franz and Marie: Woyzeck Retold",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "Franz and Marie: Woyzeck Retold",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [
@@ -8046,7 +8056,7 @@
         
             ,{
                 "title": "Deliria",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -8203,7 +8213,7 @@
         "shows": [
             {
                 "title": "The Sieve Never Leaks",
-                "roles": ["Writer"]
+                "roles": ["Playwright","Writer"]
             }
         ],
         "committees": [],
@@ -8914,7 +8924,7 @@
         
             ,{
                 "title": "Moon",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -10251,7 +10261,7 @@
         
             ,{
                 "title": "Nowhere Warm",
-                "roles": ["Director","Set Designer"]
+                "roles": ["Playwright","Director","Set Designer"]
             }
         
             ,{
@@ -10408,7 +10418,7 @@
         
             ,{
                 "title": "Edward II",
-                "roles": ["Director","Poster Designer"]
+                "roles": ["Adaptor","Director","Poster Designer"]
             }
         ],
         "committees": [],
@@ -10806,7 +10816,7 @@
         
             ,{
                 "title": "Kiss my neck not my lips",
-                "roles": ["Director","Sound Designer","Poster Designer"]
+                "roles": ["Playwright","Director","Sound Designer","Poster Designer"]
             }
         
             ,{
@@ -11314,7 +11324,7 @@
         
             ,{
                 "title": "Satan on a Sunday",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -11720,12 +11730,12 @@
         
             ,{
                 "title": "The Importance of Being Earnest: A 72 Minute Play made in 72 hrs",
-                "roles": ["Cecily Cardew"]
+                "roles": ["Cecily Cardew","Adaptor"]
             }
         
             ,{
                 "title": "The Escape Room",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -11750,7 +11760,7 @@
         
             ,{
                 "title": "Forgetfulness Therapy",
-                "roles": ["Co-Director"]
+                "roles": ["Playwright","Co-Director"]
             }
         ],
         "committees": [],
@@ -12227,7 +12237,7 @@
         
             ,{
                 "title": "Rumours",
-                "roles": ["Director","Poster Designer"]
+                "roles": ["Playwright","Director","Poster Designer"]
             }
         
             ,{
@@ -12242,7 +12252,7 @@
         
             ,{
                 "title": "The Devil You Know",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -12257,17 +12267,22 @@
         
             ,{
                 "title": "The Devil You Know: A Horror Play",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
+            }
+        
+            ,{
+                "title": "Creating Rumours",
+                "roles": ["Playwright"]
             }
         
             ,{
                 "title": "The Devil You Know: A Horror Play",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "The Devil You Know: A Horror Play",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -12288,7 +12303,7 @@
         "shows": [
             {
                 "title": "Ambergate Reservoir",
-                "roles": ["Director","Poster Designer"]
+                "roles": ["Playwright","Director","Poster Designer"]
             }
         
             ,{
@@ -12298,7 +12313,7 @@
         
             ,{
                 "title": "A Beautiful Thing",
-                "roles": ["Director","Poster Designer"]
+                "roles": ["Playwright","Director","Poster Designer"]
             }
         
             ,{
@@ -12308,7 +12323,7 @@
         
             ,{
                 "title": "Infectious",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -12338,17 +12353,17 @@
         
             ,{
                 "title": "Rising Tides",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "Puck",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "Ophelia",
-                "roles": ["Ophelia"]
+                "roles": ["Ophelia","Playwright"]
             }
         ],
         "committees": [],
@@ -12833,7 +12848,7 @@
         
             ,{
                 "title": "Do I Wanna Know",
-                "roles": ["Director","Poster Design"]
+                "roles": ["Playwright","Director","Poster Design"]
             }
         
             ,{
@@ -13043,7 +13058,7 @@
         
             ,{
                 "title": "Vaginal Discharge",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -13118,7 +13133,7 @@
         
             ,{
                 "title": "The Seagull",
-                "roles": ["Director"]
+                "roles": ["Adaptor","Director"]
             }
         ],
         "committees": [],
@@ -13562,7 +13577,7 @@
         
             ,{
                 "title": "What's Cooking?",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -15031,7 +15046,7 @@
         
             ,{
                 "title": "Room 30",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -15882,7 +15897,7 @@
         
             ,{
                 "title": "Decline / Rise",
-                "roles": ["Co-Director"]
+                "roles": ["Playwright","Co-Director"]
             }
         ],
         "committees": [],
@@ -16163,7 +16178,7 @@
         
             ,{
                 "title": "Our Temple",
-                "roles": ["Director","Sound Designer","Poster Designer"]
+                "roles": ["Playwright","Director","Sound Designer","Poster Designer"]
             }
         
             ,{
@@ -17273,7 +17288,7 @@
         
             ,{
                 "title": "Jack, aged five and a half",
-                "roles": ["Playwright"]
+                "roles": ["Playwright","Playwright"]
             }
         
             ,{
@@ -17283,7 +17298,7 @@
         
             ,{
                 "title": "Mary Shelley's Frankenstein",
-                "roles": ["Director"]
+                "roles": ["Adaptor","Director"]
             }
         
             ,{
@@ -18881,6 +18896,11 @@
                 "title": "The Winterling",
                 "roles": ["Lou"]
             }
+        
+            ,{
+                "title": "The Retreat",
+                "roles": ["Playwright"]
+            }
         ],
         "committees": [],
         "link": "/people/jenni_herzberg/"
@@ -20129,7 +20149,7 @@
         
             ,{
                 "title": "Strangers: Mindreader",
-                "roles": ["Performer","Director"]
+                "roles": ["Performer","Playwright","Director"]
             }
         
             ,{
@@ -20139,7 +20159,7 @@
         
             ,{
                 "title": "Strangers: Pairs",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -20224,7 +20244,7 @@
         
             ,{
                 "title": "Polly: A Drag Rebellion",
-                "roles": ["Polly / Themselves","Producer"]
+                "roles": ["Polly / Themselves","Playwright","Producer"]
             }
         
             ,{
@@ -20855,7 +20875,7 @@
         
             ,{
                 "title": "Uz & Them",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -20880,7 +20900,7 @@
         
             ,{
                 "title": "Breathing Holes",
-                "roles": ["Director","Videographer"]
+                "roles": ["Playwright","Director","Videographer"]
             }
         
             ,{
@@ -20890,7 +20910,7 @@
         
             ,{
                 "title": "Animali Violenti E Caffé In Italia",
-                "roles": [null,"Producer"]
+                "roles": [null,"Playwright","Producer"]
             }
         
             ,{
@@ -20961,7 +20981,7 @@
         
             ,{
                 "title": "Order From Chaos",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -20986,7 +21006,7 @@
         
             ,{
                 "title": "Order From Chaos",
-                "roles": ["Director","Technical Operator"]
+                "roles": ["Playwright","Director","Technical Operator"]
             }
         
             ,{
@@ -20996,12 +21016,12 @@
         
             ,{
                 "title": "Order From Chaos",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "Order From Chaos",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [
@@ -22337,7 +22357,7 @@
         
             ,{
                 "title": "Killer",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -22372,7 +22392,7 @@
         
             ,{
                 "title": "Ebb Tide",
-                "roles": ["Alfred","Director"]
+                "roles": ["Alfred","Playwright","Director"]
             }
         
             ,{
@@ -22388,6 +22408,11 @@
             ,{
                 "title": "As We Like It",
                 "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "Ebb Tide",
+                "roles": ["Playwright"]
             }
         ],
         "committees": [],
@@ -22835,7 +22860,7 @@
         
             ,{
                 "title": "The Great Gatsby",
-                "roles": ["Director","Choreographer"]
+                "roles": ["Adaptor","Director","Choreographer"]
             }
         
             ,{
@@ -22865,17 +22890,17 @@
         
             ,{
                 "title": "The Great Gatsby",
-                "roles": ["Director"]
+                "roles": ["Adaptor","Director"]
             }
         
             ,{
                 "title": "The Great Gatsby",
-                "roles": ["Director"]
+                "roles": ["Adaptor","Director"]
             }
         
             ,{
                 "title": "The Great Gatsby",
-                "roles": ["Director"]
+                "roles": ["Adaptor","Director"]
             }
         
             ,{
@@ -24234,7 +24259,7 @@
         "shows": [
             {
                 "title": "Conviction",
-                "roles": ["Producer"]
+                "roles": ["Playwright","Producer"]
             }
         
             ,{
@@ -24269,7 +24294,7 @@
         
             ,{
                 "title": "Customs",
-                "roles": ["Director","Writer"]
+                "roles": ["Playwright","Director","Writer"]
             }
         
             ,{
@@ -24994,7 +25019,7 @@
         
             ,{
                 "title": "We're Here For Laura",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -25602,12 +25627,12 @@
         
             ,{
                 "title": "Familiar Strangers",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "Madhouse",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [
@@ -26528,7 +26553,7 @@
         
             ,{
                 "title": "Back to Oblivion",
-                "roles": ["Director","Set Designer"]
+                "roles": ["Playwright","Director","Set Designer"]
             }
         
             ,{
@@ -28216,7 +28241,7 @@
         
             ,{
                 "title": "Paper Cranes",
-                "roles": ["Director","Poster Designer"]
+                "roles": ["Playwright","Director","Poster Designer"]
             }
         
             ,{
@@ -28291,7 +28316,7 @@
         
             ,{
                 "title": "Inhabitation",
-                "roles": ["Co-Director","Poster Designer"]
+                "roles": ["Playwright","Co-Director","Poster Designer"]
             }
         
             ,{
@@ -29730,7 +29755,7 @@
         "shows": [
             {
                 "title": "Under the Blacklight",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -29740,7 +29765,7 @@
         
             ,{
                 "title": "Good Morning and Goodbye",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -30192,7 +30217,7 @@
         
             ,{
                 "title": "40%",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -30202,17 +30227,17 @@
         
             ,{
                 "title": "Let's Just Pretend",
-                "roles": ["Director","Set Designer","Poster Designer"]
+                "roles": ["Playwright","Director","Set Designer","Poster Designer"]
             }
         
             ,{
                 "title": "Cheque, Please",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "Cheque, Please",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -30304,7 +30329,7 @@
         
             ,{
                 "title": "Rat King",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -30374,7 +30399,7 @@
         
             ,{
                 "title": "Hello World",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -30731,7 +30756,7 @@
         
             ,{
                 "title": "What Could Be Worse Than Jumping?",
-                "roles": ["Co-Director"]
+                "roles": ["Playwright","Co-Director"]
             }
         
             ,{
@@ -30941,7 +30966,7 @@
         "shows": [
             {
                 "title": "Twice Nightly",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -30951,7 +30976,7 @@
         
             ,{
                 "title": "Lenton Boulevard",
-                "roles": ["Director","Writer"]
+                "roles": ["Playwright","Director","Writer"]
             }
         
             ,{
@@ -31903,7 +31928,7 @@
         
             ,{
                 "title": "Glassy Ceiling, Concrete Flaw",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -32216,17 +32241,17 @@
         
             ,{
                 "title": "Storybook",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "Conventional Demons",
-                "roles": [null]
+                "roles": [null,"Playwright"]
             }
         
             ,{
                 "title": "Plastic Madonna",
-                "roles": [null]
+                "roles": [null,"Playwright"]
             }
         ],
         "committees": [
@@ -34003,7 +34028,7 @@
         
             ,{
                 "title": "Grant Meets Death",
-                "roles": ["Co-Director"]
+                "roles": ["Playwright","Co-Director"]
             }
         
             ,{
@@ -34314,7 +34339,7 @@
         
             ,{
                 "title": "Here, the World Entire",
-                "roles": ["Director"]
+                "roles": ["Adaptor","Director"]
             }
         
             ,{
@@ -35401,7 +35426,7 @@
         "shows": [
             {
                 "title": "The Fairground Years",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -35745,7 +35770,7 @@
         
             ,{
                 "title": "To Become A King Is To Become A Killer",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -36169,7 +36194,7 @@
         
             ,{
                 "title": "Eve and Adam",
-                "roles": ["Co-Director","Sound Designer","Poster Designer"]
+                "roles": ["Playwright","Co-Director","Sound Designer","Poster Designer"]
             }
         
             ,{
@@ -36209,12 +36234,17 @@
         
             ,{
                 "title": "72 in 72: Alice in Wonderland",
-                "roles": ["Technician"]
+                "roles": ["Technician","Technical Operator"]
+            }
+        
+            ,{
+                "title": "Higher",
+                "roles": ["Playwright"]
             }
         
             ,{
                 "title": "A Midsummer Night's Dream",
-                "roles": ["Director"]
+                "roles": ["Adaptor","Director"]
             }
         
             ,{
@@ -36239,7 +36269,7 @@
         
             ,{
                 "title": "Pilgrimage",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -37127,7 +37157,7 @@
         
             ,{
                 "title": "Dark Room",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -37202,7 +37232,7 @@
         
             ,{
                 "title": "The Greatest Thing You've Ever Seen",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -37217,7 +37247,7 @@
         
             ,{
                 "title": "The Ringmaster",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -37292,7 +37322,7 @@
         
             ,{
                 "title": "Apollo: Take 111",
-                "roles": ["Director","Technical Director"]
+                "roles": ["Playwright","Director","Technical Director"]
             }
         ],
         "committees": [],
@@ -37520,7 +37550,7 @@
         
             ,{
                 "title": "Under the Impression",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -38523,7 +38553,7 @@
         
             ,{
                 "title": "A Mixtape Mind",
-                "roles": ["Director","Sound Designer"]
+                "roles": ["Playwright","Director","Sound Designer"]
             }
         ],
         "committees": [],
@@ -39369,6 +39399,11 @@
             }
         
             ,{
+                "title": "The Strong Room",
+                "roles": ["Playwright"]
+            }
+        
+            ,{
                 "title": "The Crucible",
                 "roles": ["Set Construction"]
             }
@@ -39380,7 +39415,7 @@
         
             ,{
                 "title": "Let My People Go",
-                "roles": ["Director","Set"]
+                "roles": ["Playwright","Director","Set"]
             }
         
             ,{
@@ -40360,7 +40395,7 @@
         
             ,{
                 "title": "Beef",
-                "roles": ["Sophia","Writer"]
+                "roles": ["Sophia","Playwright","Writer"]
             }
         ],
         "committees": [
@@ -41707,8 +41742,18 @@
         "award": [],
         "shows": [
             {
+                "title": "Housemates",
+                "roles": ["Playwright"]
+            }
+        
+            ,{
                 "title": "Who Claimed Roger's Habit",
                 "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Housemates",
+                "roles": ["Playwright"]
             }
         
             ,{
@@ -41719,6 +41764,11 @@
             ,{
                 "title": "The Titanics Revue (Sketch Show)",
                 "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Robin Hood Revue",
+                "roles": ["Playwright"]
             }
         ],
         "committees": [
@@ -41776,6 +41826,11 @@
             ,{
                 "title": "Tom Jones",
                 "roles": ["Squire Western"]
+            }
+        
+            ,{
+                "title": "Twice Nightly",
+                "roles": ["Playwright"]
             }
         ],
         "committees": [
@@ -47731,7 +47786,7 @@
         "shows": [
             {
                 "title": "Cal",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -47818,6 +47873,27 @@
     
 
     ,
+    "david_mercer" : {
+        "name": "David Mercer",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1972,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Governor's Lady",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/david_mercer/"
+    }
+    
+
+    ,
     "david_walker" : {
         "name": "David Walker",
         "type": "person",
@@ -47877,7 +47953,7 @@
         "shows": [
             {
                 "title": "Survival",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -47924,6 +48000,27 @@
         ],
         "committees": [],
         "link": "/people/shah_ebrahim/"
+    }
+    
+
+    ,
+    "brent_robinson" : {
+        "name": "Brent Robinson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1972,
+        "award": [],
+        "shows": [
+            {
+                "title": "Solus",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/brent_robinson/"
     }
     
 
@@ -57392,6 +57489,27 @@
     
 
     ,
+    "bill_macilwraith" : {
+        "name": "Bill MacIlwraith",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1977,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Anniversary",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/bill_macilwraith/"
+    }
+    
+
+    ,
     "glen_kinch" : {
         "name": "Glen Kinch",
         "type": "person",
@@ -63750,7 +63868,7 @@
         "shows": [
             {
                 "title": "The Tragedy Of The Invention",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -63771,7 +63889,7 @@
         "shows": [
             {
                 "title": "Loose Knots",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -63818,6 +63936,27 @@
         ],
         "committees": [],
         "link": "/people/anthony_cook/"
+    }
+    
+
+    ,
+    "simon_ellis" : {
+        "name": "Simon Ellis",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1998,
+        "award": [],
+        "shows": [
+            {
+                "title": "In Absentia Amo Te",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/simon_ellis/"
     }
     
 
@@ -70104,7 +70243,7 @@
         
             ,{
                 "title": "Half a Heartbeat",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -71171,7 +71310,7 @@
         "shows": [
             {
                 "title": "The Dragon Botherers",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -71328,7 +71467,7 @@
         "shows": [
             {
                 "title": "The Box",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -73012,27 +73151,27 @@
         
             ,{
                 "title": "Deus Vult",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "Chasing Dragons",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "The Off White Horse",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "Too Far Away",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
                 "title": "The Hand-Me-Down People",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -73445,6 +73584,27 @@
     
 
     ,
+    "cesar_texeira" : {
+        "name": "Cesar Texeira",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2010,
+        "award": [],
+        "shows": [
+            {
+                "title": "Excess",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/cesar_texeira/"
+    }
+    
+
+    ,
     "neil_joseph" : {
         "name": "Neil Joseph",
         "type": "person",
@@ -73781,7 +73941,7 @@
         
             ,{
                 "title": "Tread Softly",
-                "roles": ["DJ","Director"]
+                "roles": ["DJ","Playwright","Director"]
             }
         ],
         "committees": [],
@@ -74624,7 +74784,7 @@
         
             ,{
                 "title": "Becoming A Jackal",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -75583,7 +75743,7 @@
         
             ,{
                 "title": "Accidental Loss of a Baby",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -76000,7 +76160,7 @@
         "shows": [
             {
                 "title": "Disastrous Dates",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -76562,7 +76722,12 @@
         "shows": [
             {
                 "title": "Innocent Infidelity",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
+            }
+        
+            ,{
+                "title": "Porphyria",
+                "roles": ["Playwright"]
             }
         ],
         "committees": [],
@@ -77142,7 +77307,7 @@
         
             ,{
                 "title": "Voice Without Words",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -77714,7 +77879,7 @@
         
             ,{
                 "title": "CLEAN",
-                "roles": ["Director","Set Designer","Publicity Designer"]
+                "roles": ["Playwright","Director","Set Designer","Publicity Designer"]
             }
         ],
         "committees": [],
@@ -77873,6 +78038,27 @@
         ],
         "committees": [],
         "link": "/people/jess_curtis/"
+    }
+    
+
+    ,
+    "debbie_isitt" : {
+        "name": "Debbie Isitt",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2013,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Woman Who Cooked Her Husband",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/debbie_isitt/"
     }
     
 
@@ -80273,7 +80459,7 @@
         "shows": [
             {
                 "title": "Letting Go",
-                "roles": ["Director","Writer"]
+                "roles": ["Playwright","Director","Writer"]
             }
         ],
         "committees": [],
@@ -80679,7 +80865,7 @@
         
             ,{
                 "title": "Electric Nebraska",
-                "roles": ["Producer"]
+                "roles": ["Playwright","Producer"]
             }
         ],
         "committees": [],
@@ -80747,7 +80933,7 @@
         "shows": [
             {
                 "title": "Cracked China",
-                "roles": ["Director","Writer","Producer"]
+                "roles": ["Playwright","Director","Writer","Producer"]
             }
         ],
         "committees": [],
@@ -81833,7 +82019,7 @@
         
             ,{
                 "title": "Reservoir Dogs",
-                "roles": ["Mr Brown","Director"]
+                "roles": ["Mr Brown","Adaptor","Director"]
             }
         
             ,{
@@ -82715,7 +82901,7 @@
         
             ,{
                 "title": "Monarch",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -83955,6 +84141,27 @@
         ],
         "committees": [],
         "link": "/people/virginia_moore/"
+    }
+    
+
+    ,
+    "miriam_dyberg" : {
+        "name": "Miriam Dyberg",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2015,
+        "award": [],
+        "shows": [
+            {
+                "title": "Yours and Mine",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/miriam_dyberg/"
     }
     
 
@@ -86939,6 +87146,27 @@
     
 
     ,
+    "jess_millott" : {
+        "name": "Jess Millott",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2016,
+        "award": [],
+        "shows": [
+            {
+                "title": "Out of Wonderland",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jess_millott/"
+    }
+    
+
+    ,
     "neil_ganatra" : {
         "name": "Neil Ganatra",
         "type": "person",
@@ -88171,6 +88399,27 @@
         ],
         "committees": [],
         "link": "/people/bertie_beeching/"
+    }
+    
+
+    ,
+    "ben_webber" : {
+        "name": "Ben Webber",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2017,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Super Awesome Happy Fun-Time Trick Performance",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ben_webber/"
     }
     
 
@@ -90884,12 +91133,17 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2019,
+        "graduated": null,
         "award": [],
         "shows": [
             {
                 "title": "Freshers' Fringe",
                 "roles": [null]
+            }
+        
+            ,{
+                "title": "2021",
+                "roles": ["Playwright"]
             }
         ],
         "committees": [],
@@ -93189,27 +93443,6 @@
     
 
     ,
-    "tara_prasad" : {
-        "name": "Tara Prasad",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "72 in 72: Alice in Wonderland",
-                "roles": ["Technical Operator"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/tara_prasad/"
-    }
-    
-
-    ,
     "jake_cooney" : {
         "name": "Jake Cooney",
         "type": "person",
@@ -95021,7 +95254,7 @@
         
             ,{
                 "title": "Autumn Showers",
-                "roles": ["Director"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{

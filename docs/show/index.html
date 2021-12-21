@@ -326,6 +326,32 @@
             </td>
         </tr>
         
+        <tr id="playwright_false" class="
+                   ">
+            <td>
+                <code class="def-table-attr__attr-name">playwright_false</code><br />
+                boolean
+            </td>
+            <td>Exclude student playwright from crew list</td>
+            <td>
+                <p>Only used when <code class="highlighter-rouge">student_written: true</code>. Excludes the student adaptor, translator, or playwright from the crew list.</p>
+
+            </td>
+        </tr>
+        
+        <tr id="playwright_alias" class="
+                   ">
+            <td>
+                <code class="def-table-attr__attr-name">playwright_alias</code><br />
+                string
+            </td>
+            <td>Student name of the playwright</td>
+            <td>
+                <p>Student playwrights occasionally use aliases to write under. Use their student name here to ensure attribution is given in the crew list.</p>
+
+            </td>
+        </tr>
+        
         <tr id="devised" class="
                    ">
             <td>
@@ -438,7 +464,7 @@
             </td>
             <td>Show written by a NNT member</td>
             <td>
-                <p>Set to <code class="highlighter-rouge">true</code>; <code class="highlighter-rouge">false</code> or line missing are equivalent.</p>
+                <p>Set to <code class="highlighter-rouge">true</code>; <code class="highlighter-rouge">false</code> or line missing are equivalent. In order of precedence, the adaptor, translator, or playwright are then given a role in the crew list. Suppress this behaviour with <code class="highlighter-rouge">playwright_false</code></p>
 
             </td>
         </tr>
