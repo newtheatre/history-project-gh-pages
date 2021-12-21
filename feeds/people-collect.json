@@ -34376,6 +34376,11 @@
                 "title": "Dead Meat",
                 "roles": ["Lighting Designer"]
             }
+        
+            ,{
+                "title": "Familiar Strangers",
+                "roles": ["Captioner"]
+            }
         ],
         "committees": [
             {
@@ -96163,27 +96168,6 @@
         ],
         "committees": [],
         "link": "/people/shayla_dimaano/"
-    }
-    
-
-    ,
-    "sam_osbourne" : {
-        "name": "Sam Osbourne",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Familiar Strangers",
-                "roles": ["Captioner"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/sam_osbourne/"
     }
     
 
