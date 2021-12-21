@@ -16570,6 +16570,16 @@
                 "title": "Fringe Shows Cancelled due to Covid-19",
                 "roles": ["Poster Designer","Publicity Assistant","Sound Designer"]
             }
+        
+            ,{
+                "title": "Far Apart",
+                "roles": ["Creative Assistant","Captioner"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Publicity Assistant","Sound Designer"]
+            }
         ],
         "committees": [
             {
@@ -96042,32 +96052,6 @@
         ],
         "committees": [],
         "link": "/people/gabrielle_teriaca/"
-    }
-    
-
-    ,
-    "izzy_de_bono" : {
-        "name": "Izzy De Bono",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Far Apart",
-                "roles": ["Creative Assistant","Captioner"]
-            }
-        
-            ,{
-                "title": "When Sally Met Gary, Henry, Harry",
-                "roles": ["Publicity Assistant","Sound Designer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/izzy_de_bono/"
     }
     
 
