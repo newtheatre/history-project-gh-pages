@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2022-02-16 23:26.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2022-02-23 11:16.*
 
 
 
@@ -25,6 +25,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Christopher Wix](https://history.newtheatre.org.uk/people/christopher_wix/)
 - [ ] [Claire Hobbs](https://history.newtheatre.org.uk/people/claire_hobbs/)
 - [ ] [David Trennery](https://history.newtheatre.org.uk/people/david_trennery/)
+- [ ] [David Whalley](https://history.newtheatre.org.uk/people/david_whalley/)
 - [ ] [Elle O'Rorke](https://history.newtheatre.org.uk/people/elle_ororke/)
 - [ ] [Ellie Colyer](https://history.newtheatre.org.uk/people/ellie_colyer/)
 - [x] [Ellie Eagleton](https://history.newtheatre.org.uk/people/ellie_eagleton/)
@@ -35,6 +36,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Emma Begg](https://history.newtheatre.org.uk/people/emma_begg/)
 - [ ] [Emma Dearden](https://history.newtheatre.org.uk/people/emma_dearden/)
 - [ ] [Emma Rutherford](https://history.newtheatre.org.uk/people/emma_rutherford/)
+- [x] [Emma White](https://history.newtheatre.org.uk/people/emma_white/)
 - [ ] [Florence Avis](https://history.newtheatre.org.uk/people/florence_avis/)
 - [ ] [Florence Sandford-Richardson](https://history.newtheatre.org.uk/people/florence_sandford-richardson/)
 - [ ] [Gemma Robinson](https://history.newtheatre.org.uk/people/gemma_robinson/)

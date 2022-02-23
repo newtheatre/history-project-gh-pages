@@ -9161,7 +9161,12 @@
         "course": null,
         "graduated": 1993,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Director"]
+            }
+        ],
         "committees": [],
         "link": "/people/david_storlie/"
     }
@@ -9316,6 +9321,27 @@
             }
         ],
         "link": "/people/david_trennery/"
+    }
+    
+
+    ,
+    "david_whalley" : {
+        "name": "David Whalley",
+        "type": "person",
+        "excerpt": "PhD in Chemistry at University of Manchester\n\nResearch Associate University of Cambridge\n",
+        "bio": "PhD in Chemistry at University of Manchester\n\nResearch Associate University of Cambridge\n",
+        
+        "course": ["Chemistry"],
+        "graduated": 2014,
+        "award": [],
+        "shows": [
+            {
+                "title": "Romeo and Juliet",
+                "roles": ["Balthasar"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/david_whalley/"
     }
     
 
@@ -12294,10 +12320,10 @@
     "emma_white" : {
         "name": "Emma White",
         "type": "person",
-        "excerpt": "\n",
-        "bio": "\n",
+        "excerpt": "I am a playwright and theatre-maker writing for theatre and radio.\n\nBest New Writing, Best Fringe Director and Best Fringe Show - Ambergate Reservoir (2015/16)\n\nBest Fringe Director - Infectious (2016/17)\n",
+        "bio": "I am a playwright and theatre-maker writing for theatre and radio.\n\nBest New Writing, Best Fringe Director and Best Fringe Show - Ambergate Reservoir (2015/16)\n\nBest Fringe Director - Infectious (2016/17)\n",
         "poster_thumb_tag": "<a href='/people/emma_white/'><img src='https://photos.smugmug.com/photos/i-VfWBmK8/0/140x140!/i-VfWBmK8-140x140!.jpg' class='search-result-poster-thumb' alt='Emma White' /></a>",
-        "course": null,
+        "course": "English BA",
         "graduated": 2017,
         "award": [],
         "shows": [
@@ -12883,6 +12909,27 @@
             }
         ],
         "link": "/people/felicity_chilver/"
+    }
+    
+
+    ,
+    "filipa_braganca" : {
+        "name": "Filipa Braganca",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": null,
+        "graduated": 2013,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Last of the Haussmans",
+                "roles": ["Libby"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/filipa_braganca/"
     }
     
 
@@ -58677,6 +58724,53 @@
     
 
     ,
+    "kate_mcintyre" : {
+        "name": "Kate McIntyre",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Rocky Horror Show",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "West Side Story",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/kate_mcintyre/"
+    }
+    
+
+    ,
+    "rachel_bill" : {
+        "name": "Rachel Bill",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1994,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Rocky Horror Show",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rachel_bill/"
+    }
+    
+
+    ,
     "andrew_muir" : {
         "name": "Andrew Muir",
         "type": "person",
@@ -59253,27 +59347,6 @@
         ],
         "committees": [],
         "link": "/people/malcolm_rothera/"
-    }
-    
-
-    ,
-    "kate_mcintyre" : {
-        "name": "Kate McIntyre",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1995,
-        "award": [],
-        "shows": [
-            {
-                "title": "West Side Story",
-                "roles": ["Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/kate_mcintyre/"
     }
     
 
@@ -78107,27 +78180,6 @@
     
 
     ,
-    "filipa_braganca" : {
-        "name": "Filipa Braganca",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2013,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Last of the Haussmans",
-                "roles": ["Libby"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/filipa_braganca/"
-    }
-    
-
-    ,
     "jessica_lester" : {
         "name": "Jessica Lester",
         "type": "person",
@@ -80534,27 +80586,6 @@
         ],
         "committees": [],
         "link": "/people/katy_roe/"
-    }
-    
-
-    ,
-    "david_whalley" : {
-        "name": "David Whalley",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2014,
-        "award": [],
-        "shows": [
-            {
-                "title": "Romeo and Juliet",
-                "roles": ["Balthasar"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/david_whalley/"
     }
     
 
@@ -96741,6 +96772,27 @@
             }
         ],
         "link": "/people/timothy_haughton/"
+    }
+    
+
+    ,
+    "alec_jessel" : {
+        "name": "Alec Jessel",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1983,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "1982-83",
+                "roles": ["Publicity Officer"]
+            }
+        ],
+        "link": "/people/alec_jessel/"
     }
     
 
