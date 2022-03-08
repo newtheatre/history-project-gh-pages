@@ -94150,6 +94150,37 @@
     
 
     ,
+    "lauren_birks" : {
+        "name": "Lauren Birks",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "To Become A King Is To Become A Killer",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "La Casa de Bernarda Alba",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Shadow Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lauren_birks/"
+    }
+    
+
+    ,
     "jenny_kendall" : {
         "name": "Jenny Kendall",
         "type": "person",
@@ -94443,32 +94474,6 @@
         ],
         "committees": [],
         "link": "/people/jesse_rough/"
-    }
-    
-
-    ,
-    "lauren_birks" : {
-        "name": "Lauren Birks",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "La Casa de Bernarda Alba",
-                "roles": ["Shadow Director"]
-            }
-        
-            ,{
-                "title": "When Sally Met Gary, Henry, Harry",
-                "roles": ["Shadow Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/lauren_birks/"
     }
     
 
