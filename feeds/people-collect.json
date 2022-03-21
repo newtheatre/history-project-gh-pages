@@ -2568,6 +2568,11 @@
             }
         
             ,{
+                "title": "Lysistrata",
+                "roles": ["Set Builder"]
+            }
+        
+            ,{
                 "title": "Plastic Madonna",
                 "roles": ["Director"]
             }
@@ -5595,6 +5600,11 @@
                 "title": "Macbeth",
                 "roles": ["Witch"]
             }
+        
+            ,{
+                "title": "Lysistrata",
+                "roles": ["Kalonike","Third Woman"]
+            }
         ],
         "committees": [],
         "link": "/people/caroline_warburton/"
@@ -7270,7 +7280,7 @@
         
             ,{
                 "title": "Lysistrata",
-                "roles": [null]
+                "roles": ["Lighting Director"]
             }
         ],
         "committees": [
@@ -9286,7 +9296,7 @@
         
             ,{
                 "title": "Lysistrata",
-                "roles": ["Chorus"]
+                "roles": ["Male Chorus","Athenian"]
             }
         
             ,{
@@ -15647,7 +15657,7 @@
         "type": "person",
         "excerpt": "\n",
         "bio": "\n",
-        
+        "poster_thumb_tag": "<a href='/people/helena_hunt/'><img src='https://photos.smugmug.com/photos/i-k8Hfscf/0/140x140!/i-k8Hfscf-140x140!.jpg' class='search-result-poster-thumb' alt='Helena Hunt' /></a>",
         "course": "BA International Relations and Asian Studies",
         "graduated": 2022,
         "award": [],
@@ -18784,7 +18794,7 @@
         "type": "person",
         "excerpt": "\n",
         "bio": "\n",
-        
+        "poster_thumb_tag": "<a href='/people/jasmine_butler/'><img src='https://photos.smugmug.com/photos/i-Z2hHG7X/0/140x140!/i-Z2hHG7X-140x140!.jpg' class='search-result-poster-thumb' alt='Jasmine Butler' /></a>",
         "course": null,
         "graduated": null,
         "award": [],
@@ -20602,7 +20612,7 @@
         "type": "person",
         "excerpt": "After leaving uni in 76 I went into rep at Leatherhead as an electrician/Lighting Designer, continuing the pyromania on the panto and almost burning down the theatre. I then joined CCT Theatre Lighting where I spent 10yrs as Technical Director, designing lighting equipment as seen in Abba’s “Super Trouper”, Human...",
         "bio": "After leaving uni in 76 I went into rep at Leatherhead as an electrician/Lighting Designer, continuing the pyromania on the panto and almost burning down the theatre.\n\nI then joined CCT Theatre Lighting where I spent 10yrs as Technical Director, designing lighting equipment as seen in Abba’s “Super Trouper”, Human League’s “Don’t You Want Me”, “Cats”, a Joe Jackson tour and much of the first fit out of the National Theatre.\n\nI continued to light shows such as Stephen Poliakoff’s “American Days” at the ICA with Antony Sher, Toyah, Phil Daniels and Mel Smith; Michael Meyer’s “Lunatic and Lover” at The Old Red Lion with Miles Anderson and Jonathan Kydd; and a Tom Robinson tour which included 2-4-6-8 Motorway which gave me the idea for another sheetmetal patent for rotating the gobos used to project the four numbers.\n\nThen I left the biz in 86 and became an Engineering and Management Consultant, eventually at Logica for 18yrs. Finally I went into software QA with Jive. Most recently in my semi-retirement I’ve been fighting Brexit.\n",
-        
+        "poster_thumb_tag": "<a href='/people/john_schwiller/'><img src='https://photos.smugmug.com/photos/i-MWHhXbK/0/140x140!/i-MWHhXbK-140x140!.jpg' class='search-result-poster-thumb' alt='John Schwiller' /></a>",
         "course": ["Physics"],
         "graduated": 1976,
         "award": [],
@@ -21932,7 +21942,7 @@
         "type": "person",
         "excerpt": "\n",
         "bio": "\n",
-        
+        "poster_thumb_tag": "<a href='/people/kate_ogorman/'><img src='https://photos.smugmug.com/photos/i-6rvnKXp/0/140x140!/i-6rvnKXp-140x140!.jpg' class='search-result-poster-thumb' alt='Kate O'Gorman' /></a>",
         "course": null,
         "graduated": 2019,
         "award": [],
@@ -42429,12 +42439,17 @@
         "bio": "",
         
         "course": null,
-        "graduated": 1960,
+        "graduated": 1995,
         "award": [],
         "shows": [
             {
                 "title": "The Caine Mutiny Court Martial",
                 "roles": ["Stenographer"]
+            }
+        
+            ,{
+                "title": "Lysistrata",
+                "roles": ["Set Builder"]
             }
         ],
         "committees": [],
@@ -58743,6 +58758,11 @@
                 "title": "West Side Story",
                 "roles": ["Director"]
             }
+        
+            ,{
+                "title": "Lysistrata",
+                "roles": ["Lampito","First Woman"]
+            }
         ],
         "committees": [],
         "link": "/people/kate_mcintyre/"
@@ -58757,12 +58777,22 @@
         "bio": "",
         
         "course": null,
-        "graduated": 1994,
+        "graduated": 1995,
         "award": [],
         "shows": [
             {
                 "title": "The Rocky Horror Show",
                 "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Gentlewoman"]
+            }
+        
+            ,{
+                "title": "Lysistrata",
+                "roles": ["Stage Manager","Props"]
             }
         ],
         "committees": [],
@@ -59323,6 +59353,11 @@
                 "title": "Macbeth",
                 "roles": ["Stage Manager"]
             }
+        
+            ,{
+                "title": "Lysistrata",
+                "roles": ["Male Chorus","Guard","Sentry","Manes"]
+            }
         ],
         "committees": [],
         "link": "/people/andrew_batty/"
@@ -59600,6 +59635,11 @@
                 "title": "Macbeth",
                 "roles": ["Poster Design"]
             }
+        
+            ,{
+                "title": "Lysistrata",
+                "roles": ["Kinesias","Guard"]
+            }
         ],
         "committees": [],
         "link": "/people/adam_mccreight/"
@@ -59688,6 +59728,11 @@
             ,{
                 "title": "Macbeth",
                 "roles": ["Prop / Set Construction"]
+            }
+        
+            ,{
+                "title": "Lysistrata",
+                "roles": ["Set Design","Set Builder"]
             }
         ],
         "committees": [],
@@ -59817,6 +59862,11 @@
             }
         
             ,{
+                "title": "Lysistrata",
+                "roles": ["Commissioner"]
+            }
+        
+            ,{
                 "title": "Frankenstein",
                 "roles": ["Ernst"]
             }
@@ -59924,6 +59974,11 @@
             {
                 "title": "Macbeth",
                 "roles": ["Rosse"]
+            }
+        
+            ,{
+                "title": "Lysistrata",
+                "roles": ["Male Chorus","Guard","Citizen"]
             }
         ],
         "committees": [],
@@ -60051,30 +60106,14 @@
                 "title": "Macbeth",
                 "roles": ["Doctor"]
             }
-        ],
-        "committees": [],
-        "link": "/people/sonja_webb/"
-    }
-    
-
-    ,
-    "rachel__webb" : {
-        "name": "Rachel  Webb",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
         
-        "course": null,
-        "graduated": 1995,
-        "award": [],
-        "shows": [
-            {
-                "title": "Macbeth",
-                "roles": ["Gentlewoman"]
+            ,{
+                "title": "Lysistrata",
+                "roles": ["Female Chorus","Boiotian"]
             }
         ],
         "committees": [],
-        "link": "/people/rachel__webb/"
+        "link": "/people/sonja_webb/"
     }
     
 
@@ -60155,6 +60194,11 @@
             {
                 "title": "Macbeth",
                 "roles": ["Music Composition / Direction"]
+            }
+        
+            ,{
+                "title": "Lysistrata",
+                "roles": ["Male Chorus","Spartan Herald"]
             }
         ],
         "committees": [],
@@ -60390,6 +60434,363 @@
         ],
         "committees": [],
         "link": "/people/ashton_gray/"
+    }
+    
+
+    ,
+    "lucy_telfer" : {
+        "name": "Lucy Telfer",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Lysistrata","Publicity"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lucy_telfer/"
+    }
+    
+
+    ,
+    "rebecca_klug" : {
+        "name": "Rebecca Klug",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Myrrhine","Female Chorus","Second Woman"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rebecca_klug/"
+    }
+    
+
+    ,
+    "lucy_capon" : {
+        "name": "Lucy Capon",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Chorus Leader","Chorus Leader"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lucy_capon/"
+    }
+    
+
+    ,
+    "kim_liepert" : {
+        "name": "Kim Liepert",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Female Chorus"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/kim_liepert/"
+    }
+    
+
+    ,
+    "jenny_mainland" : {
+        "name": "Jenny Mainland",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Female Chorus"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jenny_mainland/"
+    }
+    
+
+    ,
+    "mandy_williamson" : {
+        "name": "Mandy Williamson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Female Chorus"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/mandy_williamson/"
+    }
+    
+
+    ,
+    "anneke_wright" : {
+        "name": "Anneke Wright",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Female Chorus"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/anneke_wright/"
+    }
+    
+
+    ,
+    "harvey_burgess" : {
+        "name": "Harvey Burgess",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Male Chorus","Guard","Spartan Ambassador"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/harvey_burgess/"
+    }
+    
+
+    ,
+    "john_bateman" : {
+        "name": "John Bateman",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Baby","Co-Director","Set Builder"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/john_bateman/"
+    }
+    
+
+    ,
+    "tasha_boyd" : {
+        "name": "Tasha Boyd",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Assistant Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/tasha_boyd/"
+    }
+    
+
+    ,
+    "rachel_mccormack" : {
+        "name": "Rachel McCormack",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Costumes"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rachel_mccormack/"
+    }
+    
+
+    ,
+    "eleanor_brookes" : {
+        "name": "Eleanor Brookes",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Costumes"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/eleanor_brookes/"
+    }
+    
+
+    ,
+    "nikki_calderwood" : {
+        "name": "Nikki Calderwood",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Costumes"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nikki_calderwood/"
+    }
+    
+
+    ,
+    "lisa_hadwin" : {
+        "name": "Lisa Hadwin",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Lighting Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lisa_hadwin/"
+    }
+    
+
+    ,
+    "daniel_quinlan" : {
+        "name": "Daniel Quinlan",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Set Builder"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/daniel_quinlan/"
+    }
+    
+
+    ,
+    "naomi_liberman" : {
+        "name": "Naomi Liberman",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Set Builder"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/naomi_liberman/"
+    }
+    
+
+    ,
+    "emma_heasman" : {
+        "name": "Emma Heasman",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1995,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lysistrata",
+                "roles": ["Hair Design"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/emma_heasman/"
     }
     
 

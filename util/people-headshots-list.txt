@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2022-03-08 20:08.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2022-03-21 21:31.*
 
 
 
@@ -42,7 +42,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Gemma Robinson](https://history.newtheatre.org.uk/people/gemma_robinson/)
 - [ ] [George Waring](https://history.newtheatre.org.uk/people/george_waring/)
 - [x] [Heather Peace](https://history.newtheatre.org.uk/people/heather_peace/)
-- [ ] [Helena Hunt](https://history.newtheatre.org.uk/people/helena_hunt/)
+- [x] [Helena Hunt](https://history.newtheatre.org.uk/people/helena_hunt/)
 - [x] [Hugh Purves](https://history.newtheatre.org.uk/people/hugh_purves/)
 - [x] [Ian Sheard](https://history.newtheatre.org.uk/people/ian_sheard/)
 - [x] [Jack Ellis](https://history.newtheatre.org.uk/people/jack_ellis/)
@@ -57,7 +57,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Jessica Hutchings](https://history.newtheatre.org.uk/people/jessica_hutchings/)
 - [ ] [Jo Harris](https://history.newtheatre.org.uk/people/jo_harris/)
 - [ ] [John Haseler](https://history.newtheatre.org.uk/people/john_haseler/)
-- [ ] [John Schwiller](https://history.newtheatre.org.uk/people/john_schwiller/)
+- [x] [John Schwiller](https://history.newtheatre.org.uk/people/john_schwiller/)
 - [x] [Jon Davison](https://history.newtheatre.org.uk/people/jon_davison/)
 - [x] [Jonathan Taylor Davies](https://history.newtheatre.org.uk/people/jonathan_taylor_davies/)
 - [x] [Joseph Heil](https://history.newtheatre.org.uk/people/joseph_heil/)
