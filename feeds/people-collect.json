@@ -1247,13 +1247,13 @@
             }
         
             ,{
-                "title": "SPRING",
-                "roles": ["Producer"]
+                "title": "Misorientation",
+                "roles": ["Playwright","Director"]
             }
         
             ,{
-                "title": "Misorientation",
-                "roles": ["Playwright","Director"]
+                "title": "SPRING",
+                "roles": ["Producer"]
             }
         
             ,{
@@ -3148,13 +3148,13 @@
             }
         
             ,{
-                "title": "SPRING",
-                "roles": ["Mr. Zundenschlag / Mr. Wedekind / Dr. Lemonade"]
+                "title": "Cinnamon Tea",
+                "roles": ["I Voted Conservative"]
             }
         
             ,{
-                "title": "Cinnamon Tea",
-                "roles": ["I Voted Conservative"]
+                "title": "SPRING",
+                "roles": ["Mr. Zundenschlag / Mr. Wedekind / Dr. Lemonade"]
             }
         
             ,{
@@ -5160,7 +5160,7 @@
         
             ,{
                 "title": "Accelerate",
-                "roles": ["Sound Editor and Designer"]
+                "roles": ["Sound Editor","Sound Designer"]
             }
         
             ,{
@@ -11121,11 +11121,6 @@
             }
         
             ,{
-                "title": "AWAKENING",
-                "roles": ["Producer"]
-            }
-        
-            ,{
                 "title": "Cinnamon Tea",
                 "roles": ["My Heart is in a Lot of Places"]
             }
@@ -11133,6 +11128,11 @@
             ,{
                 "title": "Misorientation",
                 "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "AWAKENING",
+                "roles": ["Producer"]
             }
         
             ,{
@@ -11223,7 +11223,7 @@
         
             ,{
                 "title": "Speaking Solo",
-                "roles": ["Writer"]
+                "roles": ["Playwright"]
             }
         
             ,{
@@ -17444,13 +17444,13 @@
             }
         
             ,{
-                "title": "AWAKENING",
-                "roles": ["Director"]
+                "title": "Reverie",
+                "roles": ["Reegan"]
             }
         
             ,{
-                "title": "Reverie",
-                "roles": ["Reegan"]
+                "title": "AWAKENING",
+                "roles": ["Director"]
             }
         
             ,{
@@ -19236,7 +19236,7 @@
         
             ,{
                 "title": "[The Fall of] Julius Caesar",
-                "roles": ["Director"]
+                "roles": ["Adaptor","Director"]
             }
         
             ,{
@@ -22612,13 +22612,13 @@
             }
         
             ,{
-                "title": "SPRING",
-                "roles": ["Martha Zundenschlag"]
+                "title": "Cinnamon Tea",
+                "roles": ["Clair de Lune"]
             }
         
             ,{
-                "title": "Cinnamon Tea",
-                "roles": ["Clair de Lune"]
+                "title": "SPRING",
+                "roles": ["Martha Zundenschlag"]
             }
         
             ,{
@@ -24383,13 +24383,13 @@
             }
         
             ,{
-                "title": "SPRING",
-                "roles": ["Assistant Director"]
+                "title": "Reverie",
+                "roles": ["Producer"]
             }
         
             ,{
-                "title": "Reverie",
-                "roles": ["Producer"]
+                "title": "SPRING",
+                "roles": ["Assistant Director"]
             }
         ],
         "committees": [
@@ -36089,11 +36089,6 @@
             }
         
             ,{
-                "title": "SPRING",
-                "roles": ["Producer"]
-            }
-        
-            ,{
                 "title": "Reverie",
                 "roles": ["Captioner"]
             }
@@ -36101,6 +36096,11 @@
             ,{
                 "title": "Misorientation",
                 "roles": ["Producer","Script Editor"]
+            }
+        
+            ,{
+                "title": "SPRING",
+                "roles": ["Producer"]
             }
         
             ,{
@@ -36115,7 +36115,7 @@
         
             ,{
                 "title": "Familiar Strangers",
-                "roles": ["Assistant Video Editor","Graphics Designer"]
+                "roles": ["Assistant Video Editor","Graphic Designer"]
             }
         
             ,{
@@ -36190,13 +36190,13 @@
             }
         
             ,{
-                "title": "AWAKENING",
-                "roles": ["Isle Franz"]
+                "title": "I Think He Was Called Rosalind",
+                "roles": ["Rosalind"]
             }
         
             ,{
-                "title": "I Think He Was Called Rosalind",
-                "roles": ["Rosalind"]
+                "title": "AWAKENING",
+                "roles": ["Isle Franz"]
             }
         
             ,{
@@ -37140,16 +37140,6 @@
             }
         
             ,{
-                "title": "SPRING",
-                "roles": ["Playwright","Director"]
-            }
-        
-            ,{
-                "title": "AWAKENING",
-                "roles": ["Playwright"]
-            }
-        
-            ,{
                 "title": "Reverie",
                 "roles": ["Publicity Assistant"]
             }
@@ -37157,6 +37147,16 @@
             ,{
                 "title": "I Think He Was Called Rosalind",
                 "roles": ["Playwright","Director"]
+            }
+        
+            ,{
+                "title": "SPRING",
+                "roles": ["Playwright","Director"]
+            }
+        
+            ,{
+                "title": "AWAKENING",
+                "roles": ["Playwright"]
             }
         
             ,{
@@ -40025,11 +40025,6 @@
             }
         
             ,{
-                "title": "SPRING",
-                "roles": ["Producer"]
-            }
-        
-            ,{
                 "title": "Cinnamon Tea",
                 "roles": ["Captioner"]
             }
@@ -40040,13 +40035,18 @@
             }
         
             ,{
+                "title": "SPRING",
+                "roles": ["Producer"]
+            }
+        
+            ,{
                 "title": "Familiar Strangers",
                 "roles": ["Captioner"]
             }
         
             ,{
                 "title": "When Sally Met Gary, Henry, Harry",
-                "roles": ["Graphic Designer","Trailer Editor"]
+                "roles": ["Graphic Designer","Video Editor"]
             }
         ],
         "committees": [
@@ -95081,6 +95081,52 @@
     
 
     ,
+    "lauren_birks" : {
+        "name": "Lauren Birks",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "To Become A King Is To Become A Killer",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "La Casa de Bernarda Alba",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Goblin Market",
+                "roles": ["Deputy Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lauren_birks/"
+    }
+    
+
+    ,
     "adriana_dvorakove" : {
         "name": "Adriana Dvorakove",
         "type": "person",
@@ -95962,47 +96008,6 @@
     
 
     ,
-    "lauren_birks" : {
-        "name": "Lauren Birks",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "To Become A King Is To Become A Killer",
-                "roles": ["Shadow Director"]
-            }
-        
-            ,{
-                "title": "La Casa de Bernarda Alba",
-                "roles": ["Shadow Director"]
-            }
-        
-            ,{
-                "title": "When Sally Met Gary, Henry, Harry",
-                "roles": ["Shadow Director"]
-            }
-        
-            ,{
-                "title": "Freshers' Fringe",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Goblin Market",
-                "roles": ["Deputy Stage Manager"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/lauren_birks/"
-    }
-    
-
-    ,
     "jenny_kendall" : {
         "name": "Jenny Kendall",
         "type": "person",
@@ -96114,7 +96119,7 @@
         
             ,{
                 "title": "Monkey",
-                "roles": ["Cameraman"]
+                "roles": ["Camera Operator"]
             }
         ],
         "committees": [],
@@ -96566,7 +96571,7 @@
         
             ,{
                 "title": "Speaking Solo",
-                "roles": ["Writer"]
+                "roles": ["Playwright"]
             }
         
             ,{
@@ -96737,7 +96742,7 @@
         
             ,{
                 "title": "Speaking Solo",
-                "roles": ["Writer"]
+                "roles": ["Playwright"]
             }
         
             ,{
@@ -98320,7 +98325,7 @@
         "shows": [
             {
                 "title": "What Could Be Worse Than Jumping?",
-                "roles": ["Original Music Composer"]
+                "roles": ["Composer"]
             }
         ],
         "committees": [],
@@ -98451,7 +98456,7 @@
         "shows": [
             {
                 "title": "Speaking Solo",
-                "roles": ["Writer"]
+                "roles": ["Playwright"]
             }
         
             ,{
@@ -100168,8 +100173,8 @@
     
 
     ,
-    "alex_hogg" : {
-        "name": "Alex Hogg",
+    "alexendra_hogg" : {
+        "name": "Alexendra Hogg",
         "type": "person",
         "excerpt": "",
         "bio": "",
@@ -100184,7 +100189,7 @@
             }
         ],
         "committees": [],
-        "link": "/people/alex_hogg/"
+        "link": "/people/alexendra_hogg/"
     }
     
 
