@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2022-12-10 15:58.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2022-12-10 15:59.*
 
 
 
@@ -89,6 +89,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Robert Bradley](https://history.newtheatre.org.uk/people/robert_bradley/)
 - [ ] [Robyn Lawes](https://history.newtheatre.org.uk/people/robyn_lawes/)
 - [x] [Rohan Rakhit](https://history.newtheatre.org.uk/people/rohan_rakhit/)
+- [x] [Ronan Sullivan](https://history.newtheatre.org.uk/people/ronan_sullivan/)
 - [ ] [Rose Eccleshare](https://history.newtheatre.org.uk/people/rose_eccleshare/)
 - [x] [Sam Osborne](https://history.newtheatre.org.uk/people/sam_osborne/)
 - [ ] [Sarah Payler](https://history.newtheatre.org.uk/people/sarah_payler/)

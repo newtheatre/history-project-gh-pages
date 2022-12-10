@@ -33829,8 +33829,8 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/ronan_sullivan/'><img src='https://photos.smugmug.com/photos/i-P8FMLtm/0/140x140!/i-P8FMLtm-140x140!.jpg' class='search-result-poster-thumb' alt='Ronan Sullivan' /></a>",
-        "course": null,
-        "graduated": 2018,
+        "course": ["English"],
+        "graduated": 2021,
         "award": [],
         "shows": [
             {
