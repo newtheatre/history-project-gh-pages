@@ -5203,6 +5203,11 @@
                 "title": "2021-22",
                 "roles": ["Creatives Coordinator and Engagement Officer"]
             }
+        
+            ,{
+                "title": "2022-23",
+                "roles": ["IT Manager"]
+            }
         ],
         "link": "/people/caetano_capurro/"
     }
@@ -9662,6 +9667,11 @@
             {
                 "title": "2021-22",
                 "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "2022-23",
+                "roles": ["Secretary"]
             }
         ],
         "link": "/people/demi_idowu/"
@@ -17940,6 +17950,11 @@
                 "title": "2021-22",
                 "roles": ["Technical Manager"]
             }
+        
+            ,{
+                "title": "2022-23",
+                "roles": ["Technical Manager"]
+            }
         ],
         "link": "/people/james_appleby/"
     }
@@ -19263,6 +19278,11 @@
             {
                 "title": "2021-22",
                 "roles": ["Company Stage Manager"]
+            }
+        
+            ,{
+                "title": "2022-23",
+                "roles": ["President"]
             }
         ],
         "link": "/people/jasmine_butler/"
@@ -22656,7 +22676,12 @@
                 "roles": ["Bobbie"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Publicity Manager"]
+            }
+        ],
         "link": "/people/katie_booth/"
     }
     
@@ -42089,6 +42114,492 @@
             }
         ],
         "link": "/people/tom_gladstone/"
+    }
+    
+
+    ,
+    "adam_phillips" : {
+        "name": "Adam Phillips",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null,null]
+            }
+        
+            ,{
+                "title": "The Bacchae",
+                "roles": ["Lighting Designer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Treasurer"]
+            }
+        ],
+        "link": "/people/adam_phillips/"
+    }
+    
+
+    ,
+    "sophie_walters" : {
+        "name": "Sophie Walters",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "The Importance of Being Earnest",
+                "roles": ["Cecily Cardew"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Front of House Manager"]
+            }
+        ],
+        "link": "/people/sophie_walters/"
+    }
+    
+
+    ,
+    "jen_tucker" : {
+        "name": "Jen Tucker",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["In-House Coordinator"]
+            }
+        ],
+        "link": "/people/jen_tucker/"
+    }
+    
+
+    ,
+    "nay_dhanak" : {
+        "name": "Nay Dhanak",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Bacchae",
+                "roles": ["Assistant Director","Dramaturg"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Fringe Coordinator"]
+            }
+        ],
+        "link": "/people/nay_dhanak/"
+    }
+    
+
+    ,
+    "millie_rushworth" : {
+        "name": "Millie Rushworth",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Mushy Peas",
+                "roles": ["Mai"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["External Relations Manager"]
+            }
+        ],
+        "link": "/people/millie_rushworth/"
+    }
+    
+
+    ,
+    "rosie_loader" : {
+        "name": "Rosie Loader",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "River",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "An Evening With _____",
+                "roles": ["Shadow Director","Voice Actor"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Publicity Manager"]
+            }
+        ],
+        "link": "/people/rosie_loader/"
+    }
+    
+
+    ,
+    "emily_stribbling" : {
+        "name": "Emily Stribbling",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "The Bacchae",
+                "roles": ["Servant"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Social and Fundraising Coordinator"]
+            }
+        ],
+        "link": "/people/emily_stribbling/"
+    }
+    
+
+    ,
+    "william_morgan" : {
+        "name": "William Morgan",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Eagles, Give Me Your Wings",
+                "roles": ["Janusz Sawicki"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Theatre Manager"]
+            }
+        ],
+        "link": "/people/william_morgan/"
+    }
+    
+
+    ,
+    "lauren_birks" : {
+        "name": "Lauren Birks",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "To Become A King Is To Become A Killer",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "La Casa de Bernarda Alba",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Goblin Market",
+                "roles": ["Deputy Stage Manager"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Company Stage Manager"]
+            }
+        ],
+        "link": "/people/lauren_birks/"
+    }
+    
+
+    ,
+    "aigail_kitwood" : {
+        "name": "Aigail Kitwood",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Company Stage Manager"]
+            }
+        ],
+        "link": "/people/aigail_kitwood/"
+    }
+    
+
+    ,
+    "sarina_rivlin-sanders" : {
+        "name": "Sarina Rivlin-Sanders",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "An Evening With _____",
+                "roles": ["Lighting Designer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Company Technical Director"]
+            }
+        ],
+        "link": "/people/sarina_rivlin-sanders/"
+    }
+    
+
+    ,
+    "ellie_sugden" : {
+        "name": "Ellie Sugden",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Company Technical Director"]
+            }
+        ],
+        "link": "/people/ellie_sugden/"
+    }
+    
+
+    ,
+    "toby_russell" : {
+        "name": "Toby Russell",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "A Midsummer Night's Dream",
+                "roles": ["Puck / Philostrate"]
+            }
+        
+            ,{
+                "title": "The Wonderful World of Dissocia",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "In House Shows Cancelled due to Covid-19",
+                "roles": ["Arthur"]
+            }
+        
+            ,{
+                "title": "SPRING + AWAKENING",
+                "roles": ["Hans Wedekind"]
+            }
+        
+            ,{
+                "title": "SPRING",
+                "roles": ["Hans Wedekind"]
+            }
+        
+            ,{
+                "title": "Goblin Market",
+                "roles": ["Daak"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Company Master Carpenter"]
+            }
+        ],
+        "link": "/people/toby_russell/"
+    }
+    
+
+    ,
+    "harry_berry" : {
+        "name": "Harry Berry",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Costume, Props and Make-Up Manager"]
+            }
+        ],
+        "link": "/people/harry_berry/"
+    }
+    
+
+    ,
+    "isabelle_kennedy-grimes" : {
+        "name": "Isabelle Kennedy-Grimes",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "An Evening With _____",
+                "roles": ["The Celebrity"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Creatives Coordinator and Events Manager"]
+            }
+        ],
+        "link": "/people/isabelle_kennedy-grimes/"
+    }
+    
+
+    ,
+    "jess_beadle-platt" : {
+        "name": "Jess Beadle-Platt",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Engagement Officer"]
+            }
+        ],
+        "link": "/people/jess_beadle-platt/"
     }
     
 
@@ -94978,57 +95489,6 @@
     
 
     ,
-    "toby_russell" : {
-        "name": "Toby Russell",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "A Midsummer Night's Dream",
-                "roles": ["Puck / Philostrate"]
-            }
-        
-            ,{
-                "title": "The Wonderful World of Dissocia",
-                "roles": ["Sound Designer"]
-            }
-        
-            ,{
-                "title": "In House Shows Cancelled due to Covid-19",
-                "roles": ["Arthur"]
-            }
-        
-            ,{
-                "title": "SPRING + AWAKENING",
-                "roles": ["Hans Wedekind"]
-            }
-        
-            ,{
-                "title": "SPRING",
-                "roles": ["Hans Wedekind"]
-            }
-        
-            ,{
-                "title": "Goblin Market",
-                "roles": ["Daak"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/toby_russell/"
-    }
-    
-
-    ,
     "zainab_lawal" : {
         "name": "Zainab Lawal",
         "type": "person",
@@ -95077,52 +95537,6 @@
         ],
         "committees": [],
         "link": "/people/lottie_wright/"
-    }
-    
-
-    ,
-    "lauren_birks" : {
-        "name": "Lauren Birks",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "To Become A King Is To Become A Killer",
-                "roles": ["Shadow Director"]
-            }
-        
-            ,{
-                "title": "La Casa de Bernarda Alba",
-                "roles": ["Shadow Director"]
-            }
-        
-            ,{
-                "title": "When Sally Met Gary, Henry, Harry",
-                "roles": ["Shadow Director"]
-            }
-        
-            ,{
-                "title": "Freshers' Fringe",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Goblin Market",
-                "roles": ["Deputy Stage Manager"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/lauren_birks/"
     }
     
 
@@ -97230,37 +97644,6 @@
     
 
     ,
-    "sophie_walters" : {
-        "name": "Sophie Walters",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "The Importance of Being Earnest",
-                "roles": ["Cecily Cardew"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/sophie_walters/"
-    }
-    
-
-    ,
     "guilia_duggan" : {
         "name": "Guilia Duggan",
         "type": "person",
@@ -98756,32 +99139,6 @@
     
 
     ,
-    "emily_stribbling" : {
-        "name": "Emily Stribbling",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "The Bacchae",
-                "roles": ["Servant"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/emily_stribbling/"
-    }
-    
-
-    ,
     "christabel_abotsie" : {
         "name": "Christabel Abotsie",
         "type": "person",
@@ -98887,27 +99244,6 @@
         ],
         "committees": [],
         "link": "/people/cameron_bullock/"
-    }
-    
-
-    ,
-    "jess_beadle-platt" : {
-        "name": "Jess Beadle-Platt",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        ],
-        "committees": [],
-        "link": "/people/jess_beadle-platt/"
     }
     
 
@@ -99154,32 +99490,6 @@
         ],
         "committees": [],
         "link": "/people/asha_perera/"
-    }
-    
-
-    ,
-    "adam_phillips" : {
-        "name": "Adam Phillips",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null,null]
-            }
-        
-            ,{
-                "title": "The Bacchae",
-                "roles": ["Lighting Designer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/adam_phillips/"
     }
     
 
@@ -99503,32 +99813,6 @@
     
 
     ,
-    "william_morgan" : {
-        "name": "William Morgan",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "Eagles, Give Me Your Wings",
-                "roles": ["Janusz Sawicki"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/william_morgan/"
-    }
-    
-
-    ,
     "destiny_andrady" : {
         "name": "Destiny Andrady",
         "type": "person",
@@ -99567,27 +99851,6 @@
         ],
         "committees": [],
         "link": "/people/mathilde_souche/"
-    }
-    
-
-    ,
-    "harry_berry" : {
-        "name": "Harry Berry",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        ],
-        "committees": [],
-        "link": "/people/harry_berry/"
     }
     
 
@@ -99844,32 +100107,6 @@
         ],
         "committees": [],
         "link": "/people/tarin_wenger/"
-    }
-    
-
-    ,
-    "rosie_loader" : {
-        "name": "Rosie Loader",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "River",
-                "roles": ["Deputy Stage Manager"]
-            }
-        
-            ,{
-                "title": "An Evening With _____",
-                "roles": ["Shadow Director","Voice Actor"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/rosie_loader/"
     }
     
 
@@ -100242,27 +100479,6 @@
         ],
         "committees": [],
         "link": "/people/jenny_tucker/"
-    }
-    
-
-    ,
-    "nay_dhanak" : {
-        "name": "Nay Dhanak",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Bacchae",
-                "roles": ["Assistant Director","Dramaturg"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/nay_dhanak/"
     }
     
 
@@ -100666,27 +100882,6 @@
     
 
     ,
-    "millie_rushworth" : {
-        "name": "Millie Rushworth",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Mushy Peas",
-                "roles": ["Mai"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/millie_rushworth/"
-    }
-    
-
-    ,
     "ramy_ben_fredji" : {
         "name": "Ramy Ben Fredji",
         "type": "person",
@@ -100729,27 +100924,6 @@
     
 
     ,
-    "isabelle_kennedy-grimes" : {
-        "name": "Isabelle Kennedy-Grimes",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "An Evening With _____",
-                "roles": ["The Celebrity"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/isabelle_kennedy-grimes/"
-    }
-    
-
-    ,
     "laura_denison" : {
         "name": "Laura Denison",
         "type": "person",
@@ -100767,27 +100941,6 @@
         ],
         "committees": [],
         "link": "/people/laura_denison/"
-    }
-    
-
-    ,
-    "sarina_rivlin-sanders" : {
-        "name": "Sarina Rivlin-Sanders",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "An Evening With _____",
-                "roles": ["Lighting Designer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/sarina_rivlin-sanders/"
     }
     
 
