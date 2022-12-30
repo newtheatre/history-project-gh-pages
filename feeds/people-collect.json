@@ -2529,6 +2529,16 @@
                 "title": "The Bacchae",
                 "roles": ["Sound Designer"]
             }
+        
+            ,{
+                "title": "Insomnia",
+                "roles": ["Playwright","Director","Sound Designer"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Sound Assistant"]
+            }
         ],
         "committees": [
             {
@@ -3176,6 +3186,11 @@
                 "title": "An Evening With _____",
                 "roles": ["Sound Designer"]
             }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Baby"]
+            }
         ],
         "committees": [
             {
@@ -3704,6 +3719,11 @@
             ,{
                 "title": "The Fall of Byron Montrose: Poet, Gentleman, Lover",
                 "roles": ["Byron Montrose","Director"]
+            }
+        
+            ,{
+                "title": "Bonfire Man",
+                "roles": [null]
             }
         ],
         "committees": [],
@@ -4610,6 +4630,11 @@
                 "title": "What Could Be Worse Than Jumping?",
                 "roles": ["Co-Director","Producer"]
             }
+        
+            ,{
+                "title": "Freedom From",
+                "roles": ["Director"]
+            }
         ],
         "committees": [],
         "link": "/people/beth_white/"
@@ -5192,6 +5217,31 @@
                 "title": "Mushy Peas",
                 "roles": ["Sound Designer"]
             }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Playwright","Co-Director"]
+            }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Mickey","Poster Designer"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Director","Playwright"]
+            }
+        
+            ,{
+                "title": "Eurovision Sock Contest",
+                "roles": ["Show Technician"]
+            }
         ],
         "committees": [
             {
@@ -5458,6 +5508,11 @@
             ,{
                 "title": "Risky Texts We Sent As Teens",
                 "roles": [null,"Director"]
+            }
+        
+            ,{
+                "title": "Callum Walker’s Tragical Piss Story Bore",
+                "roles": [null,"Playwright"]
             }
         ],
         "committees": [
@@ -5928,6 +5983,11 @@
                 "title": "It's Not Rocket Science",
                 "roles": ["Playwright","Director"]
             }
+        
+            ,{
+                "title": "It's Not Rocket Science",
+                "roles": ["Playwright","Director"]
+            }
         ],
         "committees": [
             {
@@ -6161,6 +6221,11 @@
             ,{
                 "title": "The Importance of Being Earnest",
                 "roles": ["Dr Chasuble"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Bennett"]
             }
         ],
         "committees": [],
@@ -6539,6 +6604,16 @@
                 "title": "Eagles, Give Me Your Wings",
                 "roles": ["Costume Assistant"]
             }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Costume Assistant"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Sound Assistant"]
+            }
         ],
         "committees": [],
         "link": "/people/charlotte_smith/"
@@ -6797,6 +6872,11 @@
             ,{
                 "title": "The Importance of Being Earnest",
                 "roles": ["Co-Director","Co-Producer"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Tanya"]
             }
         ],
         "committees": [],
@@ -7876,6 +7956,16 @@
             ,{
                 "title": "Mushy Peas",
                 "roles": ["Jade"]
+            }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Co-Director","Co-Producer"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Maniac"]
             }
         ],
         "committees": [],
@@ -9662,6 +9752,21 @@
                 "title": "Beyond The Sky",
                 "roles": ["Delroy"]
             }
+        
+            ,{
+                "title": "Art",
+                "roles": ["Serge"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Co-Director"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Detective"]
+            }
         ],
         "committees": [
             {
@@ -10323,7 +10428,7 @@
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/eleanor_veal/'><img src='https://photos.smugmug.com/photos/i-KcnWXVc/0/140x140!/i-KcnWXVc-140x140!.png' class='search-result-poster-thumb' alt='Eleanor Veal' /></a>",
         "course": null,
-        "graduated": 2020,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -10339,6 +10444,21 @@
             ,{
                 "title": "Celebration",
                 "roles": ["Sonia"]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Damsel"]
+            }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Danni"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Godmother"]
             }
         ],
         "committees": [],
@@ -10502,6 +10622,31 @@
             ,{
                 "title": "Beyond The Sky",
                 "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Villian’s Assistant","Producer"]
+            }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Publicity Assistant","Accent Coach"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Cissy"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Playwright","Assistant Producer","Publicity Manager"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Producer"]
             }
         ],
         "committees": [
@@ -10910,6 +11055,21 @@
                 "title": "Mushy Peas",
                 "roles": ["Assistant Director"]
             }
+        
+            ,{
+                "title": "We Need to Talk About Mary",
+                "roles": ["Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["News Report / Grace Adonis Voice Actor"]
+            }
         ],
         "committees": [
             {
@@ -11072,6 +11232,11 @@
             ,{
                 "title": "The Importance of Being Earnest",
                 "roles": ["Gwendolen Fairfax"]
+            }
+        
+            ,{
+                "title": "Art",
+                "roles": ["Publicity Assistant"]
             }
         ],
         "committees": [],
@@ -11239,6 +11404,11 @@
             ,{
                 "title": "Eagles, Give Me Your Wings",
                 "roles": ["Playwright","Co-Director"]
+            }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Sound Designer"]
             }
         ],
         "committees": [],
@@ -16056,6 +16226,16 @@
                 "title": "Killer Café",
                 "roles": ["Producer"]
             }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Funny Tony"]
+            }
         ],
         "committees": [
             {
@@ -17017,6 +17197,11 @@
                 "title": "When Sally Met Gary, Henry, Harry",
                 "roles": ["Publicity Assistant","Sound Designer"]
             }
+        
+            ,{
+                "title": "Callum Walker’s Tragical Piss Story Bore",
+                "roles": ["Lighting Designer"]
+            }
         ],
         "committees": [
             {
@@ -17497,6 +17682,11 @@
                 "title": "An Evening With _____",
                 "roles": ["Co-Director"]
             }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Set Designer"]
+            }
         ],
         "committees": [
             {
@@ -17898,6 +18088,16 @@
                 "title": "An Evening With _____",
                 "roles": ["Publicity Manager"]
             }
+        
+            ,{
+                "title": "Art",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Exchange",
+                "roles": [null,"Playwright"]
+            }
         ],
         "committees": [
             {
@@ -17943,6 +18143,36 @@
             ,{
                 "title": "Goblin Market",
                 "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Sound Assistant"]
+            }
+        
+            ,{
+                "title": "Insomnia",
+                "roles": ["Producer","Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "It's Not Rocket Science",
+                "roles": ["Show Technician"]
+            }
+        
+            ,{
+                "title": "Vetoed",
+                "roles": ["Show Technician"]
+            }
+        
+            ,{
+                "title": "Exchange",
+                "roles": ["Show Technician"]
             }
         ],
         "committees": [
@@ -19272,6 +19502,26 @@
             ,{
                 "title": "The Bacchae",
                 "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Insomnia",
+                "roles": ["Voice Actor"]
+            }
+        
+            ,{
+                "title": "We Need to Talk About Mary",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Alice",
+                "roles": ["Producer"]
             }
         ],
         "committees": [
@@ -22675,6 +22925,31 @@
                 "title": "Mushy Peas",
                 "roles": ["Bobbie"]
             }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Agent Doris"]
+            }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "We Need to Talk About Mary",
+                "roles": ["Jo"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Inspector"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Hitman"]
+            }
         ],
         "committees": [
             {
@@ -23709,6 +23984,11 @@
             ,{
                 "title": "Don't Bother",
                 "roles": ["Changeover Technician"]
+            }
+        
+            ,{
+                "title": "It's Not Rocket Science",
+                "roles": ["Co-Producer"]
             }
         ],
         "committees": [
@@ -25195,12 +25475,22 @@
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/louise_duncan/'><img src='https://photos.smugmug.com/photos/i-JXsSfkQ/0/140x140!/i-JXsSfkQ-140x140!.png' class='search-result-poster-thumb' alt='Louise Duncan' /></a>",
         "course": null,
-        "graduated": 2020,
+        "graduated": null,
         "award": [],
         "shows": [
             {
                 "title": "The Wonderful World of Dissocia",
                 "roles": ["P. 7 (Passenger 3 / Attendent 3 / Argument / Nurse 2 / Time Fly Operator)"]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Hench Person 4"]
+            }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Rachel"]
             }
         ],
         "committees": [],
@@ -25457,6 +25747,11 @@
             ,{
                 "title": "The Importance of Being Earnest",
                 "roles": ["Co-Director","Co-Producer"]
+            }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Potts"]
             }
         ],
         "committees": [],
@@ -26511,6 +26806,16 @@
             ,{
                 "title": "Beyond The Sky",
                 "roles": ["Lizzie"]
+            }
+        
+            ,{
+                "title": "Freedom From",
+                "roles": ["Playwright","Director","Movement Choreographer"]
+            }
+        
+            ,{
+                "title": "The Lacehouse",
+                "roles": ["Middle"]
             }
         ],
         "committees": [],
@@ -27763,6 +28068,11 @@
             ,{
                 "title": "Mushy Peas",
                 "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Art",
+                "roles": ["Yvan"]
             }
         ],
         "committees": [
@@ -29909,6 +30219,31 @@
                 "title": "The Importance of Being Earnest",
                 "roles": ["Lady Bracknell"]
             }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Q"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Playwright","Director"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Detective Richards"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Drunk Tony","Playwright"]
+            }
+        
+            ,{
+                "title": "Vetoed",
+                "roles": [null,"Playwright"]
+            }
         ],
         "committees": [
             {
@@ -31108,6 +31443,16 @@
                 "title": "The Show Must Go On(Line)",
                 "roles": ["Publicity"]
             }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Videographer"]
+            }
+        
+            ,{
+                "title": "Vetoed",
+                "roles": [null,"Playwright"]
+            }
         ],
         "committees": [],
         "link": "/people/oliver_binns/"
@@ -31832,6 +32177,26 @@
                 "title": "An Evening With _____",
                 "roles": ["Co-Director","Poster Designer"]
             }
+        
+            ,{
+                "title": "We Need to Talk About Mary",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "It's Fraser Brown, I'm Afraid",
+                "roles": ["Show Technician"]
+            }
         ],
         "committees": [
             {
@@ -32361,6 +32726,11 @@
                 "title": "Goblin Market",
                 "roles": ["Creative Producer"]
             }
+        
+            ,{
+                "title": "Exchange",
+                "roles": ["Producer"]
+            }
         ],
         "committees": [
             {
@@ -32676,6 +33046,16 @@
                 "title": "Mushy Peas",
                 "roles": ["Fran"]
             }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Audience Tony"]
+            }
         ],
         "committees": [
             {
@@ -32796,6 +33176,16 @@
             ,{
                 "title": "Eagles, Give Me Your Wings",
                 "roles": ["Co-Director"]
+            }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Assistant Director"]
             }
         ],
         "committees": [],
@@ -35248,6 +35638,11 @@
                 "title": "When Sally Met Gary, Henry, Harry",
                 "roles": ["Captioner"]
             }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Lighting Programmer"]
+            }
         ],
         "committees": [
             {
@@ -37198,6 +37593,11 @@
                 "title": "Accelerate",
                 "roles": ["Captioner"]
             }
+        
+            ,{
+                "title": "Alice",
+                "roles": ["Playwright"]
+            }
         ],
         "committees": [
             {
@@ -37380,6 +37780,11 @@
             ,{
                 "title": "Killer Café",
                 "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "The Lacehouse",
+                "roles": ["Youngest"]
             }
         ],
         "committees": [],
@@ -39584,6 +39989,16 @@
                 "title": "An Evening With _____",
                 "roles": ["Producer"]
             }
+        
+            ,{
+                "title": "Art",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Co-Producer"]
+            }
         ],
         "committees": [
             {
@@ -40072,6 +40487,16 @@
             ,{
                 "title": "When Sally Met Gary, Henry, Harry",
                 "roles": ["Graphic Designer","Video Editor"]
+            }
+        
+            ,{
+                "title": "It's Not Rocket Science",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "Alice",
+                "roles": ["Director"]
             }
         ],
         "committees": [
@@ -42137,6 +42562,16 @@
                 "title": "The Bacchae",
                 "roles": ["Lighting Designer"]
             }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Art",
+                "roles": ["Lighting Designer"]
+            }
         ],
         "committees": [
             {
@@ -42173,6 +42608,11 @@
                 "title": "The Importance of Being Earnest",
                 "roles": ["Cecily Cardew"]
             }
+        
+            ,{
+                "title": "Art",
+                "roles": ["Producer"]
+            }
         ],
         "committees": [
             {
@@ -42194,7 +42634,12 @@
         "course": null,
         "graduated": null,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "We Need to Talk About Mary",
+                "roles": ["Playwright","Director"]
+            }
+        ],
         "committees": [
             {
                 "title": "2022-23",
@@ -42219,6 +42664,11 @@
             {
                 "title": "The Bacchae",
                 "roles": ["Assistant Director","Dramaturg"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Co-Producer"]
             }
         ],
         "committees": [
@@ -42245,6 +42695,11 @@
             {
                 "title": "Mushy Peas",
                 "roles": ["Mai"]
+            }
+        
+            ,{
+                "title": "Insomnia",
+                "roles": ["Bodie"]
             }
         ],
         "committees": [
@@ -42277,6 +42732,31 @@
                 "title": "An Evening With _____",
                 "roles": ["Shadow Director","Voice Actor"]
             }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Badass"]
+            }
+        
+            ,{
+                "title": "Insomnia",
+                "roles": ["Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Groom"]
+            }
         ],
         "committees": [
             {
@@ -42308,6 +42788,21 @@
                 "title": "The Bacchae",
                 "roles": ["Servant"]
             }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Jimmy Bonk"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Dorian / Doctor"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Co-Director"]
+            }
         ],
         "committees": [
             {
@@ -42338,6 +42833,16 @@
             ,{
                 "title": "Eagles, Give Me Your Wings",
                 "roles": ["Janusz Sawicki"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Chadwick"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Chief Inspector Voice Actor"]
             }
         ],
         "committees": [
@@ -42390,6 +42895,26 @@
                 "title": "Goblin Market",
                 "roles": ["Deputy Stage Manager"]
             }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Somebody to Love",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Stage Manager"]
+            }
         ],
         "committees": [
             {
@@ -42437,6 +42962,11 @@
                 "title": "An Evening With _____",
                 "roles": ["Lighting Designer"]
             }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Sound Designer"]
+            }
         ],
         "committees": [
             {
@@ -42458,7 +42988,32 @@
         "course": null,
         "graduated": null,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "Mojo",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "Freedom From",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Show Technician"]
+            }
+        
+            ,{
+                "title": "What Did You Learn?",
+                "roles": ["Show Technician"]
+            }
+        
+            ,{
+                "title": "Bonfire Man",
+                "roles": ["Show Technician"]
+            }
+        ],
         "committees": [
             {
                 "title": "2022-23",
@@ -42514,6 +43069,11 @@
                 "title": "Goblin Market",
                 "roles": ["Daak"]
             }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Utterson"]
+            }
         ],
         "committees": [
             {
@@ -42539,6 +43099,26 @@
             {
                 "title": "Freshers' Fringe",
                 "roles": [null]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Reporter / Lady / Staff / Margaret"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["French Tony","Costume Assistant"]
             }
         ],
         "committees": [
@@ -42566,6 +43146,31 @@
                 "title": "An Evening With _____",
                 "roles": ["The Celebrity"]
             }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Playwright","Co-Director"]
+            }
+        
+            ,{
+                "title": "Art",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Lizzy / Worker / Landlady / Presenter"]
+            }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Publicity and Marketing Assistant"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Playwright"]
+            }
         ],
         "committees": [
             {
@@ -42591,6 +43196,26 @@
             {
                 "title": "Freshers' Fringe",
                 "roles": [null]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Villian","Playwright"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Lanyon"]
+            }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Leah"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Godfather"]
             }
         ],
         "committees": [
@@ -92754,7 +93379,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2020,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -92800,6 +93425,11 @@
             ,{
                 "title": "In House Shows Cancelled due to Covid-19",
                 "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Production Assistant"]
             }
         ],
         "committees": [],
@@ -94505,6 +95135,11 @@
                 "title": "The Bacchae",
                 "roles": ["Assistant Stage Manager"]
             }
+        
+            ,{
+                "title": "We Need to Talk About Mary",
+                "roles": ["Shadow Producer"]
+            }
         ],
         "committees": [],
         "link": "/people/laura_sherratt/"
@@ -94975,6 +95610,16 @@
             ,{
                 "title": "Autumn Showers",
                 "roles": ["Shadow Producer"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Set Assistant"]
+            }
+        
+            ,{
+                "title": "Freedom From",
+                "roles": ["Publicity Manager"]
             }
         ],
         "committees": [],
@@ -95693,6 +96338,26 @@
             ,{
                 "title": "The Bacchae",
                 "roles": ["Agave"]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Femme Fatale"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Miss Hilda"]
+            }
+        
+            ,{
+                "title": "Freedom From",
+                "roles": ["Daisy"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Bride"]
             }
         ],
         "committees": [],
@@ -97147,6 +97812,21 @@
                 "title": "Eagles, Give Me Your Wings",
                 "roles": ["Lighting Designer"]
             }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Assistant Lighting Designer"]
+            }
+        
+            ,{
+                "title": "The Lacehouse",
+                "roles": ["Show Technician"]
+            }
+        
+            ,{
+                "title": "Home",
+                "roles": ["Show Technician"]
+            }
         ],
         "committees": [],
         "link": "/people/alexandra_hogg/"
@@ -97286,6 +97966,11 @@
             ,{
                 "title": "The Bacchae",
                 "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Dr Harvey"]
             }
         ],
         "committees": [],
@@ -97522,6 +98207,11 @@
                 "title": "River",
                 "roles": ["Playwright","Co-Director","Producer","Publicity Manager"]
             }
+        
+            ,{
+                "title": "Art",
+                "roles": ["Assistant Director"]
+            }
         ],
         "committees": [],
         "link": "/people/anya_edwards/"
@@ -97610,6 +98300,11 @@
             ,{
                 "title": "Goblin Market",
                 "roles": ["Laura"]
+            }
+        
+            ,{
+                "title": "Art",
+                "roles": ["Sound Designer"]
             }
         ],
         "committees": [],
@@ -97856,6 +98551,31 @@
                 "title": "Killer Café",
                 "roles": ["Freddie"]
             }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["M"]
+            }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Accent Coach"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["William"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Playwright","Assistant Producer"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Fat Tony"]
+            }
         ],
         "committees": [],
         "link": "/people/abraham_botha/"
@@ -97986,6 +98706,16 @@
             {
                 "title": "Freshers' Fringe",
                 "roles": [null]
+            }
+        
+            ,{
+                "title": "We Need to Talk About Mary",
+                "roles": ["Millie"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Sports Jacket"]
             }
         ],
         "committees": [],
@@ -98233,6 +98963,16 @@
                 "title": "Freshers' Fringe",
                 "roles": [null]
             }
+        
+            ,{
+                "title": "Somebody to Love",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "Freedom From",
+                "roles": ["Stage Manager"]
+            }
         ],
         "committees": [],
         "link": "/people/hatty_mcgrath/"
@@ -98411,6 +99151,11 @@
                 "title": "The Importance of Being Earnest",
                 "roles": ["Sound Designer"]
             }
+        
+            ,{
+                "title": "Somebody to Love",
+                "roles": ["Playwright","Co-Director"]
+            }
         ],
         "committees": [],
         "link": "/people/lauren_brady/"
@@ -98457,6 +99202,16 @@
             ,{
                 "title": "Eagles, Give Me Your Wings",
                 "roles": ["Witold Jancowski"]
+            }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Co-Director","Co-Producer"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Superintendent"]
             }
         ],
         "committees": [],
@@ -98783,6 +99538,11 @@
                 "title": "2021",
                 "roles": ["Government Official"]
             }
+        
+            ,{
+                "title": "Home",
+                "roles": ["Riley"]
+            }
         ],
         "committees": [],
         "link": "/people/megan_smith/"
@@ -98918,6 +99678,26 @@
                 "title": "Killer Café",
                 "roles": ["Technical Director"]
             }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Lighting Designer","Sound Designer"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "What Did You Learn?",
+                "roles": ["Show Technician"]
+            }
+        
+            ,{
+                "title": "Turtle",
+                "roles": ["Show Technician"]
+            }
         ],
         "committees": [],
         "link": "/people/patrick_richards/"
@@ -98949,6 +99729,16 @@
                 "title": "Mushy Peas",
                 "roles": ["Harri"]
             }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Silver Johnny"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Nicholas"]
+            }
         ],
         "committees": [],
         "link": "/people/isaac_pengelley/"
@@ -98969,6 +99759,11 @@
             {
                 "title": "Freshers' Fringe",
                 "roles": [null]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Kitty"]
             }
         ],
         "committees": [],
@@ -98995,6 +99790,16 @@
             ,{
                 "title": "The Bacchae",
                 "roles": ["Cadmus"]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Hench Person 1"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Mr. Jekyll","Mr. Hyde"]
             }
         ],
         "committees": [],
@@ -99111,6 +99916,11 @@
                 "title": "Freshers' Fringe",
                 "roles": [null]
             }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Bryony"]
+            }
         ],
         "committees": [],
         "link": "/people/anna_devoy/"
@@ -99131,6 +99941,11 @@
             {
                 "title": "Freshers' Fringe",
                 "roles": [null]
+            }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Michaela"]
             }
         ],
         "committees": [],
@@ -99215,6 +100030,11 @@
                 "title": "Goblin Market",
                 "roles": ["Gnoz"]
             }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Creative Co-Producer"]
+            }
         ],
         "committees": [],
         "link": "/people/adam_haffar/"
@@ -99266,6 +100086,11 @@
             ,{
                 "title": "Eagles, Give Me Your Wings",
                 "roles": ["Marek"]
+            }
+        
+            ,{
+                "title": "Freedom From",
+                "roles": ["Van"]
             }
         ],
         "committees": [],
@@ -99508,6 +100333,16 @@
                 "title": "Freshers' Fringe",
                 "roles": [null]
             }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "We Need to Talk About Mary",
+                "roles": ["Saffron"]
+            }
         ],
         "committees": [],
         "link": "/people/sienna_mullen/"
@@ -99553,6 +100388,16 @@
         
             ,{
                 "title": "Goblin Market",
+                "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Somebody to Love",
+                "roles": ["Ellie"]
+            }
+        
+            ,{
+                "title": "Hypnic Jerks",
                 "roles": ["Publicity Manager"]
             }
         ],
@@ -99638,6 +100483,16 @@
             {
                 "title": "Freshers' Fringe",
                 "roles": [null]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Playwright"]
+            }
+        
+            ,{
+                "title": "Art",
+                "roles": ["Assistant Stage Manager"]
             }
         ],
         "committees": [],
@@ -99780,6 +100635,11 @@
                 "title": "Eagles, Give Me Your Wings",
                 "roles": ["Piotrek / Doctor Przybylski"]
             }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Inventor / Urchin / Copper / Bystander / Politician"]
+            }
         ],
         "committees": [],
         "link": "/people/bryn_martin/"
@@ -99805,6 +100665,11 @@
             ,{
                 "title": "Beyond The Sky",
                 "roles": ["Winnie"]
+            }
+        
+            ,{
+                "title": "Freedom From",
+                "roles": ["Producer"]
             }
         ],
         "committees": [],
@@ -99921,6 +100786,21 @@
                 "title": "Freshers' Fringe",
                 "roles": [null]
             }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Multirole"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Tony the Rat"]
+            }
         ],
         "committees": [],
         "link": "/people/anna_vogt/"
@@ -99941,6 +100821,11 @@
             {
                 "title": "Freshers' Fringe",
                 "roles": [null]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Mr. Martin"]
             }
         ],
         "committees": [],
@@ -100010,6 +100895,11 @@
                 "title": "Goblin Market",
                 "roles": ["Assistant Producer"]
             }
+        
+            ,{
+                "title": "Mojo",
+                "roles": ["Sweets"]
+            }
         ],
         "committees": [],
         "link": "/people/freya_davis/"
@@ -100035,6 +100925,16 @@
             ,{
                 "title": "Beyond The Sky",
                 "roles": ["Make-up and Hair Manager"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Lucy","Costume, Make-Up and Hair Assistant"]
+            }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Eve"]
             }
         ],
         "committees": [],
@@ -100103,6 +101003,11 @@
             ,{
                 "title": "Mushy Peas",
                 "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Deputy Stage Manager"]
             }
         ],
         "committees": [],
@@ -100214,6 +101119,11 @@
                 "title": "Beyond The Sky",
                 "roles": ["Assistant Stage Manager"]
             }
+        
+            ,{
+                "title": "Hypnic Jerks",
+                "roles": ["Liv"]
+            }
         ],
         "committees": [],
         "link": "/people/fionnuala_finnerty/"
@@ -100254,6 +101164,16 @@
         "shows": [
             {
                 "title": "Goblin Market",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
                 "roles": ["Sound Designer"]
             }
         ],
@@ -100324,6 +101244,11 @@
                 "title": "Eagles, Give Me Your Wings",
                 "roles": ["Young Bosia"]
             }
+        
+            ,{
+                "title": "We Need to Talk About Mary",
+                "roles": ["Elsie"]
+            }
         ],
         "committees": [],
         "link": "/people/rose_burden/"
@@ -100366,6 +101291,11 @@
                 "title": "Eagles, Give Me Your Wings",
                 "roles": ["Shadow Director"]
             }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Hench Person 2","Costume Assistant"]
+            }
         ],
         "committees": [],
         "link": "/people/sophie_mitchell/"
@@ -100387,6 +101317,31 @@
                 "title": "Eagles, Give Me Your Wings",
                 "roles": ["Production Assistant","Stage Manager"]
             }
+        
+            ,{
+                "title": "Somebody to Love",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Hypnic Jerks",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "The Conversation",
+                "roles": ["Show Technician"]
+            }
+        
+            ,{
+                "title": "It's Fraser Brown, I'm Afraid",
+                "roles": ["Show Technician"]
+            }
         ],
         "committees": [],
         "link": "/people/oliver_kletz/"
@@ -100407,6 +101362,16 @@
             {
                 "title": "Eagles, Give Me Your Wings",
                 "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "Somebody to Love",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Sound Assistant"]
             }
         ],
         "committees": [],
@@ -100450,6 +101415,11 @@
                 "title": "The Bacchae",
                 "roles": ["Tiresias"]
             }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Jo Tate"]
+            }
         ],
         "committees": [],
         "link": "/people/megan_terry/"
@@ -100476,6 +101446,16 @@
                 "title": "Mushy Peas",
                 "roles": ["Stage Manager"]
             }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Assistant Company Stage Manager"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Stage Manager"]
+            }
         ],
         "committees": [],
         "link": "/people/jenny_tucker/"
@@ -100496,6 +101476,11 @@
             {
                 "title": "The Bacchae",
                 "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "The Conversation",
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -100623,6 +101608,11 @@
                 "title": "Killer Café",
                 "roles": ["Sky"]
             }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Shadow Producer"]
+            }
         ],
         "committees": [],
         "link": "/people/ellie_de_souza/"
@@ -100664,6 +101654,11 @@
             {
                 "title": "Killer Café",
                 "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "Hypnic Jerks",
+                "roles": ["Playwright","Director"]
             }
         ],
         "committees": [],
@@ -100748,6 +101743,11 @@
             {
                 "title": "The Importance of Being Earnest",
                 "roles": ["Butler"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Jack / Ghost / Moreau / Darwin"]
             }
         ],
         "committees": [],
@@ -100854,6 +101854,26 @@
                 "title": "The Importance of Being Earnest",
                 "roles": ["Deputy Stage Manager"]
             }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Playwright","Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "Somebody to Love",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Playwright","Sound Designer","Show Technician"]
+            }
         ],
         "committees": [],
         "link": "/people/abigail_kitwood/"
@@ -100938,9 +101958,1360 @@
                 "title": "An Evening With _____",
                 "roles": ["Shadow Producer"]
             }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "The Lacehouse",
+                "roles": ["Producer"]
+            }
         ],
         "committees": [],
         "link": "/people/laura_denison/"
+    }
+    
+
+    ,
+    "karen_turnball" : {
+        "name": "Karen Turnball",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Hench Person 3"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/karen_turnball/"
+    }
+    
+
+    ,
+    "karen_turnbull" : {
+        "name": "Karen Turnbull",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Playwright","Costume Assistant"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Assistant Stage Manager","Playwright","Costume Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/karen_turnbull/"
+    }
+    
+
+    ,
+    "nicolas_landon" : {
+        "name": "Nicolas Landon",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nicolas_landon/"
+    }
+    
+
+    ,
+    "bethany_gardner" : {
+        "name": "Bethany Gardner",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Somebody to Love",
+                "roles": ["Abby"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/bethany_gardner/"
+    }
+    
+
+    ,
+    "eden_masters" : {
+        "name": "Eden Masters",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Somebody to Love",
+                "roles": ["Gale"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/eden_masters/"
+    }
+    
+
+    ,
+    "dante_sidhu" : {
+        "name": "Dante Sidhu",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Somebody to Love",
+                "roles": ["Dante"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/dante_sidhu/"
+    }
+    
+
+    ,
+    "alexandra_smith" : {
+        "name": "Alexandra Smith",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Somebody to Love",
+                "roles": ["Multi-role"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alexandra_smith/"
+    }
+    
+
+    ,
+    "alex_hogg" : {
+        "name": "Alex Hogg",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Somebody to Love",
+                "roles": ["Co-Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alex_hogg/"
+    }
+    
+
+    ,
+    "audrey_yip" : {
+        "name": "Audrey Yip",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Somebody to Love",
+                "roles": ["Assistant Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/audrey_yip/"
+    }
+    
+
+    ,
+    "vicky_parker" : {
+        "name": "Vicky Parker",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Somebody to Love",
+                "roles": ["Set Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/vicky_parker/"
+    }
+    
+
+    ,
+    "tommy_stoney" : {
+        "name": "Tommy Stoney",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Somebody to Love",
+                "roles": ["Publicity Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/tommy_stoney/"
+    }
+    
+
+    ,
+    "aidan_kidney" : {
+        "name": "Aidan Kidney",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Somebody to Love",
+                "roles": ["Creative Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/aidan_kidney/"
+    }
+    
+
+    ,
+    "anna_short" : {
+        "name": "Anna Short",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Somebody to Love",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Costume Assistant"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Assistant Publicity Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/anna_short/"
+    }
+    
+
+    ,
+    "bethan_morris" : {
+        "name": "Bethan Morris",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Somebody to Love",
+                "roles": ["Poster Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/bethan_morris/"
+    }
+    
+
+    ,
+    "aidan_sadler" : {
+        "name": "Aidan Sadler",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Tropicana",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/aidan_sadler/"
+    }
+    
+
+    ,
+    "dan_tipper" : {
+        "name": "Dan Tipper",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Tropicana",
+                "roles": ["Show Techinican"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/dan_tipper/"
+    }
+    
+
+    ,
+    "david_hass" : {
+        "name": "David Hass",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Mojo",
+                "roles": ["Skinny"]
+            }
+        
+            ,{
+                "title": "Hypnic Jerks",
+                "roles": ["Julian"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/david_hass/"
+    }
+    
+
+    ,
+    "pablo_diaz" : {
+        "name": "Pablo Diaz",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Mojo",
+                "roles": ["Assistant Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/pablo_diaz/"
+    }
+    
+
+    ,
+    "amandeep_bhamra" : {
+        "name": "Amandeep Bhamra",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Mojo",
+                "roles": ["Set Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/amandeep_bhamra/"
+    }
+    
+
+    ,
+    "sophie_weir" : {
+        "name": "Sophie Weir",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Mojo",
+                "roles": ["Costume Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sophie_weir/"
+    }
+    
+
+    ,
+    "amy_boyd" : {
+        "name": "Amy Boyd",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Insomnia",
+                "roles": ["Frankie"]
+            }
+        
+            ,{
+                "title": "Hypnic Jerks",
+                "roles": ["Maya"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/amy_boyd/"
+    }
+    
+
+    ,
+    "ellie_carlton" : {
+        "name": "Ellie Carlton",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Insomnia",
+                "roles": ["Kate / Shadow 1"]
+            }
+        
+            ,{
+                "title": "Hypnic Jerks",
+                "roles": ["Cassie"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ellie_carlton/"
+    }
+    
+
+    ,
+    "alex_smith" : {
+        "name": "Alex Smith",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Insomnia",
+                "roles": ["Mattea / Shadow 2"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alex_smith/"
+    }
+    
+
+    ,
+    "miranda_hong" : {
+        "name": "Miranda Hong",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Insomnia",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Assistant Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/miranda_hong/"
+    }
+    
+
+    ,
+    "hassan_bajwa" : {
+        "name": "Hassan Bajwa",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Art",
+                "roles": ["Marc"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/hassan_bajwa/"
+    }
+    
+
+    ,
+    "pip_horn" : {
+        "name": "Pip Horn",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Art",
+                "roles": ["Assistant Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/pip_horn/"
+    }
+    
+
+    ,
+    "izzy_johnson" : {
+        "name": "Izzy Johnson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "We Need to Talk About Mary",
+                "roles": ["Estella"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/izzy_johnson/"
+    }
+    
+
+    ,
+    "shreya_suri" : {
+        "name": "Shreya Suri",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "We Need to Talk About Mary",
+                "roles": ["Mary"]
+            }
+        
+            ,{
+                "title": "The Conversation",
+                "roles": ["Arora"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/shreya_suri/"
+    }
+    
+
+    ,
+    "izzati_nordin" : {
+        "name": "Izzati Nordin",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "We Need to Talk About Mary",
+                "roles": ["Assistant Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/izzati_nordin/"
+    }
+    
+
+    ,
+    "mads_warren" : {
+        "name": "Mads Warren",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "We Need to Talk About Mary",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/mads_warren/"
+    }
+    
+
+    ,
+    "ana_balanici" : {
+        "name": "Ana Balanici",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "We Need to Talk About Mary",
+                "roles": ["Shadow Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ana_balanici/"
+    }
+    
+
+    ,
+    "emily_rule" : {
+        "name": "Emily Rule",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Punk Rock",
+                "roles": ["Lilly"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/emily_rule/"
+    }
+    
+
+    ,
+    "ciara_lurshay" : {
+        "name": "Ciara Lurshay",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Punk Rock",
+                "roles": ["Costume, Make-Up and Hair Assistant"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Set Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ciara_lurshay/"
+    }
+    
+
+    ,
+    "amy_child" : {
+        "name": "Amy Child",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Hypnic Jerks",
+                "roles": ["Assistant Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/amy_child/"
+    }
+    
+
+    ,
+    "anjana_jogy_antony" : {
+        "name": "Anjana Jogy Antony",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Hypnic Jerks",
+                "roles": ["Assistant Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/anjana_jogy_antony/"
+    }
+    
+
+    ,
+    "alex_paszkowicz" : {
+        "name": "Alex Paszkowicz",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Hypnic Jerks",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Sound Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alex_paszkowicz/"
+    }
+    
+
+    ,
+    "callum_daniel" : {
+        "name": "Callum Daniel",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Hypnic Jerks",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/callum_daniel/"
+    }
+    
+
+    ,
+    "lucy_haley" : {
+        "name": "Lucy Haley",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Assistant Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lucy_haley/"
+    }
+    
+
+    ,
+    "erin_clarke" : {
+        "name": "Erin Clarke",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Publicity Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/erin_clarke/"
+    }
+    
+
+    ,
+    "fahreen_akhtar" : {
+        "name": "Fahreen Akhtar",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "DNA",
+                "roles": ["Jan"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/fahreen_akhtar/"
+    }
+    
+
+    ,
+    "priyanka_vithlani" : {
+        "name": "Priyanka Vithlani",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "DNA",
+                "roles": ["Lou"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/priyanka_vithlani/"
+    }
+    
+
+    ,
+    "rebecca_winkworth" : {
+        "name": "Rebecca Winkworth",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "DNA",
+                "roles": ["Cathy"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rebecca_winkworth/"
+    }
+    
+
+    ,
+    "vicent_solbes" : {
+        "name": "Vicent Solbes",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freedom From",
+                "roles": ["Louis / Games Master"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/vicent_solbes/"
+    }
+    
+
+    ,
+    "sharon_anatole" : {
+        "name": "Sharon Anatole",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freedom From",
+                "roles": ["Director","Videographer","Music Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sharon_anatole/"
+    }
+    
+
+    ,
+    "madeleine_wakely" : {
+        "name": "Madeleine Wakely",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freedom From",
+                "roles": ["Sound Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/madeleine_wakely/"
+    }
+    
+
+    ,
+    "bella_crew" : {
+        "name": "Bella Crew",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Chasing Butterflies",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/bella_crew/"
+    }
+    
+
+    ,
+    "nicole_lau" : {
+        "name": "Nicole Lau",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Chasing Butterflies",
+                "roles": ["Assistant Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nicole_lau/"
+    }
+    
+
+    ,
+    "keira_anderson" : {
+        "name": "Keira Anderson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Accidental Death of an Activist",
+                "roles": ["Constable"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/keira_anderson/"
+    }
+    
+
+    ,
+    "abigail_hutchinson" : {
+        "name": "Abigail Hutchinson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Accidental Death of an Activist",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/abigail_hutchinson/"
+    }
+    
+
+    ,
+    "kathyrn_parry" : {
+        "name": "Kathyrn Parry",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Accidental Death of an Activist",
+                "roles": ["Creative Co-Producer"]
+            }
+        
+            ,{
+                "title": "The Lacehouse",
+                "roles": ["Eldest"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/kathyrn_parry/"
+    }
+    
+
+    ,
+    "shaina_abdellaoui" : {
+        "name": "Shaina Abdellaoui",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Accidental Death of an Activist",
+                "roles": ["Publicity Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/shaina_abdellaoui/"
+    }
+    
+
+    ,
+    "callum_fisher" : {
+        "name": "Callum Fisher",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Pretty Tony"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/callum_fisher/"
+    }
+    
+
+    ,
+    "esther_naybour" : {
+        "name": "Esther Naybour",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Belinda"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/esther_naybour/"
+    }
+    
+
+    ,
+    "amalia_costa" : {
+        "name": "Amalia Costa",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Lacehouse",
+                "roles": ["Playwright","Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/amalia_costa/"
+    }
+    
+
+    ,
+    "magdalene_soh" : {
+        "name": "Magdalene Soh",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Conversation",
+                "roles": ["Christine","Co-Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/magdalene_soh/"
+    }
+    
+
+    ,
+    "victoria_bell" : {
+        "name": "Victoria Bell",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Conversation",
+                "roles": ["Collie"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/victoria_bell/"
+    }
+    
+
+    ,
+    "meghna_govindarajan" : {
+        "name": "Meghna Govindarajan",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Conversation",
+                "roles": ["Co-Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/meghna_govindarajan/"
+    }
+    
+
+    ,
+    "lauren_rose_mcgee" : {
+        "name": "Lauren Rose McGee",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Alice",
+                "roles": ["Alice"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lauren_rose_mcgee/"
+    }
+    
+
+    ,
+    "shermya" : {
+        "name": "Shermya",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Alice",
+                "roles": ["Rabbit"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/shermya/"
+    }
+    
+
+    ,
+    "cherry_eckel" : {
+        "name": "Cherry Eckel",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Alice",
+                "roles": ["Hatter / Absolem"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/cherry_eckel/"
+    }
+    
+
+    ,
+    "nicole_joseph" : {
+        "name": "Nicole Joseph",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Alice",
+                "roles": ["Cat / Red Queen"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nicole_joseph/"
     }
     
 
