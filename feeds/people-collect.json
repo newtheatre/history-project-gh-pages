@@ -82404,42 +82404,6 @@
     
 
     ,
-    "zoe_langston-blass" : {
-        "name": "Zoe Langston-Blass",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2014,
-        "award": [],
-        "shows": [
-            {
-                "title": "Buried Child",
-                "roles": ["Technical Operator"]
-            }
-        
-            ,{
-                "title": "Conviction",
-                "roles": ["Technical Operator"]
-            }
-        
-            ,{
-                "title": "Titus Andronicus",
-                "roles": ["Technical Operator"]
-            }
-        
-            ,{
-                "title": "Betrayal",
-                "roles": ["Producer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/zoe_langston-blass/"
-    }
-    
-
-    ,
     "adam_bergen" : {
         "name": "Adam Bergen",
         "type": "person",
