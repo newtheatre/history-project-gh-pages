@@ -1,9 +1,10 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2023-04-01 15:07.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2023-05-20 17:51.*
 
 
 
+- [x] [Abigail Kitwood](https://history.newtheatre.org.uk/people/abigail_kitwood/)
 - [x] [Adam Collins](https://history.newtheatre.org.uk/people/adam_collins/)
 - [ ] [Adam Godden](https://history.newtheatre.org.uk/people/adam_godden/)
 - [ ] [Aimee Gaudin](https://history.newtheatre.org.uk/people/aimee_gaudin/)
@@ -17,6 +18,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [Anthony Green](https://history.newtheatre.org.uk/people/anthony_green/)
 - [ ] [Ben Cave](https://history.newtheatre.org.uk/people/ben_cave/)
 - [x] [Ben Hollands](https://history.newtheatre.org.uk/people/ben_hollands/)
+- [ ] [Ben Macpherson](https://history.newtheatre.org.uk/people/ben_macpherson/)
 - [x] [Ben Woodford](https://history.newtheatre.org.uk/people/ben_woodford/)
 - [x] [Callum Walker](https://history.newtheatre.org.uk/people/callum_walker/)
 - [ ] [Cameron Walker](https://history.newtheatre.org.uk/people/cameron_walker/)
@@ -24,6 +26,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Chris Brammeld](https://history.newtheatre.org.uk/people/chris_brammeld/)
 - [ ] [Christopher Wix](https://history.newtheatre.org.uk/people/christopher_wix/)
 - [ ] [Claire Hobbs](https://history.newtheatre.org.uk/people/claire_hobbs/)
+- [ ] [Clarissa-Anne Teo](https://history.newtheatre.org.uk/people/clarissa-anne_teo/)
 - [ ] [David Trennery](https://history.newtheatre.org.uk/people/david_trennery/)
 - [ ] [David Whalley](https://history.newtheatre.org.uk/people/david_whalley/)
 - [ ] [Elle O'Rorke](https://history.newtheatre.org.uk/people/elle_ororke/)
@@ -64,6 +67,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [Jude Heaton](https://history.newtheatre.org.uk/people/jude_heaton/)
 - [ ] [Karen Omer](https://history.newtheatre.org.uk/people/karen_omer/)
 - [ ] [Kathryn Feavers](https://history.newtheatre.org.uk/people/kathryn_feavers/)
+- [x] [Katie Booth](https://history.newtheatre.org.uk/people/katie_booth/)
 - [ ] [Kevin Sullivan](https://history.newtheatre.org.uk/people/kevin_sullivan/)
 - [ ] [Kurban Kassam](https://history.newtheatre.org.uk/people/kurban_kassam/)
 - [x] [Laura Finckh](https://history.newtheatre.org.uk/people/laura_finckh/)
@@ -71,6 +75,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [Lucien Jack](https://history.newtheatre.org.uk/people/lucien_jack/)
 - [x] [Madeleine Craig](https://history.newtheatre.org.uk/people/madeleine_craig/)
 - [ ] [Margaret Clark](https://history.newtheatre.org.uk/people/margaret_clark/)
+- [ ] [Marilyn Bird](https://history.newtheatre.org.uk/people/marilyn_bird/)
 - [x] [Mark Heywood](https://history.newtheatre.org.uk/people/mark_heywood/)
 - [ ] [Matt Wilks](https://history.newtheatre.org.uk/people/matt_wilks/)
 - [x] [Max Wyman](https://history.newtheatre.org.uk/people/max_wyman/)
@@ -79,11 +84,14 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Nick Beddow](https://history.newtheatre.org.uk/people/nick_beddow/)
 - [x] [Nick Gill](https://history.newtheatre.org.uk/people/nick_gill/)
 - [x] [Nick Stevenson](https://history.newtheatre.org.uk/people/nick_stevenson/)
+- [ ] [Nick Tyler](https://history.newtheatre.org.uk/people/nick_tyler/)
 - [x] [Nicola Fox](https://history.newtheatre.org.uk/people/nicola_fox/)
 - [ ] [Oliver Warlow](https://history.newtheatre.org.uk/people/oliver_warlow/)
+- [ ] [Page Phillips Harrington](https://history.newtheatre.org.uk/people/page_phillips_harrington/)
 - [ ] [Peter Hunter Johnston](https://history.newtheatre.org.uk/people/peter_hunter_johnston/)
 - [ ] [Philip Bluer](https://history.newtheatre.org.uk/people/philip_bluer/)
 - [x] [Philip Geller](https://history.newtheatre.org.uk/people/philip_geller/)
+- [ ] [Rachel Bill](https://history.newtheatre.org.uk/people/rachel_bill/)
 - [ ] [Raquel Chambers](https://history.newtheatre.org.uk/people/raquel_chambers/)
 - [ ] [Ray Butler](https://history.newtheatre.org.uk/people/ray_butler/)
 - [ ] [Robert Bradley](https://history.newtheatre.org.uk/people/robert_bradley/)
@@ -97,11 +105,14 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Shashank Pardeshi](https://history.newtheatre.org.uk/people/shashank_pardeshi/)
 - [ ] [Simon Thompson](https://history.newtheatre.org.uk/people/simon_thompson/)
 - [x] [Skylar Turnbull Hurd](https://history.newtheatre.org.uk/people/skylar_turnbull_hurd/)
+- [ ] [Sophia Levine](https://history.newtheatre.org.uk/people/sophia_levine/)
 - [ ] [Sophie Sandham](https://history.newtheatre.org.uk/people/sophie_sandham/)
+- [ ] [Sophie Walters](https://history.newtheatre.org.uk/people/sophie_walters/)
 - [x] [Sophie Walton](https://history.newtheatre.org.uk/people/sophie_walton/)
 - [x] [Sophy Baxter](https://history.newtheatre.org.uk/people/sophy_baxter/)
 - [ ] [Stephen Hopker](https://history.newtheatre.org.uk/people/stephen_hopker/)
 - [ ] [Stephen Norfor](https://history.newtheatre.org.uk/people/stephen_norfor/)
+- [ ] [Tamsin Pickard](https://history.newtheatre.org.uk/people/tamsin_pickard/)
 - [ ] [Terrence Payne](https://history.newtheatre.org.uk/people/terrence_payne/)
 - [ ] [Terri Norris](https://history.newtheatre.org.uk/people/terri_norris/)
 - [ ] [Tim Sluckin](https://history.newtheatre.org.uk/people/tim_sluckin/)
