@@ -30,7 +30,7 @@
   Browser testing tools generously provided by BrowserStack.
 
 /* SITE */
-  Last update: 2023-05-20
+  Last update: 2023-07-04
   Language: English
   Doctype: HTML5
   Build: Gulp, Jekyll, Travis CI

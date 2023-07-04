@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2023-05-20 18:04.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2023-07-04 09:12.*
 
 
 
@@ -27,6 +27,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Christopher Wix](https://history.newtheatre.org.uk/people/christopher_wix/)
 - [ ] [Claire Hobbs](https://history.newtheatre.org.uk/people/claire_hobbs/)
 - [ ] [Clarissa-Anne Teo](https://history.newtheatre.org.uk/people/clarissa-anne_teo/)
+- [ ] [David Storlie](https://history.newtheatre.org.uk/people/david_storlie/)
 - [ ] [David Trennery](https://history.newtheatre.org.uk/people/david_trennery/)
 - [ ] [David Whalley](https://history.newtheatre.org.uk/people/david_whalley/)
 - [ ] [Elle O'Rorke](https://history.newtheatre.org.uk/people/elle_ororke/)
@@ -101,6 +102,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Rose Eccleshare](https://history.newtheatre.org.uk/people/rose_eccleshare/)
 - [x] [Sam Osborne](https://history.newtheatre.org.uk/people/sam_osborne/)
 - [ ] [Sarah Payler](https://history.newtheatre.org.uk/people/sarah_payler/)
+- [ ] [Sarina Rivlin-Sanders](https://history.newtheatre.org.uk/people/sarina_rivlin-sanders/)
 - [ ] [Sebastian Frend](https://history.newtheatre.org.uk/people/sebastian_frend/)
 - [ ] [Shashank Pardeshi](https://history.newtheatre.org.uk/people/shashank_pardeshi/)
 - [ ] [Simon Thompson](https://history.newtheatre.org.uk/people/simon_thompson/)
