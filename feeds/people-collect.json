@@ -20064,7 +20064,12 @@
                 "roles": ["Stage Manager"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["In-House Coordinator"]
+            }
+        ],
         "link": "/people/jenny_tucker/"
     }
     
@@ -43495,32 +43500,6 @@
             }
         ],
         "link": "/people/tom_gladstone/"
-    }
-    
-
-    ,
-    "jen_tucker" : {
-        "name": "Jen Tucker",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "We Need to Talk About Mary",
-                "roles": ["Playwright","Director"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2022-23",
-                "roles": ["In-House Coordinator"]
-            }
-        ],
-        "link": "/people/jen_tucker/"
     }
     
 
@@ -102638,6 +102617,27 @@
         ],
         "committees": [],
         "link": "/people/shreya_suri/"
+    }
+    
+
+    ,
+    "jen_tucker" : {
+        "name": "Jen Tucker",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "We Need to Talk About Mary",
+                "roles": ["Playwright","Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jen_tucker/"
     }
     
 
