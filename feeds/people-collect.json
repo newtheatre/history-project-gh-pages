@@ -20055,6 +20055,11 @@
             }
         
             ,{
+                "title": "We Need to Talk About Mary",
+                "roles": ["Playwright","Director"]
+            }
+        
+            ,{
                 "title": "DNA",
                 "roles": ["Assistant Company Stage Manager"]
             }
@@ -102617,27 +102622,6 @@
         ],
         "committees": [],
         "link": "/people/shreya_suri/"
-    }
-    
-
-    ,
-    "jen_tucker" : {
-        "name": "Jen Tucker",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "We Need to Talk About Mary",
-                "roles": ["Playwright","Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/jen_tucker/"
     }
     
 
