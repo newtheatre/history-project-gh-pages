@@ -572,6 +572,47 @@
     
 
     ,
+    "adam_phillips" : {
+        "name": "Adam Phillips",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/adam_phillips/'><img src='https://photos.smugmug.com/photos/i-fBB8Dph/0/140x140!/i-fBB8Dph-140x140!.jpg' class='search-result-poster-thumb' alt='Adam Phillips' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null,null]
+            }
+        
+            ,{
+                "title": "The Bacchae",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Art",
+                "roles": ["Lighting Designer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Treasurer"]
+            }
+        ],
+        "link": "/people/adam_phillips/"
+    }
+    
+
+    ,
     "adam_wood" : {
         "name": "Adam Wood",
         "type": "person",
@@ -11276,6 +11317,52 @@
     
 
     ,
+    "ellie_sugden" : {
+        "name": "Ellie Sugden",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/ellie_sugden/'><img src='https://photos.smugmug.com/photos/i-CNgf35P/0/140x140!/i-CNgf35P-140x140!.jpg' class='search-result-poster-thumb' alt='Ellie Sugden' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Mojo",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "Freedom From",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Show Technician"]
+            }
+        
+            ,{
+                "title": "What Did You Learn?",
+                "roles": ["Show Technician"]
+            }
+        
+            ,{
+                "title": "Bonfire Man",
+                "roles": ["Show Technician"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Company Technical Director"]
+            }
+        ],
+        "link": "/people/ellie_sugden/"
+    }
+    
+
+    ,
     "eloise_dooley" : {
         "name": "Eloise Dooley",
         "type": "person",
@@ -11855,6 +11942,52 @@
             }
         ],
         "link": "/people/emily_sterling/"
+    }
+    
+
+    ,
+    "emily_stribbling" : {
+        "name": "Emily Stribbling",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/emily_stribbling/'><img src='https://photos.smugmug.com/photos/i-xGBNZBD/0/140x140!/i-xGBNZBD-140x140!.jpg' class='search-result-poster-thumb' alt='Emily Stribbling' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "The Bacchae",
+                "roles": ["Servant"]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Jimmy Bonk"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Dorian / Doctor"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Co-Director"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Social and Fundraising Coordinator"]
+            }
+        ],
+        "link": "/people/emily_stribbling/"
     }
     
 
@@ -15765,6 +15898,52 @@
     
 
     ,
+    "harry_berry" : {
+        "name": "Harry Berry",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/harry_berry/'><img src='https://photos.smugmug.com/photos/i-fd3h9Wz/0/140x140!/i-fd3h9Wz-140x140!.jpg' class='search-result-poster-thumb' alt='Harry Berry' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Reporter / Lady / Staff / Margaret"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["French Tony","Costume Assistant"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Costume, Props and Make-Up Manager"]
+            }
+        ],
+        "link": "/people/harry_berry/"
+    }
+    
+
+    ,
     "harry_bradley" : {
         "name": "Harry Bradley",
         "type": "person",
@@ -17050,6 +17229,57 @@
         ],
         "committees": [],
         "link": "/people/isabelle_cadwallader/"
+    }
+    
+
+    ,
+    "isabelle_kennedy-grimes" : {
+        "name": "Isabelle Kennedy-Grimes",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/isabelle_kennedy-grimes/'><img src='https://photos.smugmug.com/photos/i-JmWPSmb/0/140x140!/i-JmWPSmb-140x140!.jpg' class='search-result-poster-thumb' alt='Isabelle Kennedy-Grimes' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "An Evening With _____",
+                "roles": ["The Celebrity"]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Playwright","Co-Director"]
+            }
+        
+            ,{
+                "title": "Art",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Lizzy / Worker / Landlady / Presenter"]
+            }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Publicity and Marketing Assistant"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Creatives Coordinator and Events Manager"]
+            }
+        ],
+        "link": "/people/isabelle_kennedy-grimes/"
     }
     
 
@@ -19804,6 +20034,42 @@
     
 
     ,
+    "jenny_tucker" : {
+        "name": "Jenny Tucker",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/jenny_tucker/'><img src='https://photos.smugmug.com/photos/i-bPgLr53/0/140x140!/i-bPgLr53-140x140!.jpg' class='search-result-poster-thumb' alt='Jenny Tucker' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Bacchae",
+                "roles": ["Barman"]
+            }
+        
+            ,{
+                "title": "Mushy Peas",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Assistant Company Stage Manager"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jenny_tucker/"
+    }
+    
+
+    ,
     "jeremy_dunn" : {
         "name": "Jeremy Dunn",
         "type": "person",
@@ -19836,6 +20102,52 @@
         ],
         "committees": [],
         "link": "/people/jeremy_dunn/"
+    }
+    
+
+    ,
+    "jess_beadle-platt" : {
+        "name": "Jess Beadle-Platt",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/jess_beadle-platt/'><img src='https://photos.smugmug.com/photos/i-skFvRqL/0/140x140!/i-skFvRqL-140x140!.jpg' class='search-result-poster-thumb' alt='Jess Beadle-Platt' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Villian","Playwright"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Lanyon"]
+            }
+        
+            ,{
+                "title": "DNA",
+                "roles": ["Leah"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Godfather"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Engagement Officer"]
+            }
+        ],
+        "link": "/people/jess_beadle-platt/"
     }
     
 
@@ -24085,6 +24397,77 @@
             }
         ],
         "link": "/people/laura_wolczyk/"
+    }
+    
+
+    ,
+    "lauren_birks" : {
+        "name": "Lauren Birks",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/lauren_birks/'><img src='https://photos.smugmug.com/photos/i-xt29SRB/0/140x140!/i-xt29SRB-140x140!.jpg' class='search-result-poster-thumb' alt='Lauren Birks' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "To Become A King Is To Become A Killer",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "La Casa de Bernarda Alba",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "When Sally Met Gary, Henry, Harry",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Goblin Market",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Somebody to Love",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Company Stage Manager"]
+            }
+        ],
+        "link": "/people/lauren_birks/"
     }
     
 
@@ -30117,6 +30500,37 @@
     
 
     ,
+    "nay_dhanak" : {
+        "name": "Nay Dhanak",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/nay_dhanak/'><img src='https://photos.smugmug.com/photos/i-bXQhBBG/0/140x140!/i-bXQhBBG-140x140!.jpg' class='search-result-poster-thumb' alt='Nay Dhanak' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Bacchae",
+                "roles": ["Assistant Director","Dramaturg"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Co-Producer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Fringe Coordinator"]
+            }
+        ],
+        "link": "/people/nay_dhanak/"
+    }
+    
+
+    ,
     "niamh_caines" : {
         "name": "Niamh Caines",
         "type": "person",
@@ -34851,6 +35265,62 @@
     
 
     ,
+    "rosie_loader" : {
+        "name": "Rosie Loader",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/rosie_loader/'><img src='https://photos.smugmug.com/photos/i-D4N2897/0/140x140!/i-D4N2897-140x140!.jpg' class='search-result-poster-thumb' alt='Rosie Loader' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "River",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "An Evening With _____",
+                "roles": ["Shadow Director","Voice Actor"]
+            }
+        
+            ,{
+                "title": "Jimmy Bonk in double ‘oh’ 7",
+                "roles": ["Badass"]
+            }
+        
+            ,{
+                "title": "Insomnia",
+                "roles": ["Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "7 Funerals and a Wedding",
+                "roles": ["Groom"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Publicity Manager"]
+            }
+        ],
+        "link": "/people/rosie_loader/"
+    }
+    
+
+    ,
     "rosie_van_oss" : {
         "name": "Rosie van Oss",
         "type": "person",
@@ -36153,7 +36623,7 @@
         "type": "person",
         "excerpt": "\n",
         "bio": "\n",
-        
+        "poster_thumb_tag": "<a href='/people/sarina_rivlin-sanders/'><img src='https://photos.smugmug.com/photos/i-CjtXH2J/0/140x140!/i-CjtXH2J-140x140!.jpg' class='search-result-poster-thumb' alt='Sarina Rivlin-Sanders' /></a>",
         "course": ["Mathematics BSc"],
         "graduated": 2023,
         "award": [],
@@ -37194,7 +37664,7 @@
         "type": "person",
         "excerpt": "\n",
         "bio": "\n",
-        
+        "poster_thumb_tag": "<a href='/people/sophie_walters/'><img src='https://photos.smugmug.com/photos/i-mS79K4j/0/140x140!/i-mS79K4j-140x140!.jpg' class='search-result-poster-thumb' alt='Sophie Walters' /></a>",
         "course": ["Politics, Philosophy & Economics"],
         "graduated": 2023,
         "award": [],
@@ -38712,6 +39182,67 @@
     
 
     ,
+    "toby_russell" : {
+        "name": "Toby Russell",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/toby_russell/'><img src='https://photos.smugmug.com/photos/i-ZkPbXqT/0/140x140!/i-ZkPbXqT-140x140!.jpg' class='search-result-poster-thumb' alt='Toby Russell' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "A Midsummer Night's Dream",
+                "roles": ["Puck / Philostrate"]
+            }
+        
+            ,{
+                "title": "The Wonderful World of Dissocia",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "In House Shows Cancelled due to Covid-19",
+                "roles": ["Arthur"]
+            }
+        
+            ,{
+                "title": "SPRING + AWAKENING",
+                "roles": ["Hans Wedekind"]
+            }
+        
+            ,{
+                "title": "SPRING",
+                "roles": ["Hans Wedekind"]
+            }
+        
+            ,{
+                "title": "Goblin Market",
+                "roles": ["Daak"]
+            }
+        
+            ,{
+                "title": "Jekyll & Hyde & Hilda & Martin",
+                "roles": ["Utterson"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Company Master Carpenter"]
+            }
+        ],
+        "link": "/people/toby_russell/"
+    }
+    
+
+    ,
     "toby_stevens" : {
         "name": "Toby Stevens",
         "type": "person",
@@ -40137,6 +40668,47 @@
             }
         ],
         "link": "/people/will_vickers/"
+    }
+    
+
+    ,
+    "william_morgan" : {
+        "name": "William Morgan",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        "poster_thumb_tag": "<a href='/people/william_morgan/'><img src='https://photos.smugmug.com/photos/i-vrQx4qq/0/140x140!/i-vrQx4qq-140x140!.jpg' class='search-result-poster-thumb' alt='William Morgan' /></a>",
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Eagles, Give Me Your Wings",
+                "roles": ["Janusz Sawicki"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Chadwick"]
+            }
+        
+            ,{
+                "title": "Chasing Butterflies",
+                "roles": ["Chief Inspector Voice Actor"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["Theatre Manager"]
+            }
+        ],
+        "link": "/people/william_morgan/"
     }
     
 
@@ -42927,47 +43499,6 @@
     
 
     ,
-    "adam_phillips" : {
-        "name": "Adam Phillips",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null,null]
-            }
-        
-            ,{
-                "title": "The Bacchae",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Jimmy Bonk in double ‘oh’ 7",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Art",
-                "roles": ["Lighting Designer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2022-23",
-                "roles": ["Treasurer"]
-            }
-        ],
-        "link": "/people/adam_phillips/"
-    }
-    
-
-    ,
     "jen_tucker" : {
         "name": "Jen Tucker",
         "type": "person",
@@ -42990,37 +43521,6 @@
             }
         ],
         "link": "/people/jen_tucker/"
-    }
-    
-
-    ,
-    "nay_dhanak" : {
-        "name": "Nay Dhanak",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Bacchae",
-                "roles": ["Assistant Director","Dramaturg"]
-            }
-        
-            ,{
-                "title": "Jekyll & Hyde & Hilda & Martin",
-                "roles": ["Co-Producer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2022-23",
-                "roles": ["Fringe Coordinator"]
-            }
-        ],
-        "link": "/people/nay_dhanak/"
     }
     
 
@@ -43052,470 +43552,6 @@
             }
         ],
         "link": "/people/millie_rushworth/"
-    }
-    
-
-    ,
-    "rosie_loader" : {
-        "name": "Rosie Loader",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "River",
-                "roles": ["Deputy Stage Manager"]
-            }
-        
-            ,{
-                "title": "An Evening With _____",
-                "roles": ["Shadow Director","Voice Actor"]
-            }
-        
-            ,{
-                "title": "Jimmy Bonk in double ‘oh’ 7",
-                "roles": ["Badass"]
-            }
-        
-            ,{
-                "title": "Insomnia",
-                "roles": ["Publicity Assistant"]
-            }
-        
-            ,{
-                "title": "Jekyll & Hyde & Hilda & Martin",
-                "roles": ["Publicity Assistant"]
-            }
-        
-            ,{
-                "title": "Chasing Butterflies",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "7 Funerals and a Wedding",
-                "roles": ["Groom"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2022-23",
-                "roles": ["Publicity Manager"]
-            }
-        ],
-        "link": "/people/rosie_loader/"
-    }
-    
-
-    ,
-    "emily_stribbling" : {
-        "name": "Emily Stribbling",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "The Bacchae",
-                "roles": ["Servant"]
-            }
-        
-            ,{
-                "title": "Jimmy Bonk in double ‘oh’ 7",
-                "roles": ["Jimmy Bonk"]
-            }
-        
-            ,{
-                "title": "Jekyll & Hyde & Hilda & Martin",
-                "roles": ["Dorian / Doctor"]
-            }
-        
-            ,{
-                "title": "Chasing Butterflies",
-                "roles": ["Co-Director"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2022-23",
-                "roles": ["Social and Fundraising Coordinator"]
-            }
-        ],
-        "link": "/people/emily_stribbling/"
-    }
-    
-
-    ,
-    "william_morgan" : {
-        "name": "William Morgan",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "Eagles, Give Me Your Wings",
-                "roles": ["Janusz Sawicki"]
-            }
-        
-            ,{
-                "title": "Punk Rock",
-                "roles": ["Chadwick"]
-            }
-        
-            ,{
-                "title": "Chasing Butterflies",
-                "roles": ["Chief Inspector Voice Actor"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2022-23",
-                "roles": ["Theatre Manager"]
-            }
-        ],
-        "link": "/people/william_morgan/"
-    }
-    
-
-    ,
-    "lauren_birks" : {
-        "name": "Lauren Birks",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "To Become A King Is To Become A Killer",
-                "roles": ["Shadow Director"]
-            }
-        
-            ,{
-                "title": "La Casa de Bernarda Alba",
-                "roles": ["Shadow Director"]
-            }
-        
-            ,{
-                "title": "When Sally Met Gary, Henry, Harry",
-                "roles": ["Shadow Director"]
-            }
-        
-            ,{
-                "title": "Freshers' Fringe",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Goblin Market",
-                "roles": ["Deputy Stage Manager"]
-            }
-        
-            ,{
-                "title": "Jimmy Bonk in double ‘oh’ 7",
-                "roles": ["Stage Manager"]
-            }
-        
-            ,{
-                "title": "Somebody to Love",
-                "roles": ["Stage Manager"]
-            }
-        
-            ,{
-                "title": "Jekyll & Hyde & Hilda & Martin",
-                "roles": ["Assistant Stage Manager"]
-            }
-        
-            ,{
-                "title": "7 Funerals and a Wedding",
-                "roles": ["Stage Manager"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2022-23",
-                "roles": ["Company Stage Manager"]
-            }
-        ],
-        "link": "/people/lauren_birks/"
-    }
-    
-
-    ,
-    "ellie_sugden" : {
-        "name": "Ellie Sugden",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Mojo",
-                "roles": ["Deputy Stage Manager"]
-            }
-        
-            ,{
-                "title": "Freedom From",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "7 Funerals and a Wedding",
-                "roles": ["Show Technician"]
-            }
-        
-            ,{
-                "title": "What Did You Learn?",
-                "roles": ["Show Technician"]
-            }
-        
-            ,{
-                "title": "Bonfire Man",
-                "roles": ["Show Technician"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2022-23",
-                "roles": ["Company Technical Director"]
-            }
-        ],
-        "link": "/people/ellie_sugden/"
-    }
-    
-
-    ,
-    "toby_russell" : {
-        "name": "Toby Russell",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "A Midsummer Night's Dream",
-                "roles": ["Puck / Philostrate"]
-            }
-        
-            ,{
-                "title": "The Wonderful World of Dissocia",
-                "roles": ["Sound Designer"]
-            }
-        
-            ,{
-                "title": "In House Shows Cancelled due to Covid-19",
-                "roles": ["Arthur"]
-            }
-        
-            ,{
-                "title": "SPRING + AWAKENING",
-                "roles": ["Hans Wedekind"]
-            }
-        
-            ,{
-                "title": "SPRING",
-                "roles": ["Hans Wedekind"]
-            }
-        
-            ,{
-                "title": "Goblin Market",
-                "roles": ["Daak"]
-            }
-        
-            ,{
-                "title": "Jekyll & Hyde & Hilda & Martin",
-                "roles": ["Utterson"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2022-23",
-                "roles": ["Company Master Carpenter"]
-            }
-        ],
-        "link": "/people/toby_russell/"
-    }
-    
-
-    ,
-    "harry_berry" : {
-        "name": "Harry Berry",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "Jimmy Bonk in double ‘oh’ 7",
-                "roles": ["Assistant Stage Manager"]
-            }
-        
-            ,{
-                "title": "Jekyll & Hyde & Hilda & Martin",
-                "roles": ["Reporter / Lady / Staff / Margaret"]
-            }
-        
-            ,{
-                "title": "Accidental Death of an Activist",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "7 Funerals and a Wedding",
-                "roles": ["French Tony","Costume Assistant"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2022-23",
-                "roles": ["Costume, Props and Make-Up Manager"]
-            }
-        ],
-        "link": "/people/harry_berry/"
-    }
-    
-
-    ,
-    "isabelle_kennedy-grimes" : {
-        "name": "Isabelle Kennedy-Grimes",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "An Evening With _____",
-                "roles": ["The Celebrity"]
-            }
-        
-            ,{
-                "title": "Jimmy Bonk in double ‘oh’ 7",
-                "roles": ["Playwright","Co-Director"]
-            }
-        
-            ,{
-                "title": "Art",
-                "roles": ["Deputy Stage Manager"]
-            }
-        
-            ,{
-                "title": "Jekyll & Hyde & Hilda & Martin",
-                "roles": ["Lizzy / Worker / Landlady / Presenter"]
-            }
-        
-            ,{
-                "title": "DNA",
-                "roles": ["Publicity and Marketing Assistant"]
-            }
-        
-            ,{
-                "title": "7 Funerals and a Wedding",
-                "roles": ["Playwright"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2022-23",
-                "roles": ["Creatives Coordinator and Events Manager"]
-            }
-        ],
-        "link": "/people/isabelle_kennedy-grimes/"
-    }
-    
-
-    ,
-    "jess_beadle-platt" : {
-        "name": "Jess Beadle-Platt",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Freshers' Fringe",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "Jimmy Bonk in double ‘oh’ 7",
-                "roles": ["Villian","Playwright"]
-            }
-        
-            ,{
-                "title": "Jekyll & Hyde & Hilda & Martin",
-                "roles": ["Lanyon"]
-            }
-        
-            ,{
-                "title": "DNA",
-                "roles": ["Leah"]
-            }
-        
-            ,{
-                "title": "7 Funerals and a Wedding",
-                "roles": ["Godfather"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2022-23",
-                "roles": ["Engagement Officer"]
-            }
-        ],
-        "link": "/people/jess_beadle-platt/"
     }
     
 
@@ -101503,42 +101539,6 @@
         ],
         "committees": [],
         "link": "/people/megan_terry/"
-    }
-    
-
-    ,
-    "jenny_tucker" : {
-        "name": "Jenny Tucker",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Bacchae",
-                "roles": ["Barman"]
-            }
-        
-            ,{
-                "title": "Mushy Peas",
-                "roles": ["Stage Manager"]
-            }
-        
-            ,{
-                "title": "DNA",
-                "roles": ["Assistant Company Stage Manager"]
-            }
-        
-            ,{
-                "title": "Accidental Death of an Activist",
-                "roles": ["Stage Manager"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/jenny_tucker/"
     }
     
 

@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2023-07-04 09:12.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2023-07-12 12:01.*
 
 
 
@@ -102,14 +102,14 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Rose Eccleshare](https://history.newtheatre.org.uk/people/rose_eccleshare/)
 - [x] [Sam Osborne](https://history.newtheatre.org.uk/people/sam_osborne/)
 - [ ] [Sarah Payler](https://history.newtheatre.org.uk/people/sarah_payler/)
-- [ ] [Sarina Rivlin-Sanders](https://history.newtheatre.org.uk/people/sarina_rivlin-sanders/)
+- [x] [Sarina Rivlin-Sanders](https://history.newtheatre.org.uk/people/sarina_rivlin-sanders/)
 - [ ] [Sebastian Frend](https://history.newtheatre.org.uk/people/sebastian_frend/)
 - [ ] [Shashank Pardeshi](https://history.newtheatre.org.uk/people/shashank_pardeshi/)
 - [ ] [Simon Thompson](https://history.newtheatre.org.uk/people/simon_thompson/)
 - [x] [Skylar Turnbull Hurd](https://history.newtheatre.org.uk/people/skylar_turnbull_hurd/)
 - [ ] [Sophia Levine](https://history.newtheatre.org.uk/people/sophia_levine/)
 - [ ] [Sophie Sandham](https://history.newtheatre.org.uk/people/sophie_sandham/)
-- [ ] [Sophie Walters](https://history.newtheatre.org.uk/people/sophie_walters/)
+- [x] [Sophie Walters](https://history.newtheatre.org.uk/people/sophie_walters/)
 - [x] [Sophie Walton](https://history.newtheatre.org.uk/people/sophie_walton/)
 - [x] [Sophy Baxter](https://history.newtheatre.org.uk/people/sophy_baxter/)
 - [ ] [Stephen Hopker](https://history.newtheatre.org.uk/people/stephen_hopker/)
