@@ -1,3 +1,3 @@
 Raven.config('https://3c9d529e9e7b486296e6d918c22a6153@app.getsentry.com/82953', {
-    release: "e861c8064567c1d4b7f9bc284f556a151823baef"
+    release: "30aa971f213748280dc86ba3f9fa537939e4d4db"
 }).install();
