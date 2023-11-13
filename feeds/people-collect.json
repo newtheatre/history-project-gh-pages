@@ -20462,6 +20462,11 @@
             }
         
             ,{
+                "title": "The Bacchae",
+                "roles": ["Dionysus"]
+            }
+        
+            ,{
                 "title": "Jimmy Bonk in double ‘oh’ 7",
                 "roles": ["Villian","Playwright"]
             }
@@ -101029,6 +101034,11 @@
             }
         
             ,{
+                "title": "The Bacchae",
+                "roles": ["Shadow Producer"]
+            }
+        
+            ,{
                 "title": "Jimmy Bonk in double ‘oh’ 7",
                 "roles": ["Playwright"]
             }
@@ -101526,7 +101536,7 @@
         
             ,{
                 "title": "Aristotle and Socrates Odyssey",
-                "roles": ["Assistant Producer"]
+                "roles": ["Co-Producer","Assistant Director"]
             }
         
             ,{
@@ -102078,27 +102088,6 @@
     
 
     ,
-    "jess_beedle-platt" : {
-        "name": "Jess Beedle-Platt",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Bacchae",
-                "roles": ["Dionysus"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/jess_beedle-platt/"
-    }
-    
-
-    ,
     "megan_terry" : {
         "name": "Megan Terry",
         "type": "person",
@@ -102157,27 +102146,6 @@
         ],
         "committees": [],
         "link": "/people/syania_shaharuddin/"
-    }
-    
-
-    ,
-    "maria_stav" : {
-        "name": "Maria Stav",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Bacchae",
-                "roles": ["Shadow Producer","Poster Designer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/maria_stav/"
     }
     
 
@@ -102262,6 +102230,27 @@
         ],
         "committees": [],
         "link": "/people/xinyue_liu/"
+    }
+    
+
+    ,
+    "maria_stav" : {
+        "name": "Maria Stav",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Bacchae",
+                "roles": ["Poster Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/maria_stav/"
     }
     
 
@@ -105739,7 +105728,7 @@
         
             ,{
                 "title": "Aristotle and Socrates Odyssey",
-                "roles": ["Creative Assistant","Stage Manager"]
+                "roles": ["Creative Assistant","Costume Designer","Stage Manager"]
             }
         
             ,{
