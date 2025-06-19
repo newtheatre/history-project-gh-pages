@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2025-03-05 12:21.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2025-06-19 21:13.*
 
 
 
@@ -8,12 +8,14 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [Adam Collins](https://history.newtheatre.org.uk/people/adam_collins/)
 - [ ] [Adam Godden](https://history.newtheatre.org.uk/people/adam_godden/)
 - [ ] [Aimee Gaudin](https://history.newtheatre.org.uk/people/aimee_gaudin/)
+- [ ] [Alex Bell](https://history.newtheatre.org.uk/people/alex_bell/)
 - [ ] [Alex Eisenberg](https://history.newtheatre.org.uk/people/alex_eisenberg/)
 - [x] [Alex Holder](https://history.newtheatre.org.uk/people/alex_holder/)
 - [ ] [Alexandra Turner](https://history.newtheatre.org.uk/people/alexandra_turner/)
 - [ ] [Alison Lumb](https://history.newtheatre.org.uk/people/alison_lumb/)
 - [x] [Amelia Gann](https://history.newtheatre.org.uk/people/amelia_gann/)
 - [x] [Amy Naylor](https://history.newtheatre.org.uk/people/amy_naylor/)
+- [ ] [Andrew Hubbard](https://history.newtheatre.org.uk/people/andrew_hubbard/)
 - [ ] [Annabel Byrom](https://history.newtheatre.org.uk/people/annabel_byrom/)
 - [x] [Anthony Green](https://history.newtheatre.org.uk/people/anthony_green/)
 - [ ] [Ben Cave](https://history.newtheatre.org.uk/people/ben_cave/)
@@ -27,9 +29,11 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Christopher Wix](https://history.newtheatre.org.uk/people/christopher_wix/)
 - [ ] [Claire Hobbs](https://history.newtheatre.org.uk/people/claire_hobbs/)
 - [ ] [Clarissa-Anne Teo](https://history.newtheatre.org.uk/people/clarissa-anne_teo/)
+- [x] [Crispin Harris](https://history.newtheatre.org.uk/people/crispin_harris/)
 - [ ] [David Storlie](https://history.newtheatre.org.uk/people/david_storlie/)
 - [ ] [David Trennery](https://history.newtheatre.org.uk/people/david_trennery/)
 - [ ] [David Whalley](https://history.newtheatre.org.uk/people/david_whalley/)
+- [ ] [Dick Wilkins](https://history.newtheatre.org.uk/people/dick_wilkins/)
 - [ ] [Elle O'Rorke](https://history.newtheatre.org.uk/people/elle_ororke/)
 - [ ] [Ellie Colyer](https://history.newtheatre.org.uk/people/ellie_colyer/)
 - [x] [Ellie Eagleton](https://history.newtheatre.org.uk/people/ellie_eagleton/)
@@ -49,6 +53,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [Helena Hunt](https://history.newtheatre.org.uk/people/helena_hunt/)
 - [x] [Hugh Purves](https://history.newtheatre.org.uk/people/hugh_purves/)
 - [x] [Ian Sheard](https://history.newtheatre.org.uk/people/ian_sheard/)
+- [x] [India Agravat](https://history.newtheatre.org.uk/people/india_agravat/)
 - [x] [Jack Ellis](https://history.newtheatre.org.uk/people/jack_ellis/)
 - [x] [Jack Linley](https://history.newtheatre.org.uk/people/jack_linley/)
 - [x] [James McAndrew](https://history.newtheatre.org.uk/people/james_mcandrew/)
@@ -80,6 +85,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [Mark Heywood](https://history.newtheatre.org.uk/people/mark_heywood/)
 - [ ] [Matt Wilks](https://history.newtheatre.org.uk/people/matt_wilks/)
 - [x] [Max Wyman](https://history.newtheatre.org.uk/people/max_wyman/)
+- [ ] [Melanie Comley](https://history.newtheatre.org.uk/people/melanie_comley/)
 - [ ] [Michelle Harper](https://history.newtheatre.org.uk/people/michelle_harper/)
 - [x] [Nat Henderson](https://history.newtheatre.org.uk/people/nat_henderson/)
 - [ ] [Nick Beddow](https://history.newtheatre.org.uk/people/nick_beddow/)
