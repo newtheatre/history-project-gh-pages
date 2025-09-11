@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2025-06-19 21:13.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2025-09-11 19:41.*
 
 
 
@@ -12,6 +12,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Alex Eisenberg](https://history.newtheatre.org.uk/people/alex_eisenberg/)
 - [x] [Alex Holder](https://history.newtheatre.org.uk/people/alex_holder/)
 - [ ] [Alexandra Turner](https://history.newtheatre.org.uk/people/alexandra_turner/)
+- [x] [Alice Walker](https://history.newtheatre.org.uk/people/alice_walker/)
 - [ ] [Alison Lumb](https://history.newtheatre.org.uk/people/alison_lumb/)
 - [x] [Amelia Gann](https://history.newtheatre.org.uk/people/amelia_gann/)
 - [x] [Amy Naylor](https://history.newtheatre.org.uk/people/amy_naylor/)
@@ -43,6 +44,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Emily Medhurst](https://history.newtheatre.org.uk/people/emily_medhurst/)
 - [ ] [Emma Begg](https://history.newtheatre.org.uk/people/emma_begg/)
 - [ ] [Emma Dearden](https://history.newtheatre.org.uk/people/emma_dearden/)
+- [x] [Emma Pallett](https://history.newtheatre.org.uk/people/emma_pallett/)
 - [ ] [Emma Rutherford](https://history.newtheatre.org.uk/people/emma_rutherford/)
 - [x] [Emma White](https://history.newtheatre.org.uk/people/emma_white/)
 - [ ] [Florence Avis](https://history.newtheatre.org.uk/people/florence_avis/)
@@ -69,6 +71,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [John Schwiller](https://history.newtheatre.org.uk/people/john_schwiller/)
 - [x] [Jon Davison](https://history.newtheatre.org.uk/people/jon_davison/)
 - [x] [Jonathan Taylor Davies](https://history.newtheatre.org.uk/people/jonathan_taylor_davies/)
+- [ ] [Joseph Arkley](https://history.newtheatre.org.uk/people/joseph_arkley/)
 - [x] [Joseph Heil](https://history.newtheatre.org.uk/people/joseph_heil/)
 - [x] [Jude Heaton](https://history.newtheatre.org.uk/people/jude_heaton/)
 - [ ] [Karen Omer](https://history.newtheatre.org.uk/people/karen_omer/)
