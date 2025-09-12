@@ -2690,7 +2690,7 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/annamarie_schooling/'><img src='https://photos.smugmug.com/photos/i-T9Vxsx6/0/140x140!/i-T9Vxsx6-140x140!.jpg' class='search-result-poster-thumb' alt='Annamarie Schooling' /></a>",
-        "course": null,
+        "course": ["BA Music and Music Technology"],
         "graduated": 2022,
         "award": [],
         "shows": [
@@ -2702,6 +2702,11 @@
             ,{
                 "title": "Hello World",
                 "roles": ["Composer","Sound Designer"]
+            }
+        
+            ,{
+                "title": "Autumn Showers",
+                "roles": ["Shadow Producer"]
             }
         
             ,{
@@ -2725,8 +2730,18 @@
             }
         
             ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Technical"]
+            }
+        
+            ,{
                 "title": "River",
                 "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Goblin Market",
+                "roles": ["Technical Operator"]
             }
         
             ,{
@@ -2740,8 +2755,18 @@
             }
         
             ,{
+                "title": "We Need to Talk About Mary",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
                 "title": "Punk Rock",
-                "roles": ["Sound Assistant"]
+                "roles": ["Sound & Lighting Assistant"]
+            }
+        
+            ,{
+                "title": "Freedom From",
+                "roles": ["Poster Designer"]
             }
         ],
         "committees": [
@@ -32729,6 +32754,82 @@
     
 
     ,
+    "oliver_kletz" : {
+        "name": "Oliver Kletz",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": ["Philosophy MA","Philosophy & Psychology BA(Hons)"],
+        "graduated": 2024,
+        "award": "Fellowship",
+        "shows": [
+            {
+                "title": "Eagles, Give Me Your Wings",
+                "roles": ["Producer","Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "Somebody to Love",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Hypnic Jerks",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "The Conversation",
+                "roles": ["Show Technician"]
+            }
+        
+            ,{
+                "title": "It's Fraser Brown, I'm Afraid",
+                "roles": ["Show Technician"]
+            }
+        
+            ,{
+                "title": "Blood Wedding",
+                "roles": ["Understudy Maid","Director","Producer","Costume Designer"]
+            }
+        
+            ,{
+                "title": "The Deep Blue Sea",
+                "roles": ["Mr Miller"]
+            }
+        
+            ,{
+                "title": "Conversations with an Asexual",
+                "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "Witness for the Prosecution",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "Romeo & Juliet",
+                "roles": ["Tybalt"]
+            }
+        
+            ,{
+                "title": "Romantic Fools",
+                "roles": ["Lighting Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/oliver_kletz/"
+    }
+    
+
+    ,
     "oliver_margolis" : {
         "name": "Oliver Margolis",
         "type": "person",
@@ -34571,10 +34672,10 @@
     "rebecca_catlin" : {
         "name": "Rebecca Catlin",
         "type": "person",
-        "excerpt": "\n",
-        "bio": "\n",
+        "excerpt": "Too many to list! Hiring a forest of trees for The Country set and causing a ladybird infestation in the theatre or the dry stone wall we built for The Winterling or the actual Nissan Bluebird we bought and took apart for the Bluebird set! Lots of late nights at...",
+        "bio": "Too many to list!\n\nHiring a forest of trees for The Country set and causing a ladybird infestation in the theatre or the dry stone wall we built for The Winterling or the actual Nissan Bluebird we bought and took apart for the Bluebird set!\n\nLots of late nights at get ins and just being constantly surrounded by incredible ambition and creativity!\n\nI was a freelance theatre director from 2011-2015. In that time I worked for the Nottingham Playhouse, Colchester Mercury Theatre, Oxford Playhouse, Stoke New Vic, Hull Truck, The Finborough and Trafalgar Studios. I was resident assistant at The Lyceum in Edinburgh for 2 years and worked for The Traverse and A Play, A Pie and a Pint as well.\n\nI then went into teaching and am now Head of Literacy for the Twyford Trust in West London, which includes line managing the Drama dept!\n",
         "poster_thumb_tag": "<a href='/people/rebecca_catlin/'><img src='https://photos.smugmug.com/photos/i-vF7fs2F/0/140x140!/i-vF7fs2F-140x140!.jpg' class='search-result-poster-thumb' alt='Rebecca Catlin' /></a>",
-        "course": ["English Language and Literature","Theatre Research"],
+        "course": ["English Language and Literature","MA Theatre Research"],
         "graduated": 2011,
         "award": "Fellowship",
         "shows": [
@@ -71148,7 +71249,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2005,
+        "graduated": 2006,
         "award": [],
         "shows": [
             {
@@ -71156,7 +71257,12 @@
                 "roles": ["Guard / Manager"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2005-06",
+                "roles": ["Treasurer"]
+            }
+        ],
         "link": "/people/rick_chernick/"
     }
     
@@ -81069,6 +81175,48 @@
         ],
         "committees": [],
         "link": "/people/lawrence_haynes/"
+    }
+    
+
+    ,
+    "becky_ellis" : {
+        "name": "Becky Ellis",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2013,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Red Herrings Present: The Best Book I Never Wrote",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/becky_ellis/"
+    }
+    
+
+    ,
+    "gabby_carboneri" : {
+        "name": "Gabby Carboneri",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2013,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Red Herrings Present: The Best Book I Never Wrote",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/gabby_carboneri/"
     }
     
 
@@ -101980,82 +102128,6 @@
     
 
     ,
-    "oliver_kletz" : {
-        "name": "Oliver Kletz",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "Eagles, Give Me Your Wings",
-                "roles": ["Production Assistant","Stage Manager"]
-            }
-        
-            ,{
-                "title": "Somebody to Love",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Hypnic Jerks",
-                "roles": ["Stage Manager"]
-            }
-        
-            ,{
-                "title": "Accidental Death of an Activist",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "The Conversation",
-                "roles": ["Show Technician"]
-            }
-        
-            ,{
-                "title": "It's Fraser Brown, I'm Afraid",
-                "roles": ["Show Technician"]
-            }
-        
-            ,{
-                "title": "Blood Wedding",
-                "roles": ["Understudy Maid","Director","Producer","Costume Designer"]
-            }
-        
-            ,{
-                "title": "The Deep Blue Sea",
-                "roles": ["Mr Miller"]
-            }
-        
-            ,{
-                "title": "Conversations with an Asexual",
-                "roles": ["Assistant Producer"]
-            }
-        
-            ,{
-                "title": "Witness for the Prosecution",
-                "roles": ["Sound Designer"]
-            }
-        
-            ,{
-                "title": "Romeo & Juliet",
-                "roles": ["Tybalt"]
-            }
-        
-            ,{
-                "title": "Romantic Fools",
-                "roles": ["Lighting Designer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/oliver_kletz/"
-    }
-    
-
-    ,
     "jake_ferris_woolley" : {
         "name": "Jake Ferris Woolley",
         "type": "person",
@@ -102765,23 +102837,33 @@
     
 
     ,
-    "dante_sidhu" : {
-        "name": "Dante Sidhu",
+    "dant_sidhu" : {
+        "name": "Danté Sidhu",
         "type": "person",
         "excerpt": "",
         "bio": "",
         
         "course": null,
-        "graduated": 2022,
+        "graduated": 2023,
         "award": [],
         "shows": [
             {
                 "title": "Somebody to Love",
                 "roles": ["Dante"]
             }
+        
+            ,{
+                "title": "Blood Wedding",
+                "roles": ["Moon / Chorus"]
+            }
+        
+            ,{
+                "title": "Witness for the Prosecution",
+                "roles": ["Carter / Dr Wyatt"]
+            }
         ],
         "committees": [],
-        "link": "/people/dante_sidhu/"
+        "link": "/people/dant_sidhu/"
     }
     
 
@@ -105872,32 +105954,6 @@
         ],
         "committees": [],
         "link": "/people/meghan_issac/"
-    }
-    
-
-    ,
-    "dant_sidhu" : {
-        "name": "Danté Sidhu",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "Blood Wedding",
-                "roles": ["Moon / Chorus"]
-            }
-        
-            ,{
-                "title": "Witness for the Prosecution",
-                "roles": ["Carter / Dr Wyatt"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/dant_sidhu/"
     }
     
 
