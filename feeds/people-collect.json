@@ -200,6 +200,11 @@
                 "title": "2022-23",
                 "roles": ["Company Stage Manager"]
             }
+        
+            ,{
+                "title": "2023-24",
+                "roles": ["Company Stage Manager"]
+            }
         ],
         "link": "/people/abigail_kitwood/"
     }
@@ -811,6 +816,27 @@
     
 
     ,
+    "aisling_macdonald" : {
+        "name": "Aisling Macdonald",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BA English",
+        "graduated": 2025,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["Events and Engagement Coordinator"]
+            }
+        ],
+        "link": "/people/aisling_macdonald/"
+    }
+    
+
+    ,
     "ajay_stevenson" : {
         "name": "Ajay Stevenson",
         "type": "person",
@@ -935,6 +961,77 @@
         "shows": [],
         "committees": [],
         "link": "/people/alan_wayte/"
+    }
+    
+
+    ,
+    "alessia_lowcock" : {
+        "name": "Alessia Lowcock",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "MSc Physics",
+        "graduated": 2026,
+        "award": [],
+        "shows": [
+            {
+                "title": "Hamlet",
+                "roles": ["Polonius"]
+            }
+        
+            ,{
+                "title": "An English Toska",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "Aristotle and Socrates Odyssey",
+                "roles": ["Aristotle"]
+            }
+        
+            ,{
+                "title": "Aristotle and Socrates Odyssey",
+                "roles": ["Aristotle"]
+            }
+        
+            ,{
+                "title": "Wild West Side Story",
+                "roles": ["Tyrone","Playwright"]
+            }
+        
+            ,{
+                "title": "Panto In A Day",
+                "roles": ["Buttons"]
+            }
+        
+            ,{
+                "title": "Peter Pan",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Romeo & Juliet",
+                "roles": ["Friar Laurence"]
+            }
+        
+            ,{
+                "title": "The Man in the Door",
+                "roles": ["Inner Self"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Studio Coordinator"]
+            }
+        
+            ,{
+                "title": "2024-25",
+                "roles": ["Studio Coordinator"]
+            }
+        ],
+        "link": "/people/alessia_lowcock/"
     }
     
 
@@ -1149,6 +1246,27 @@
     
 
     ,
+    "alex_vale" : {
+        "name": "Alex Vale",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BA Classics",
+        "graduated": 2026,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["Marketing Co-ordinator"]
+            }
+        ],
+        "link": "/people/alex_vale/"
+    }
+    
+
+    ,
     "alexander_lewis" : {
         "name": "Alexander Lewis",
         "type": "person",
@@ -1284,6 +1402,62 @@
             }
         ],
         "link": "/people/ali_blackwell/"
+    }
+    
+
+    ,
+    "ali_seaborne" : {
+        "name": "Ali Seaborne",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BA Philosophy",
+        "graduated": 2025,
+        "award": [],
+        "shows": [
+            {
+                "title": "Mixy",
+                "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "Blood Wedding",
+                "roles": ["Maid"]
+            }
+        
+            ,{
+                "title": "Wild West Side Story",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Reunion",
+                "roles": ["River"]
+            }
+        
+            ,{
+                "title": "The Deep Blue Sea",
+                "roles": ["Set Assistant","Poster Designer"]
+            }
+        
+            ,{
+                "title": "Conversations with an Asexual",
+                "roles": ["Bea / Steph"]
+            }
+        
+            ,{
+                "title": "The Man in the Door",
+                "roles": ["Inner Self"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Creatives Coordinator"]
+            }
+        ],
+        "link": "/people/ali_seaborne/"
     }
     
 
@@ -2021,6 +2195,52 @@
     
 
     ,
+    "ana_balanici" : {
+        "name": "Ana Balanici",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BA English",
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "We Need to Talk About Mary",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "An English Toska",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "Blood Wedding",
+                "roles": ["Set Assistant"]
+            }
+        
+            ,{
+                "title": "Pain Threshold",
+                "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "Romeo & Juliet",
+                "roles": ["Assistant Director"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Company Stage Manager"]
+            }
+        ],
+        "link": "/people/ana_balanici/"
+    }
+    
+
+    ,
     "andrew_houghton" : {
         "name": "Andrew Houghton",
         "type": "person",
@@ -2680,6 +2900,37 @@
         ],
         "committees": [],
         "link": "/people/annabel_byrom/"
+    }
+    
+
+    ,
+    "annabel_rumble" : {
+        "name": "Annabel Rumble",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BSc Physics",
+        "graduated": 2025,
+        "award": [],
+        "shows": [
+            {
+                "title": "Wild West Side Story",
+                "roles": ["Jules","Producer"]
+            }
+        
+            ,{
+                "title": "The Man in the Door",
+                "roles": ["Inner Self"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["In-House Coordinator"]
+            }
+        ],
+        "link": "/people/annabel_rumble/"
     }
     
 
@@ -3668,6 +3919,48 @@
         ],
         "committees": [],
         "link": "/people/bella_cuthbert/"
+    }
+    
+
+    ,
+    "ben_adeniji" : {
+        "name": "Ben Adeniji",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BA Liberal Arts",
+        "graduated": 2026,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["External Coordinator"]
+            }
+        ],
+        "link": "/people/ben_adeniji/"
+    }
+    
+
+    ,
+    "ben_bromley" : {
+        "name": "Ben Bromley",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "Music and Music Technology",
+        "graduated": 2026,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["Company Technical Director"]
+            }
+        ],
+        "link": "/people/ben_bromley/"
     }
     
 
@@ -5048,6 +5341,27 @@
             }
         ],
         "link": "/people/beth_wilson/"
+    }
+    
+
+    ,
+    "bhavneeta_khodiyar" : {
+        "name": "Bhavneeta Khodiyar",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "MPharm Pharmacy",
+        "graduated": 2026,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["Company Stage Manager"]
+            }
+        ],
+        "link": "/people/bhavneeta_khodiyar/"
     }
     
 
@@ -6584,6 +6898,27 @@
     
 
     ,
+    "charlie_lowe" : {
+        "name": "Charlie Lowe",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BA History",
+        "graduated": 2027,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["Creatives Coordinator"]
+            }
+        ],
+        "link": "/people/charlie_lowe/"
+    }
+    
+
+    ,
     "charlie_swift" : {
         "name": "Charlie Swift",
         "type": "person",
@@ -6617,6 +6952,27 @@
         ],
         "committees": [],
         "link": "/people/charlotte_bailey/"
+    }
+    
+
+    ,
+    "charlotte_clampitt-dix" : {
+        "name": "Charlotte Clampitt-Dix",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BSc Psychology with Placement Year",
+        "graduated": 2026,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["Archivist"]
+            }
+        ],
+        "link": "/people/charlotte_clampitt-dix/"
     }
     
 
@@ -6744,6 +7100,48 @@
         ],
         "committees": [],
         "link": "/people/charlotte_prosser/"
+    }
+    
+
+    ,
+    "charlotte_reay" : {
+        "name": "Charlotte Reay",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BSc Psychology",
+        "graduated": 2026,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["In-House Coordinator"]
+            }
+        ],
+        "link": "/people/charlotte_reay/"
+    }
+    
+
+    ,
+    "charlotte_reese" : {
+        "name": "Charlotte Reese",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "Liberal Arts",
+        "graduated": 2026,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Company Technical Director"]
+            }
+        ],
+        "link": "/people/charlotte_reese/"
     }
     
 
@@ -11571,8 +11969,8 @@
         "excerpt": "\n",
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/ellie_sugden/'><img src='https://photos.smugmug.com/photos/i-CNgf35P/0/140x140!/i-CNgf35P-140x140!.jpg' class='search-result-poster-thumb' alt='Ellie Sugden' /></a>",
-        "course": null,
-        "graduated": 2023,
+        "course": "BA Liberal Arts",
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -11649,6 +12047,11 @@
             {
                 "title": "2022-23",
                 "roles": ["Company Technical Director"]
+            }
+        
+            ,{
+                "title": "2023-24",
+                "roles": ["President"]
             }
         ],
         "link": "/people/ellie_sugden/"
@@ -13780,6 +14183,62 @@
         ],
         "committees": [],
         "link": "/people/ewa_rubaszewska/"
+    }
+    
+
+    ,
+    "farah_shah" : {
+        "name": "Farah Shah",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "Ancient History",
+        "graduated": 2025,
+        "award": [],
+        "shows": [
+            {
+                "title": "Bedroom Farce",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "Hamlet",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "Panto In A Day",
+                "roles": ["Committee Member / Little Red Riding Hood"]
+            }
+        
+            ,{
+                "title": "A Clichéd Affair",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "Witness for the Prosecution",
+                "roles": ["Set Assistant"]
+            }
+        
+            ,{
+                "title": "Peter Pan",
+                "roles": ["Twin 1 / Mermaid / Pirate"]
+            }
+        
+            ,{
+                "title": "Romeo & Juliet",
+                "roles": ["Lady Montague"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Company Workshop Manager"]
+            }
+        ],
+        "link": "/people/farah_shah/"
     }
     
 
@@ -18577,6 +19036,52 @@
     
 
     ,
+    "jake_evans" : {
+        "name": "Jake Evans",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "Liberal Arts",
+        "graduated": 2025,
+        "award": [],
+        "shows": [
+            {
+                "title": "Hamlet",
+                "roles": ["Assistant Producer","Followspot Operator"]
+            }
+        
+            ,{
+                "title": "Wild West Side Story",
+                "roles": ["Randy"]
+            }
+        
+            ,{
+                "title": "The Reunion",
+                "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Peter Pan",
+                "roles": ["Curly / Skylights"]
+            }
+        
+            ,{
+                "title": "Romeo & Juliet",
+                "roles": ["Paris / Lord Montague"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Front of House"]
+            }
+        ],
+        "link": "/people/jake_evans/"
+    }
+    
+
+    ,
     "jake_gelernter" : {
         "name": "Jake Gelernter",
         "type": "person",
@@ -21196,6 +21701,27 @@
     
 
     ,
+    "jimmy_pays" : {
+        "name": "Jimmy Pays",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BSc Physics with Theoretical Astrophysics",
+        "graduated": 2027,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["Company Stage Manager"]
+            }
+        ],
+        "link": "/people/jimmy_pays/"
+    }
+    
+
+    ,
     "jo_harris" : {
         "name": "Jo Harris",
         "type": "person",
@@ -23380,6 +23906,27 @@
     
 
     ,
+    "juhi_andon" : {
+        "name": "Juhi Andon",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "MSci Zoology",
+        "graduated": 2025,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["Front of House"]
+            }
+        ],
+        "link": "/people/juhi_andon/"
+    }
+    
+
+    ,
     "julia_scott-russell" : {
         "name": "Julia Scott-Russell",
         "type": "person",
@@ -24059,6 +24606,27 @@
     
 
     ,
+    "kayla_sibanda" : {
+        "name": "Kayla Sibanda",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "Philosophy",
+        "graduated": 2026,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["Social Secretary"]
+            }
+        ],
+        "link": "/people/kayla_sibanda/"
+    }
+    
+
+    ,
     "keir_birchall" : {
         "name": "Keir Birchall",
         "type": "person",
@@ -24294,6 +24862,27 @@
         ],
         "committees": [],
         "link": "/people/kiara_hohn/"
+    }
+    
+
+    ,
+    "kieran_bell" : {
+        "name": "Kieran Bell",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BSc Biochem",
+        "graduated": 2025,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["Marketing Co-ordinator"]
+            }
+        ],
+        "link": "/people/kieran_bell/"
     }
     
 
@@ -24556,6 +25145,37 @@
         ],
         "committees": [],
         "link": "/people/laura_cremona/"
+    }
+    
+
+    ,
+    "laura_dennison" : {
+        "name": "Laura Dennison",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "History of Art and English",
+        "graduated": 2025,
+        "award": [],
+        "shows": [
+            {
+                "title": "Aristotle and Socrates Odyssey",
+                "roles": ["Director","Producer","Playwright"]
+            }
+        
+            ,{
+                "title": "Aristotle and Socrates Odyssey",
+                "roles": ["Director","Producer","Playwright"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Secretary and Welfare"]
+            }
+        ],
+        "link": "/people/laura_dennison/"
     }
     
 
@@ -25860,6 +26480,47 @@
         ],
         "committees": [],
         "link": "/people/lily_bailes/"
+    }
+    
+
+    ,
+    "lily_hagen" : {
+        "name": "Lily Hagen",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BMBS Medicine",
+        "graduated": 2027,
+        "award": [],
+        "shows": [
+            {
+                "title": "Mixy",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "Panto In A Day",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Deep Blue Sea",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Theatre Manager"]
+            }
+        
+            ,{
+                "title": "2024-25",
+                "roles": ["President"]
+            }
+        ],
+        "link": "/people/lily_hagen/"
     }
     
 
@@ -27714,6 +28375,52 @@
     
 
     ,
+    "maggie_campion" : {
+        "name": "Maggie Campion",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BSc Psychology",
+        "graduated": 2025,
+        "award": [],
+        "shows": [
+            {
+                "title": "Blood Wedding",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "The Reunion",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Conversations with an Asexual",
+                "roles": ["Hannah"]
+            }
+        
+            ,{
+                "title": "Peter Pan",
+                "roles": ["Followspot Operator"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Company Technical Director"]
+            }
+        
+            ,{
+                "title": "2024-25",
+                "roles": ["Secretary and Welfare"]
+            }
+        ],
+        "link": "/people/maggie_campion/"
+    }
+    
+
+    ,
     "maggie_dorling" : {
         "name": "Maggie Dorling",
         "type": "person",
@@ -27806,6 +28513,47 @@
         ],
         "committees": [],
         "link": "/people/maggie_dorling/"
+    }
+    
+
+    ,
+    "maisie_jack" : {
+        "name": "Maisie Jack",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BA Liberal Arts",
+        "graduated": 2025,
+        "award": [],
+        "shows": [
+            {
+                "title": "Hamlet",
+                "roles": ["Hamlet"]
+            }
+        
+            ,{
+                "title": "Pain Threshold",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Peter Pan",
+                "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "Romeo & Juliet",
+                "roles": ["Nurse"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["External Coordinator"]
+            }
+        ],
+        "link": "/people/maisie_jack/"
     }
     
 
@@ -28341,6 +29089,27 @@
         ],
         "committees": [],
         "link": "/people/mathilda_holland/"
+    }
+    
+
+    ,
+    "matt_adcock" : {
+        "name": "Matt Adcock",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BSc Computer Science and Artificial Intelligence",
+        "graduated": 2028,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["Theatre Manager"]
+            }
+        ],
+        "link": "/people/matt_adcock/"
     }
     
 
@@ -29278,6 +30047,27 @@
     
 
     ,
+    "meg_isaac" : {
+        "name": "Meg Isaac",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "French and Philosophy",
+        "graduated": 2026,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Archivist"]
+            }
+        ],
+        "link": "/people/meg_isaac/"
+    }
+    
+
+    ,
     "meg_salter" : {
         "name": "Meg Salter",
         "type": "person",
@@ -29941,6 +30731,62 @@
         ],
         "committees": [],
         "link": "/people/molly_mcgee/"
+    }
+    
+
+    ,
+    "molly_squires" : {
+        "name": "Molly Squires",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "Liberal Arts",
+        "graduated": 2026,
+        "award": [],
+        "shows": [
+            {
+                "title": "An English Toska",
+                "roles": ["Nora"]
+            }
+        
+            ,{
+                "title": "Aristotle and Socrates Odyssey",
+                "roles": ["Creative Assistant","Costume Designer","Stage Manager"]
+            }
+        
+            ,{
+                "title": "Aristotle and Socrates Odyssey",
+                "roles": ["Creative Assistant","Stage Manager"]
+            }
+        
+            ,{
+                "title": "Panto In A Day",
+                "roles": ["Sleeping Beauty"]
+            }
+        
+            ,{
+                "title": "There's A Place Some Folk Call Hope",
+                "roles": ["The Mind"]
+            }
+        
+            ,{
+                "title": "Conversations with an Asexual",
+                "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Carrie",
+                "roles": ["Technical Operator"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Events and Engagement Coordinator"]
+            }
+        ],
+        "link": "/people/molly_squires/"
     }
     
 
@@ -32824,7 +33670,12 @@
                 "roles": ["Lighting Designer"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Treasurer"]
+            }
+        ],
         "link": "/people/oliver_kletz/"
     }
     
@@ -34586,6 +35437,67 @@
         "shows": [],
         "committees": [],
         "link": "/people/rachel_haydon/"
+    }
+    
+
+    ,
+    "rachel_hoddes" : {
+        "name": "Rachel Hoddes",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BA English",
+        "graduated": 2025,
+        "award": [],
+        "shows": [
+            {
+                "title": "A Doll's House",
+                "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "An English Toska",
+                "roles": ["Costume Assistant","Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Wild West Side Story",
+                "roles": ["Paula Rudd","Playwright"]
+            }
+        
+            ,{
+                "title": "Panto In A Day",
+                "roles": ["Audience / Henchman","Playwright"]
+            }
+        
+            ,{
+                "title": "The Deep Blue Sea",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Man in the Door",
+                "roles": ["Inner Self"]
+            }
+        
+            ,{
+                "title": "Romantic Fools",
+                "roles": ["Sound Operator"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Technical Manager"]
+            }
+        
+            ,{
+                "title": "2024-25",
+                "roles": ["Technical Manager"]
+            }
+        ],
+        "link": "/people/rachel_hoddes/"
     }
     
 
@@ -37285,6 +38197,27 @@
     
 
     ,
+    "sara_hodgson" : {
+        "name": "Sara Hodgson",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "MA Social Science Research (Criminology)",
+        "graduated": 2025,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["Company Workshop Manager"]
+            }
+        ],
+        "link": "/people/sara_hodgson/"
+    }
+    
+
+    ,
     "sarah_basford" : {
         "name": "Sarah Basford",
         "type": "person",
@@ -38926,6 +39859,42 @@
     
 
     ,
+    "t_kenyon" : {
+        "name": "T Kenyon",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "Biochem",
+        "graduated": 2026,
+        "award": [],
+        "shows": [
+            {
+                "title": "Hamlet",
+                "roles": ["Claudius"]
+            }
+        
+            ,{
+                "title": "Pain Threshold",
+                "roles": ["Vin"]
+            }
+        
+            ,{
+                "title": "Romeo & Juliet",
+                "roles": ["Mercutio"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2024-25",
+                "roles": ["Treasurer"]
+            }
+        ],
+        "link": "/people/t_kenyon/"
+    }
+    
+
+    ,
     "tammy_ingamells" : {
         "name": "Tammy Ingamells",
         "type": "person",
@@ -39376,6 +40345,32 @@
             }
         ],
         "link": "/people/tara_phillips/"
+    }
+    
+
+    ,
+    "tara_wynne-edwards" : {
+        "name": "Tara Wynne-Edwards",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BA Politics and International Relations",
+        "graduated": 2025,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Costume, Props and Makeup Manager"]
+            }
+        
+            ,{
+                "title": "2024-25",
+                "roles": ["Costume, Props and Makeup Manager"]
+            }
+        ],
+        "link": "/people/tara_wynne-edwards/"
     }
     
 
@@ -102844,7 +103839,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -102862,7 +103857,12 @@
                 "roles": ["Carter / Dr Wyatt"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Social Secretary"]
+            }
+        ],
         "link": "/people/dant_sidhu/"
     }
     
@@ -103428,47 +104428,6 @@
         ],
         "committees": [],
         "link": "/people/mads_warren/"
-    }
-    
-
-    ,
-    "ana_balanici" : {
-        "name": "Ana Balanici",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "We Need to Talk About Mary",
-                "roles": ["Shadow Director"]
-            }
-        
-            ,{
-                "title": "An English Toska",
-                "roles": ["Assistant Stage Manager"]
-            }
-        
-            ,{
-                "title": "Blood Wedding",
-                "roles": ["Set Assistant"]
-            }
-        
-            ,{
-                "title": "Pain Threshold",
-                "roles": ["Assistant Producer"]
-            }
-        
-            ,{
-                "title": "Romeo & Juliet",
-                "roles": ["Assistant Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/ana_balanici/"
     }
     
 
@@ -104400,57 +105359,6 @@
     
 
     ,
-    "ali_seaborne" : {
-        "name": "Ali Seaborne",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "Mixy",
-                "roles": ["Assistant Director"]
-            }
-        
-            ,{
-                "title": "Blood Wedding",
-                "roles": ["Maid"]
-            }
-        
-            ,{
-                "title": "Wild West Side Story",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "The Reunion",
-                "roles": ["River"]
-            }
-        
-            ,{
-                "title": "The Deep Blue Sea",
-                "roles": ["Set Assistant","Poster Designer"]
-            }
-        
-            ,{
-                "title": "Conversations with an Asexual",
-                "roles": ["Bea / Steph"]
-            }
-        
-            ,{
-                "title": "The Man in the Door",
-                "roles": ["Inner Self"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/ali_seaborne/"
-    }
-    
-
-    ,
     "jasmine_rajan" : {
         "name": "Jasmine Rajan",
         "type": "person",
@@ -104514,37 +105422,6 @@
         ],
         "committees": [],
         "link": "/people/katy_lotherington/"
-    }
-    
-
-    ,
-    "lily_hagen" : {
-        "name": "Lily Hagen",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "Mixy",
-                "roles": ["Deputy Stage Manager"]
-            }
-        
-            ,{
-                "title": "Panto In A Day",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "The Deep Blue Sea",
-                "roles": ["Producer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/lily_hagen/"
     }
     
 
@@ -104870,57 +105747,6 @@
     
 
     ,
-    "farah_shah" : {
-        "name": "Farah Shah",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "Bedroom Farce",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "Hamlet",
-                "roles": ["Deputy Stage Manager"]
-            }
-        
-            ,{
-                "title": "Panto In A Day",
-                "roles": ["Committee Member / Little Red Riding Hood"]
-            }
-        
-            ,{
-                "title": "A Clichéd Affair",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "Witness for the Prosecution",
-                "roles": ["Set Assistant"]
-            }
-        
-            ,{
-                "title": "Peter Pan",
-                "roles": ["Twin 1 / Mermaid / Pirate"]
-            }
-        
-            ,{
-                "title": "Romeo & Juliet",
-                "roles": ["Lady Montague"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/farah_shah/"
-    }
-    
-
-    ,
     "rosalind_bull" : {
         "name": "Rosalind Bull",
         "type": "person",
@@ -105037,57 +105863,6 @@
         ],
         "committees": [],
         "link": "/people/jack_durden/"
-    }
-    
-
-    ,
-    "rachel_hoddes" : {
-        "name": "Rachel Hoddes",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "A Doll's House",
-                "roles": ["Assistant Director"]
-            }
-        
-            ,{
-                "title": "An English Toska",
-                "roles": ["Costume Assistant","Publicity Manager"]
-            }
-        
-            ,{
-                "title": "Wild West Side Story",
-                "roles": ["Paula Rudd","Playwright"]
-            }
-        
-            ,{
-                "title": "Panto In A Day",
-                "roles": ["Audience / Henchman","Playwright"]
-            }
-        
-            ,{
-                "title": "The Deep Blue Sea",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "The Man in the Door",
-                "roles": ["Inner Self"]
-            }
-        
-            ,{
-                "title": "Romantic Fools",
-                "roles": ["Sound Operator"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/rachel_hoddes/"
     }
     
 
@@ -105524,67 +106299,6 @@
     
 
     ,
-    "alessia_lowcock" : {
-        "name": "Alessia Lowcock",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "Hamlet",
-                "roles": ["Polonius"]
-            }
-        
-            ,{
-                "title": "An English Toska",
-                "roles": ["Shadow Director"]
-            }
-        
-            ,{
-                "title": "Aristotle and Socrates Odyssey",
-                "roles": ["Aristotle"]
-            }
-        
-            ,{
-                "title": "Aristotle and Socrates Odyssey",
-                "roles": ["Aristotle"]
-            }
-        
-            ,{
-                "title": "Wild West Side Story",
-                "roles": ["Tyrone","Playwright"]
-            }
-        
-            ,{
-                "title": "Panto In A Day",
-                "roles": ["Buttons"]
-            }
-        
-            ,{
-                "title": "Peter Pan",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Romeo & Juliet",
-                "roles": ["Friar Laurence"]
-            }
-        
-            ,{
-                "title": "The Man in the Door",
-                "roles": ["Inner Self"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/alessia_lowcock/"
-    }
-    
-
-    ,
     "stella_liu" : {
         "name": "Stella Liu",
         "type": "person",
@@ -105616,73 +106330,6 @@
     
 
     ,
-    "t_kenyon" : {
-        "name": "T Kenyon",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "Hamlet",
-                "roles": ["Claudius"]
-            }
-        
-            ,{
-                "title": "Pain Threshold",
-                "roles": ["Vin"]
-            }
-        
-            ,{
-                "title": "Romeo & Juliet",
-                "roles": ["Mercutio"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/t_kenyon/"
-    }
-    
-
-    ,
-    "maisie_jack" : {
-        "name": "Maisie Jack",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "Hamlet",
-                "roles": ["Hamlet"]
-            }
-        
-            ,{
-                "title": "Pain Threshold",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Peter Pan",
-                "roles": ["Assistant Director"]
-            }
-        
-            ,{
-                "title": "Romeo & Juliet",
-                "roles": ["Nurse"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/maisie_jack/"
-    }
-    
-
-    ,
     "darcy_kelly" : {
         "name": "Darcy Kelly",
         "type": "person",
@@ -105705,47 +106352,6 @@
         ],
         "committees": [],
         "link": "/people/darcy_kelly/"
-    }
-    
-
-    ,
-    "jake_evans" : {
-        "name": "Jake Evans",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "Hamlet",
-                "roles": ["Assistant Producer","Followspot Operator"]
-            }
-        
-            ,{
-                "title": "Wild West Side Story",
-                "roles": ["Randy"]
-            }
-        
-            ,{
-                "title": "The Reunion",
-                "roles": ["Publicity Manager"]
-            }
-        
-            ,{
-                "title": "Peter Pan",
-                "roles": ["Curly / Skylights"]
-            }
-        
-            ,{
-                "title": "Romeo & Juliet",
-                "roles": ["Paris / Lord Montague"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/jake_evans/"
     }
     
 
@@ -105793,57 +106399,6 @@
         ],
         "committees": [],
         "link": "/people/belle_powell-keiloh/"
-    }
-    
-
-    ,
-    "molly_squires" : {
-        "name": "Molly Squires",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "An English Toska",
-                "roles": ["Nora"]
-            }
-        
-            ,{
-                "title": "Aristotle and Socrates Odyssey",
-                "roles": ["Creative Assistant","Costume Designer","Stage Manager"]
-            }
-        
-            ,{
-                "title": "Aristotle and Socrates Odyssey",
-                "roles": ["Creative Assistant","Stage Manager"]
-            }
-        
-            ,{
-                "title": "Panto In A Day",
-                "roles": ["Sleeping Beauty"]
-            }
-        
-            ,{
-                "title": "There's A Place Some Folk Call Hope",
-                "roles": ["The Mind"]
-            }
-        
-            ,{
-                "title": "Conversations with an Asexual",
-                "roles": ["Publicity Manager"]
-            }
-        
-            ,{
-                "title": "Carrie",
-                "roles": ["Technical Operator"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/molly_squires/"
     }
     
 
@@ -105958,42 +106513,6 @@
     
 
     ,
-    "maggie_campion" : {
-        "name": "Maggie Campion",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "Blood Wedding",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "The Reunion",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Conversations with an Asexual",
-                "roles": ["Hannah"]
-            }
-        
-            ,{
-                "title": "Peter Pan",
-                "roles": ["Followspot Operator"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/maggie_campion/"
-    }
-    
-
-    ,
     "philippa_daniel" : {
         "name": "Philippa Daniel",
         "type": "person",
@@ -106037,58 +106556,6 @@
         ],
         "committees": [],
         "link": "/people/sophia_vivian/"
-    }
-    
-
-    ,
-    "laura_dennison" : {
-        "name": "Laura Dennison",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "Aristotle and Socrates Odyssey",
-                "roles": ["Director","Producer","Playwright"]
-            }
-        
-            ,{
-                "title": "Aristotle and Socrates Odyssey",
-                "roles": ["Director","Producer","Playwright"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/laura_dennison/"
-    }
-    
-
-    ,
-    "annabel_rumble" : {
-        "name": "Annabel Rumble",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2023,
-        "award": [],
-        "shows": [
-            {
-                "title": "Wild West Side Story",
-                "roles": ["Jules","Producer"]
-            }
-        
-            ,{
-                "title": "The Man in the Door",
-                "roles": ["Inner Self"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/annabel_rumble/"
     }
     
 
@@ -106680,7 +107147,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -106688,7 +107155,12 @@
                 "roles": ["Lighting Designer"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Marketing Co-ordinator"]
+            }
+        ],
         "link": "/people/zoe_hopper/"
     }
     
@@ -106764,7 +107236,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -106772,7 +107244,12 @@
                 "roles": ["Assistant Stage Manager"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Marketing Co-ordinator"]
+            }
+        ],
         "link": "/people/luanne_moses/"
     }
     
@@ -107251,7 +107728,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -107259,7 +107736,12 @@
                 "roles": ["Playwright"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Marketing Co-ordinator"]
+            }
+        ],
         "link": "/people/ollie_ennis/"
     }
     
@@ -107518,6 +108000,27 @@
             }
         ],
         "link": "/people/chilli_wright/"
+    }
+    
+
+    ,
+    "cecily_chaplen_luanne_moses" : {
+        "name": "Cecily Chaplen Luanne Moses",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Marketing Co-ordinator"]
+            }
+        ],
+        "link": "/people/cecily_chaplen_luanne_moses/"
     }
     
 
