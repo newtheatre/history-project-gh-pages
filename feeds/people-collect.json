@@ -77654,23 +77654,43 @@
     
 
     ,
-    "gabriela_carboneri" : {
-        "name": "Gabriela Carboneri",
+    "gabriella_carboneri" : {
+        "name": "Gabriella Carboneri",
         "type": "person",
         "excerpt": "",
         "bio": "",
         
         "course": null,
-        "graduated": 2011,
+        "graduated": 2013,
         "award": [],
         "shows": [
             {
                 "title": "A Day In The Life",
                 "roles": [null]
             }
+        
+            ,{
+                "title": "PARADISE",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "The Red Herrings Present: The Best Book I Never Wrote",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Stags and Hens",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "PARADISE",
+                "roles": ["Producer"]
+            }
         ],
         "committees": [],
-        "link": "/people/gabriela_carboneri/"
+        "link": "/people/gabriella_carboneri/"
     }
     
 
@@ -82101,37 +82121,6 @@
     
 
     ,
-    "gabriella_carboneri" : {
-        "name": "Gabriella Carboneri",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2013,
-        "award": [],
-        "shows": [
-            {
-                "title": "PARADISE",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Stags and Hens",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "PARADISE",
-                "roles": ["Producer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/gabriella_carboneri/"
-    }
-    
-
-    ,
     "eleanor_porter" : {
         "name": "Eleanor Porter",
         "type": "person",
@@ -82191,27 +82180,6 @@
         ],
         "committees": [],
         "link": "/people/becky_ellis/"
-    }
-    
-
-    ,
-    "gabby_carboneri" : {
-        "name": "Gabby Carboneri",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2013,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Red Herrings Present: The Best Book I Never Wrote",
-                "roles": ["Producer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/gabby_carboneri/"
     }
     
 
