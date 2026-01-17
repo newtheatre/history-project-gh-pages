@@ -48130,12 +48130,17 @@
         "bio": "",
         
         "course": null,
-        "graduated": 1962,
+        "graduated": 1965,
         "award": [],
         "shows": [
             {
                 "title": "St Joan",
                 "roles": ["Dunois' Page"]
+            }
+        
+            ,{
+                "title": "All in a Polly Ethylene Bag",
+                "roles": ["Various"]
             }
         ],
         "committees": [],
@@ -48602,6 +48607,200 @@
         ],
         "committees": [],
         "link": "/people/rosemary_athay/"
+    }
+    
+
+    ,
+    "chris_bigsy" : {
+        "name": "Chris Bigsy",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1965,
+        "award": [],
+        "shows": [
+            {
+                "title": "All in a Polly Ethylene Bag",
+                "roles": ["Various"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/chris_bigsy/"
+    }
+    
+
+    ,
+    "mike_mackenzie" : {
+        "name": "Mike Mackenzie",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1965,
+        "award": [],
+        "shows": [
+            {
+                "title": "All in a Polly Ethylene Bag",
+                "roles": ["Various"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/mike_mackenzie/"
+    }
+    
+
+    ,
+    "ian_walker" : {
+        "name": "Ian Walker",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1965,
+        "award": [],
+        "shows": [
+            {
+                "title": "All in a Polly Ethylene Bag",
+                "roles": ["Various"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ian_walker/"
+    }
+    
+
+    ,
+    "audrey_lanclett" : {
+        "name": "Audrey Lanclett",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1965,
+        "award": [],
+        "shows": [
+            {
+                "title": "All in a Polly Ethylene Bag",
+                "roles": ["Various"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/audrey_lanclett/"
+    }
+    
+
+    ,
+    "frank_abbott" : {
+        "name": "Frank Abbott",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1965,
+        "award": [],
+        "shows": [
+            {
+                "title": "All in a Polly Ethylene Bag",
+                "roles": ["Various"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/frank_abbott/"
+    }
+    
+
+    ,
+    "chris_bigsby" : {
+        "name": "Chris Bigsby",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1965,
+        "award": [],
+        "shows": [
+            {
+                "title": "All in a Polly Ethylene Bag",
+                "roles": ["Playwright","Director","Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/chris_bigsby/"
+    }
+    
+
+    ,
+    "ron_haylock" : {
+        "name": "Ron Haylock",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1965,
+        "award": [],
+        "shows": [
+            {
+                "title": "All in a Polly Ethylene Bag",
+                "roles": ["Business Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ron_haylock/"
+    }
+    
+
+    ,
+    "peter_fagg" : {
+        "name": "Peter Fagg",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1966,
+        "award": [],
+        "shows": [
+            {
+                "title": "All in a Polly Ethylene Bag",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1965-66",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "link": "/people/peter_fagg/"
+    }
+    
+
+    ,
+    "simon_garner" : {
+        "name": "Simon Garner",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1965,
+        "award": [],
+        "shows": [
+            {
+                "title": "All in a Polly Ethylene Bag",
+                "roles": ["Poster and Cover Design"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/simon_garner/"
     }
     
 
@@ -113132,27 +113331,6 @@
             }
         ],
         "link": "/people/john_dane/"
-    }
-    
-
-    ,
-    "peter_fagg" : {
-        "name": "Peter Fagg",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1966,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "1965-66",
-                "roles": ["Stage Manager"]
-            }
-        ],
-        "link": "/people/peter_fagg/"
     }
     
 
