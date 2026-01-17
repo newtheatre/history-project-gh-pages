@@ -194,6 +194,26 @@
                 "title": "Carrie",
                 "roles": ["Technical Operator"]
             }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Producer","Assistant Stage Manager","Set Assistant"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Co-Producer","Stage Manager"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Assistant Stage Manager","Sound Designer"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Sound Designer","Publicity Manager"]
+            }
         ],
         "committees": [
             {
@@ -825,7 +845,27 @@
         "course": "BA English",
         "graduated": 2025,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Co-Producer"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -1018,6 +1058,41 @@
             ,{
                 "title": "The Man in the Door",
                 "roles": ["Inner Self"]
+            }
+        
+            ,{
+                "title": "Once Upon A Crime",
+                "roles": ["Rumplestiltskin"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Creative Assistant"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Multi-Role"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Duck","Knave"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Director"]
             }
         ],
         "committees": [
@@ -1255,7 +1330,32 @@
         "course": "BA Classics",
         "graduated": 2026,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Silvio"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["James"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Dodo","Cheshire Cat","Card 2","Publicity Manager"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Beck"]
+            }
+        
+            ,{
+                "title": "What We Carry",
+                "roles": ["Teddy"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -1449,6 +1549,66 @@
             ,{
                 "title": "The Man in the Door",
                 "roles": ["Inner Self"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "The Servant Of Two Masters",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "POSH",
+                "roles": ["Producer","Sound Designer","Poster Designer"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Set Painter"]
+            }
+        
+            ,{
+                "title": "She's Not All That",
+                "roles": ["Teacher 1"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Playwright","Director"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Nurse"]
+            }
+        
+            ,{
+                "title": "What We Carry",
+                "roles": ["Director"]
             }
         ],
         "committees": [
@@ -2229,6 +2389,21 @@
                 "title": "Romeo & Juliet",
                 "roles": ["Assistant Director"]
             }
+        
+            ,{
+                "title": "Once Upon A Crime",
+                "roles": ["Co-Director","Assistant Stage Manager","Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Stage Manager"]
+            }
         ],
         "committees": [
             {
@@ -2922,6 +3097,36 @@
             ,{
                 "title": "The Man in the Door",
                 "roles": ["Inner Self"]
+            }
+        
+            ,{
+                "title": "The Servant Of Two Masters",
+                "roles": ["Clarice"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "POSH",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "She's Not All That",
+                "roles": ["Mean Girl 1"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Eurydice"]
+            }
+        
+            ,{
+                "title": "What We Carry",
+                "roles": ["Mary"]
             }
         ],
         "committees": [
@@ -3932,7 +4137,22 @@
         "course": "BA Liberal Arts",
         "graduated": 2026,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["Alistair"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Stanley"]
+            }
+        
+            ,{
+                "title": "The Last Rites",
+                "roles": ["Isaac","Playwright","Co-Director"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -3953,7 +4173,27 @@
         "course": "Music and Music Technology",
         "graduated": 2026,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "About My Depression",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Immanuel Kant was a Real Pissant",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "What We Carry",
+                "roles": ["Sound Designer"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -5354,7 +5594,27 @@
         "course": "MPharm Pharmacy",
         "graduated": 2026,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "Doctor Faustus",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "She's Not All That",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Set Builder"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -6907,7 +7167,22 @@
         "course": "BA History",
         "graduated": 2027,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "She's Not All That",
+                "roles": ["Creatives Coordinator","Director"]
+            }
+        
+            ,{
+                "title": "Infamous",
+                "roles": ["Playwright","Director"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -6965,7 +7240,32 @@
         "course": "BSc Psychology with Placement Year",
         "graduated": 2026,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "Driven",
+                "roles": ["Set Designer","Technical Operator"]
+            }
+        
+            ,{
+                "title": "She's Not All That",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Stage Manager"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -7113,7 +7413,52 @@
         "course": "BSc Psychology",
         "graduated": 2026,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Daddy Bear"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["MacDuff"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Set Technician"]
+            }
+        
+            ,{
+                "title": "She's Not All That",
+                "roles": ["Lighting and Sound Designer"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Louise","Poster Designer"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Talthybia"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -7134,7 +7479,32 @@
         "course": "Liberal Arts",
         "graduated": 2026,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Director","Lighting Designer"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Lighting Designer"]
+            }
+        ],
         "committees": [
             {
                 "title": "2023-24",
@@ -12042,6 +12412,26 @@
                 "title": "Romantic Fools",
                 "roles": ["Technical Assistant"]
             }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Themself"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Set Designer"]
+            }
         ],
         "committees": [
             {
@@ -14230,6 +14620,31 @@
             ,{
                 "title": "Romeo & Juliet",
                 "roles": ["Lady Montague"]
+            }
+        
+            ,{
+                "title": "Once Upon A Crime",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "About My Depression",
+                "roles": ["Set Assistant"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Playwright","Director"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Set Designer"]
             }
         ],
         "committees": [
@@ -19070,6 +19485,36 @@
                 "title": "Romeo & Juliet",
                 "roles": ["Paris / Lord Montague"]
             }
+        
+            ,{
+                "title": "The Servant Of Two Masters",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "POSH",
+                "roles": ["George"]
+            }
+        
+            ,{
+                "title": "She's Not All That",
+                "roles": ["Teacher 2"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Hugh"]
+            }
+        
+            ,{
+                "title": "What We Carry",
+                "roles": ["Jack"]
+            }
         ],
         "committees": [
             {
@@ -21066,7 +21511,7 @@
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/jess_beadle-platt/'><img src='https://photos.smugmug.com/photos/i-skFvRqL/0/140x140!/i-skFvRqL-140x140!.jpg' class='search-result-poster-thumb' alt='Jess Beadle-Platt' /></a>",
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -21127,6 +21572,31 @@
             ,{
                 "title": "The Man in the Door",
                 "roles": ["Molly"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Playwright","Director"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Playwright"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Doctor Faustus"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Younger sister"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Megaera"]
             }
         ],
         "committees": [
@@ -21710,7 +22180,22 @@
         "course": "BSc Physics with Theoretical Astrophysics",
         "graduated": 2027,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["Guy"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Haemon"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -23915,7 +24400,32 @@
         "course": "MSci Zoology",
         "graduated": 2025,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Costume and Make-Up Artist"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Actor Four"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Costume and Makeup"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Eunice"]
+            }
+        
+            ,{
+                "title": "The Duchess of Malfi",
+                "roles": ["Assistant Director"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -24615,7 +25125,37 @@
         "course": "Philosophy",
         "graduated": 2026,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "King Lear",
+                "roles": ["King Lear"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Dormouse"]
+            }
+        
+            ,{
+                "title": "Driven",
+                "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Pargeia"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -24875,7 +25415,27 @@
         "course": "BSc Biochem",
         "graduated": 2025,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "There's A Leak",
+                "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "POSH",
+                "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Tobias"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Co-Producer"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -26507,6 +27067,51 @@
             ,{
                 "title": "The Deep Blue Sea",
                 "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "King Lear",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Mr Birch","Director"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "Immanuel Kant was a Real Pissant",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Producer","Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Assistant Stage Manager","Lighting Designer"]
             }
         ],
         "committees": [
@@ -28404,6 +29009,31 @@
                 "title": "Peter Pan",
                 "roles": ["Followspot Operator"]
             }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Noah","Avery","Lighting Assistant"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Noah","Avery","Kat"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Ross","Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Director"]
+            }
         ],
         "committees": [
             {
@@ -28545,6 +29175,31 @@
             ,{
                 "title": "Romeo & Juliet",
                 "roles": ["Nurse"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Actor One"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Charlie"]
+            }
+        
+            ,{
+                "title": "POSH",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Tim"]
+            }
+        
+            ,{
+                "title": "Chaos",
+                "roles": ["Aisha"]
             }
         ],
         "committees": [
@@ -29102,7 +29757,22 @@
         "course": "BSc Computer Science and Artificial Intelligence",
         "graduated": 2028,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "The Tales of Alice",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "The Duchess of Malfi",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Chaos",
+                "roles": ["Stage Manager"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -30056,7 +30726,17 @@
         "course": "French and Philosophy",
         "graduated": 2026,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "NNTV",
+                "roles": ["Costume Designer"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Lust","Scholar","Attendant"]
+            }
+        ],
         "committees": [
             {
                 "title": "2023-24",
@@ -30778,6 +31458,41 @@
             ,{
                 "title": "Carrie",
                 "roles": ["Technical Operator"]
+            }
+        
+            ,{
+                "title": "About My Depression",
+                "roles": ["Playwright","Director"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Lighting Designer","Costume Designer"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Mephistopheles"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Set Assistant"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "Infamous",
+                "roles": ["Poster Designer"]
             }
         ],
         "committees": [
@@ -33669,6 +34384,21 @@
                 "title": "Romantic Fools",
                 "roles": ["Lighting Designer"]
             }
+        
+            ,{
+                "title": "King Lear",
+                "roles": ["Co-Director"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Multi-Role"]
+            }
+        
+            ,{
+                "title": "Immanuel Kant was a Real Pissant",
+                "roles": ["Playwright","Director"]
+            }
         ],
         "committees": [
             {
@@ -35484,6 +36214,46 @@
             ,{
                 "title": "Romantic Fools",
                 "roles": ["Sound Operator"]
+            }
+        
+            ,{
+                "title": "Once Upon A Crime",
+                "roles": ["Lighting Designer","Sound Designer","Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor","Set Designer","Publicity Manager"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Deputy Stage Manager","Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Driven",
+                "roles": ["Technical Director","Lighting Designer"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Eris","Eunomia","Bia"]
+            }
+        
+            ,{
+                "title": "What We Carry",
+                "roles": ["Lighting Designer"]
             }
         ],
         "committees": [
@@ -38206,7 +38976,32 @@
         "course": "MA Social Science Research (Criminology)",
         "graduated": 2025,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "Driven",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Director"]
+            }
+        ],
         "committees": [
             {
                 "title": "2024-25",
@@ -39883,6 +40678,26 @@
                 "title": "Romeo & Juliet",
                 "roles": ["Mercutio"]
             }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "King Lear",
+                "roles": ["Cornwall"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Johnny"]
+            }
         ],
         "committees": [
             {
@@ -40358,7 +41173,37 @@
         "course": "BA Politics and International Relations",
         "graduated": 2025,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "King Lear",
+                "roles": ["Goneril"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Costume and Makeup"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Costume & Make Up Designer"]
+            }
+        
+            ,{
+                "title": "The Duchess of Malfi",
+                "roles": ["Bosola"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Costume & Makeup Artist"]
+            }
+        
+            ,{
+                "title": "Infamous",
+                "roles": ["Costume & Makeup Artist"]
+            }
+        ],
         "committees": [
             {
                 "title": "2023-24",
@@ -42514,7 +43359,7 @@
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/william_morgan/'><img src='https://photos.smugmug.com/photos/i-vrQx4qq/0/140x140!/i-vrQx4qq-140x140!.jpg' class='search-result-poster-thumb' alt='William Morgan' /></a>",
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -42585,6 +43430,36 @@
             ,{
                 "title": "Romantic Fools",
                 "roles": ["Sound Operator"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Wyll"]
+            }
+        
+            ,{
+                "title": "King Lear",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Set Assistant"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Igor"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Actor"]
             }
         ],
         "committees": [
@@ -101529,7 +102404,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -101550,6 +102425,11 @@
             ,{
                 "title": "Aristotle and Socrates Odyssey",
                 "roles": ["Chorus"]
+            }
+        
+            ,{
+                "title": "About My Depression",
+                "roles": ["Friend"]
             }
         ],
         "committees": [],
@@ -101689,7 +102569,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -101735,6 +102615,16 @@
             ,{
                 "title": "The Man in the Door",
                 "roles": ["Inner Self"]
+            }
+        
+            ,{
+                "title": "Once Upon A Crime",
+                "roles": ["Producer","Assistant Director"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Creative Consultant"]
             }
         ],
         "committees": [],
@@ -102472,7 +103362,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -102497,6 +103387,21 @@
         
             ,{
                 "title": "Wild West Side Story",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor","Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
                 "roles": ["Assistant Stage Manager"]
             }
         ],
@@ -102672,7 +103577,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -102708,6 +103613,21 @@
             ,{
                 "title": "Peter Pan",
                 "roles": ["Tinkerbell / Lost Boy"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Robyn"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Robyn","Jay"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Elsa"]
             }
         ],
         "committees": [],
@@ -103062,7 +103982,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -103083,6 +104003,16 @@
             ,{
                 "title": "There's A Place Some Folk Call Hope",
                 "roles": ["Edith / Mother"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Co-Director"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Poster Designer"]
             }
         ],
         "committees": [],
@@ -103563,7 +104493,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -103584,6 +104514,16 @@
             ,{
                 "title": "Conversations with an Asexual",
                 "roles": ["Playwright","Director"]
+            }
+        
+            ,{
+                "title": "The Servant Of Two Masters",
+                "roles": ["Truffaldino"]
+            }
+        
+            ,{
+                "title": "What We Carry",
+                "roles": ["Liam"]
             }
         ],
         "committees": [
@@ -103646,7 +104586,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -103666,6 +104606,26 @@
         
             ,{
                 "title": "The Defamation",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "About My Depression",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Herself"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Voice"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
                 "roles": ["Producer"]
             }
         ],
@@ -103703,7 +104663,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -103729,6 +104689,11 @@
             ,{
                 "title": "Peter Pan",
                 "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Adapter and Designer"]
             }
         ],
         "committees": [],
@@ -103807,7 +104772,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": null,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -103823,6 +104788,26 @@
             ,{
                 "title": "Witness for the Prosecution",
                 "roles": ["Carter / Dr Wyatt"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Canary"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Immanuel Kant was a Real Pissant",
+                "roles": ["Frankie"]
             }
         ],
         "committees": [
@@ -104063,7 +105048,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -104089,6 +105074,11 @@
             ,{
                 "title": "Romeo & Juliet",
                 "roles": ["Romeo Montague"]
+            }
+        
+            ,{
+                "title": "POSH",
+                "roles": ["Toby"]
             }
         ],
         "committees": [],
@@ -104454,12 +105444,22 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2022,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
                 "title": "Hypnic Jerks",
                 "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "Once Upon A Crime",
+                "roles": ["Co-Director","Costume, Props and Make-up Assistant","Publicity Manager"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Multi-Role"]
             }
         ],
         "committees": [],
@@ -104532,7 +105532,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -104547,6 +105547,11 @@
         
             ,{
                 "title": "Hamlet",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
                 "roles": ["Stage Manager"]
             }
         ],
@@ -105173,12 +106178,17 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
                 "title": "Mixy",
                 "roles": ["Kushi"]
+            }
+        
+            ,{
+                "title": "King Lear",
+                "roles": ["Kent"]
             }
         ],
         "committees": [],
@@ -105334,7 +106344,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -105361,6 +106371,11 @@
                 "title": "The Man in the Door",
                 "roles": ["Producer"]
             }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
         ],
         "committees": [],
         "link": "/people/jasmine_rajan/"
@@ -105375,7 +106390,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -105385,6 +106400,26 @@
         
             ,{
                 "title": "The Reunion",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Once Upon A Crime",
+                "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Flower Seller"]
+            }
+        
+            ,{
+                "title": "What We Carry",
                 "roles": ["Producer"]
             }
         ],
@@ -105691,7 +106726,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -105707,6 +106742,11 @@
             ,{
                 "title": "The Reunion",
                 "roles": ["Sound Assistant"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Sound Designer"]
             }
         ],
         "committees": [],
@@ -105884,7 +106924,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -105901,6 +106941,11 @@
                 "title": "Pain Threshold",
                 "roles": ["Musician"]
             }
+        
+            ,{
+                "title": "Driven",
+                "roles": ["Jason"]
+            }
         ],
         "committees": [],
         "link": "/people/jack_nicholls/"
@@ -105915,7 +106960,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -105926,6 +106971,11 @@
             ,{
                 "title": "The Deep Blue Sea",
                 "roles": ["Ann Welch"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Bobby","Jay"]
             }
         ],
         "committees": [],
@@ -106045,7 +107095,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -106061,6 +107111,11 @@
             ,{
                 "title": "The Man in the Door",
                 "roles": ["Inner Self"]
+            }
+        
+            ,{
+                "title": "King Lear",
+                "roles": ["Cordelia"]
             }
         ],
         "committees": [],
@@ -106196,7 +107251,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -106207,6 +107262,16 @@
             ,{
                 "title": "Romeo & Juliet",
                 "roles": ["Friar John / Prince's Man"]
+            }
+        
+            ,{
+                "title": "King Lear",
+                "roles": ["Gloucester"]
+            }
+        
+            ,{
+                "title": "Driven",
+                "roles": ["Mother"]
             }
         ],
         "committees": [],
@@ -106248,7 +107313,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -106259,6 +107324,16 @@
             ,{
                 "title": "Peter Pan",
                 "roles": ["John Darling"]
+            }
+        
+            ,{
+                "title": "POSH",
+                "roles": ["Ed"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Pablo"]
             }
         ],
         "committees": [],
@@ -106305,7 +107380,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -106316,6 +107391,21 @@
             ,{
                 "title": "The Reunion",
                 "roles": ["Agatha"]
+            }
+        
+            ,{
+                "title": "Once Upon A Crime",
+                "roles": ["The Big Bad Wolf","Police Officer"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Wrath","Greed","Emperor","Duke"]
             }
         ],
         "committees": [],
@@ -106561,12 +107651,47 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
                 "title": "Wild West Side Story",
                 "roles": ["Benrodeo"]
+            }
+        
+            ,{
+                "title": "Once Upon A Crime",
+                "roles": ["Mummy Bear"]
+            }
+        
+            ,{
+                "title": "The Servant Of Two Masters",
+                "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Costume Designer"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Queen of Hearts"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Sue"]
             }
         ],
         "committees": [],
@@ -106582,7 +107707,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -106593,6 +107718,16 @@
             ,{
                 "title": "The Man in the Door",
                 "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "The Servant Of Two Masters",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
             }
         ],
         "committees": [],
@@ -106650,7 +107785,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
@@ -106666,6 +107801,46 @@
             ,{
                 "title": "Pain Threshold",
                 "roles": ["Olive"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Barbara Winslow","Death"]
+            }
+        
+            ,{
+                "title": "King Lear",
+                "roles": ["Edgar"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Bobby","Barbara Winslow","Death"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Multi-Role"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["White Rabbit"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Producer","Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "What We Carry",
+                "roles": ["Show Assistant"]
             }
         ],
         "committees": [],
@@ -106728,12 +107903,22 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
                 "title": "Wild West Side Story",
                 "roles": ["Playwright"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Assistant Stage Manager"]
             }
         ],
         "committees": [],
@@ -106749,7 +107934,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -106760,6 +107945,11 @@
             ,{
                 "title": "The Man in the Door",
                 "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Co-Director"]
             }
         ],
         "committees": [],
@@ -106801,12 +107991,17 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
                 "title": "A Clichéd Affair",
                 "roles": ["Rachel"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Assistant Director"]
             }
         ],
         "committees": [],
@@ -107122,6 +108317,16 @@
                 "title": "The Deep Blue Sea",
                 "roles": ["Lighting Designer"]
             }
+        
+            ,{
+                "title": "About My Depression",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Publicity Manager"]
+            }
         ],
         "committees": [
             {
@@ -107204,12 +108409,32 @@
         "bio": "",
         
         "course": null,
-        "graduated": null,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
                 "title": "The Deep Blue Sea",
                 "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "Once Upon A Crime",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "About My Depression",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "Immanuel Kant was a Real Pissant",
+                "roles": ["Publicity Manager"]
             }
         ],
         "committees": [
@@ -107261,11 +108486,21 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
                 "title": "Conversations with an Asexual",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
                 "roles": ["Sound Designer"]
             }
         ],
@@ -107418,12 +108653,37 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": null,
         "award": [],
         "shows": [
             {
                 "title": "Witness for the Prosecution",
                 "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "King Lear",
+                "roles": ["Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Driven",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Director"]
             }
         ],
         "committees": [],
@@ -107507,12 +108767,17 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
                 "title": "Pain Threshold",
                 "roles": ["Musician"]
+            }
+        
+            ,{
+                "title": "King Lear",
+                "roles": ["Assistant Stage Manager"]
             }
         ],
         "committees": [],
@@ -107675,12 +108940,22 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
                 "title": "The Man in the Door",
                 "roles": ["Inner-Self"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Actor"]
             }
         ],
         "committees": [],
@@ -107696,7 +108971,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": null,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -107732,6 +109007,3790 @@
         ],
         "committees": [],
         "link": "/people/adian_angol-henry/"
+    }
+    
+
+    ,
+    "bethan_leeke" : {
+        "name": "Bethan Leeke",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Pied Piper","Police Officer"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["1st Witch","Murderer","Attendant"]
+            }
+        
+            ,{
+                "title": "The Duchess of Malfi",
+                "roles": ["Duchess"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/bethan_leeke/"
+    }
+    
+
+    ,
+    "grace_court-jones" : {
+        "name": "Grace Court-Jones",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Red Riding Hood"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/grace_court-jones/"
+    }
+    
+
+    ,
+    "nura_bentata" : {
+        "name": "Nura Bentata",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Goldilocks","Red's Grandmother"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "Chaos",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nura_bentata/"
+    }
+    
+
+    ,
+    "ollie_enis" : {
+        "name": "Ollie Enis",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["The Detective"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Young collector","Doctor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ollie_enis/"
+    }
+    
+
+    ,
+    "ernie_ofori-addo" : {
+        "name": "Ernie Ofori-Addo",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ernie_ofori-addo/"
+    }
+    
+
+    ,
+    "hope_somers" : {
+        "name": "Hope Somers",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Deputy Stage Manager","Lighting Operator"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "POSH",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "The Duchess of Malfi",
+                "roles": ["Lighting Designer","Makeup Artist"]
+            }
+        
+            ,{
+                "title": "Chaos",
+                "roles": ["Lighting Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/hope_somers/"
+    }
+    
+
+    ,
+    "sooraj_raja" : {
+        "name": "Sooraj Raja",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Assistant Sound Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sooraj_raja/"
+    }
+    
+
+    ,
+    "clara_wodny" : {
+        "name": "Clara Wodny",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Set Assistant"]
+            }
+        
+            ,{
+                "title": "About My Depression",
+                "roles": ["Publicity Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/clara_wodny/"
+    }
+    
+
+    ,
+    "ella_child" : {
+        "name": "Ella Child",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Costume Designer","Poster Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ella_child/"
+    }
+    
+
+    ,
+    "rosie_hatherly" : {
+        "name": "Rosie Hatherly",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Costume, Props and Make-up Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rosie_hatherly/"
+    }
+    
+
+    ,
+    "olivia_mills" : {
+        "name": "Olivia Mills",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Pride","Envy","Duchess","Melchizadek"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Actor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/olivia_mills/"
+    }
+    
+
+    ,
+    "hareem_babar" : {
+        "name": "Hareem Babar",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Percussionist"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "POSH",
+                "roles": ["Charlie"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/hareem_babar/"
+    }
+    
+
+    ,
+    "bethany_hook" : {
+        "name": "Bethany Hook",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Digital Poster Designer"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Actor Three"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "Driven",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "She's Not All That",
+                "roles": ["Lulu"]
+            }
+        
+            ,{
+                "title": "Infamous",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/bethany_hook/"
+    }
+    
+
+    ,
+    "ege_ulisoy" : {
+        "name": "Ege Ulisoy",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Shadow Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ege_ulisoy/"
+    }
+    
+
+    ,
+    "yun_yu" : {
+        "name": "Yun Yu",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Once Upon A Crime",
+                "roles": ["Shadow Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/yun_yu/"
+    }
+    
+
+    ,
+    "emily_trappen" : {
+        "name": "Emily Trappen",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Canary's Last Call",
+                "roles": ["Charlie","Kat"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/emily_trappen/"
+    }
+    
+
+    ,
+    "alex_lamb" : {
+        "name": "Alex Lamb",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Canary's Last Call",
+                "roles": ["Dave"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Wyll","Dave"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Actor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alex_lamb/"
+    }
+    
+
+    ,
+    "quinn_friedrich" : {
+        "name": "Quinn Friedrich",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Canary's Last Call",
+                "roles": ["Mr Birch"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Canary"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Multi-Role"]
+            }
+        
+            ,{
+                "title": "POSH",
+                "roles": ["Dmitri"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Tydeus"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/quinn_friedrich/"
+    }
+    
+
+    ,
+    "eleanor_cooney" : {
+        "name": "Eleanor Cooney",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Canary's Last Call",
+                "roles": ["Publicity Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/eleanor_cooney/"
+    }
+    
+
+    ,
+    "will_eedes" : {
+        "name": "Will Eedes",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Pantalone"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/will_eedes/"
+    }
+    
+
+    ,
+    "nabil_hassan" : {
+        "name": "Nabil Hassan",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Doctor Lombardi"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nabil_hassan/"
+    }
+    
+
+    ,
+    "hannah_kingston" : {
+        "name": "Hannah Kingston",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Beatrice"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/hannah_kingston/"
+    }
+    
+
+    ,
+    "katie_chant" : {
+        "name": "Katie Chant",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Brighella"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Older sister"]
+            }
+        
+            ,{
+                "title": "Chaos",
+                "roles": ["Sal","Lauren"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/katie_chant/"
+    }
+    
+
+    ,
+    "tom_farris" : {
+        "name": "Tom Farris",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Florindo"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Multi-Role"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/tom_farris/"
+    }
+    
+
+    ,
+    "immy_johnson" : {
+        "name": "Immy Johnson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Smereldina"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/immy_johnson/"
+    }
+    
+
+    ,
+    "layla_hassan" : {
+        "name": "Layla Hassan",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor","Producer"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Kelly"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/layla_hassan/"
+    }
+    
+
+    ,
+    "anouska_ornstein" : {
+        "name": "Anouska Ornstein",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Infamous",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/anouska_ornstein/"
+    }
+    
+
+    ,
+    "harry_holt" : {
+        "name": "Harry Holt",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "There's A Leak",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Actor","Stage Manager"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Deputy Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/harry_holt/"
+    }
+    
+
+    ,
+    "poppy_harvey-crowe" : {
+        "name": "Poppy Harvey-Crowe",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Assistant Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/poppy_harvey-crowe/"
+    }
+    
+
+    ,
+    "alexis_abejar" : {
+        "name": "Alexis Abejar",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Servant Of Two Masters",
+                "roles": ["Set Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alexis_abejar/"
+    }
+    
+
+    ,
+    "lara_comrie" : {
+        "name": "Lara Comrie",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "About My Depression",
+                "roles": ["Skye"]
+            }
+        
+            ,{
+                "title": "Infamous",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lara_comrie/"
+    }
+    
+
+    ,
+    "laura_magid" : {
+        "name": "Laura Magid",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "About My Depression",
+                "roles": ["Assistant Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/laura_magid/"
+    }
+    
+
+    ,
+    "vibha_kashyap" : {
+        "name": "Vibha Kashyap",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "About My Depression",
+                "roles": ["Assistant Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/vibha_kashyap/"
+    }
+    
+
+    ,
+    "ella_benson_roberts" : {
+        "name": "Ella Benson Roberts",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "King Lear",
+                "roles": ["The Fool"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ella_benson_roberts/"
+    }
+    
+
+    ,
+    "holly_howell" : {
+        "name": "Holly Howell",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "King Lear",
+                "roles": ["Regan"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Reneé Mayonnaise"]
+            }
+        
+            ,{
+                "title": "Driven",
+                "roles": ["Playwright","Director"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Blanche"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/holly_howell/"
+    }
+    
+
+    ,
+    "aurora_amaryllis" : {
+        "name": "Aurora Amaryllis",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "King Lear",
+                "roles": ["Oswald"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Shadow Director"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Costume, Props and Makeup Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/aurora_amaryllis/"
+    }
+    
+
+    ,
+    "angad_menon" : {
+        "name": "Angad Menon",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "King Lear",
+                "roles": ["Edmund"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Banquo"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/angad_menon/"
+    }
+    
+
+    ,
+    "ali_cavli" : {
+        "name": "Ali Cavli",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "King Lear",
+                "roles": ["Albany"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Dylan"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["King of Hearts"]
+            }
+        
+            ,{
+                "title": "The Duchess of Malfi",
+                "roles": ["Ferdinand"]
+            }
+        
+            ,{
+                "title": "What We Carry",
+                "roles": ["Robert"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ali_cavli/"
+    }
+    
+
+    ,
+    "lauren_isherwood" : {
+        "name": "Lauren Isherwood",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "King Lear",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Duchess of Malfi",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lauren_isherwood/"
+    }
+    
+
+    ,
+    "toby_wong" : {
+        "name": "Toby Wong",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "King Lear",
+                "roles": ["Lighting Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/toby_wong/"
+    }
+    
+
+    ,
+    "chris_lau" : {
+        "name": "Chris Lau",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "King Lear",
+                "roles": ["Sound Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/chris_lau/"
+    }
+    
+
+    ,
+    "simon_woods" : {
+        "name": "Simon Woods",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "King Lear",
+                "roles": ["Creative Assistant"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/simon_woods/"
+    }
+    
+
+    ,
+    "esther_dewhurst" : {
+        "name": "Esther Dewhurst",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Ness",
+                "roles": ["Actor Two"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Sergeant","Doctor","Fleance"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/esther_dewhurst/"
+    }
+    
+
+    ,
+    "matthew_diamond" : {
+        "name": "Matthew Diamond",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Ness",
+                "roles": ["Actor Five"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/matthew_diamond/"
+    }
+    
+
+    ,
+    "aldea_toth" : {
+        "name": "Aldea Toth",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Ness",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/aldea_toth/"
+    }
+    
+
+    ,
+    "rachel_randles" : {
+        "name": "Rachel Randles",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Ness",
+                "roles": ["Assistant Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rachel_randles/"
+    }
+    
+
+    ,
+    "ayza_usluer" : {
+        "name": "Ayza Usluer",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Actor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ayza_usluer/"
+    }
+    
+
+    ,
+    "daria_rusu" : {
+        "name": "Daria Rusu",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/daria_rusu/"
+    }
+    
+
+    ,
+    "annabella_woodruff" : {
+        "name": "Annabella Woodruff",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Doctor Faustus",
+                "roles": ["Sloth","Gluttony","Helen","Knight"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/annabella_woodruff/"
+    }
+    
+
+    ,
+    "abigail_cass" : {
+        "name": "Abigail Cass",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Doctor Faustus",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "POSH",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/abigail_cass/"
+    }
+    
+
+    ,
+    "rachel_proud" : {
+        "name": "Rachel Proud",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Doctor Faustus",
+                "roles": ["Sound Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rachel_proud/"
+    }
+    
+
+    ,
+    "emma_hornsby" : {
+        "name": "Emma Hornsby",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Allison"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Lady Macduff","Gentlewoman","Messenger"]
+            }
+        
+            ,{
+                "title": "Driven",
+                "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "The Duchess of Malfi",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/emma_hornsby/"
+    }
+    
+
+    ,
+    "aryeh_gavzey" : {
+        "name": "Aryeh Gavzey",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Actor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/aryeh_gavzey/"
+    }
+    
+
+    ,
+    "baby_bear" : {
+        "name": "Baby Bear",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Actor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/baby_bear/"
+    }
+    
+
+    ,
+    "tristan_ncube" : {
+        "name": "Tristan Ncube",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Macbeth"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Miletus"]
+            }
+        
+            ,{
+                "title": "The Last Rites",
+                "roles": ["Father Thomas"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/tristan_ncube/"
+    }
+    
+
+    ,
+    "esther_mckenzie" : {
+        "name": "Esther McKenzie",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Lady Macbeth"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "Infamous",
+                "roles": ["Sage"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/esther_mckenzie/"
+    }
+    
+
+    ,
+    "jack_hill" : {
+        "name": "Jack Hill",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Angus"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jack_hill/"
+    }
+    
+
+    ,
+    "krisha_pereira" : {
+        "name": "Krisha Pereira",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["2nd Witch","Murderer"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Euphrosyne"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/krisha_pereira/"
+    }
+    
+
+    ,
+    "katherine_keane" : {
+        "name": "Katherine Keane",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["3rd Witch","Murderer"]
+            }
+        
+            ,{
+                "title": "Chaos",
+                "roles": ["Imogen"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/katherine_keane/"
+    }
+    
+
+    ,
+    "oliver_chalcroft" : {
+        "name": "Oliver Chalcroft",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Duncan","Seyton"]
+            }
+        
+            ,{
+                "title": "The Tales of Alice",
+                "roles": ["Poster Designer"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Polykleitos","Xenophanes","Enyalius"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/oliver_chalcroft/"
+    }
+    
+
+    ,
+    "abbie_foster" : {
+        "name": "Abbie Foster",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Malcolm"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Emily"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Assistant Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/abbie_foster/"
+    }
+    
+
+    ,
+    "pip_shine" : {
+        "name": "Pip Shine",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Macduff's son","Siward"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/pip_shine/"
+    }
+    
+
+    ,
+    "lexie_baker" : {
+        "name": "Lexie Baker",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Young Siward","Donalbain"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lexie_baker/"
+    }
+    
+
+    ,
+    "dylan_brown" : {
+        "name": "Dylan Brown",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Porter","Old Man","Menteith"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/dylan_brown/"
+    }
+    
+
+    ,
+    "ez_middleditch" : {
+        "name": "Ez Middleditch",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Duchess of Malfi",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Infamous",
+                "roles": ["Echo"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ez_middleditch/"
+    }
+    
+
+    ,
+    "tsui_pui_yu" : {
+        "name": "Tsui Pui Yu",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Assistant Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/tsui_pui_yu/"
+    }
+    
+
+    ,
+    "zoe_corps" : {
+        "name": "Zoe Corps",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Assistant Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/zoe_corps/"
+    }
+    
+
+    ,
+    "isabella_manca" : {
+        "name": "Isabella Manca",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Assistant Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/isabella_manca/"
+    }
+    
+
+    ,
+    "axel_rantam" : {
+        "name": "Axel Rantam",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Deputy Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/axel_rantam/"
+    }
+    
+
+    ,
+    "blake_burke" : {
+        "name": "Blake Burke",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "Chaos",
+                "roles": ["Shadow Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/blake_burke/"
+    }
+    
+
+    ,
+    "adam_ahmed" : {
+        "name": "Adam Ahmed",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Sound Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/adam_ahmed/"
+    }
+    
+
+    ,
+    "hannah_harvey" : {
+        "name": "Hannah Harvey",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Costume & Make Up Designer"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Costume & Makeup Artist"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/hannah_harvey/"
+    }
+    
+
+    ,
+    "daryna_bohomol" : {
+        "name": "Daryna Bohomol",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Poster Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/daryna_bohomol/"
+    }
+    
+
+    ,
+    "rory_long" : {
+        "name": "Rory Long",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["James"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Theseus"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rory_long/"
+    }
+    
+
+    ,
+    "drew_boswell" : {
+        "name": "Drew Boswell",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["Chris"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Paul"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/drew_boswell/"
+    }
+    
+
+    ,
+    "joe_white" : {
+        "name": "Joe White",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["Jeremy"]
+            }
+        
+            ,{
+                "title": "She's Not All That",
+                "roles": ["Mean Gay"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Phaeax"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/joe_white/"
+    }
+    
+
+    ,
+    "will_dean" : {
+        "name": "Will Dean",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["Harry"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Danny"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Helia","Platus","Ichnaea"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/will_dean/"
+    }
+    
+
+    ,
+    "hannah_pears" : {
+        "name": "Hannah Pears",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["Rachel"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Ismene"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/hannah_pears/"
+    }
+    
+
+    ,
+    "joseph_rogers" : {
+        "name": "Joseph Rogers",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["Miles"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/joseph_rogers/"
+    }
+    
+
+    ,
+    "jack_brooksbank" : {
+        "name": "Jack Brooksbank",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["Hugo"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jack_brooksbank/"
+    }
+    
+
+    ,
+    "mattea_gerdenitsch" : {
+        "name": "Mattea Gerdenitsch",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["Assistant Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/mattea_gerdenitsch/"
+    }
+    
+
+    ,
+    "theo_northcote" : {
+        "name": "Theo Northcote",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/theo_northcote/"
+    }
+    
+
+    ,
+    "isabel_barros" : {
+        "name": "Isabel Barros",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Alyssa"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/isabel_barros/"
+    }
+    
+
+    ,
+    "rose_bardell" : {
+        "name": "Rose Bardell",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "POSH",
+                "roles": ["Costume & Make up Designer"]
+            }
+        
+            ,{
+                "title": "Infamous",
+                "roles": ["Nathan","Publicity Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rose_bardell/"
+    }
+    
+
+    ,
+    "lorena_valle" : {
+        "name": "Lorena Valle",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Tales of Alice",
+                "roles": ["Alice"]
+            }
+        
+            ,{
+                "title": "She's Not All That",
+                "roles": ["Mean Girl 3"]
+            }
+        
+            ,{
+                "title": "The Duchess of Malfi",
+                "roles": ["Julia"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lorena_valle/"
+    }
+    
+
+    ,
+    "emma_scorah" : {
+        "name": "Emma Scorah",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Tales of Alice",
+                "roles": ["Mouse","Card 5"]
+            }
+        
+            ,{
+                "title": "Infamous",
+                "roles": ["Regina"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/emma_scorah/"
+    }
+    
+
+    ,
+    "sofia_christou" : {
+        "name": "Sofia Christou",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Tales of Alice",
+                "roles": ["Blue Caterpillar","Card 7"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Stella"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sofia_christou/"
+    }
+    
+
+    ,
+    "harsita_chandra" : {
+        "name": "Harsita Chandra",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Tales of Alice",
+                "roles": ["Duchess","Cook"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/harsita_chandra/"
+    }
+    
+
+    ,
+    "mackenzie_conroy" : {
+        "name": "Mackenzie Conroy",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Tales of Alice",
+                "roles": ["Hatter"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Mitch"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/mackenzie_conroy/"
+    }
+    
+
+    ,
+    "grace_cannon" : {
+        "name": "Grace Cannon",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Tales of Alice",
+                "roles": ["March Hare"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Mrs Bugdin"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/grace_cannon/"
+    }
+    
+
+    ,
+    "chidera_jenny_chuks" : {
+        "name": "Chidera Jenny Chuks",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Tales of Alice",
+                "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Antigone"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/chidera_jenny_chuks/"
+    }
+    
+
+    ,
+    "amelia_walastyan" : {
+        "name": "Amelia Walastyan",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Tales of Alice",
+                "roles": ["Lighting Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/amelia_walastyan/"
+    }
+    
+
+    ,
+    "isabel_ilett" : {
+        "name": "Isabel Ilett",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Tales of Alice",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "Education, Education, Education",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Sound Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/isabel_ilett/"
+    }
+    
+
+    ,
+    "elspeth_sykes" : {
+        "name": "Elspeth Sykes",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Tales of Alice",
+                "roles": ["Costume & Make Up Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/elspeth_sykes/"
+    }
+    
+
+    ,
+    "nisa_abamor" : {
+        "name": "Nisa Abamor",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Tales of Alice",
+                "roles": ["Poster Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nisa_abamor/"
+    }
+    
+
+    ,
+    "lou_patterson" : {
+        "name": "Lou Patterson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Tales of Alice",
+                "roles": ["Set Painter"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lou_patterson/"
+    }
+    
+
+    ,
+    "india_harridge" : {
+        "name": "India Harridge",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Driven",
+                "roles": ["Olivia"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/india_harridge/"
+    }
+    
+
+    ,
+    "sofia_chue" : {
+        "name": "Sofia Chue",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Driven",
+                "roles": ["Assistant Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sofia_chue/"
+    }
+    
+
+    ,
+    "yoshita_rachineni" : {
+        "name": "Yoshita Rachineni",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Driven",
+                "roles": ["Shadow Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/yoshita_rachineni/"
+    }
+    
+
+    ,
+    "issy_bladen" : {
+        "name": "Issy Bladen",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Driven",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "She's Not All That",
+                "roles": ["Lainey (New Girl)","Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Chaos",
+                "roles": ["Assistant Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/issy_bladen/"
+    }
+    
+
+    ,
+    "shaikha_alshatti" : {
+        "name": "Shaikha Alshatti",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Driven",
+                "roles": ["Costume & Makeup Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/shaikha_alshatti/"
+    }
+    
+
+    ,
+    "george_medley" : {
+        "name": "George Medley",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "She's Not All That",
+                "roles": ["Main Jock"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/george_medley/"
+    }
+    
+
+    ,
+    "alistair_tiplady" : {
+        "name": "Alistair Tiplady",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "She's Not All That",
+                "roles": ["Jock 2","Multirole"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "Chaos",
+                "roles": ["Dan"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alistair_tiplady/"
+    }
+    
+
+    ,
+    "wincy_jeyaraj" : {
+        "name": "Wincy Jeyaraj",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "She's Not All That",
+                "roles": ["Mean Girl 2"]
+            }
+        
+            ,{
+                "title": "Chaos",
+                "roles": ["Aleph"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/wincy_jeyaraj/"
+    }
+    
+
+    ,
+    "rook_fisher" : {
+        "name": "Rook Fisher",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "She's Not All That",
+                "roles": ["English Teacher","Multirole"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rook_fisher/"
+    }
+    
+
+    ,
+    "nnt_creatives" : {
+        "name": "NNT Creatives",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "She's Not All That",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nnt_creatives/"
+    }
+    
+
+    ,
+    "adam_gale" : {
+        "name": "Adam Gale",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Education, Education, Education",
+                "roles": ["Assistant Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/adam_gale/"
+    }
+    
+
+    ,
+    "emily_bober" : {
+        "name": "Emily Bober",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Education, Education, Education",
+                "roles": ["Assistant Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/emily_bober/"
+    }
+    
+
+    ,
+    "grace_duford" : {
+        "name": "Grace Duford",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Education, Education, Education",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "The Sinking Place",
+                "roles": ["Poster Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/grace_duford/"
+    }
+    
+
+    ,
+    "sophia_awosika" : {
+        "name": "Sophia Awosika",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Education, Education, Education",
+                "roles": ["Costume & Makeup Artist"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sophia_awosika/"
+    }
+    
+
+    ,
+    "nathaniel_zouiten" : {
+        "name": "Nathaniel Zouiten",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Sinking Place",
+                "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "Welcome to Thebes",
+                "roles": ["Tiresias"]
+            }
+        
+            ,{
+                "title": "Infamous",
+                "roles": ["Assistant Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nathaniel_zouiten/"
+    }
+    
+
+    ,
+    "finn_lewis" : {
+        "name": "Finn Lewis",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Sinking Place",
+                "roles": ["Shadow Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Chaos",
+                "roles": ["Assistant Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/finn_lewis/"
+    }
+    
+
+    ,
+    "weronika_kosela" : {
+        "name": "Weronika Kosela",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Sinking Place",
+                "roles": ["Costume & Makeup Artist"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/weronika_kosela/"
+    }
+    
+
+    ,
+    "caitlin_morrell" : {
+        "name": "Caitlin Morrell",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Sinking Place",
+                "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Chaos",
+                "roles": ["Publicity Manager","Poster Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/caitlin_morrell/"
+    }
+    
+
+    ,
+    "daniel_henwood" : {
+        "name": "Daniel Henwood",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "A Streetcar Named Desire",
+                "roles": ["Steve"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/daniel_henwood/"
+    }
+    
+
+    ,
+    "ingrid_anamaria" : {
+        "name": "Ingrid Anamaria",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "A Streetcar Named Desire",
+                "roles": ["Shadow Producer","Assistant Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ingrid_anamaria/"
+    }
+    
+
+    ,
+    "joshua_ncube" : {
+        "name": "Joshua Ncube",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "A Streetcar Named Desire",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "The Last Rites",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/joshua_ncube/"
+    }
+    
+
+    ,
+    "biba_nolan" : {
+        "name": "Biba Nolan",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "A Streetcar Named Desire",
+                "roles": ["Stage Hand"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/biba_nolan/"
+    }
+    
+
+    ,
+    "rosa_williams" : {
+        "name": "Rosa Williams",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "A Streetcar Named Desire",
+                "roles": ["Lighting Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rosa_williams/"
+    }
+    
+
+    ,
+    "ben_canning" : {
+        "name": "Ben Canning",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "A Streetcar Named Desire",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "What We Carry",
+                "roles": ["Technical Operator"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ben_canning/"
+    }
+    
+
+    ,
+    "emily_la_motte" : {
+        "name": "Emily La Motte",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "A Streetcar Named Desire",
+                "roles": ["Costume & Makeup Artist"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/emily_la_motte/"
+    }
+    
+
+    ,
+    "charlotte_surrey" : {
+        "name": "Charlotte Surrey",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Duchess of Malfi",
+                "roles": ["Cardinal"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/charlotte_surrey/"
+    }
+    
+
+    ,
+    "william_mawdsley" : {
+        "name": "William Mawdsley",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Duchess of Malfi",
+                "roles": ["Antonio"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/william_mawdsley/"
+    }
+    
+
+    ,
+    "tom_dewhurst" : {
+        "name": "Tom Dewhurst",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Duchess of Malfi",
+                "roles": ["Delio","Executioner"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/tom_dewhurst/"
+    }
+    
+
+    ,
+    "kareena_cooper" : {
+        "name": "Kareena Cooper",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Duchess of Malfi",
+                "roles": ["Cariola","Doctor"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/kareena_cooper/"
+    }
+    
+
+    ,
+    "charlotte_long" : {
+        "name": "Charlotte Long",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Duchess of Malfi",
+                "roles": ["Assistant Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/charlotte_long/"
+    }
+    
+
+    ,
+    "lola_dibden" : {
+        "name": "Lola Dibden",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Duchess of Malfi",
+                "roles": ["Set Designer","Publicity Officer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lola_dibden/"
+    }
+    
+
+    ,
+    "emily_moseley" : {
+        "name": "Emily Moseley",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Duchess of Malfi",
+                "roles": ["Costume Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/emily_moseley/"
+    }
+    
+
+    ,
+    "jamila_xavier" : {
+        "name": "Jamila Xavier",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Duchess of Malfi",
+                "roles": ["Photographer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jamila_xavier/"
+    }
+    
+
+    ,
+    "sophie_stephens" : {
+        "name": "Sophie Stephens",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Duchess of Malfi",
+                "roles": ["Poster Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sophie_stephens/"
+    }
+    
+
+    ,
+    "ophelia_henstridge" : {
+        "name": "Ophelia Henstridge",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Duchess of Malfi",
+                "roles": ["Cellist"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ophelia_henstridge/"
+    }
+    
+
+    ,
+    "miles_dunn" : {
+        "name": "Miles Dunn",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Welcome to Thebes",
+                "roles": ["Scud","Harmonia"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/miles_dunn/"
+    }
+    
+
+    ,
+    "jamie_clay" : {
+        "name": "Jamie Clay",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Welcome to Thebes",
+                "roles": ["Aglaea"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jamie_clay/"
+    }
+    
+
+    ,
+    "anna_pickerell" : {
+        "name": "Anna Pickerell",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Welcome to Thebes",
+                "roles": ["Thalia"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/anna_pickerell/"
+    }
+    
+
+    ,
+    "bea_mounteney" : {
+        "name": "Bea Mounteney",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Welcome to Thebes",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/bea_mounteney/"
+    }
+    
+
+    ,
+    "dylan_manuel" : {
+        "name": "Dylan Manuel",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Infamous",
+                "roles": ["Liam"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/dylan_manuel/"
+    }
+    
+
+    ,
+    "sasha_muthami" : {
+        "name": "Sasha Muthami",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Infamous",
+                "roles": ["Hero"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sasha_muthami/"
+    }
+    
+
+    ,
+    "will_laughey" : {
+        "name": "Will Laughey",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Infamous",
+                "roles": ["Miki"]
+            }
+        
+            ,{
+                "title": "The Last Rites",
+                "roles": ["Multi-role","Rival prisoner"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/will_laughey/"
+    }
+    
+
+    ,
+    "toby_carrie" : {
+        "name": "Toby Carrie",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Infamous",
+                "roles": ["Kel","Jordan"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/toby_carrie/"
+    }
+    
+
+    ,
+    "kilina_williamson" : {
+        "name": "Kilina Williamson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Infamous",
+                "roles": ["Casey"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/kilina_williamson/"
+    }
+    
+
+    ,
+    "sarah_fermer" : {
+        "name": "Sarah Fermer",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Infamous",
+                "roles": ["Dana"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sarah_fermer/"
+    }
+    
+
+    ,
+    "james_cook" : {
+        "name": "James Cook",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Infamous",
+                "roles": ["Co-Technical Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/james_cook/"
+    }
+    
+
+    ,
+    "katie_hill" : {
+        "name": "Katie Hill",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Infamous",
+                "roles": ["Co-Technical Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/katie_hill/"
+    }
+    
+
+    ,
+    "lucy_young" : {
+        "name": "Lucy Young",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Chaos",
+                "roles": ["Jane"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lucy_young/"
+    }
+    
+
+    ,
+    "alex_gray" : {
+        "name": "Alex Gray",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Chaos",
+                "roles": ["Charlie"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alex_gray/"
+    }
+    
+
+    ,
+    "rosanna_beacock" : {
+        "name": "Rosanna Beacock",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Chaos",
+                "roles": ["Somalia","Emily"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rosanna_beacock/"
+    }
+    
+
+    ,
+    "rose_momenin" : {
+        "name": "Rose Momenin",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Chaos",
+                "roles": ["Michaela"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rose_momenin/"
+    }
+    
+
+    ,
+    "orla_evans" : {
+        "name": "Orla Evans",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Chaos",
+                "roles": ["Chiarra"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/orla_evans/"
+    }
+    
+
+    ,
+    "kaila_maze" : {
+        "name": "Kaila Maze",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Chaos",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/kaila_maze/"
+    }
+    
+
+    ,
+    "ananya_nair" : {
+        "name": "Ananya Nair",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Chaos",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ananya_nair/"
+    }
+    
+
+    ,
+    "pip_wright" : {
+        "name": "Pip Wright",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Chaos",
+                "roles": ["Deputy Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/pip_wright/"
+    }
+    
+
+    ,
+    "aimee_goldblum" : {
+        "name": "Aimee Goldblum",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Chaos",
+                "roles": ["Video Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/aimee_goldblum/"
+    }
+    
+
+    ,
+    "daragh_boland-byrne" : {
+        "name": "Daragh Boland-Byrne",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Chaos",
+                "roles": ["Sound Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/daragh_boland-byrne/"
+    }
+    
+
+    ,
+    "daro_mamselah" : {
+        "name": "Daro Mamselah",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Last Rites",
+                "roles": ["Co-Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/daro_mamselah/"
     }
     
 
@@ -107979,7 +113038,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": null,
+        "graduated": 2024,
         "award": [],
         "shows": [],
         "committees": [
