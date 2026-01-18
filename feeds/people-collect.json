@@ -28563,6 +28563,37 @@
     
 
     ,
+    "lyndsey_fowler" : {
+        "name": "Lyndsey Fowler",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "English Studies",
+        "graduated": 2003,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Real Thing",
+                "roles": ["Assistant Director"]
+            }
+        
+            ,{
+                "title": "Lady Windermere's Fan",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Oberonicus",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lyndsey_fowler/"
+    }
+    
+
+    ,
     "lynn_myers" : {
         "name": "Lynn Myers",
         "type": "person",
@@ -68071,32 +68102,6 @@
     
 
     ,
-    "lindsey_fowler" : {
-        "name": "Lindsey Fowler",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2003,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Real Thing",
-                "roles": ["Assistant Director"]
-            }
-        
-            ,{
-                "title": "Oberonicus",
-                "roles": ["Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/lindsey_fowler/"
-    }
-    
-
-    ,
     "jacqui_ingram" : {
         "name": "Jacqui Ingram",
         "type": "person",
@@ -68337,6 +68342,187 @@
         ],
         "committees": [],
         "link": "/people/sophie_bostock/"
+    }
+    
+
+    ,
+    "will_openshaw" : {
+        "name": "Will Openshaw",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2002,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lady Windermere's Fan",
+                "roles": ["Lord Augustus"]
+            }
+        
+            ,{
+                "title": "In Bed With Sue Lawley",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "In Bed With Sue Lawley",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "My Mother Said I Never Should",
+                "roles": ["Radio Presenter"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2000-01",
+                "roles": ["Safety Officer"]
+            }
+        ],
+        "link": "/people/will_openshaw/"
+    }
+    
+
+    ,
+    "laura_elmer" : {
+        "name": "Laura Elmer",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2003,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lady Windermere's Fan",
+                "roles": ["Mrs Cowper Cowper"]
+            }
+        
+            ,{
+                "title": "Oberonicus",
+                "roles": ["Netty"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/laura_elmer/"
+    }
+    
+
+    ,
+    "stuart_barter" : {
+        "name": "Stuart Barter",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2003,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lady Windermere's Fan",
+                "roles": ["Lord Windermere"]
+            }
+        
+            ,{
+                "title": "In Bed With Sue Lawley",
+                "roles": ["Martin Grant"]
+            }
+        
+            ,{
+                "title": "In Bed With Sue Lawley",
+                "roles": ["Martin Grant"]
+            }
+        
+            ,{
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/stuart_barter/"
+    }
+    
+
+    ,
+    "gemma_kirkland" : {
+        "name": "Gemma Kirkland",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lady Windermere's Fan",
+                "roles": ["Lady Windermere"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/gemma_kirkland/"
+    }
+    
+
+    ,
+    "nik_snarey" : {
+        "name": "Nik Snarey",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lady Windermere's Fan",
+                "roles": ["Mrs Erlynne"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nik_snarey/"
+    }
+    
+
+    ,
+    "sven_banham" : {
+        "name": "Sven Banham",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2002,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lady Windermere's Fan",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "In Bed With Sue Lawley",
+                "roles": ["Lighting"]
+            }
+        
+            ,{
+                "title": "In Bed With Sue Lawley",
+                "roles": ["Lighting"]
+            }
+        
+            ,{
+                "title": "Let My People Go",
+                "roles": ["Sound"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sven_banham/"
     }
     
 
@@ -68758,37 +68944,6 @@
     
 
     ,
-    "stuart_barter" : {
-        "name": "Stuart Barter",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2003,
-        "award": [],
-        "shows": [
-            {
-                "title": "In Bed With Sue Lawley",
-                "roles": ["Martin Grant"]
-            }
-        
-            ,{
-                "title": "In Bed With Sue Lawley",
-                "roles": ["Martin Grant"]
-            }
-        
-            ,{
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/stuart_barter/"
-    }
-    
-
-    ,
     "jessica_danby" : {
         "name": "Jessica Danby",
         "type": "person",
@@ -68920,73 +69075,6 @@
         ],
         "committees": [],
         "link": "/people/anna_e_lipinkski/"
-    }
-    
-
-    ,
-    "will_openshaw" : {
-        "name": "Will Openshaw",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2002,
-        "award": [],
-        "shows": [
-            {
-                "title": "In Bed With Sue Lawley",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "In Bed With Sue Lawley",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "My Mother Said I Never Should",
-                "roles": ["Radio Presenter"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2000-01",
-                "roles": ["Safety Officer"]
-            }
-        ],
-        "link": "/people/will_openshaw/"
-    }
-    
-
-    ,
-    "sven_banham" : {
-        "name": "Sven Banham",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2002,
-        "award": [],
-        "shows": [
-            {
-                "title": "In Bed With Sue Lawley",
-                "roles": ["Lighting"]
-            }
-        
-            ,{
-                "title": "In Bed With Sue Lawley",
-                "roles": ["Lighting"]
-            }
-        
-            ,{
-                "title": "Let My People Go",
-                "roles": ["Sound"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/sven_banham/"
     }
     
 
@@ -72233,27 +72321,6 @@
         ],
         "committees": [],
         "link": "/people/laura_teague/"
-    }
-    
-
-    ,
-    "laura_elmer" : {
-        "name": "Laura Elmer",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2003,
-        "award": [],
-        "shows": [
-            {
-                "title": "Oberonicus",
-                "roles": ["Netty"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/laura_elmer/"
     }
     
 
