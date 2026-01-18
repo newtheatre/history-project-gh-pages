@@ -40747,8 +40747,8 @@
         "excerpt": "\n",
         "bio": "\n",
         
-        "course": null,
-        "graduated": 2011,
+        "course": ["Applied Biology","PGCE Biology"],
+        "graduated": 2012,
         "award": [],
         "shows": [
             {
@@ -40852,8 +40852,23 @@
             }
         
             ,{
+                "title": "En Vogue",
+                "roles": ["Director"]
+            }
+        
+            ,{
                 "title": "A Day In The Life",
                 "roles": ["Technical Team"]
+            }
+        
+            ,{
+                "title": "The Libertine",
+                "roles": ["Downs"]
+            }
+        
+            ,{
+                "title": "An Ideal Husband",
+                "roles": ["Producer"]
             }
         ],
         "committees": [

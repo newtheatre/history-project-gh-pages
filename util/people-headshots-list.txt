@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2026-01-18 18:10.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2026-01-18 18:50.*
 
 
 
@@ -125,6 +125,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [Sophy Baxter](https://history.newtheatre.org.uk/people/sophy_baxter/)
 - [ ] [Stephen Hopker](https://history.newtheatre.org.uk/people/stephen_hopker/)
 - [ ] [Stephen Norfor](https://history.newtheatre.org.uk/people/stephen_norfor/)
+- [ ] [Tammy Ingamells](https://history.newtheatre.org.uk/people/tammy_ingamells/)
 - [ ] [Tamsin Pickard](https://history.newtheatre.org.uk/people/tamsin_pickard/)
 - [ ] [Terrence Payne](https://history.newtheatre.org.uk/people/terrence_payne/)
 - [ ] [Terri Norris](https://history.newtheatre.org.uk/people/terri_norris/)
