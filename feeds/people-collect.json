@@ -2909,6 +2909,32 @@
     
 
     ,
+    "anna_mcneil" : {
+        "name": "Anna McNeil",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "BA Law",
+        "graduated": 1964,
+        "award": [],
+        "shows": [
+            {
+                "title": "St Joan",
+                "roles": ["Duchess de la Tremouille"]
+            }
+        
+            ,{
+                "title": "Dark of the Moon",
+                "roles": ["Fair Witch"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/anna_mcneil/"
+    }
+    
+
+    ,
     "anna_morley" : {
         "name": "Anna Morley",
         "type": "person",
@@ -32783,6 +32809,32 @@
     
 
     ,
+    "neville_cruttenden" : {
+        "name": "Neville Cruttenden",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": "Politics",
+        "graduated": 1962,
+        "award": [],
+        "shows": [
+            {
+                "title": "Coriolanus",
+                "roles": ["Caius Marcius Coriolanus"]
+            }
+        
+            ,{
+                "title": "St Joan",
+                "roles": ["Dunois","Assistant Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/neville_cruttenden/"
+    }
+    
+
+    ,
     "niamh_caines" : {
         "name": "Niamh Caines",
         "type": "person",
@@ -45098,6 +45150,11 @@
             }
         
             ,{
+                "title": "Coriolanus",
+                "roles": ["Director"]
+            }
+        
+            ,{
                 "title": "St Joan",
                 "roles": ["Peter Cauchon"]
             }
@@ -48127,48 +48184,6 @@
     
 
     ,
-    "anna_mcneil" : {
-        "name": "Anna McNeil",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1962,
-        "award": [],
-        "shows": [
-            {
-                "title": "St Joan",
-                "roles": ["Duchess de la Tremouille"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/anna_mcneil/"
-    }
-    
-
-    ,
-    "neville_cruttenden" : {
-        "name": "Neville Cruttenden",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1962,
-        "award": [],
-        "shows": [
-            {
-                "title": "St Joan",
-                "roles": ["Dunois","Assistant Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/neville_cruttenden/"
-    }
-    
-
-    ,
     "peter_widdowson" : {
         "name": "Peter Widdowson",
         "type": "person",
@@ -48653,6 +48668,27 @@
         ],
         "committees": [],
         "link": "/people/rosemary_athay/"
+    }
+    
+
+    ,
+    "brian_clark" : {
+        "name": "Brian Clark",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1963,
+        "award": [],
+        "shows": [
+            {
+                "title": "Dark of the Moon",
+                "roles": ["John Boy"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/brian_clark/"
     }
     
 
