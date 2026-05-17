@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2026-02-25 19:03.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2026-05-17 14:49.*
 
 
 
@@ -17,7 +17,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [Amelia Gann](https://history.newtheatre.org.uk/people/amelia_gann/)
 - [x] [Amy Naylor](https://history.newtheatre.org.uk/people/amy_naylor/)
 - [ ] [Andrew Hubbard](https://history.newtheatre.org.uk/people/andrew_hubbard/)
-- [ ] [Anna McNeil](https://history.newtheatre.org.uk/people/anna_mcneil/)
+- [ ] [Anna McNeill](https://history.newtheatre.org.uk/people/anna_mcneill/)
 - [ ] [Annabel Byrom](https://history.newtheatre.org.uk/people/annabel_byrom/)
 - [x] [Annamarie Schooling](https://history.newtheatre.org.uk/people/annamarie_schooling/)
 - [x] [Anthony Green](https://history.newtheatre.org.uk/people/anthony_green/)
