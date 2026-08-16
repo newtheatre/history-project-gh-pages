@@ -1399,6 +1399,11 @@
         "award": [],
         "shows": [
             {
+                "title": "Waiting for Dildo",
+                "roles": ["Clackety Clack","Producer","Set","Backstage"]
+            }
+        
+            ,{
                 "title": "The Homecoming",
                 "roles": ["Producer","Props and Costumes"]
             }
@@ -6601,6 +6606,11 @@
             ,{
                 "title": "Dangerous Liaisons",
                 "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Waiting for Dildo",
+                "roles": ["Special Thanks"]
             }
         
             ,{
@@ -25050,6 +25060,11 @@
         "award": [],
         "shows": [
             {
+                "title": "Waiting for Dildo",
+                "roles": ["The Pixie Queen","Greta DeWolfe","Ed Fed"]
+            }
+        
+            ,{
                 "title": "The Homecoming",
                 "roles": ["Director"]
             }
@@ -42801,6 +42816,11 @@
         "award": [],
         "shows": [
             {
+                "title": "Waiting for Dildo",
+                "roles": ["Minnie","The Lovely Lasses","Choreographer"]
+            }
+        
+            ,{
                 "title": "In Bed With Sue Lawley",
                 "roles": ["Choreographer"]
             }
@@ -44315,2974 +44335,6 @@
             }
         ],
         "link": "/people/zoe_smith/"
-    }
-    
-
-    ,
-    "matt_chapman" : {
-        "name": "Matt Chapman",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2002,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Crucible",
-                "roles": ["Thomas Putnam"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2000-01",
-                "roles": ["Secretary"]
-            }
-        ],
-        "link": "/people/matt_chapman/"
-    }
-    
-
-    ,
-    "harry_fehr" : {
-        "name": "Harry Fehr",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2001,
-        "award": [],
-        "shows": [
-            {
-                "title": "Hecabe",
-                "roles": ["Director"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2000-01",
-                "roles": ["Theatre Manager"]
-            }
-        ],
-        "link": "/people/harry_fehr/"
-    }
-    
-
-    ,
-    "robert_ridd" : {
-        "name": "Robert Ridd",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2001,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "2000-01",
-                "roles": ["Publicity Officer"]
-            }
-        ],
-        "link": "/people/robert_ridd/"
-    }
-    
-
-    ,
-    "josh_dean" : {
-        "name": "Josh Dean",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2002,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Crucible",
-                "roles": ["Deputy-Governor Danforth"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2000-01",
-                "roles": ["Productions Coordinator"]
-            }
-        ],
-        "link": "/people/josh_dean/"
-    }
-    
-
-    ,
-    "claire_mcdiarmid" : {
-        "name": "Claire McDiarmid",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2001,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "2000-01",
-                "roles": ["Props and Costume Mistress"]
-            }
-        ],
-        "link": "/people/claire_mcdiarmid/"
-    }
-    
-
-    ,
-    "beth_powel" : {
-        "name": "Beth Powel",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2001,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "2000-01",
-                "roles": ["Edinburgh Coordinator"]
-            }
-        ],
-        "link": "/people/beth_powel/"
-    }
-    
-
-    ,
-    "james_browne" : {
-        "name": "James Browne",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2001,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Hush",
-                "roles": [null]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2000-01",
-                "roles": ["Development Projects Officer"]
-            }
-        ],
-        "link": "/people/james_browne/"
-    }
-    
-
-    ,
-    "emily_howes" : {
-        "name": "Emily Howes",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2001,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "2000-01",
-                "roles": ["Sound Manager"]
-            }
-        ],
-        "link": "/people/emily_howes/"
-    }
-    
-
-    ,
-    "will_openshaw" : {
-        "name": "Will Openshaw",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2002,
-        "award": [],
-        "shows": [
-            {
-                "title": "Lady Windermere's Fan",
-                "roles": ["Lord Augustus"]
-            }
-        
-            ,{
-                "title": "In Bed With Sue Lawley",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "In Bed With Sue Lawley",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "My Mother Said I Never Should",
-                "roles": ["Radio Presenter"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2000-01",
-                "roles": ["Safety Officer"]
-            }
-        ],
-        "link": "/people/will_openshaw/"
-    }
-    
-
-    ,
-    "ajay_khari" : {
-        "name": "Ajay Khari",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2002,
-        "award": [],
-        "shows": [
-            {
-                "title": "Lenton Boulevard",
-                "roles": ["unknown"]
-            }
-        
-            ,{
-                "title": "In Bed With Sue Lawley",
-                "roles": ["Joe Devivre"]
-            }
-        
-            ,{
-                "title": "In Bed With Sue Lawley",
-                "roles": ["Joe Devivre"]
-            }
-        
-            ,{
-                "title": "Let My People Go",
-                "roles": ["The Reverend"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2000-01",
-                "roles": ["Social Secretary"]
-            }
-        ],
-        "link": "/people/ajay_khari/"
-    }
-    
-
-    ,
-    "ben_richards" : {
-        "name": "Ben Richards",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2004,
-        "award": [],
-        "shows": [
-            {
-                "title": "Lenton Boulevard",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "The Strong Room",
-                "roles": ["Playwright"]
-            }
-        
-            ,{
-                "title": "The Crucible",
-                "roles": ["Set Construction"]
-            }
-        
-            ,{
-                "title": "The Homecoming",
-                "roles": ["Max","Set Designer"]
-            }
-        
-            ,{
-                "title": "Let My People Go",
-                "roles": ["Playwright","Director","Set"]
-            }
-        
-            ,{
-                "title": "Age Concern",
-                "roles": ["Set Construction"]
-            }
-        
-            ,{
-                "title": "Amadeus",
-                "roles": ["Set Design / Construction","Production Guru"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2002-03",
-                "roles": ["President"]
-            }
-        
-            ,{
-                "title": "2003-04",
-                "roles": ["Productions Coordinator"]
-            }
-        ],
-        "link": "/people/ben_richards/"
-    }
-    
-
-    ,
-    "davina_shah" : {
-        "name": "Davina Shah",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2003,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Real Thing",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "The Crucible",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "My Mother Said I Never Should",
-                "roles": ["Director","Set Designer","Publicity Designer"]
-            }
-        
-            ,{
-                "title": "Doctor Faustus",
-                "roles": ["Producer","Stage Manager"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2002-03",
-                "roles": ["Productions Coordinator"]
-            }
-        ],
-        "link": "/people/davina_shah/"
-    }
-    
-
-    ,
-    "rick_chernick" : {
-        "name": "Rick Chernick",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2006,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Trial",
-                "roles": ["Guard / Manager"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2005-06",
-                "roles": ["Treasurer"]
-            }
-        ],
-        "link": "/people/rick_chernick/"
-    }
-    
-
-    ,
-    "rufus_tanner" : {
-        "name": "Rufus Tanner",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2006,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "2005-06",
-                "roles": ["unknown"]
-            }
-        ],
-        "link": "/people/rufus_tanner/"
-    }
-    
-
-    ,
-    "david_maih" : {
-        "name": "David Maih",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2006,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "2005-06",
-                "roles": ["unknown"]
-            }
-        ],
-        "link": "/people/david_maih/"
-    }
-    
-
-    ,
-    "megan_allyse" : {
-        "name": "Megan Allyse",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2007,
-        "award": [],
-        "shows": [
-            {
-                "title": "Thom Pain",
-                "roles": ["Lighting Designer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2006-07",
-                "roles": ["Treasurer"]
-            }
-        ],
-        "link": "/people/megan_allyse/"
-    }
-    
-
-    ,
-    "eliana_zur-szpiro" : {
-        "name": "Eliana Zur-Szpiro",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2007,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "2006-07",
-                "roles": ["Secretary"]
-            }
-        ],
-        "link": "/people/eliana_zur-szpiro/"
-    }
-    
-
-    ,
-    "georgie_strawson" : {
-        "name": "Georgie Strawson",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2007,
-        "award": [],
-        "shows": [
-            {
-                "title": "Shoe Story",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "Persae",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "A Streetcar Named Desire",
-                "roles": ["Blanche Dubois"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2006-07",
-                "roles": ["Health and Safety Officer"]
-            }
-        ],
-        "link": "/people/georgie_strawson/"
-    }
-    
-
-    ,
-    "johnny_skinner" : {
-        "name": "Johnny Skinner",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2008,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "2006-07",
-                "roles": ["Workshop Manager"]
-            }
-        
-            ,{
-                "title": "2007-08",
-                "roles": ["Workshop Manager"]
-            }
-        ],
-        "link": "/people/johnny_skinner/"
-    }
-    
-
-    ,
-    "dom_donocik" : {
-        "name": "Dom Donocik",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2007,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "2006-07",
-                "roles": ["Workshop Manager"]
-            }
-        ],
-        "link": "/people/dom_donocik/"
-    }
-    
-
-    ,
-    "ben_ford" : {
-        "name": "Ben Ford",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2007,
-        "award": [],
-        "shows": [
-            {
-                "title": "Oedipus",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "4.48 Psychosis",
-                "roles": ["Director"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2006-07",
-                "roles": ["External Events Coordinator"]
-            }
-        ],
-        "link": "/people/ben_ford/"
-    }
-    
-
-    ,
-    "michelle_ghatan" : {
-        "name": "Michelle Ghatan",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2008,
-        "award": [],
-        "shows": [
-            {
-                "title": "Iron",
-                "roles": ["Fay"]
-            }
-        
-            ,{
-                "title": "Stars in Their Eyes",
-                "roles": ["Nora Jones"]
-            }
-        
-            ,{
-                "title": "Macbeth",
-                "roles": ["Lady Macbeth / Witch"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2006-07",
-                "roles": ["Edinburgh Coordinator"]
-            }
-        ],
-        "link": "/people/michelle_ghatan/"
-    }
-    
-
-    ,
-    "sam__morris" : {
-        "name": "Sam  Morris",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2008,
-        "award": [],
-        "shows": [
-            {
-                "title": "Popcorn",
-                "roles": ["Camera Crew"]
-            }
-        
-            ,{
-                "title": "The Flu Season",
-                "roles": ["Epilogue"]
-            }
-        
-            ,{
-                "title": "Cast Aside",
-                "roles": ["Smires"]
-            }
-        
-            ,{
-                "title": "Stars in Their Eyes",
-                "roles": ["Rap Artist"]
-            }
-        
-            ,{
-                "title": "Jack and Jill",
-                "roles": ["Jack"]
-            }
-        
-            ,{
-                "title": "Death of a Salesman",
-                "roles": ["Willy"]
-            }
-        
-            ,{
-                "title": "The Third Condiment",
-                "roles": ["Dave"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2007-08",
-                "roles": ["Productions Coordinator"]
-            }
-        ],
-        "link": "/people/sam__morris/"
-    }
-    
-
-    ,
-    "cal_lewis" : {
-        "name": "Cal Lewis",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2009,
-        "award": [],
-        "shows": [
-            {
-                "title": "Death of a Salesman",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "The Crucible",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Crossing the Rubicon",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Crossing the Rubicon",
-                "roles": ["Director"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2007-08",
-                "roles": ["Workshop Manager"]
-            }
-        ],
-        "link": "/people/cal_lewis/"
-    }
-    
-
-    ,
-    "maia_gibbs" : {
-        "name": "Maia Gibbs",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2008,
-        "award": [],
-        "shows": [
-            {
-                "title": "Blood Wedding",
-                "roles": ["Bride"]
-            }
-        
-            ,{
-                "title": "The Treatment",
-                "roles": ["Bride"]
-            }
-        
-            ,{
-                "title": "Persae",
-                "roles": ["Jean"]
-            }
-        
-            ,{
-                "title": "4.48 Psychosis",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "Colder than Here",
-                "roles": ["Myra"]
-            }
-        
-            ,{
-                "title": "Through the Looking Glass",
-                "roles": ["Alice"]
-            }
-        
-            ,{
-                "title": "The Lonesome West",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "After Miss Julie",
-                "roles": ["Julie"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2007-08",
-                "roles": ["Publicity and Internal Marketing Manager"]
-            }
-        ],
-        "link": "/people/maia_gibbs/"
-    }
-    
-
-    ,
-    "krystyna_liakh" : {
-        "name": "Krystyna Liakh",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2008,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "2007-08",
-                "roles": ["Costume and Props Manager"]
-            }
-        ],
-        "link": "/people/krystyna_liakh/"
-    }
-    
-
-    ,
-    "johnny_steer" : {
-        "name": "Johnny Steer",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2009,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Lonesome West",
-                "roles": ["Coleman"]
-            }
-        
-            ,{
-                "title": "Out of Order",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "What the Butler Saw",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Someone Who'll Watch Over Me",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "The Pillowman",
-                "roles": ["Technical Operator"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2008-09",
-                "roles": ["Productions Coordinator"]
-            }
-        ],
-        "link": "/people/johnny_steer/"
-    }
-    
-
-    ,
-    "lauren_knight" : {
-        "name": "Lauren Knight",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2009,
-        "award": [],
-        "shows": [
-            {
-                "title": "Nature's Pretenders",
-                "roles": ["Producer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2008-09",
-                "roles": ["Costumes Manager"]
-            }
-        ],
-        "link": "/people/lauren_knight/"
-    }
-    
-
-    ,
-    "amy_rushton" : {
-        "name": "Amy Rushton",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2011,
-        "award": [],
-        "shows": [
-            {
-                "title": "What the Butler Saw",
-                "roles": ["Props"]
-            }
-        
-            ,{
-                "title": "The Pillowman",
-                "roles": ["Stage Manager"]
-            }
-        
-            ,{
-                "title": "Boy's Life",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Ghetto",
-                "roles": ["unknown"]
-            }
-        
-            ,{
-                "title": "His Lordship Entertains",
-                "roles": ["Mrs Harriet Trevelyan / Mrs Ringer's Friend"]
-            }
-        
-            ,{
-                "title": "The Retreat",
-                "roles": ["Ellie"]
-            }
-        
-            ,{
-                "title": "Smile",
-                "roles": ["Deborah"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2009-10",
-                "roles": ["Treasurer"]
-            }
-        
-            ,{
-                "title": "2010-11",
-                "roles": ["Productions Coordinator"]
-            }
-        ],
-        "link": "/people/amy_rushton/"
-    }
-    
-
-    ,
-    "fu_baxter" : {
-        "name": "Fu Baxter",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2010,
-        "award": [],
-        "shows": [
-            {
-                "title": "Crave",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "A Clockwork Orange",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "The Bacchae",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Dinner",
-                "roles": ["Designer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2009-10",
-                "roles": ["Technical Director"]
-            }
-        ],
-        "link": "/people/fu_baxter/"
-    }
-    
-
-    ,
-    "bora_hunja" : {
-        "name": "Bora Hunja",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2012,
-        "award": [],
-        "shows": [
-            {
-                "title": "Nowhere Warm",
-                "roles": ["Sound Designer"]
-            }
-        
-            ,{
-                "title": "Boy's Life",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Dinner",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Road",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "The Talented Mr Ripley",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Flare Path",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Bed",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Bed",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Charley's Aunt",
-                "roles": ["Technical Director"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2009-10",
-                "roles": ["Lighting Manager"]
-            }
-        ],
-        "link": "/people/bora_hunja/"
-    }
-    
-
-    ,
-    "chilli_wright" : {
-        "name": "Chilli Wright",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2010,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "2009-10",
-                "roles": ["Social Secretary"]
-            }
-        ],
-        "link": "/people/chilli_wright/"
-    }
-    
-
-    ,
-    "nell_charleston" : {
-        "name": "Nell Charleston",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2011,
-        "award": [],
-        "shows": [
-            {
-                "title": "Rhinoceros",
-                "roles": ["Cafe Proprietor / Old Woman"]
-            }
-        
-            ,{
-                "title": "The Last 5 Years",
-                "roles": ["Cathy"]
-            }
-        
-            ,{
-                "title": "Arcadia",
-                "roles": ["Hannah Jarvis"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2010-11",
-                "roles": ["Front of House Manager"]
-            }
-        ],
-        "link": "/people/nell_charleston/"
-    }
-    
-
-    ,
-    "emily_davenport" : {
-        "name": "Emily Davenport",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2012,
-        "award": [],
-        "shows": [
-            {
-                "title": "Hedda Gabler",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "Caucasian Chalk Circle",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "This Wide Night",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "Cradle Me",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "Macbeth",
-                "roles": ["Producer","Set Designer"]
-            }
-        
-            ,{
-                "title": "All My Sons",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "Faust is Dead",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Innocent Infidelity",
-                "roles": ["Set Construction"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2010-11",
-                "roles": ["Staging Coordinator"]
-            }
-        
-            ,{
-                "title": "2011-12",
-                "roles": ["Theatre Manager"]
-            }
-        ],
-        "link": "/people/emily_davenport/"
-    }
-    
-
-    ,
-    "robert_leventhall" : {
-        "name": "Robert Leventhall",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2013,
-        "award": [],
-        "shows": [
-            {
-                "title": "Caucasian Chalk Circle",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "The Talented Mr Ripley",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Flare Path",
-                "roles": ["Sound Designer"]
-            }
-        
-            ,{
-                "title": "Rope",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Too Far Away",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "The Hand-Me-Down People",
-                "roles": ["Soldier"]
-            }
-        
-            ,{
-                "title": "Nineteen Eighty-Four",
-                "roles": ["Sound Designer"]
-            }
-        
-            ,{
-                "title": "Boeing Boeing",
-                "roles": ["Set Construction"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2010-11",
-                "roles": ["Sound Manager"]
-            }
-        ],
-        "link": "/people/robert_leventhall/"
-    }
-    
-
-    ,
-    "elsa_harriskine" : {
-        "name": "Elsa Harriskine",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2011,
-        "award": [],
-        "shows": [
-            {
-                "title": "Rhinoceros",
-                "roles": ["Housewife"]
-            }
-        
-            ,{
-                "title": "Dinner",
-                "roles": ["Wynne"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2010-11",
-                "roles": ["Rep Coordinator"]
-            }
-        ],
-        "link": "/people/elsa_harriskine/"
-    }
-    
-
-    ,
-    "rose_williams" : {
-        "name": "Rose Williams",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2011,
-        "award": [],
-        "shows": [
-            {
-                "title": "Road",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Orphans",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Arcadia",
-                "roles": ["Costumier"]
-            }
-        
-            ,{
-                "title": "Rope",
-                "roles": ["Costumes"]
-            }
-        
-            ,{
-                "title": "Holy Matrimony!",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Beef",
-                "roles": ["Sophia","Playwright","Writer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2010-11",
-                "roles": ["Costume and Props Manager"]
-            }
-        ],
-        "link": "/people/rose_williams/"
-    }
-    
-
-    ,
-    "grace_lowe" : {
-        "name": "Grace Lowe",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2012,
-        "award": [],
-        "shows": [
-            {
-                "title": "Bed",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "Bed",
-                "roles": ["Set Designer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2011-12",
-                "roles": ["Workshop Manager"]
-            }
-        ],
-        "link": "/people/grace_lowe/"
-    }
-    
-
-    ,
-    "lydia_scott" : {
-        "name": "Lydia Scott",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2013,
-        "award": [],
-        "shows": [
-            {
-                "title": "Look Back in Anger",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Be My Baby",
-                "roles": ["Queenie"]
-            }
-        
-            ,{
-                "title": "Macbeth",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Tread Softly",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "The Off White Horse",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Faust is Dead",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "The Beauty Queen of Leenane",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "The Memory of Water",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Black Comedy",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Jerusalem",
-                "roles": ["Costumes"]
-            }
-        
-            ,{
-                "title": "RED",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Stags and Hens",
-                "roles": ["Costume"]
-            }
-        
-            ,{
-                "title": "A Clockwork Orange",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Pub Quiz is Life",
-                "roles": ["Baz"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2011-12",
-                "roles": ["Company Technical Director"]
-            }
-        ],
-        "link": "/people/lydia_scott/"
-    }
-    
-
-    ,
-    "henry_blanchard" : {
-        "name": "Henry Blanchard",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2012,
-        "award": [],
-        "shows": [
-            {
-                "title": "Arcadia",
-                "roles": ["Valentine Coverly"]
-            }
-        
-            ,{
-                "title": "Cradle Me",
-                "roles": ["Graham"]
-            }
-        
-            ,{
-                "title": "The Off White Horse",
-                "roles": ["David"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2011-12",
-                "roles": ["Fundraising Coordinator"]
-            }
-        ],
-        "link": "/people/henry_blanchard/"
-    }
-    
-
-    ,
-    "lucy_bromilow" : {
-        "name": "Lucy Bromilow",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2014,
-        "award": [],
-        "shows": [
-            {
-                "title": "Bluebird",
-                "roles": ["Janine"]
-            }
-        
-            ,{
-                "title": "This Wide Night",
-                "roles": ["Lorraine"]
-            }
-        
-            ,{
-                "title": "Bed",
-                "roles": ["Props and Costume"]
-            }
-        
-            ,{
-                "title": "A Midsummer Night's Dream",
-                "roles": ["Titania / Hippolyta"]
-            }
-        
-            ,{
-                "title": "The History Boys",
-                "roles": ["Mrs. Lintott"]
-            }
-        
-            ,{
-                "title": "Buried Child",
-                "roles": ["Halie"]
-            }
-        
-            ,{
-                "title": "Romeo and Juliet",
-                "roles": ["Lady Capulet"]
-            }
-        
-            ,{
-                "title": "18B",
-                "roles": ["Violet Mortimer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2011-12",
-                "roles": ["Costume and Props Manager"]
-            }
-        ],
-        "link": "/people/lucy_bromilow/"
-    }
-    
-
-    ,
-    "lee_shipman" : {
-        "name": "Lee Shipman",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2012,
-        "award": [],
-        "shows": [
-            {
-                "title": "A View From The Bridge",
-                "roles": ["Rodolfo"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2011-12",
-                "roles": ["Social Secretary"]
-            }
-        ],
-        "link": "/people/lee_shipman/"
-    }
-    
-
-    ,
-    "steph_warren" : {
-        "name": "Steph Warren",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2013,
-        "award": [],
-        "shows": [
-            {
-                "title": "Innocent Infidelity",
-                "roles": ["Set Construction"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2012-13",
-                "roles": ["Workshop Manager"]
-            }
-        ],
-        "link": "/people/steph_warren/"
-    }
-    
-
-    ,
-    "wawa_hunja" : {
-        "name": "Wawa Hunja",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2013,
-        "award": [],
-        "shows": [
-            {
-                "title": "Bed",
-                "roles": ["Technical Team"]
-            }
-        
-            ,{
-                "title": "Rosencrantz and Guildenstern Are Dead",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "The Gut Girls",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Black Comedy",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Jerusalem",
-                "roles": ["Producer","Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Me, As A Penguin",
-                "roles": ["Technical Director","Lighting Designer"]
-            }
-        
-            ,{
-                "title": "East",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Mary Shelley's Frankenstein",
-                "roles": ["Technical Operator"]
-            }
-        
-            ,{
-                "title": "Boeing Boeing",
-                "roles": ["Technical Operator"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2012-13",
-                "roles": ["Publicity and External Marketing Manager"]
-            }
-        ],
-        "link": "/people/wawa_hunja/"
-    }
-    
-
-    ,
-    "emily_heaton" : {
-        "name": "Emily Heaton",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2013,
-        "award": [],
-        "shows": [
-            {
-                "title": "After the End",
-                "roles": ["Make-Up"]
-            }
-        
-            ,{
-                "title": "Be My Baby",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Bed",
-                "roles": ["Make Up Artist"]
-            }
-        
-            ,{
-                "title": "Bed",
-                "roles": ["Make Up Artist"]
-            }
-        
-            ,{
-                "title": "The Dumb Waiter",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Charley's Aunt",
-                "roles": ["Make Up Artist"]
-            }
-        
-            ,{
-                "title": "Black Comedy",
-                "roles": ["Make Up Artist"]
-            }
-        
-            ,{
-                "title": "The Pillowman",
-                "roles": ["Make Up Artist"]
-            }
-        
-            ,{
-                "title": "Educating Rita",
-                "roles": ["Producer","Make-up"]
-            }
-        
-            ,{
-                "title": "Eight",
-                "roles": ["Costumes and Make-up"]
-            }
-        
-            ,{
-                "title": "Pub Quiz is Life",
-                "roles": ["Make-up"]
-            }
-        
-            ,{
-                "title": "Mary Shelley's Frankenstein",
-                "roles": ["Make-up and Masks"]
-            }
-        
-            ,{
-                "title": "Boeing Boeing",
-                "roles": ["Make Up Artist / Hair"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2012-13",
-                "roles": ["Costume and Props Manager"]
-            }
-        ],
-        "link": "/people/emily_heaton/"
-    }
-    
-
-    ,
-    "sam_greenwood" : {
-        "name": "Sam Greenwood",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2015,
-        "award": [],
-        "shows": [
-            {
-                "title": "The History Boys",
-                "roles": ["Headmaster"]
-            }
-        
-            ,{
-                "title": "Black Comedy",
-                "roles": ["Harold Gorringe"]
-            }
-        
-            ,{
-                "title": "Little Red",
-                "roles": ["Wolf / Peter Wilk"]
-            }
-        
-            ,{
-                "title": "Mary Shelley's Frankenstein",
-                "roles": ["Chorus"]
-            }
-        
-            ,{
-                "title": "The Comedy of Errors - A Shakespeare Experiment",
-                "roles": ["2nd Merchant"]
-            }
-        
-            ,{
-                "title": "Robin Hood",
-                "roles": ["Narrator"]
-            }
-        
-            ,{
-                "title": "Fox Finder",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Blue Remembered Hills",
-                "roles": ["Donald"]
-            }
-        
-            ,{
-                "title": "Romeo and Juliet",
-                "roles": ["Montague"]
-            }
-        
-            ,{
-                "title": "The Reviewers",
-                "roles": ["Ensemble"]
-            }
-        
-            ,{
-                "title": "The Infant",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "The Adventures of Anne Marie de Bourbon",
-                "roles": ["Prof. Harry Lavelle"]
-            }
-        
-            ,{
-                "title": "Women of Troy",
-                "roles": ["Menelaus / Poseidon"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2014-15",
-                "roles": ["Productions Coordinator"]
-            }
-        ],
-        "link": "/people/sam_greenwood/"
-    }
-    
-
-    ,
-    "dave_hanks" : {
-        "name": "Dave Hanks",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2015,
-        "award": [],
-        "shows": [
-            {
-                "title": "Concrete Boots",
-                "roles": ["Stage Manager"]
-            }
-        
-            ,{
-                "title": "The Rehearsal",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Kiss Me Like You Mean It",
-                "roles": ["Stage Manager"]
-            }
-        
-            ,{
-                "title": "Romeo and Juliet",
-                "roles": ["Technical Operator"]
-            }
-        
-            ,{
-                "title": "A Servant To Two Masters",
-                "roles": ["Technical Operator"]
-            }
-        
-            ,{
-                "title": "The Ritual Slaughter of Gorge Mastromas",
-                "roles": ["Set Construction"]
-            }
-        
-            ,{
-                "title": "The Adventures of Anne Marie de Bourbon",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Women of Troy",
-                "roles": ["Stage Manager"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2014-15",
-                "roles": ["Company Stage Manager"]
-            }
-        ],
-        "link": "/people/dave_hanks/"
-    }
-    
-
-    ,
-    "tyler-antonia_gordon" : {
-        "name": "Tyler-Antonia Gordon",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2015,
-        "award": [],
-        "shows": [
-            {
-                "title": "Me, As A Penguin",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "RED",
-                "roles": ["Technical Operator"]
-            }
-        
-            ,{
-                "title": "Pub Quiz is Life",
-                "roles": ["Publicity Manager"]
-            }
-        
-            ,{
-                "title": "Boeing Boeing",
-                "roles": ["Technical Operator"]
-            }
-        
-            ,{
-                "title": "Fox Finder",
-                "roles": ["Set Designer","Technical Operator"]
-            }
-        
-            ,{
-                "title": "Buried Child",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "The Last Days Of Judas Iscariot",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Molly Sweeney",
-                "roles": ["Technical Operator"]
-            }
-        
-            ,{
-                "title": "Titus Andronicus",
-                "roles": ["Technical Operator"]
-            }
-        
-            ,{
-                "title": "Habeas Corpus",
-                "roles": ["Technical Operator"]
-            }
-        
-            ,{
-                "title": "Betrayal",
-                "roles": ["Director","Set Designer"]
-            }
-        
-            ,{
-                "title": "That Face",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "MOJO",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Freshers' Fringe",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "The Ritual Slaughter of Gorge Mastromas",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "King Lear",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "Let's Just Pretend",
-                "roles": ["Lighting Designer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2014-15",
-                "roles": ["Company Technical Director"]
-            }
-        ],
-        "link": "/people/tyler-antonia_gordon/"
-    }
-    
-
-    ,
-    "tom_gladstone" : {
-        "name": "Tom Gladstone",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2015,
-        "award": [],
-        "shows": [
-            {
-                "title": "Jerusalem",
-                "roles": ["Ginger"]
-            }
-        
-            ,{
-                "title": "God of Carnage",
-                "roles": ["Michael Novak"]
-            }
-        
-            ,{
-                "title": "The Rehearsal",
-                "roles": ["Charlie"]
-            }
-        
-            ,{
-                "title": "Romeo and Juliet",
-                "roles": ["Benvolio"]
-            }
-        
-            ,{
-                "title": "MOJO",
-                "roles": ["Potts"]
-            }
-        
-            ,{
-                "title": "punk rock",
-                "roles": ["Bennet Francis"]
-            }
-        
-            ,{
-                "title": "Paper Productions Present: The Rehearsal",
-                "roles": ["Charlie"]
-            }
-        
-            ,{
-                "title": "Road",
-                "roles": ["Brink / Skin-Lad / Blowpipe / Soldier / Tom / Stanley / Louise's Brother"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2014-15",
-                "roles": ["Social Secretary"]
-            }
-        ],
-        "link": "/people/tom_gladstone/"
-    }
-    
-
-    ,
-    "millie_rushworth" : {
-        "name": "Millie Rushworth",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Mushy Peas",
-                "roles": ["Mai"]
-            }
-        
-            ,{
-                "title": "Insomnia",
-                "roles": ["Bodie"]
-            }
-        
-            ,{
-                "title": "The Defamation",
-                "roles": ["Ophelia"]
-            }
-        
-            ,{
-                "title": "Conversations with an Asexual",
-                "roles": ["Playwright","Director"]
-            }
-        
-            ,{
-                "title": "The Servant Of Two Masters",
-                "roles": ["Truffaldino"]
-            }
-        
-            ,{
-                "title": "What We Carry",
-                "roles": ["Liam"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2022-23",
-                "roles": ["External Relations Manager"]
-            }
-        ],
-        "link": "/people/millie_rushworth/"
-    }
-    
-
-    ,
-    "ollie_ennis" : {
-        "name": "Ollie Ennis",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2024,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Man in the Door",
-                "roles": ["Playwright"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2023-24",
-                "roles": ["Marketing Co-ordinator"]
-            }
-        ],
-        "link": "/people/ollie_ennis/"
-    }
-    
-
-    ,
-    "zoe_hopper" : {
-        "name": "Zoe Hopper",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Deep Blue Sea",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "About My Depression",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "A Streetcar Named Desire",
-                "roles": ["Publicity Manager"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2023-24",
-                "roles": ["Marketing Co-ordinator"]
-            }
-        ],
-        "link": "/people/zoe_hopper/"
-    }
-    
-
-    ,
-    "cecily_chaplen_luanne_moses" : {
-        "name": "Cecily Chaplen Luanne Moses",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2024,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "2023-24",
-                "roles": ["Marketing Co-ordinator"]
-            }
-        ],
-        "link": "/people/cecily_chaplen_luanne_moses/"
-    }
-    
-
-    ,
-    "luanne_moses" : {
-        "name": "Luanne Moses",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2024,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Deep Blue Sea",
-                "roles": ["Assistant Stage Manager"]
-            }
-        
-            ,{
-                "title": "Once Upon A Crime",
-                "roles": ["Assistant Stage Manager"]
-            }
-        
-            ,{
-                "title": "About My Depression",
-                "roles": ["Stage Manager"]
-            }
-        
-            ,{
-                "title": "In A Flat On Twottle Row",
-                "roles": ["Co-Producer"]
-            }
-        
-            ,{
-                "title": "Immanuel Kant was a Real Pissant",
-                "roles": ["Publicity Manager"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2023-24",
-                "roles": ["Marketing Co-ordinator"]
-            }
-        ],
-        "link": "/people/luanne_moses/"
-    }
-    
-
-    ,
-    "dant_sidhu" : {
-        "name": "Danté Sidhu",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2024,
-        "award": [],
-        "shows": [
-            {
-                "title": "Somebody to Love",
-                "roles": ["Dante"]
-            }
-        
-            ,{
-                "title": "Blood Wedding",
-                "roles": ["Moon / Chorus"]
-            }
-        
-            ,{
-                "title": "Witness for the Prosecution",
-                "roles": ["Carter / Dr Wyatt"]
-            }
-        
-            ,{
-                "title": "The Canary's Last Call",
-                "roles": ["Canary"]
-            }
-        
-            ,{
-                "title": "NNTV",
-                "roles": ["Actor"]
-            }
-        
-            ,{
-                "title": "In A Flat On Twottle Row",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Immanuel Kant was a Real Pissant",
-                "roles": ["Frankie"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2023-24",
-                "roles": ["Social Secretary"]
-            }
-        ],
-        "link": "/people/dant_sidhu/"
-    }
-    
-
-    ,
-    "clive_hollick" : {
-        "name": "Clive Hollick",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1966,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "1965-66",
-                "roles": ["President"]
-            }
-        ],
-        "link": "/people/clive_hollick/"
-    }
-    
-
-    ,
-    "patrick_mcneill" : {
-        "name": "Patrick McNeill",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1966,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "1965-66",
-                "roles": ["Secretary"]
-            }
-        ],
-        "link": "/people/patrick_mcneill/"
-    }
-    
-
-    ,
-    "roger_lancaster" : {
-        "name": "Roger Lancaster",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1967,
-        "award": [],
-        "shows": [
-            {
-                "title": "One Way Pendulum",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "A Scent of Flowers",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Macbeth",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Count Ciano and the Nazis",
-                "roles": ["The Italian Man"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1965-66",
-                "roles": ["Social Secretary"]
-            }
-        ],
-        "link": "/people/roger_lancaster/"
-    }
-    
-
-    ,
-    "tina_silk" : {
-        "name": "Tina Silk",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1966,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "1965-66",
-                "roles": ["Wardrobe Mistress"]
-            }
-        ],
-        "link": "/people/tina_silk/"
-    }
-    
-
-    ,
-    "john_dane" : {
-        "name": "John Dane",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1966,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "1965-66",
-                "roles": ["Publicity"]
-            }
-        ],
-        "link": "/people/john_dane/"
-    }
-    
-
-    ,
-    "peter_fagg" : {
-        "name": "Peter Fagg",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1966,
-        "award": [],
-        "shows": [
-            {
-                "title": "All in a Polly Ethylene Bag",
-                "roles": ["Stage Manager"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1965-66",
-                "roles": ["Stage Manager"]
-            }
-        ],
-        "link": "/people/peter_fagg/"
-    }
-    
-
-    ,
-    "rod_craig" : {
-        "name": "Rod Craig",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1972,
-        "award": [],
-        "shows": [
-            {
-                "title": "Under Milk Wood",
-                "roles": ["Lighting Designer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1970-71",
-                "roles": ["Technical Director"]
-            }
-        ],
-        "link": "/people/rod_craig/"
-    }
-    
-
-    ,
-    "alisa_gibson" : {
-        "name": "Alisa Gibson",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1972,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "1971-72",
-                "roles": ["Secretary"]
-            }
-        ],
-        "link": "/people/alisa_gibson/"
-    }
-    
-
-    ,
-    "brian_kerr" : {
-        "name": "Brian Kerr",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1972,
-        "award": [],
-        "shows": [
-            {
-                "title": "Festival of One Act Plays",
-                "roles": ["Technical Committee Crew"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1971-72",
-                "roles": ["Business Manager"]
-            }
-        ],
-        "link": "/people/brian_kerr/"
-    }
-    
-
-    ,
-    "timothy_haughton" : {
-        "name": "Timothy Haughton",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1972,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "1971-72",
-                "roles": ["Theatre Manager"]
-            }
-        ],
-        "link": "/people/timothy_haughton/"
-    }
-    
-
-    ,
-    "andrew_gould" : {
-        "name": "Andrew Gould",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1973,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Governor's Lady",
-                "roles": ["Sir Gilbert Boscoe"]
-            }
-        
-            ,{
-                "title": "Measure for Measure",
-                "roles": ["Angelo"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1971-72",
-                "roles": ["Committee Members"]
-            }
-        
-            ,{
-                "title": "1972-73",
-                "roles": ["Secretary"]
-            }
-        ],
-        "link": "/people/andrew_gould/"
-    }
-    
-
-    ,
-    "mark_hammond" : {
-        "name": "Mark Hammond",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1973,
-        "award": [],
-        "shows": [
-            {
-                "title": "Festival of One Act Plays",
-                "roles": ["Executive Director"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1972-73",
-                "roles": ["President"]
-            }
-        ],
-        "link": "/people/mark_hammond/"
-    }
-    
-
-    ,
-    "rob_ashburn" : {
-        "name": "Rob Ashburn",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1974,
-        "award": [],
-        "shows": [
-            {
-                "title": "Serjeant Musgrave's Dance",
-                "roles": ["Set Construction","Stage Manager"]
-            }
-        
-            ,{
-                "title": "The Rehearsal (or Oh Macbeth)",
-                "roles": ["Set Builder"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1972-73",
-                "roles": ["Theatre Manager"]
-            }
-        
-            ,{
-                "title": "1973-74",
-                "roles": ["Theatre Manager"]
-            }
-        ],
-        "link": "/people/rob_ashburn/"
-    }
-    
-
-    ,
-    "isabelle_wallace" : {
-        "name": "Isabelle Wallace",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1974,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Governor's Lady",
-                "roles": ["Chairman Maudsley"]
-            }
-        
-            ,{
-                "title": "Suddenly Last Summer",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Oedipus Rex",
-                "roles": ["Jocasta"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1972-73",
-                "roles": ["Committee Member"]
-            }
-        
-            ,{
-                "title": "1973-74",
-                "roles": ["Secretary"]
-            }
-        ],
-        "link": "/people/isabelle_wallace/"
-    }
-    
-
-    ,
-    "jim_cowell" : {
-        "name": "Jim Cowell",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1975,
-        "award": [],
-        "shows": [
-            {
-                "title": "Vatzlav",
-                "roles": ["Lighting"]
-            }
-        
-            ,{
-                "title": "Kettledrumming",
-                "roles": ["Lighting"]
-            }
-        
-            ,{
-                "title": "Inherit the Wind",
-                "roles": ["Lighting Designer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1973-74",
-                "roles": ["Technical Committee Rep"]
-            }
-        ],
-        "link": "/people/jim_cowell/"
-    }
-    
-
-    ,
-    "judith_fabian" : {
-        "name": "Judith Fabian",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1974,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Inhabitants",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Measure for Measure",
-                "roles": ["Costume Mistress"]
-            }
-        
-            ,{
-                "title": "Serjeant Musgrave's Dance",
-                "roles": ["Annie"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1973-74",
-                "roles": ["Committee Members"]
-            }
-        ],
-        "link": "/people/judith_fabian/"
-    }
-    
-
-    ,
-    "ric_shield" : {
-        "name": "Ric Shield",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1975,
-        "award": [],
-        "shows": [
-            {
-                "title": "Macbeth",
-                "roles": ["Malcolm"]
-            }
-        
-            ,{
-                "title": "Serjeant Musgrave's Dance",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Oedipus Rex",
-                "roles": ["Chorus Leader"]
-            }
-        
-            ,{
-                "title": "Inherit the Wind",
-                "roles": ["Producer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1974-75",
-                "roles": ["President"]
-            }
-        ],
-        "link": "/people/ric_shield/"
-    }
-    
-
-    ,
-    "alec_jessel" : {
-        "name": "Alec Jessel",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1983,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "1982-83",
-                "roles": ["Publicity Officer"]
-            }
-        ],
-        "link": "/people/alec_jessel/"
-    }
-    
-
-    ,
-    "nick_earle" : {
-        "name": "Nick Earle",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1990,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Real Thing",
-                "roles": ["Lighting"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1988-89",
-                "roles": ["Assistant Theatre Manager"]
-            }
-        
-            ,{
-                "title": "1989-90",
-                "roles": ["Assistant Theatre Manager"]
-            }
-        ],
-        "link": "/people/nick_earle/"
-    }
-    
-
-    ,
-    "claire_dykema" : {
-        "name": "Claire Dykema",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1991,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Crucible",
-                "roles": ["Betty Parris"]
-            }
-        
-            ,{
-                "title": "Epsom Downs",
-                "roles": ["Programme"]
-            }
-        
-            ,{
-                "title": "Macbeth",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Frosted Icing",
-                "roles": [null]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1989-90",
-                "roles": ["President"]
-            }
-        ],
-        "link": "/people/claire_dykema/"
-    }
-    
-
-    ,
-    "matt" : {
-        "name": "Matt",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1998,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "1997-98",
-                "roles": ["Lighting Manager"]
-            }
-        ],
-        "link": "/people/matt/"
-    }
-    
-
-    ,
-    "john_wordsworth" : {
-        "name": "John Wordsworth",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1999,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "1998-99",
-                "roles": ["Unknown"]
-            }
-        ],
-        "link": "/people/john_wordsworth/"
-    }
-    
-
-    ,
-    "paul_kerensa" : {
-        "name": "Paul Kerensa",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2000,
-        "award": [],
-        "shows": [
-            {
-                "title": "Little Shop of Horrors",
-                "roles": ["Orin the Dentist"]
-            }
-        
-            ,{
-                "title": "12 Angry Men",
-                "roles": ["Juror No 10"]
-            }
-        
-            ,{
-                "title": "Tom Jones",
-                "roles": ["Squire Western"]
-            }
-        
-            ,{
-                "title": "Twice Nightly",
-                "roles": ["Playwright"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1999-00",
-                "roles": ["Secretary"]
-            }
-        ],
-        "link": "/people/paul_kerensa/"
     }
     
 
@@ -51803,6 +48855,32 @@
     
 
     ,
+    "peter_fagg" : {
+        "name": "Peter Fagg",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1966,
+        "award": [],
+        "shows": [
+            {
+                "title": "All in a Polly Ethylene Bag",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1965-66",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "link": "/people/peter_fagg/"
+    }
+    
+
+    ,
     "simon_garner" : {
         "name": "Simon Garner",
         "type": "person",
@@ -52454,6 +49532,47 @@
     
 
     ,
+    "roger_lancaster" : {
+        "name": "Roger Lancaster",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1967,
+        "award": [],
+        "shows": [
+            {
+                "title": "One Way Pendulum",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "A Scent of Flowers",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Count Ciano and the Nazis",
+                "roles": ["The Italian Man"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1965-66",
+                "roles": ["Social Secretary"]
+            }
+        ],
+        "link": "/people/roger_lancaster/"
+    }
+    
+
+    ,
     "jenny_lapage" : {
         "name": "Jenny Lapage",
         "type": "person",
@@ -52963,6 +50082,32 @@
     
 
     ,
+    "rod_craig" : {
+        "name": "Rod Craig",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1972,
+        "award": [],
+        "shows": [
+            {
+                "title": "Under Milk Wood",
+                "roles": ["Lighting Designer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1970-71",
+                "roles": ["Technical Director"]
+            }
+        ],
+        "link": "/people/rod_craig/"
+    }
+    
+
+    ,
     "derek_aldous" : {
         "name": "Derek Aldous",
         "type": "person",
@@ -53053,6 +50198,32 @@
         ],
         "committees": [],
         "link": "/people/john_huddleston/"
+    }
+    
+
+    ,
+    "brian_kerr" : {
+        "name": "Brian Kerr",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1972,
+        "award": [],
+        "shows": [
+            {
+                "title": "Festival of One Act Plays",
+                "roles": ["Technical Committee Crew"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1971-72",
+                "roles": ["Business Manager"]
+            }
+        ],
+        "link": "/people/brian_kerr/"
     }
     
 
@@ -53203,6 +50374,32 @@
     
 
     ,
+    "mark_hammond" : {
+        "name": "Mark Hammond",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1973,
+        "award": [],
+        "shows": [
+            {
+                "title": "Festival of One Act Plays",
+                "roles": ["Executive Director"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1972-73",
+                "roles": ["President"]
+            }
+        ],
+        "link": "/people/mark_hammond/"
+    }
+    
+
+    ,
     "mike_pursell" : {
         "name": "Mike Pursell",
         "type": "person",
@@ -53337,6 +50534,42 @@
     
 
     ,
+    "judith_fabian" : {
+        "name": "Judith Fabian",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1974,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Inhabitants",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Measure for Measure",
+                "roles": ["Costume Mistress"]
+            }
+        
+            ,{
+                "title": "Serjeant Musgrave's Dance",
+                "roles": ["Annie"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1973-74",
+                "roles": ["Committee Members"]
+            }
+        ],
+        "link": "/people/judith_fabian/"
+    }
+    
+
+    ,
     "stuart_pearson" : {
         "name": "Stuart Pearson",
         "type": "person",
@@ -53453,6 +50686,83 @@
         ],
         "committees": [],
         "link": "/people/adam_aburigal/"
+    }
+    
+
+    ,
+    "isabelle_wallace" : {
+        "name": "Isabelle Wallace",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1974,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Governor's Lady",
+                "roles": ["Chairman Maudsley"]
+            }
+        
+            ,{
+                "title": "Suddenly Last Summer",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Oedipus Rex",
+                "roles": ["Jocasta"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1972-73",
+                "roles": ["Committee Member"]
+            }
+        
+            ,{
+                "title": "1973-74",
+                "roles": ["Secretary"]
+            }
+        ],
+        "link": "/people/isabelle_wallace/"
+    }
+    
+
+    ,
+    "andrew_gould" : {
+        "name": "Andrew Gould",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1973,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Governor's Lady",
+                "roles": ["Sir Gilbert Boscoe"]
+            }
+        
+            ,{
+                "title": "Measure for Measure",
+                "roles": ["Angelo"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1971-72",
+                "roles": ["Committee Members"]
+            }
+        
+            ,{
+                "title": "1972-73",
+                "roles": ["Secretary"]
+            }
+        ],
+        "link": "/people/andrew_gould/"
     }
     
 
@@ -55882,6 +53192,42 @@
     
 
     ,
+    "jim_cowell" : {
+        "name": "Jim Cowell",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1975,
+        "award": [],
+        "shows": [
+            {
+                "title": "Vatzlav",
+                "roles": ["Lighting"]
+            }
+        
+            ,{
+                "title": "Kettledrumming",
+                "roles": ["Lighting"]
+            }
+        
+            ,{
+                "title": "Inherit the Wind",
+                "roles": ["Lighting Designer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1973-74",
+                "roles": ["Technical Committee Rep"]
+            }
+        ],
+        "link": "/people/jim_cowell/"
+    }
+    
+
+    ,
     "nick_bradury" : {
         "name": "Nick Bradury",
         "type": "person",
@@ -56181,6 +53527,47 @@
         ],
         "committees": [],
         "link": "/people/phil_goudge/"
+    }
+    
+
+    ,
+    "ric_shield" : {
+        "name": "Ric Shield",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1975,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Malcolm"]
+            }
+        
+            ,{
+                "title": "Serjeant Musgrave's Dance",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Oedipus Rex",
+                "roles": ["Chorus Leader"]
+            }
+        
+            ,{
+                "title": "Inherit the Wind",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1974-75",
+                "roles": ["President"]
+            }
+        ],
+        "link": "/people/ric_shield/"
     }
     
 
@@ -56688,6 +54075,42 @@
         ],
         "committees": [],
         "link": "/people/john_hallam/"
+    }
+    
+
+    ,
+    "rob_ashburn" : {
+        "name": "Rob Ashburn",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1974,
+        "award": [],
+        "shows": [
+            {
+                "title": "Serjeant Musgrave's Dance",
+                "roles": ["Set Construction","Stage Manager"]
+            }
+        
+            ,{
+                "title": "The Rehearsal (or Oh Macbeth)",
+                "roles": ["Set Builder"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1972-73",
+                "roles": ["Theatre Manager"]
+            }
+        
+            ,{
+                "title": "1973-74",
+                "roles": ["Theatre Manager"]
+            }
+        ],
+        "link": "/people/rob_ashburn/"
     }
     
 
@@ -64842,6 +62265,37 @@
     
 
     ,
+    "nick_earle" : {
+        "name": "Nick Earle",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1990,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Real Thing",
+                "roles": ["Lighting"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1988-89",
+                "roles": ["Assistant Theatre Manager"]
+            }
+        
+            ,{
+                "title": "1989-90",
+                "roles": ["Assistant Theatre Manager"]
+            }
+        ],
+        "link": "/people/nick_earle/"
+    }
+    
+
+    ,
     "alan_salmon" : {
         "name": "Alan Salmon",
         "type": "person",
@@ -64911,6 +62365,47 @@
         ],
         "committees": [],
         "link": "/people/andrew_morrison/"
+    }
+    
+
+    ,
+    "claire_dykema" : {
+        "name": "Claire Dykema",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1991,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Betty Parris"]
+            }
+        
+            ,{
+                "title": "Epsom Downs",
+                "roles": ["Programme"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Frosted Icing",
+                "roles": [null]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1989-90",
+                "roles": ["President"]
+            }
+        ],
+        "link": "/people/claire_dykema/"
     }
     
 
@@ -69896,6 +67391,47 @@
     
 
     ,
+    "paul_kerensa" : {
+        "name": "Paul Kerensa",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2000,
+        "award": [],
+        "shows": [
+            {
+                "title": "Little Shop of Horrors",
+                "roles": ["Orin the Dentist"]
+            }
+        
+            ,{
+                "title": "12 Angry Men",
+                "roles": ["Juror No 10"]
+            }
+        
+            ,{
+                "title": "Tom Jones",
+                "roles": ["Squire Western"]
+            }
+        
+            ,{
+                "title": "Twice Nightly",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1999-00",
+                "roles": ["Secretary"]
+            }
+        ],
+        "link": "/people/paul_kerensa/"
+    }
+    
+
+    ,
     "anna_gerratt" : {
         "name": "Anna Gerratt",
         "type": "person",
@@ -70022,6 +67558,32 @@
     
 
     ,
+    "harry_fehr" : {
+        "name": "Harry Fehr",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [
+            {
+                "title": "Hecabe",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2000-01",
+                "roles": ["Theatre Manager"]
+            }
+        ],
+        "link": "/people/harry_fehr/"
+    }
+    
+
+    ,
     "nicola_snarey" : {
         "name": "Nicola Snarey",
         "type": "person",
@@ -70049,6 +67611,47 @@
         ],
         "committees": [],
         "link": "/people/nicola_snarey/"
+    }
+    
+
+    ,
+    "ajay_khari" : {
+        "name": "Ajay Khari",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2002,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lenton Boulevard",
+                "roles": ["unknown"]
+            }
+        
+            ,{
+                "title": "In Bed With Sue Lawley",
+                "roles": ["Joe Devivre"]
+            }
+        
+            ,{
+                "title": "In Bed With Sue Lawley",
+                "roles": ["Joe Devivre"]
+            }
+        
+            ,{
+                "title": "Let My People Go",
+                "roles": ["The Reverend"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2000-01",
+                "roles": ["Social Secretary"]
+            }
+        ],
+        "link": "/people/ajay_khari/"
     }
     
 
@@ -70121,6 +67724,72 @@
     
 
     ,
+    "ben_richards" : {
+        "name": "Ben Richards",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2004,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lenton Boulevard",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "The Strong Room",
+                "roles": ["Playwright"]
+            }
+        
+            ,{
+                "title": "Waiting for Dildo",
+                "roles": ["Reverand Green","Playwright","Director","Set"]
+            }
+        
+            ,{
+                "title": "The Crucible",
+                "roles": ["Set Construction"]
+            }
+        
+            ,{
+                "title": "The Homecoming",
+                "roles": ["Max","Set Designer"]
+            }
+        
+            ,{
+                "title": "Let My People Go",
+                "roles": ["Playwright","Director","Set"]
+            }
+        
+            ,{
+                "title": "Age Concern",
+                "roles": ["Set Construction"]
+            }
+        
+            ,{
+                "title": "Amadeus",
+                "roles": ["Set Design / Construction","Production Guru"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2002-03",
+                "roles": ["President"]
+            }
+        
+            ,{
+                "title": "2003-04",
+                "roles": ["Productions Coordinator"]
+            }
+        ],
+        "link": "/people/ben_richards/"
+    }
+    
+
+    ,
     "james_law" : {
         "name": "James Law",
         "type": "person",
@@ -70133,6 +67802,11 @@
         "shows": [
             {
                 "title": "Lenton Boulevard",
+                "roles": ["Set"]
+            }
+        
+            ,{
+                "title": "Waiting for Dildo",
                 "roles": ["Set"]
             }
         
@@ -70308,6 +67982,11 @@
             }
         
             ,{
+                "title": "Waiting for Dildo",
+                "roles": ["Mickey","Vincent the Vendor","Vera Ramsbottom","Random Shopper","Ken the Flasher","Ben Richards","Lance E Lot"]
+            }
+        
+            ,{
                 "title": "Time of My Life",
                 "roles": ["Calvinu / Tuto / Aggi / Dinka / Bengi"]
             }
@@ -70459,6 +68138,47 @@
         ],
         "committees": [],
         "link": "/people/claire_uttley/"
+    }
+    
+
+    ,
+    "davina_shah" : {
+        "name": "Davina Shah",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2003,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Real Thing",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "The Crucible",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "My Mother Said I Never Should",
+                "roles": ["Director","Set Designer","Publicity Designer"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Producer","Stage Manager"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2002-03",
+                "roles": ["Productions Coordinator"]
+            }
+        ],
+        "link": "/people/davina_shah/"
     }
     
 
@@ -70620,6 +68340,11 @@
             }
         
             ,{
+                "title": "Waiting for Dildo",
+                "roles": ["Stuart Andrews","Bernard Ramsbottom","Trevor the Flasher","Producer","Set","Backstage"]
+            }
+        
+            ,{
                 "title": "The Crucible",
                 "roles": ["Set Designer","Set Construction","Backstage"]
             }
@@ -70707,6 +68432,47 @@
     
 
     ,
+    "will_openshaw" : {
+        "name": "Will Openshaw",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2002,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lady Windermere's Fan",
+                "roles": ["Lord Augustus"]
+            }
+        
+            ,{
+                "title": "In Bed With Sue Lawley",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "In Bed With Sue Lawley",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "My Mother Said I Never Should",
+                "roles": ["Radio Presenter"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2000-01",
+                "roles": ["Safety Officer"]
+            }
+        ],
+        "link": "/people/will_openshaw/"
+    }
+    
+
+    ,
     "laura_elmer" : {
         "name": "Laura Elmer",
         "type": "person",
@@ -70720,6 +68486,11 @@
             {
                 "title": "Lady Windermere's Fan",
                 "roles": ["Mrs Cowper Cowper"]
+            }
+        
+            ,{
+                "title": "Waiting for Dildo",
+                "roles": ["Danger","Georgie Porgie"]
             }
         
             ,{
@@ -70824,6 +68595,11 @@
             {
                 "title": "Lady Windermere's Fan",
                 "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Waiting for Dildo",
+                "roles": ["Sound","Set"]
             }
         
             ,{
@@ -71120,6 +68896,11 @@
             }
         
             ,{
+                "title": "Waiting for Dildo",
+                "roles": ["Jerry","Cecil the Flasher","Mavis Avon","Lara Imamadwoman","Clickety Click","Costumes"]
+            }
+        
+            ,{
                 "title": "The Crucible",
                 "roles": ["Costumes"]
             }
@@ -71172,6 +68953,11 @@
         "shows": [
             {
                 "title": "Dangerous Liaisons",
+                "roles": ["Lighting"]
+            }
+        
+            ,{
+                "title": "Waiting for Dildo",
                 "roles": ["Lighting"]
             }
         
@@ -71260,6 +69046,375 @@
         ],
         "committees": [],
         "link": "/people/nick_chapman/"
+    }
+    
+
+    ,
+    "dave_earl" : {
+        "name": "Dave Earl",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Mighty","Plod Plodder","Violet Ramsfront","Ivor Hardon","Bob the Flasher","Lawrence Suzanne","Will Openhaw","Luce R Rio","Peter"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/dave_earl/"
+    }
+    
+
+    ,
+    "sarah-jane_franklin" : {
+        "name": "Sarah-Jane Franklin",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2004,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Star Tulled","Walter the Flasher","Suzanne Lawrence","Guin E Vere","The Lovely Lasses","Assistant Director"]
+            }
+        
+            ,{
+                "title": "Amadeus",
+                "roles": ["Constanze Weber","Production Angels"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sarah-jane_franklin/"
+    }
+    
+
+    ,
+    "basak_akin" : {
+        "name": "Basak Akin",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Henrietta Garmond"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/basak_akin/"
+    }
+    
+
+    ,
+    "suzy_freake" : {
+        "name": "Suzy Freake",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2002,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Julia Juva","Publicity"]
+            }
+        
+            ,{
+                "title": "The Crucible",
+                "roles": ["Publicity Designer"]
+            }
+        
+            ,{
+                "title": "The Homecoming",
+                "roles": ["Assistant Director","Publicity Designer"]
+            }
+        
+            ,{
+                "title": "Habeas Corpus",
+                "roles": ["Publicity Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/suzy_freake/"
+    }
+    
+
+    ,
+    "molly_watson" : {
+        "name": "Molly Watson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Iona Biggun"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/molly_watson/"
+    }
+    
+
+    ,
+    "sarah_ball" : {
+        "name": "Sarah Ball",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2003,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Educating Rita",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["Lighting Assistant and Sound Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/sarah_ball/"
+    }
+    
+
+    ,
+    "jamie_abson" : {
+        "name": "Jamie Abson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2003,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Set","Backstage"]
+            }
+        
+            ,{
+                "title": "The Crucible",
+                "roles": ["Set Designer","Set Construction","Backstage"]
+            }
+        
+            ,{
+                "title": "My Mother Said I Never Should",
+                "roles": ["Producer","Piano Construction","Set Construction","Publicity Designer"]
+            }
+        
+            ,{
+                "title": "Time of My Life",
+                "roles": ["Set Construction"]
+            }
+        
+            ,{
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["Set Construction"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Set Construction"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jamie_abson/"
+    }
+    
+
+    ,
+    "lynette_shanbury" : {
+        "name": "Lynette Shanbury",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2002,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Set"]
+            }
+        
+            ,{
+                "title": "Our Country's Good",
+                "roles": ["Reverend Johnson/Liz Morden"]
+            }
+        
+            ,{
+                "title": "Habeas Corpus",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lynette_shanbury/"
+    }
+    
+
+    ,
+    "simon_hetherington" : {
+        "name": "Simon Hetherington",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Set"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/simon_hetherington/"
+    }
+    
+
+    ,
+    "peter_nicholson" : {
+        "name": "Peter Nicholson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Set"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/peter_nicholson/"
+    }
+    
+
+    ,
+    "eleanor_twiner" : {
+        "name": "Eleanor Twiner",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Set"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/eleanor_twiner/"
+    }
+    
+
+    ,
+    "amy_williams" : {
+        "name": "Amy Williams",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2002,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Backstage"]
+            }
+        
+            ,{
+                "title": "Time of My Life",
+                "roles": ["Laura Stratton"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/amy_williams/"
+    }
+    
+
+    ,
+    "hen_ross" : {
+        "name": "Hen Ross",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2002,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Backstage"]
+            }
+        
+            ,{
+                "title": "Time of My Life",
+                "roles": ["Costumes"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/hen_ross/"
+    }
+    
+
+    ,
+    "alex_holton" : {
+        "name": "Alex Holton",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [
+            {
+                "title": "Waiting for Dildo",
+                "roles": ["Backstage"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alex_holton/"
     }
     
 
@@ -71430,6 +69585,32 @@
     
 
     ,
+    "james_browne" : {
+        "name": "James Browne",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Hush",
+                "roles": [null]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2000-01",
+                "roles": ["Development Projects Officer"]
+            }
+        ],
+        "link": "/people/james_browne/"
+    }
+    
+
+    ,
     "jo_hoare" : {
         "name": "Jo Hoare",
         "type": "person",
@@ -71530,6 +69711,32 @@
         ],
         "committees": [],
         "link": "/people/kath_akers/"
+    }
+    
+
+    ,
+    "matt_chapman" : {
+        "name": "Matt Chapman",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2002,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Thomas Putnam"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2000-01",
+                "roles": ["Secretary"]
+            }
+        ],
+        "link": "/people/matt_chapman/"
     }
     
 
@@ -71711,6 +69918,32 @@
     
 
     ,
+    "josh_dean" : {
+        "name": "Josh Dean",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2002,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Crucible",
+                "roles": ["Deputy-Governor Danforth"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2000-01",
+                "roles": ["Productions Coordinator"]
+            }
+        ],
+        "link": "/people/josh_dean/"
+    }
+    
+
+    ,
     "roanna_schneider" : {
         "name": "Roanna Schneider",
         "type": "person",
@@ -71749,47 +69982,6 @@
         ],
         "committees": [],
         "link": "/people/harriet_faber/"
-    }
-    
-
-    ,
-    "jamie_abson" : {
-        "name": "Jamie Abson",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2003,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Crucible",
-                "roles": ["Set Designer","Set Construction","Backstage"]
-            }
-        
-            ,{
-                "title": "My Mother Said I Never Should",
-                "roles": ["Producer","Piano Construction","Set Construction","Publicity Designer"]
-            }
-        
-            ,{
-                "title": "Time of My Life",
-                "roles": ["Set Construction"]
-            }
-        
-            ,{
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["Set Construction"]
-            }
-        
-            ,{
-                "title": "Doctor Faustus",
-                "roles": ["Set Construction"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/jamie_abson/"
     }
     
 
@@ -72004,37 +70196,6 @@
         ],
         "committees": [],
         "link": "/people/rachel_taylor/"
-    }
-    
-
-    ,
-    "suzy_freake" : {
-        "name": "Suzy Freake",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2002,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Crucible",
-                "roles": ["Publicity Designer"]
-            }
-        
-            ,{
-                "title": "The Homecoming",
-                "roles": ["Assistant Director","Publicity Designer"]
-            }
-        
-            ,{
-                "title": "Habeas Corpus",
-                "roles": ["Publicity Designer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/suzy_freake/"
     }
     
 
@@ -72527,32 +70688,6 @@
     
 
     ,
-    "lynette_shanbury" : {
-        "name": "Lynette Shanbury",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2002,
-        "award": [],
-        "shows": [
-            {
-                "title": "Our Country's Good",
-                "roles": ["Reverend Johnson/Liz Morden"]
-            }
-        
-            ,{
-                "title": "Habeas Corpus",
-                "roles": ["Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/lynette_shanbury/"
-    }
-    
-
-    ,
     "hannah_bragg" : {
         "name": "Hannah Bragg",
         "type": "person",
@@ -72897,32 +71032,6 @@
     
 
     ,
-    "sarah_ball" : {
-        "name": "Sarah Ball",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2003,
-        "award": [],
-        "shows": [
-            {
-                "title": "Educating Rita",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["Lighting Assistant and Sound Manager"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/sarah_ball/"
-    }
-    
-
-    ,
     "kat_barnard" : {
         "name": "Kat Barnard",
         "type": "person",
@@ -73090,27 +71199,6 @@
     
 
     ,
-    "amy_williams" : {
-        "name": "Amy Williams",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2002,
-        "award": [],
-        "shows": [
-            {
-                "title": "Time of My Life",
-                "roles": ["Laura Stratton"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/amy_williams/"
-    }
-    
-
-    ,
     "moly_watson" : {
         "name": "Moly Watson",
         "type": "person",
@@ -73254,27 +71342,6 @@
         ],
         "committees": [],
         "link": "/people/gemma_lee/"
-    }
-    
-
-    ,
-    "hen_ross" : {
-        "name": "Hen Ross",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2002,
-        "award": [],
-        "shows": [
-            {
-                "title": "Time of My Life",
-                "roles": ["Costumes"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/hen_ross/"
     }
     
 
@@ -75217,27 +73284,6 @@
     
 
     ,
-    "sarah-jane_franklin" : {
-        "name": "Sarah-Jane Franklin",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2004,
-        "award": [],
-        "shows": [
-            {
-                "title": "Amadeus",
-                "roles": ["Constanze Weber","Production Angels"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/sarah-jane_franklin/"
-    }
-    
-
-    ,
     "anna_geffert" : {
         "name": "Anna Geffert",
         "type": "person",
@@ -75620,6 +73666,32 @@
     
 
     ,
+    "rick_chernick" : {
+        "name": "Rick Chernick",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2006,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Trial",
+                "roles": ["Guard / Manager"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2005-06",
+                "roles": ["Treasurer"]
+            }
+        ],
+        "link": "/people/rick_chernick/"
+    }
+    
+
+    ,
     "natasha_abrams" : {
         "name": "Natasha Abrams",
         "type": "person",
@@ -75853,6 +73925,42 @@
     
 
     ,
+    "georgie_strawson" : {
+        "name": "Georgie Strawson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2007,
+        "award": [],
+        "shows": [
+            {
+                "title": "Shoe Story",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Persae",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Blanche Dubois"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Health and Safety Officer"]
+            }
+        ],
+        "link": "/people/georgie_strawson/"
+    }
+    
+
+    ,
     "laura_dexter" : {
         "name": "Laura Dexter",
         "type": "person",
@@ -75874,6 +73982,67 @@
     
 
     ,
+    "maia_gibbs" : {
+        "name": "Maia Gibbs",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2008,
+        "award": [],
+        "shows": [
+            {
+                "title": "Blood Wedding",
+                "roles": ["Bride"]
+            }
+        
+            ,{
+                "title": "The Treatment",
+                "roles": ["Bride"]
+            }
+        
+            ,{
+                "title": "Persae",
+                "roles": ["Jean"]
+            }
+        
+            ,{
+                "title": "4.48 Psychosis",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Colder than Here",
+                "roles": ["Myra"]
+            }
+        
+            ,{
+                "title": "Through the Looking Glass",
+                "roles": ["Alice"]
+            }
+        
+            ,{
+                "title": "The Lonesome West",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "After Miss Julie",
+                "roles": ["Julie"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2007-08",
+                "roles": ["Publicity and Internal Marketing Manager"]
+            }
+        ],
+        "link": "/people/maia_gibbs/"
+    }
+    
+
+    ,
     "simon_chase" : {
         "name": "Simon Chase",
         "type": "person",
@@ -75891,6 +74060,37 @@
         ],
         "committees": [],
         "link": "/people/simon_chase/"
+    }
+    
+
+    ,
+    "ben_ford" : {
+        "name": "Ben Ford",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2007,
+        "award": [],
+        "shows": [
+            {
+                "title": "Oedipus",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "4.48 Psychosis",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["External Events Coordinator"]
+            }
+        ],
+        "link": "/people/ben_ford/"
     }
     
 
@@ -75968,6 +74168,62 @@
     
 
     ,
+    "sam__morris" : {
+        "name": "Sam  Morris",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2008,
+        "award": [],
+        "shows": [
+            {
+                "title": "Popcorn",
+                "roles": ["Camera Crew"]
+            }
+        
+            ,{
+                "title": "The Flu Season",
+                "roles": ["Epilogue"]
+            }
+        
+            ,{
+                "title": "Cast Aside",
+                "roles": ["Smires"]
+            }
+        
+            ,{
+                "title": "Stars in Their Eyes",
+                "roles": ["Rap Artist"]
+            }
+        
+            ,{
+                "title": "Jack and Jill",
+                "roles": ["Jack"]
+            }
+        
+            ,{
+                "title": "Death of a Salesman",
+                "roles": ["Willy"]
+            }
+        
+            ,{
+                "title": "The Third Condiment",
+                "roles": ["Dave"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2007-08",
+                "roles": ["Productions Coordinator"]
+            }
+        ],
+        "link": "/people/sam__morris/"
+    }
+    
+
+    ,
     "francis_whittaker" : {
         "name": "Francis Whittaker",
         "type": "person",
@@ -75985,6 +74241,42 @@
         ],
         "committees": [],
         "link": "/people/francis_whittaker/"
+    }
+    
+
+    ,
+    "michelle_ghatan" : {
+        "name": "Michelle Ghatan",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2008,
+        "award": [],
+        "shows": [
+            {
+                "title": "Iron",
+                "roles": ["Fay"]
+            }
+        
+            ,{
+                "title": "Stars in Their Eyes",
+                "roles": ["Nora Jones"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Lady Macbeth / Witch"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Edinburgh Coordinator"]
+            }
+        ],
+        "link": "/people/michelle_ghatan/"
     }
     
 
@@ -76073,6 +74365,32 @@
         ],
         "committees": [],
         "link": "/people/edward_hancock/"
+    }
+    
+
+    ,
+    "megan_allyse" : {
+        "name": "Megan Allyse",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2007,
+        "award": [],
+        "shows": [
+            {
+                "title": "Thom Pain",
+                "roles": ["Lighting Designer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Treasurer"]
+            }
+        ],
+        "link": "/people/megan_allyse/"
     }
     
 
@@ -76767,6 +75085,47 @@
     
 
     ,
+    "fu_baxter" : {
+        "name": "Fu Baxter",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2010,
+        "award": [],
+        "shows": [
+            {
+                "title": "Crave",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "A Clockwork Orange",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Bacchae",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Dinner",
+                "roles": ["Designer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2009-10",
+                "roles": ["Technical Director"]
+            }
+        ],
+        "link": "/people/fu_baxter/"
+    }
+    
+
+    ,
     "victoia_green" : {
         "name": "Victoia Green",
         "type": "person",
@@ -76868,6 +75227,93 @@
         ],
         "committees": [],
         "link": "/people/briony_gittins/"
+    }
+    
+
+    ,
+    "johnny_steer" : {
+        "name": "Johnny Steer",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2009,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Lonesome West",
+                "roles": ["Coleman"]
+            }
+        
+            ,{
+                "title": "Out of Order",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "What the Butler Saw",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Someone Who'll Watch Over Me",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "The Pillowman",
+                "roles": ["Technical Operator"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2008-09",
+                "roles": ["Productions Coordinator"]
+            }
+        ],
+        "link": "/people/johnny_steer/"
+    }
+    
+
+    ,
+    "cal_lewis" : {
+        "name": "Cal Lewis",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2009,
+        "award": [],
+        "shows": [
+            {
+                "title": "Death of a Salesman",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Crucible",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Crossing the Rubicon",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Crossing the Rubicon",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2007-08",
+                "roles": ["Workshop Manager"]
+            }
+        ],
+        "link": "/people/cal_lewis/"
     }
     
 
@@ -77603,6 +76049,72 @@
     
 
     ,
+    "bora_hunja" : {
+        "name": "Bora Hunja",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2012,
+        "award": [],
+        "shows": [
+            {
+                "title": "Nowhere Warm",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "Boy's Life",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Dinner",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Road",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "The Talented Mr Ripley",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Flare Path",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Bed",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Bed",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Charley's Aunt",
+                "roles": ["Technical Director"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2009-10",
+                "roles": ["Lighting Manager"]
+            }
+        ],
+        "link": "/people/bora_hunja/"
+    }
+    
+
+    ,
     "nathan_peart" : {
         "name": "Nathan Peart",
         "type": "person",
@@ -77795,6 +76307,67 @@
     
 
     ,
+    "amy_rushton" : {
+        "name": "Amy Rushton",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2011,
+        "award": [],
+        "shows": [
+            {
+                "title": "What the Butler Saw",
+                "roles": ["Props"]
+            }
+        
+            ,{
+                "title": "The Pillowman",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Boy's Life",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Ghetto",
+                "roles": ["unknown"]
+            }
+        
+            ,{
+                "title": "His Lordship Entertains",
+                "roles": ["Mrs Harriet Trevelyan / Mrs Ringer's Friend"]
+            }
+        
+            ,{
+                "title": "The Retreat",
+                "roles": ["Ellie"]
+            }
+        
+            ,{
+                "title": "Smile",
+                "roles": ["Deborah"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2009-10",
+                "roles": ["Treasurer"]
+            }
+        
+            ,{
+                "title": "2010-11",
+                "roles": ["Productions Coordinator"]
+            }
+        ],
+        "link": "/people/amy_rushton/"
+    }
+    
+
+    ,
     "cristina_von_essen" : {
         "name": "Cristina von Essen",
         "type": "person",
@@ -77864,6 +76437,32 @@
         ],
         "committees": [],
         "link": "/people/alice_vincent/"
+    }
+    
+
+    ,
+    "lauren_knight" : {
+        "name": "Lauren Knight",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2009,
+        "award": [],
+        "shows": [
+            {
+                "title": "Nature's Pretenders",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2008-09",
+                "roles": ["Costumes Manager"]
+            }
+        ],
+        "link": "/people/lauren_knight/"
     }
     
 
@@ -78809,6 +77408,42 @@
     
 
     ,
+    "nell_charleston" : {
+        "name": "Nell Charleston",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2011,
+        "award": [],
+        "shows": [
+            {
+                "title": "Rhinoceros",
+                "roles": ["Cafe Proprietor / Old Woman"]
+            }
+        
+            ,{
+                "title": "The Last 5 Years",
+                "roles": ["Cathy"]
+            }
+        
+            ,{
+                "title": "Arcadia",
+                "roles": ["Hannah Jarvis"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2010-11",
+                "roles": ["Front of House Manager"]
+            }
+        ],
+        "link": "/people/nell_charleston/"
+    }
+    
+
+    ,
     "simon_peal" : {
         "name": "Simon Peal",
         "type": "person",
@@ -78841,6 +77476,37 @@
         ],
         "committees": [],
         "link": "/people/simon_peal/"
+    }
+    
+
+    ,
+    "elsa_harriskine" : {
+        "name": "Elsa Harriskine",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2011,
+        "award": [],
+        "shows": [
+            {
+                "title": "Rhinoceros",
+                "roles": ["Housewife"]
+            }
+        
+            ,{
+                "title": "Dinner",
+                "roles": ["Wynne"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2010-11",
+                "roles": ["Rep Coordinator"]
+            }
+        ],
+        "link": "/people/elsa_harriskine/"
     }
     
 
@@ -79322,6 +77988,57 @@
     
 
     ,
+    "rose_williams" : {
+        "name": "Rose Williams",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2011,
+        "award": [],
+        "shows": [
+            {
+                "title": "Road",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Orphans",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Arcadia",
+                "roles": ["Costumier"]
+            }
+        
+            ,{
+                "title": "Rope",
+                "roles": ["Costumes"]
+            }
+        
+            ,{
+                "title": "Holy Matrimony!",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Beef",
+                "roles": ["Sophia","Playwright","Writer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2010-11",
+                "roles": ["Costume and Props Manager"]
+            }
+        ],
+        "link": "/people/rose_williams/"
+    }
+    
+
+    ,
     "liz_stevens" : {
         "name": "Liz Stevens",
         "type": "person",
@@ -79707,6 +78424,72 @@
     
 
     ,
+    "emily_davenport" : {
+        "name": "Emily Davenport",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2012,
+        "award": [],
+        "shows": [
+            {
+                "title": "Hedda Gabler",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "Caucasian Chalk Circle",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "This Wide Night",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "Cradle Me",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Producer","Set Designer"]
+            }
+        
+            ,{
+                "title": "All My Sons",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "Faust is Dead",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Innocent Infidelity",
+                "roles": ["Set Construction"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2010-11",
+                "roles": ["Staging Coordinator"]
+            }
+        
+            ,{
+                "title": "2011-12",
+                "roles": ["Theatre Manager"]
+            }
+        ],
+        "link": "/people/emily_davenport/"
+    }
+    
+
+    ,
     "vanessa_charters" : {
         "name": "Vanessa Charters",
         "type": "person",
@@ -79745,6 +78528,67 @@
         ],
         "committees": [],
         "link": "/people/greg_fahey/"
+    }
+    
+
+    ,
+    "robert_leventhall" : {
+        "name": "Robert Leventhall",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2013,
+        "award": [],
+        "shows": [
+            {
+                "title": "Caucasian Chalk Circle",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "The Talented Mr Ripley",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Flare Path",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "Rope",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Too Far Away",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "The Hand-Me-Down People",
+                "roles": ["Soldier"]
+            }
+        
+            ,{
+                "title": "Nineteen Eighty-Four",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
+                "title": "Boeing Boeing",
+                "roles": ["Set Construction"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2010-11",
+                "roles": ["Sound Manager"]
+            }
+        ],
+        "link": "/people/robert_leventhall/"
     }
     
 
@@ -79879,6 +78723,103 @@
         ],
         "committees": [],
         "link": "/people/rosanna_stoker/"
+    }
+    
+
+    ,
+    "lucy_bromilow" : {
+        "name": "Lucy Bromilow",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2014,
+        "award": [],
+        "shows": [
+            {
+                "title": "Bluebird",
+                "roles": ["Janine"]
+            }
+        
+            ,{
+                "title": "This Wide Night",
+                "roles": ["Lorraine"]
+            }
+        
+            ,{
+                "title": "Bed",
+                "roles": ["Props and Costume"]
+            }
+        
+            ,{
+                "title": "A Midsummer Night's Dream",
+                "roles": ["Titania / Hippolyta"]
+            }
+        
+            ,{
+                "title": "The History Boys",
+                "roles": ["Mrs. Lintott"]
+            }
+        
+            ,{
+                "title": "Buried Child",
+                "roles": ["Halie"]
+            }
+        
+            ,{
+                "title": "Romeo and Juliet",
+                "roles": ["Lady Capulet"]
+            }
+        
+            ,{
+                "title": "18B",
+                "roles": ["Violet Mortimer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2011-12",
+                "roles": ["Costume and Props Manager"]
+            }
+        ],
+        "link": "/people/lucy_bromilow/"
+    }
+    
+
+    ,
+    "henry_blanchard" : {
+        "name": "Henry Blanchard",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2012,
+        "award": [],
+        "shows": [
+            {
+                "title": "Arcadia",
+                "roles": ["Valentine Coverly"]
+            }
+        
+            ,{
+                "title": "Cradle Me",
+                "roles": ["Graham"]
+            }
+        
+            ,{
+                "title": "The Off White Horse",
+                "roles": ["David"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2011-12",
+                "roles": ["Fundraising Coordinator"]
+            }
+        ],
+        "link": "/people/henry_blanchard/"
     }
     
 
@@ -80226,6 +79167,118 @@
         ],
         "committees": [],
         "link": "/people/ed_gilbert/"
+    }
+    
+
+    ,
+    "emily_heaton" : {
+        "name": "Emily Heaton",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2013,
+        "award": [],
+        "shows": [
+            {
+                "title": "After the End",
+                "roles": ["Make-Up"]
+            }
+        
+            ,{
+                "title": "Be My Baby",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Bed",
+                "roles": ["Make Up Artist"]
+            }
+        
+            ,{
+                "title": "Bed",
+                "roles": ["Make Up Artist"]
+            }
+        
+            ,{
+                "title": "The Dumb Waiter",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Charley's Aunt",
+                "roles": ["Make Up Artist"]
+            }
+        
+            ,{
+                "title": "Black Comedy",
+                "roles": ["Make Up Artist"]
+            }
+        
+            ,{
+                "title": "The Pillowman",
+                "roles": ["Make Up Artist"]
+            }
+        
+            ,{
+                "title": "Educating Rita",
+                "roles": ["Producer","Make-up"]
+            }
+        
+            ,{
+                "title": "Eight",
+                "roles": ["Costumes and Make-up"]
+            }
+        
+            ,{
+                "title": "Pub Quiz is Life",
+                "roles": ["Make-up"]
+            }
+        
+            ,{
+                "title": "Mary Shelley's Frankenstein",
+                "roles": ["Make-up and Masks"]
+            }
+        
+            ,{
+                "title": "Boeing Boeing",
+                "roles": ["Make Up Artist / Hair"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2012-13",
+                "roles": ["Costume and Props Manager"]
+            }
+        ],
+        "link": "/people/emily_heaton/"
+    }
+    
+
+    ,
+    "lee_shipman" : {
+        "name": "Lee Shipman",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2012,
+        "award": [],
+        "shows": [
+            {
+                "title": "A View From The Bridge",
+                "roles": ["Rodolfo"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2011-12",
+                "roles": ["Social Secretary"]
+            }
+        ],
+        "link": "/people/lee_shipman/"
     }
     
 
@@ -80946,6 +79999,97 @@
     
 
     ,
+    "lydia_scott" : {
+        "name": "Lydia Scott",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2013,
+        "award": [],
+        "shows": [
+            {
+                "title": "Look Back in Anger",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Be My Baby",
+                "roles": ["Queenie"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Tread Softly",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "The Off White Horse",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Faust is Dead",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "The Beauty Queen of Leenane",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "The Memory of Water",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Black Comedy",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Jerusalem",
+                "roles": ["Costumes"]
+            }
+        
+            ,{
+                "title": "RED",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Stags and Hens",
+                "roles": ["Costume"]
+            }
+        
+            ,{
+                "title": "A Clockwork Orange",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Pub Quiz is Life",
+                "roles": ["Baz"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2011-12",
+                "roles": ["Company Technical Director"]
+            }
+        ],
+        "link": "/people/lydia_scott/"
+    }
+    
+
+    ,
     "nada_fahmy_guirguis" : {
         "name": "Nada Fahmy Guirguis",
         "type": "person",
@@ -81488,6 +80632,37 @@
     
 
     ,
+    "grace_lowe" : {
+        "name": "Grace Lowe",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2012,
+        "award": [],
+        "shows": [
+            {
+                "title": "Bed",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "Bed",
+                "roles": ["Set Designer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2011-12",
+                "roles": ["Workshop Manager"]
+            }
+        ],
+        "link": "/people/grace_lowe/"
+    }
+    
+
+    ,
     "gareth_morris" : {
         "name": "Gareth Morris",
         "type": "person",
@@ -81541,6 +80716,72 @@
         ],
         "committees": [],
         "link": "/people/george_barrett/"
+    }
+    
+
+    ,
+    "wawa_hunja" : {
+        "name": "Wawa Hunja",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2013,
+        "award": [],
+        "shows": [
+            {
+                "title": "Bed",
+                "roles": ["Technical Team"]
+            }
+        
+            ,{
+                "title": "Rosencrantz and Guildenstern Are Dead",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "The Gut Girls",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Black Comedy",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Jerusalem",
+                "roles": ["Producer","Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Me, As A Penguin",
+                "roles": ["Technical Director","Lighting Designer"]
+            }
+        
+            ,{
+                "title": "East",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Mary Shelley's Frankenstein",
+                "roles": ["Technical Operator"]
+            }
+        
+            ,{
+                "title": "Boeing Boeing",
+                "roles": ["Technical Operator"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2012-13",
+                "roles": ["Publicity and External Marketing Manager"]
+            }
+        ],
+        "link": "/people/wawa_hunja/"
     }
     
 
@@ -82675,6 +81916,32 @@
     
 
     ,
+    "steph_warren" : {
+        "name": "Steph Warren",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2013,
+        "award": [],
+        "shows": [
+            {
+                "title": "Innocent Infidelity",
+                "roles": ["Set Construction"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2012-13",
+                "roles": ["Workshop Manager"]
+            }
+        ],
+        "link": "/people/steph_warren/"
+    }
+    
+
+    ,
     "james_watson" : {
         "name": "James Watson",
         "type": "person",
@@ -82765,6 +82032,92 @@
         ],
         "committees": [],
         "link": "/people/dani_jeyes/"
+    }
+    
+
+    ,
+    "sam_greenwood" : {
+        "name": "Sam Greenwood",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2015,
+        "award": [],
+        "shows": [
+            {
+                "title": "The History Boys",
+                "roles": ["Headmaster"]
+            }
+        
+            ,{
+                "title": "Black Comedy",
+                "roles": ["Harold Gorringe"]
+            }
+        
+            ,{
+                "title": "Little Red",
+                "roles": ["Wolf / Peter Wilk"]
+            }
+        
+            ,{
+                "title": "Mary Shelley's Frankenstein",
+                "roles": ["Chorus"]
+            }
+        
+            ,{
+                "title": "The Comedy of Errors - A Shakespeare Experiment",
+                "roles": ["2nd Merchant"]
+            }
+        
+            ,{
+                "title": "Robin Hood",
+                "roles": ["Narrator"]
+            }
+        
+            ,{
+                "title": "Fox Finder",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Blue Remembered Hills",
+                "roles": ["Donald"]
+            }
+        
+            ,{
+                "title": "Romeo and Juliet",
+                "roles": ["Montague"]
+            }
+        
+            ,{
+                "title": "The Reviewers",
+                "roles": ["Ensemble"]
+            }
+        
+            ,{
+                "title": "The Infant",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Adventures of Anne Marie de Bourbon",
+                "roles": ["Prof. Harry Lavelle"]
+            }
+        
+            ,{
+                "title": "Women of Troy",
+                "roles": ["Menelaus / Poseidon"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2014-15",
+                "roles": ["Productions Coordinator"]
+            }
+        ],
+        "link": "/people/sam_greenwood/"
     }
     
 
@@ -83702,6 +83055,67 @@
     
 
     ,
+    "tom_gladstone" : {
+        "name": "Tom Gladstone",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2015,
+        "award": [],
+        "shows": [
+            {
+                "title": "Jerusalem",
+                "roles": ["Ginger"]
+            }
+        
+            ,{
+                "title": "God of Carnage",
+                "roles": ["Michael Novak"]
+            }
+        
+            ,{
+                "title": "The Rehearsal",
+                "roles": ["Charlie"]
+            }
+        
+            ,{
+                "title": "Romeo and Juliet",
+                "roles": ["Benvolio"]
+            }
+        
+            ,{
+                "title": "MOJO",
+                "roles": ["Potts"]
+            }
+        
+            ,{
+                "title": "punk rock",
+                "roles": ["Bennet Francis"]
+            }
+        
+            ,{
+                "title": "Paper Productions Present: The Rehearsal",
+                "roles": ["Charlie"]
+            }
+        
+            ,{
+                "title": "Road",
+                "roles": ["Brink / Skin-Lad / Blowpipe / Soldier / Tom / Stanley / Louise's Brother"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2014-15",
+                "roles": ["Social Secretary"]
+            }
+        ],
+        "link": "/people/tom_gladstone/"
+    }
+    
+
+    ,
     "ed_colwell" : {
         "name": "Ed Colwell",
         "type": "person",
@@ -84216,6 +83630,112 @@
         ],
         "committees": [],
         "link": "/people/hilary_adams/"
+    }
+    
+
+    ,
+    "tyler-antonia_gordon" : {
+        "name": "Tyler-Antonia Gordon",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2015,
+        "award": [],
+        "shows": [
+            {
+                "title": "Me, As A Penguin",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "RED",
+                "roles": ["Technical Operator"]
+            }
+        
+            ,{
+                "title": "Pub Quiz is Life",
+                "roles": ["Publicity Manager"]
+            }
+        
+            ,{
+                "title": "Boeing Boeing",
+                "roles": ["Technical Operator"]
+            }
+        
+            ,{
+                "title": "Fox Finder",
+                "roles": ["Set Designer","Technical Operator"]
+            }
+        
+            ,{
+                "title": "Buried Child",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "The Last Days Of Judas Iscariot",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Molly Sweeney",
+                "roles": ["Technical Operator"]
+            }
+        
+            ,{
+                "title": "Titus Andronicus",
+                "roles": ["Technical Operator"]
+            }
+        
+            ,{
+                "title": "Habeas Corpus",
+                "roles": ["Technical Operator"]
+            }
+        
+            ,{
+                "title": "Betrayal",
+                "roles": ["Director","Set Designer"]
+            }
+        
+            ,{
+                "title": "That Face",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "MOJO",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Ritual Slaughter of Gorge Mastromas",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "King Lear",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "Let's Just Pretend",
+                "roles": ["Lighting Designer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2014-15",
+                "roles": ["Company Technical Director"]
+            }
+        ],
+        "link": "/people/tyler-antonia_gordon/"
     }
     
 
@@ -86410,6 +85930,67 @@
         ],
         "committees": [],
         "link": "/people/dario_gabriel_mincioni/"
+    }
+    
+
+    ,
+    "dave_hanks" : {
+        "name": "Dave Hanks",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2015,
+        "award": [],
+        "shows": [
+            {
+                "title": "Concrete Boots",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "The Rehearsal",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Kiss Me Like You Mean It",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Romeo and Juliet",
+                "roles": ["Technical Operator"]
+            }
+        
+            ,{
+                "title": "A Servant To Two Masters",
+                "roles": ["Technical Operator"]
+            }
+        
+            ,{
+                "title": "The Ritual Slaughter of Gorge Mastromas",
+                "roles": ["Set Construction"]
+            }
+        
+            ,{
+                "title": "The Adventures of Anne Marie de Bourbon",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Women of Troy",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2014-15",
+                "roles": ["Company Stage Manager"]
+            }
+        ],
+        "link": "/people/dave_hanks/"
     }
     
 
@@ -105459,6 +105040,57 @@
     
 
     ,
+    "millie_rushworth" : {
+        "name": "Millie Rushworth",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "Mushy Peas",
+                "roles": ["Mai"]
+            }
+        
+            ,{
+                "title": "Insomnia",
+                "roles": ["Bodie"]
+            }
+        
+            ,{
+                "title": "The Defamation",
+                "roles": ["Ophelia"]
+            }
+        
+            ,{
+                "title": "Conversations with an Asexual",
+                "roles": ["Playwright","Director"]
+            }
+        
+            ,{
+                "title": "The Servant Of Two Masters",
+                "roles": ["Truffaldino"]
+            }
+        
+            ,{
+                "title": "What We Carry",
+                "roles": ["Liam"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2022-23",
+                "roles": ["External Relations Manager"]
+            }
+        ],
+        "link": "/people/millie_rushworth/"
+    }
+    
+
+    ,
     "ramy_ben_fredji" : {
         "name": "Ramy Ben Fredji",
         "type": "person",
@@ -105683,6 +105315,62 @@
         ],
         "committees": [],
         "link": "/people/eden_masters/"
+    }
+    
+
+    ,
+    "dant_sidhu" : {
+        "name": "Danté Sidhu",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Somebody to Love",
+                "roles": ["Dante"]
+            }
+        
+            ,{
+                "title": "Blood Wedding",
+                "roles": ["Moon / Chorus"]
+            }
+        
+            ,{
+                "title": "Witness for the Prosecution",
+                "roles": ["Carter / Dr Wyatt"]
+            }
+        
+            ,{
+                "title": "The Canary's Last Call",
+                "roles": ["Canary"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Immanuel Kant was a Real Pissant",
+                "roles": ["Frankie"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Social Secretary"]
+            }
+        ],
+        "link": "/people/dant_sidhu/"
     }
     
 
@@ -109169,6 +108857,42 @@
     
 
     ,
+    "zoe_hopper" : {
+        "name": "Zoe Hopper",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Deep Blue Sea",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "About My Depression",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Publicity Manager"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Marketing Co-ordinator"]
+            }
+        ],
+        "link": "/people/zoe_hopper/"
+    }
+    
+
+    ,
     "liam_birch" : {
         "name": "Liam Birch",
         "type": "person",
@@ -109228,6 +108952,52 @@
         ],
         "committees": [],
         "link": "/people/jess_maughan/"
+    }
+    
+
+    ,
+    "luanne_moses" : {
+        "name": "Luanne Moses",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Deep Blue Sea",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "Once Upon A Crime",
+                "roles": ["Assistant Stage Manager"]
+            }
+        
+            ,{
+                "title": "About My Depression",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Co-Producer"]
+            }
+        
+            ,{
+                "title": "Immanuel Kant was a Real Pissant",
+                "roles": ["Publicity Manager"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Marketing Co-ordinator"]
+            }
+        ],
+        "link": "/people/luanne_moses/"
     }
     
 
@@ -109744,6 +109514,32 @@
         ],
         "committees": [],
         "link": "/people/adam_cooper-gillespie/"
+    }
+    
+
+    ,
+    "ollie_ennis" : {
+        "name": "Ollie Ennis",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Man in the Door",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Marketing Co-ordinator"]
+            }
+        ],
+        "link": "/people/ollie_ennis/"
     }
     
 
@@ -113549,6 +113345,452 @@
         ],
         "committees": [],
         "link": "/people/daro_mamselah/"
+    }
+    
+
+    ,
+    "robert_ridd" : {
+        "name": "Robert Ridd",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2000-01",
+                "roles": ["Publicity Officer"]
+            }
+        ],
+        "link": "/people/robert_ridd/"
+    }
+    
+
+    ,
+    "claire_mcdiarmid" : {
+        "name": "Claire McDiarmid",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2000-01",
+                "roles": ["Props and Costume Mistress"]
+            }
+        ],
+        "link": "/people/claire_mcdiarmid/"
+    }
+    
+
+    ,
+    "beth_powel" : {
+        "name": "Beth Powel",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2000-01",
+                "roles": ["Edinburgh Coordinator"]
+            }
+        ],
+        "link": "/people/beth_powel/"
+    }
+    
+
+    ,
+    "emily_howes" : {
+        "name": "Emily Howes",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2001,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2000-01",
+                "roles": ["Sound Manager"]
+            }
+        ],
+        "link": "/people/emily_howes/"
+    }
+    
+
+    ,
+    "rufus_tanner" : {
+        "name": "Rufus Tanner",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2006,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2005-06",
+                "roles": ["unknown"]
+            }
+        ],
+        "link": "/people/rufus_tanner/"
+    }
+    
+
+    ,
+    "david_maih" : {
+        "name": "David Maih",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2006,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2005-06",
+                "roles": ["unknown"]
+            }
+        ],
+        "link": "/people/david_maih/"
+    }
+    
+
+    ,
+    "eliana_zur-szpiro" : {
+        "name": "Eliana Zur-Szpiro",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2007,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Secretary"]
+            }
+        ],
+        "link": "/people/eliana_zur-szpiro/"
+    }
+    
+
+    ,
+    "johnny_skinner" : {
+        "name": "Johnny Skinner",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2008,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Workshop Manager"]
+            }
+        
+            ,{
+                "title": "2007-08",
+                "roles": ["Workshop Manager"]
+            }
+        ],
+        "link": "/people/johnny_skinner/"
+    }
+    
+
+    ,
+    "dom_donocik" : {
+        "name": "Dom Donocik",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2007,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Workshop Manager"]
+            }
+        ],
+        "link": "/people/dom_donocik/"
+    }
+    
+
+    ,
+    "krystyna_liakh" : {
+        "name": "Krystyna Liakh",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2008,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2007-08",
+                "roles": ["Costume and Props Manager"]
+            }
+        ],
+        "link": "/people/krystyna_liakh/"
+    }
+    
+
+    ,
+    "chilli_wright" : {
+        "name": "Chilli Wright",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2010,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2009-10",
+                "roles": ["Social Secretary"]
+            }
+        ],
+        "link": "/people/chilli_wright/"
+    }
+    
+
+    ,
+    "cecily_chaplen_luanne_moses" : {
+        "name": "Cecily Chaplen Luanne Moses",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Marketing Co-ordinator"]
+            }
+        ],
+        "link": "/people/cecily_chaplen_luanne_moses/"
+    }
+    
+
+    ,
+    "clive_hollick" : {
+        "name": "Clive Hollick",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1966,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "1965-66",
+                "roles": ["President"]
+            }
+        ],
+        "link": "/people/clive_hollick/"
+    }
+    
+
+    ,
+    "patrick_mcneill" : {
+        "name": "Patrick McNeill",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1966,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "1965-66",
+                "roles": ["Secretary"]
+            }
+        ],
+        "link": "/people/patrick_mcneill/"
+    }
+    
+
+    ,
+    "tina_silk" : {
+        "name": "Tina Silk",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1966,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "1965-66",
+                "roles": ["Wardrobe Mistress"]
+            }
+        ],
+        "link": "/people/tina_silk/"
+    }
+    
+
+    ,
+    "john_dane" : {
+        "name": "John Dane",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1966,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "1965-66",
+                "roles": ["Publicity"]
+            }
+        ],
+        "link": "/people/john_dane/"
+    }
+    
+
+    ,
+    "alisa_gibson" : {
+        "name": "Alisa Gibson",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1972,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "1971-72",
+                "roles": ["Secretary"]
+            }
+        ],
+        "link": "/people/alisa_gibson/"
+    }
+    
+
+    ,
+    "timothy_haughton" : {
+        "name": "Timothy Haughton",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1972,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "1971-72",
+                "roles": ["Theatre Manager"]
+            }
+        ],
+        "link": "/people/timothy_haughton/"
+    }
+    
+
+    ,
+    "alec_jessel" : {
+        "name": "Alec Jessel",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1983,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "1982-83",
+                "roles": ["Publicity Officer"]
+            }
+        ],
+        "link": "/people/alec_jessel/"
+    }
+    
+
+    ,
+    "matt" : {
+        "name": "Matt",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1998,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "1997-98",
+                "roles": ["Lighting Manager"]
+            }
+        ],
+        "link": "/people/matt/"
+    }
+    
+
+    ,
+    "john_wordsworth" : {
+        "name": "John Wordsworth",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 1999,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "1998-99",
+                "roles": ["Unknown"]
+            }
+        ],
+        "link": "/people/john_wordsworth/"
     }
     
 
