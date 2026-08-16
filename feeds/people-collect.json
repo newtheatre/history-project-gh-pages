@@ -49133,8 +49133,8 @@
     
 
     ,
-    "l_brown" : {
-        "name": "L Brown",
+    "lee_brown" : {
+        "name": "Lee Brown",
         "type": "person",
         "excerpt": "",
         "bio": "",
@@ -49149,7 +49149,7 @@
             }
         ],
         "committees": [],
-        "link": "/people/l_brown/"
+        "link": "/people/lee_brown/"
     }
     
 
