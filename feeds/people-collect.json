@@ -6622,6 +6622,11 @@
                 "title": "Our Country's Good",
                 "roles": ["Sound"]
             }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Director"]
+            }
         ],
         "committees": [
             {
@@ -38034,6 +38039,11 @@
             ,{
                 "title": "The Crucible",
                 "roles": ["Mary Warren"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Lady Macbeth"]
             }
         
             ,{
@@ -70798,6 +70808,68 @@
     
 
     ,
+    "ben_kidd" : {
+        "name": "Ben Kidd",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2002,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Macbeth"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ben_kidd/"
+    }
+    
+
+    ,
+    "bush_moukarzel" : {
+        "name": "Bush Moukarzel",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2004,
+        "award": [],
+        "shows": [
+            {
+                "title": "Macbeth",
+                "roles": ["Porter"]
+            }
+        
+            ,{
+                "title": "Habeas Corpus",
+                "roles": ["Mr Purdue"]
+            }
+        
+            ,{
+                "title": "'Morning on a Rainy day' and 'Capital'",
+                "roles": ["Jim","Director"]
+            }
+        
+            ,{
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["A"]
+            }
+        
+            ,{
+                "title": "The Radiator",
+                "roles": ["Cal"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/bush_moukarzel/"
+    }
+    
+
+    ,
     "helen_townsend" : {
         "name": "Helen Townsend",
         "type": "person",
@@ -70872,42 +70944,6 @@
         ],
         "committees": [],
         "link": "/people/stephanie_lane/"
-    }
-    
-
-    ,
-    "bush_moukarzel" : {
-        "name": "Bush Moukarzel",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2004,
-        "award": [],
-        "shows": [
-            {
-                "title": "Habeas Corpus",
-                "roles": ["Mr Purdue"]
-            }
-        
-            ,{
-                "title": "'Morning on a Rainy day' and 'Capital'",
-                "roles": ["Jim","Director"]
-            }
-        
-            ,{
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["A"]
-            }
-        
-            ,{
-                "title": "The Radiator",
-                "roles": ["Cal"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/bush_moukarzel/"
     }
     
 
