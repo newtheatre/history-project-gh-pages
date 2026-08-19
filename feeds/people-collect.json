@@ -8650,6 +8650,11 @@
         "award": [],
         "shows": [
             {
+                "title": "Krapp's Last Tape",
+                "roles": ["Sound"]
+            }
+        
+            ,{
                 "title": "Journey's End",
                 "roles": ["Lighting Operator"]
             }
@@ -12468,7 +12473,7 @@
         
             ,{
                 "title": "Edward II",
-                "roles": ["Adaptor","Director","Poster Designer"]
+                "roles": ["Director","Poster Designer"]
             }
         ],
         "committees": [],
@@ -12482,7 +12487,7 @@
         "type": "person",
         "excerpt": "\n",
         "bio": "\n",
-        "poster_thumb_tag": "<a href='/people/ellie_cawthorne/'><img src='https://photos.smugmug.com/photos/i-Bg7MdBT/0/140x140!/i-Bg7MdBT-140x140!.png' class='search-result-poster-thumb' alt='Ellie Cawthorne' /></a>",
+        "poster_thumb_tag": "<a href='/people/ellie_cawthorne/'><img src='https://photos.smugmug.com/photos/i-GNfMFbf/0/140x140!/i-GNfMFbf-140x140!.jpg' class='search-result-poster-thumb' alt='Ellie Cawthorne' /></a>",
         "course": ["History"],
         "graduated": 2014,
         "award": [],
@@ -12563,7 +12568,7 @@
         "type": "person",
         "excerpt": "Alumna of Drama Centre London with an MA in Screen Acting, student of The Groundlings &amp; an Equity UK Ambassador for the Los Angeles Network, Ellie Fox has appeared in numerous theatrical productions, films, television programmes &amp; commercials. Her body of work includes consultations with the Met Film School at...",
         "bio": "Alumna of Drama Centre London with an MA in Screen Acting, student of The Groundlings &amp; an Equity UK Ambassador for the Los Angeles Network, Ellie Fox has appeared in numerous theatrical productions, films, television programmes &amp; commercials.\n\nHer body of work includes consultations with the Met Film School at Ealing Studios with commissions as an improvisation actor &amp; writer to create new content for film. Stage work includes performances around the world in London, Los Angeles, Hawaii &amp; Alaska.\n\nEllie is a Co-founder of Mahalo Films &amp; the Founder of Mahalo Theatre, receiving critical acclaim in London &amp; Los Angeles &amp; a nomination for “Best International Act” at the Hollywood Fringe Festival.\n\nEllie performs in English &amp; Spanish (BA Hons (2:1) Hispanic &amp; Latin American Studies, PGCE Modern Foreign Language &amp; QTS, The University of Nottingham).\n",
-        
+        "poster_thumb_tag": "<a href='/people/ellie_colyer/'><img src='https://photos.smugmug.com/photos/i-dXtRmWf/0/140x140!/i-dXtRmWf-140x140!.jpg' class='search-result-poster-thumb' alt='Ellie Colyer' /></a>",
         "course": ["BA Hons (2:1) Hispanic & Latin American Studies"],
         "graduated": 2000,
         "award": [],
@@ -18689,6 +18694,11 @@
             }
         
             ,{
+                "title": "Krapp's Last Tape",
+                "roles": ["Krapp"]
+            }
+        
+            ,{
                 "title": "Journey's End",
                 "roles": ["Colonel","Director"]
             }
@@ -20419,6 +20429,32 @@
             }
         ],
         "link": "/people/jacob_hayes/"
+    }
+    
+
+    ,
+    "jaime_wynne" : {
+        "name": "Jaime Wynne",
+        "type": "person",
+        "excerpt": "Flinging a copy of the script on stage during 72 in 72 to the white rabbit. He completely missed it and it just lay on the floor and I had to crawl out of the wings to retrieve it (I hadn’t yet been introduced to the audience.) Still love theatre!...",
+        "bio": "Flinging a copy of the script on stage during 72 in 72 to the white rabbit. He completely missed it and it just lay on the floor and I had to crawl out of the wings to retrieve it (I hadn’t yet been introduced to the audience.)\n\nStill love theatre! Worked as a PA for an agent for a bit of time before deciding to get my PGCE.\n",
+        
+        "course": ["Psychology & Philosophy BSc"],
+        "graduated": 2020,
+        "award": [],
+        "shows": [
+            {
+                "title": "Glassy Ceiling, Concrete Flaw",
+                "roles": ["Lia"]
+            }
+        
+            ,{
+                "title": "72 in 72: Alice in Wonderland",
+                "roles": ["Mad Hatter"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jaime_wynne/"
     }
     
 
@@ -24304,8 +24340,18 @@
             }
         
             ,{
+                "title": "Krapp's Last Tape",
+                "roles": ["Stage Manager","Set Designer"]
+            }
+        
+            ,{
+                "title": "The Dumb Waiter",
+                "roles": ["Stage Manager","Set Designer"]
+            }
+        
+            ,{
                 "title": "Journey's End",
-                "roles": ["Stage Manager and Pyrotechnician"]
+                "roles": ["Stage Manager and Pyrotechnician","Set Designer","Construction"]
             }
         ],
         "committees": [],
@@ -24332,6 +24378,11 @@
             ,{
                 "title": "Serjeant Musgrave's Dance",
                 "roles": ["Private Attercliffe"]
+            }
+        
+            ,{
+                "title": "Tango",
+                "roles": ["Arthur"]
             }
         
             ,{
@@ -30708,6 +30759,16 @@
                 "title": "Icarus' Mother",
                 "roles": ["Director"]
             }
+        
+            ,{
+                "title": "Krapp's Last Tape",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Dumb Waiter",
+                "roles": ["Director"]
+            }
         ],
         "committees": [
             {
@@ -34821,6 +34882,11 @@
             }
         
             ,{
+                "title": "The Dumb Waiter",
+                "roles": ["unknown"]
+            }
+        
+            ,{
                 "title": "Journey's End",
                 "roles": [null]
             }
@@ -37012,6 +37078,11 @@
             ,{
                 "title": "Icarus' Mother",
                 "roles": ["Bill"]
+            }
+        
+            ,{
+                "title": "The Dumb Waiter",
+                "roles": ["unknown"]
             }
         ],
         "committees": [],
@@ -42720,6 +42791,11 @@
         "award": [],
         "shows": [
             {
+                "title": "A Streetcar Named Desire",
+                "roles": ["Lighting Technician"]
+            }
+        
+            ,{
                 "title": "4.48 Psychosis",
                 "roles": ["Lighting Technician"]
             }
@@ -47159,7 +47235,7 @@
         
             ,{
                 "title": "Coriolanus",
-                "roles": ["Production Designer"]
+                "roles": ["Director","Production Designer"]
             }
         
             ,{
@@ -72098,37 +72174,6 @@
     
 
     ,
-    "jamie_griffiths" : {
-        "name": "Jamie Griffiths",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2003,
-        "award": [],
-        "shows": [
-            {
-                "title": "Breakfast Not Included",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "The Crucible",
-                "roles": ["Reverend John Hale"]
-            }
-        
-            ,{
-                "title": "Doctor Faustus",
-                "roles": ["Faustus"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/jamie_griffiths/"
-    }
-    
-
-    ,
     "antony_craggs" : {
         "name": "Antony Craggs",
         "type": "person",
@@ -73597,6 +73642,37 @@
     
 
     ,
+    "jamie_griffiths" : {
+        "name": "Jamie Griffiths",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2003,
+        "award": [],
+        "shows": [
+            {
+                "title": "Breakfast Not Included",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "The Crucible",
+                "roles": ["Reverend John Hale"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Faustus"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jamie_griffiths/"
+    }
+    
+
+    ,
     "jessica_danby" : {
         "name": "Jessica Danby",
         "type": "person",
@@ -73733,6 +73809,37 @@
         ],
         "committees": [],
         "link": "/people/jenny_kent/"
+    }
+    
+
+    ,
+    "josh_dean" : {
+        "name": "Josh Dean",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2002,
+        "award": [],
+        "shows": [
+            {
+                "title": "Lucid Dreaming",
+                "roles": ["Playwright"]
+            }
+        
+            ,{
+                "title": "The Crucible",
+                "roles": ["Deputy-Governor Danforth"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2000-01",
+                "roles": ["Productions Coordinator"]
+            }
+        ],
+        "link": "/people/josh_dean/"
     }
     
 
@@ -74066,32 +74173,6 @@
         ],
         "committees": [],
         "link": "/people/anthony_colles/"
-    }
-    
-
-    ,
-    "josh_dean" : {
-        "name": "Josh Dean",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2002,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Crucible",
-                "roles": ["Deputy-Governor Danforth"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2000-01",
-                "roles": ["Productions Coordinator"]
-            }
-        ],
-        "link": "/people/josh_dean/"
     }
     
 
@@ -101831,32 +101912,6 @@
     
 
     ,
-    "jaime_wynne" : {
-        "name": "Jaime Wynne",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2020,
-        "award": [],
-        "shows": [
-            {
-                "title": "Glassy Ceiling, Concrete Flaw",
-                "roles": ["Lia"]
-            }
-        
-            ,{
-                "title": "72 in 72: Alice in Wonderland",
-                "roles": ["Mad Hatter"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/jaime_wynne/"
-    }
-    
-
-    ,
     "alyssa_fay_hills" : {
         "name": "Alyssa Fay Hills",
         "type": "person",
@@ -102395,7 +102450,7 @@
         
             ,{
                 "title": "Autumn Showers",
-                "roles": ["Shadow Producer"]
+                "roles": ["Shadow Producer","Video Editor"]
             }
         
             ,{
@@ -106411,6 +106466,11 @@
         
             ,{
                 "title": "The Lacehouse",
+                "roles": ["Eldest"]
+            }
+        
+            ,{
+                "title": "The Lacehouse",
                 "roles": ["Middle"]
             }
         
@@ -109752,11 +109812,6 @@
             {
                 "title": "Accidental Death of an Activist",
                 "roles": ["Creative Co-Producer"]
-            }
-        
-            ,{
-                "title": "The Lacehouse",
-                "roles": ["Eldest"]
             }
         ],
         "committees": [],

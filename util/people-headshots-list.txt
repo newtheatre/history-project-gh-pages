@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2026-08-19 19:13.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2026-08-19 22:52.*
 
 
 
@@ -38,7 +38,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [David Whalley](https://history.newtheatre.org.uk/people/david_whalley/)
 - [ ] [Dick Wilkins](https://history.newtheatre.org.uk/people/dick_wilkins/)
 - [ ] [Elle O'Rorke](https://history.newtheatre.org.uk/people/elle_ororke/)
-- [ ] [Ellie Colyer](https://history.newtheatre.org.uk/people/ellie_colyer/)
+- [x] [Ellie Colyer](https://history.newtheatre.org.uk/people/ellie_colyer/)
 - [x] [Ellie Eagleton](https://history.newtheatre.org.uk/people/ellie_eagleton/)
 - [x] [Ellie Harding](https://history.newtheatre.org.uk/people/ellie_harding/)
 - [x] [Ellie Roberts](https://history.newtheatre.org.uk/people/ellie_roberts/)
@@ -61,6 +61,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [x] [India Agravat](https://history.newtheatre.org.uk/people/india_agravat/)
 - [x] [Jack Ellis](https://history.newtheatre.org.uk/people/jack_ellis/)
 - [x] [Jack Linley](https://history.newtheatre.org.uk/people/jack_linley/)
+- [ ] [Jaime Wynne](https://history.newtheatre.org.uk/people/jaime_wynne/)
 - [x] [James McAndrew](https://history.newtheatre.org.uk/people/james_mcandrew/)
 - [ ] [James Pheasey](https://history.newtheatre.org.uk/people/james_pheasey/)
 - [ ] [Janice Howman](https://history.newtheatre.org.uk/people/janice_howman/)
