@@ -1,6 +1,6 @@
 Collect headshots from people, collection form doesn't support uploads so we need people to email them in or say yes to one we've found. This issue should never close.
 
-*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2026-08-19 17:54.*
+*This list is automatically generated from http://history.newtheatre.org.uk/util/people-headshots-list.txt, last updated 2026-08-19 18:35.*
 
 
 
@@ -53,6 +53,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Florence Sandford-Richardson](https://history.newtheatre.org.uk/people/florence_sandford-richardson/)
 - [ ] [Gemma Robinson](https://history.newtheatre.org.uk/people/gemma_robinson/)
 - [ ] [George Waring](https://history.newtheatre.org.uk/people/george_waring/)
+- [ ] [Hareem Babar](https://history.newtheatre.org.uk/people/hareem_babar/)
 - [x] [Heather Peace](https://history.newtheatre.org.uk/people/heather_peace/)
 - [x] [Helena Hunt](https://history.newtheatre.org.uk/people/helena_hunt/)
 - [x] [Hugh Purves](https://history.newtheatre.org.uk/people/hugh_purves/)
@@ -68,6 +69,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Jen Burrows](https://history.newtheatre.org.uk/people/jen_burrows/)
 - [x] [Jess Donn](https://history.newtheatre.org.uk/people/jess_donn/)
 - [ ] [Jessica Hutchings](https://history.newtheatre.org.uk/people/jessica_hutchings/)
+- [ ] [Jim Cowell](https://history.newtheatre.org.uk/people/jim_cowell/)
 - [ ] [Jo Harris](https://history.newtheatre.org.uk/people/jo_harris/)
 - [ ] [John Haseler](https://history.newtheatre.org.uk/people/john_haseler/)
 - [x] [John Schwiller](https://history.newtheatre.org.uk/people/john_schwiller/)
@@ -102,6 +104,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Oliver Warlow](https://history.newtheatre.org.uk/people/oliver_warlow/)
 - [ ] [Page Phillips Harrington](https://history.newtheatre.org.uk/people/page_phillips_harrington/)
 - [ ] [Peter Hunter Johnston](https://history.newtheatre.org.uk/people/peter_hunter_johnston/)
+- [x] [Peter Roper](https://history.newtheatre.org.uk/people/peter_roper/)
 - [ ] [Philip Bluer](https://history.newtheatre.org.uk/people/philip_bluer/)
 - [x] [Philip Geller](https://history.newtheatre.org.uk/people/philip_geller/)
 - [ ] [Rachel Bill](https://history.newtheatre.org.uk/people/rachel_bill/)
@@ -131,6 +134,7 @@ Collect headshots from people, collection form doesn't support uploads so we nee
 - [ ] [Terrence Payne](https://history.newtheatre.org.uk/people/terrence_payne/)
 - [ ] [Terri Norris](https://history.newtheatre.org.uk/people/terri_norris/)
 - [ ] [Tim Sluckin](https://history.newtheatre.org.uk/people/tim_sluckin/)
+- [ ] [Tom Kirkham](https://history.newtheatre.org.uk/people/tom_kirkham/)
 - [x] [Tornike Koplatadze](https://history.newtheatre.org.uk/people/tornike_koplatadze/)
 - [ ] [Vanessa Greatorex](https://history.newtheatre.org.uk/people/vanessa_greatorex/)
 - [x] [Will Berrington](https://history.newtheatre.org.uk/people/will_berrington/)

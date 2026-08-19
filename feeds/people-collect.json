@@ -128,7 +128,7 @@
         "poster_thumb_tag": "<a href='/people/abigail_kitwood/'><img src='https://photos.smugmug.com/photos/i-n9kjzPp/0/140x140!/i-n9kjzPp-140x140!.jpg' class='search-result-poster-thumb' alt='Abigail Kitwood' /></a>",
         "course": "English and History BA",
         "graduated": 2024,
-        "award": [],
+        "award": "Fellowship",
         "shows": [
             {
                 "title": "The Importance of Being Earnest",
@@ -193,6 +193,16 @@
             ,{
                 "title": "Carrie",
                 "roles": ["Technical Operator"]
+            }
+        
+            ,{
+                "title": "Senseless and Insensibility",
+                "roles": ["Playwright","Writer","Lighting Designer"]
+            }
+        
+            ,{
+                "title": "72 in 72: Robin Hood",
+                "roles": ["Stage Manager"]
             }
         
             ,{
@@ -681,6 +691,11 @@
                 "title": "Peter Pan",
                 "roles": ["Starkey / Twin 2"]
             }
+        
+            ,{
+                "title": "Captain and Boatswain",
+                "roles": [null]
+            }
         ],
         "committees": [
             {
@@ -1058,6 +1073,16 @@
             ,{
                 "title": "The Man in the Door",
                 "roles": ["Inner Self"]
+            }
+        
+            ,{
+                "title": "What Goes On Without Me",
+                "roles": ["Playwright"]
+            }
+        
+            ,{
+                "title": "What Goes On Without Me",
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -4528,6 +4553,11 @@
                 "title": "Initiation",
                 "roles": ["Dramaturg"]
             }
+        
+            ,{
+                "title": "Serious Nonsense for Terribly Grown-Up People",
+                "roles": ["Playwright"]
+            }
         ],
         "committees": [],
         "link": "/people/ben_macpherson/"
@@ -6111,6 +6141,11 @@
                 "title": "Witness for the Prosecution",
                 "roles": ["Poster Designer"]
             }
+        
+            ,{
+                "title": "O",
+                "roles": ["Playwright"]
+            }
         ],
         "committees": [
             {
@@ -6377,6 +6412,11 @@
             ,{
                 "title": "Risky Texts We Sent As Teens",
                 "roles": [null,"Director"]
+            }
+        
+            ,{
+                "title": "Callum Walker’s Tragical Piss Story Bore",
+                "roles": [null,"Playwright"]
             }
         
             ,{
@@ -10921,6 +10961,11 @@
                 "title": "The Man in the Door",
                 "roles": ["Inner Self"]
             }
+        
+            ,{
+                "title": "Gosforth's Fête",
+                "roles": ["Gosforth"]
+            }
         ],
         "committees": [
             {
@@ -12445,6 +12490,16 @@
             }
         
             ,{
+                "title": "Gosforth's Fête",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "What Goes On Without Me",
+                "roles": ["Technician"]
+            }
+        
+            ,{
                 "title": "The Canary's Last Call",
                 "roles": ["Lighting Designer"]
             }
@@ -12472,7 +12527,7 @@
         
             ,{
                 "title": "2023-24",
-                "roles": ["President"]
+                "roles": ["President","Technical Manager"]
             }
         ],
         "link": "/people/ellie_sugden/"
@@ -13070,7 +13125,7 @@
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/emily_stribbling/'><img src='https://photos.smugmug.com/photos/i-xGBNZBD/0/140x140!/i-xGBNZBD-140x140!.jpg' class='search-result-poster-thumb' alt='Emily Stribbling' /></a>",
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -13127,6 +13182,11 @@
             {
                 "title": "2022-23",
                 "roles": ["Social and Fundraising Coordinator"]
+            }
+        
+            ,{
+                "title": "2023-24",
+                "roles": ["Secretary and Welfare"]
             }
         ],
         "link": "/people/emily_stribbling/"
@@ -17034,6 +17094,47 @@
     
 
     ,
+    "hareem_babar" : {
+        "name": "Hareem Babar",
+        "type": "person",
+        "excerpt": "Acting and performing at the theatre is a special and unique memory of mine. I cherish it as some of the best times at university where I learnt, had fun and made some great friends. I feel as though it made me think about what truly matters to me as...",
+        "bio": "Acting and performing at the theatre is a special and unique memory of mine. I cherish it as some of the best times at university where I learnt, had fun and made some great friends. I feel as though it made me think about what truly matters to me as an actor, which is entertainment. The theatre is just amazing, and playing the different roles I did has made me realise what kind of roles I suit and how else I want to push myself forward.\n\nI think acting is exciting, and there are more ventures in entertainment I have also given a shot at.\n",
+        
+        "course": ["History and Philosophy BA"],
+        "graduated": 2026,
+        "award": [],
+        "shows": [
+            {
+                "title": "72 in 72: Robin Hood",
+                "roles": ["Maid Marian"]
+            }
+        
+            ,{
+                "title": "Once Upon A Crime",
+                "roles": ["Publicity Assistant"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Percussionist"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "POSH",
+                "roles": ["Charlie"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/hareem_babar/"
+    }
+    
+
+    ,
     "harriet_davis" : {
         "name": "Harriet Davis",
         "type": "person",
@@ -17133,7 +17234,7 @@
         "bio": "\n",
         "poster_thumb_tag": "<a href='/people/harry_berry/'><img src='https://photos.smugmug.com/photos/i-fd3h9Wz/0/140x140!/i-fd3h9Wz-140x140!.jpg' class='search-result-poster-thumb' alt='Harry Berry' /></a>",
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -17175,11 +17276,21 @@
                 "title": "Peter Pan",
                 "roles": ["Director"]
             }
+        
+            ,{
+                "title": "Gosforth's Fête",
+                "roles": ["Milly","Producer"]
+            }
         ],
         "committees": [
             {
                 "title": "2022-23",
                 "roles": ["Costume, Props and Make-Up Manager"]
+            }
+        
+            ,{
+                "title": "2023-24",
+                "roles": ["President"]
             }
         ],
         "link": "/people/harry_berry/"
@@ -18544,6 +18655,11 @@
             ,{
                 "title": "Peter Pan",
                 "roles": ["Peter Pan"]
+            }
+        
+            ,{
+                "title": "Goodbye Christopher Robinson",
+                "roles": ["Esme Dering"]
             }
         ],
         "committees": [
@@ -21487,6 +21603,11 @@
                 "title": "Peter Pan",
                 "roles": ["Costume Designer"]
             }
+        
+            ,{
+                "title": "Gosforth's Fête",
+                "roles": ["Assistant Director"]
+            }
         ],
         "committees": [
             {
@@ -22198,6 +22319,42 @@
         ],
         "committees": [],
         "link": "/people/jessica_staplehurst/"
+    }
+    
+
+    ,
+    "jim_cowell" : {
+        "name": "Jim Cowell",
+        "type": "person",
+        "excerpt": "Involved with lighting and sound in the New Theatre. With Adam Bent, developed GASP — Gas and Smoke Producer — for generating stage smoke effects.\n\nProfessional research metallurgist for 15 years, followed by work as project manager and in communications until retirement in 2015.\n",
+        "bio": "Involved with lighting and sound in the New Theatre. With Adam Bent, developed GASP — Gas and Smoke Producer — for generating stage smoke effects.\n\nProfessional research metallurgist for 15 years, followed by work as project manager and in communications until retirement in 2015.\n",
+        
+        "course": ["Metallurgy and Materials Science"],
+        "graduated": 1975,
+        "award": [],
+        "shows": [
+            {
+                "title": "Vatzlav",
+                "roles": ["Lighting"]
+            }
+        
+            ,{
+                "title": "Kettledrumming",
+                "roles": ["Lighting"]
+            }
+        
+            ,{
+                "title": "Inherit the Wind",
+                "roles": ["Lighting Designer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "1973-74",
+                "roles": ["Technical Committee Rep"]
+            }
+        ],
+        "link": "/people/jim_cowell/"
     }
     
 
@@ -25011,6 +25168,11 @@
                 "title": "Romeo & Juliet",
                 "roles": ["Publicity Assistant"]
             }
+        
+            ,{
+                "title": "What Goes On Without Me",
+                "roles": ["Jude"]
+            }
         ],
         "committees": [
             {
@@ -25118,6 +25280,11 @@
             ,{
                 "title": "There's A Place Some Folk Call Hope",
                 "roles": ["Lela"]
+            }
+        
+            ,{
+                "title": "Gosforth's Fête",
+                "roles": ["Mrs Pearce"]
             }
         ],
         "committees": [],
@@ -25745,8 +25912,8 @@
     
 
     ,
-    "laura_dennison" : {
-        "name": "Laura Dennison",
+    "laura_denison" : {
+        "name": "Laura Denison",
         "type": "person",
         "excerpt": "\n",
         "bio": "\n",
@@ -25756,6 +25923,26 @@
         "award": [],
         "shows": [
             {
+                "title": "An Evening With _____",
+                "roles": ["Shadow Producer"]
+            }
+        
+            ,{
+                "title": "Punk Rock",
+                "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "The Lacehouse",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "The Defamation",
+                "roles": ["Producer"]
+            }
+        
+            ,{
                 "title": "Aristotle and Socrates Odyssey",
                 "roles": ["Director","Producer","Playwright"]
             }
@@ -25764,6 +25951,31 @@
                 "title": "Aristotle and Socrates Odyssey",
                 "roles": ["Director","Producer","Playwright"]
             }
+        
+            ,{
+                "title": "What Goes On Without Me",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "About My Depression",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Herself"]
+            }
+        
+            ,{
+                "title": "Doctor Faustus",
+                "roles": ["Voice"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Producer"]
+            }
         ],
         "committees": [
             {
@@ -25771,7 +25983,7 @@
                 "roles": ["Secretary and Welfare"]
             }
         ],
-        "link": "/people/laura_dennison/"
+        "link": "/people/laura_denison/"
     }
     
 
@@ -27136,6 +27348,11 @@
             }
         
             ,{
+                "title": "Immanuel Kant was a Real Pissant",
+                "roles": ["Producer"]
+            }
+        
+            ,{
                 "title": "The Tales of Alice",
                 "roles": ["Producer","Publicity Assistant"]
             }
@@ -27153,7 +27370,7 @@
         "committees": [
             {
                 "title": "2023-24",
-                "roles": ["Theatre Manager"]
+                "roles": ["Company Stage Manager","Theatre Manager"]
             }
         
             ,{
@@ -30795,6 +31012,11 @@
         "award": [],
         "shows": [
             {
+                "title": "King Lear",
+                "roles": ["Co-Director"]
+            }
+        
+            ,{
                 "title": "NNTV",
                 "roles": ["Costume Designer"]
             }
@@ -31104,6 +31326,32 @@
         ],
         "committees": [],
         "link": "/people/michaela_green/"
+    }
+    
+
+    ,
+    "michele_mohajer" : {
+        "name": "Michele Mohajer",
+        "type": "person",
+        "excerpt": "\n",
+        "bio": "\n",
+        
+        "course": null,
+        "graduated": 1983,
+        "award": [],
+        "shows": [
+            {
+                "title": "Around the Bend in 60 Minutes",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Froots. One Woman's Search for Her Oranges",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/michele_mohajer/"
     }
     
 
@@ -34479,13 +34727,28 @@
             }
         
             ,{
+                "title": "Goodbye Christopher Robinson",
+                "roles": ["Show Technician"]
+            }
+        
+            ,{
+                "title": "Goodbye Christopher Robinson",
+                "roles": ["Lighting and Sound Designer"]
+            }
+        
+            ,{
                 "title": "King Lear",
-                "roles": ["Co-Director"]
+                "roles": ["Co-Director","Co-Producer","Co-Lighting Designer","Sound Assistant","Co-Poster Designer"]
             }
         
             ,{
                 "title": "In A Flat On Twottle Row",
-                "roles": ["Multi-Role"]
+                "roles": ["Dr Sarah Tonin","Stage Manager (actor)","Officiant"]
+            }
+        
+            ,{
+                "title": "Immanuel Kant was a Real Pissant",
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -35428,6 +35691,27 @@
     
 
     ,
+    "peter_roper" : {
+        "name": "Peter Roper",
+        "type": "person",
+        "excerpt": "Accidentally cutting a 240V cable whilst installing the emergency lighting (12v) system! Working alone in the theatre during vacation time. But there are so many fond memories, so many talented people from all backgrounds. It was also an amazing opportunity to get involved with senior University staff and lecturers on...",
+        "bio": "Accidentally cutting a 240V cable whilst installing the emergency lighting (12v) system! Working alone in the theatre during vacation time. But there are so many fond memories, so many talented people from all backgrounds. It was also an amazing opportunity to get involved with senior University staff and lecturers on the theatre project, making decisions on how the budget was to be spent… and I was only in my early twenties.\n\nAfter graduating in 1971 I was fortunate to gain a management position with Express Dairy, and had many management and project roles with them over 17 years. I left to start my own software company, which supplied Quality Systems to the dairy, brewing and food sectors, and I only sold the Company three years ago when I retired-I’m now 79. One of my significant ‘hobbies’ is running the website www.expressdairytales.uk for those interested in the history of the Company and the dairy sector generally-I travel all over the UK visiting dairy and creamery sites and collecting information and stories for publication.\n\nInvolved with the theatre from 1967 to 1970, joining Tech Committee as a fresher and going on to manage the theatre. Did stage lighting, lighting and sound for hall parties, and lighting for the Opera (Das Liebesverbot by Richard Wagner, staged in the Great Hall of the Trent Building). Theatre Manager 1969-70, having previously been Lighting Manager on Tech Committee; initiated the renovation project that first turned the Old Engineering Workshop into a proper theatre with a new entrance, tiered seating, lighting box, stage and backstage facilities.\n",
+        "poster_thumb_tag": "<a href='/people/peter_roper/'><img src='https://photos.smugmug.com/photos/i-kbTtjBg/0/140x140!/i-kbTtjBg-140x140!.jpg' class='search-result-poster-thumb' alt='Peter Roper' /></a>",
+        "course": ["Agriculture"],
+        "graduated": 1971,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "1969-70",
+                "roles": ["Theatre Manager"]
+            }
+        ],
+        "link": "/people/peter_roper/"
+    }
+    
+
+    ,
     "peter_salisbury" : {
         "name": "Peter Salisbury",
         "type": "person",
@@ -36307,6 +36591,16 @@
             ,{
                 "title": "Romantic Fools",
                 "roles": ["Sound Operator"]
+            }
+        
+            ,{
+                "title": "Captain and Boatswain",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Goodbye Christopher Robinson",
+                "roles": ["Creative Assistant"]
             }
         
             ,{
@@ -39253,6 +39547,11 @@
                 "title": "Romantic Fools",
                 "roles": ["Technical Assistant"]
             }
+        
+            ,{
+                "title": "Gosforth's Fête",
+                "roles": ["Sound Designer"]
+            }
         ],
         "committees": [
             {
@@ -40324,6 +40623,11 @@
                 "title": "Witness for the Prosecution",
                 "roles": ["Greta / Miss Clegg"]
             }
+        
+            ,{
+                "title": "Gosforth's Fête",
+                "roles": ["Publicity"]
+            }
         ],
         "committees": [
             {
@@ -40703,7 +41007,7 @@
         "committees": [
             {
                 "title": "1998-99",
-                "roles": ["Secretary / Treasurer"]
+                "roles": ["Secretary"]
             }
         ],
         "link": "/people/stuart_scott/"
@@ -42024,6 +42328,11 @@
                 "title": "The Man in the Door",
                 "roles": ["Inner Self"]
             }
+        
+            ,{
+                "title": "Gosforth's Fête",
+                "roles": ["Director"]
+            }
         ],
         "committees": [
             {
@@ -42132,16 +42441,36 @@
     "tom_kirkham" : {
         "name": "Tom Kirkham",
         "type": "person",
-        "excerpt": "\n",
-        "bio": "\n",
+        "excerpt": "SOOOOOOOO many fond memories. In fact, only fond memories.\n\nFYI, the new Foyer was built during my time at the university, c. 1998/1999 if memory serves.\n\nCo-Founder of The School Musicals Company — theschoolmusicalscompany.com\n",
+        "bio": "SOOOOOOOO many fond memories. In fact, only fond memories.\n\nFYI, the new Foyer was built during my time at the university, c. 1998/1999 if memory serves.\n\nCo-Founder of The School Musicals Company — theschoolmusicalscompany.com\n",
         
-        "course": null,
+        "course": "English and Classics",
         "graduated": 2000,
         "award": [],
         "shows": [
             {
+                "title": "Frogs",
+                "roles": ["unknown"]
+            }
+        
+            ,{
+                "title": "Hitchcock's Bollocks",
+                "roles": ["unknown"]
+            }
+        
+            ,{
+                "title": "Twelve Angry Wo/Men",
+                "roles": ["unknown"]
+            }
+        
+            ,{
                 "title": "Little Shop of Horrors",
                 "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "The Last Supper",
+                "roles": ["Producer"]
             }
         
             ,{
@@ -42154,7 +42483,17 @@
                 "roles": ["Director"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1998-99",
+                "roles": ["Treasurer"]
+            }
+        
+            ,{
+                "title": "1999-00",
+                "roles": ["President"]
+            }
+        ],
         "link": "/people/tom_kirkham/"
     }
     
@@ -43551,6 +43890,11 @@
             }
         
             ,{
+                "title": "Gosforth's Fête",
+                "roles": ["Vicar"]
+            }
+        
+            ,{
                 "title": "The Canary's Last Call",
                 "roles": ["Wyll"]
             }
@@ -43583,6 +43927,11 @@
         "committees": [
             {
                 "title": "2022-23",
+                "roles": ["Theatre Manager"]
+            }
+        
+            ,{
+                "title": "2023-24",
                 "roles": ["Theatre Manager"]
             }
         ],
@@ -53202,42 +53551,6 @@
     
 
     ,
-    "jim_cowell" : {
-        "name": "Jim Cowell",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1975,
-        "award": [],
-        "shows": [
-            {
-                "title": "Vatzlav",
-                "roles": ["Lighting"]
-            }
-        
-            ,{
-                "title": "Kettledrumming",
-                "roles": ["Lighting"]
-            }
-        
-            ,{
-                "title": "Inherit the Wind",
-                "roles": ["Lighting Designer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "1973-74",
-                "roles": ["Technical Committee Rep"]
-            }
-        ],
-        "link": "/people/jim_cowell/"
-    }
-    
-
-    ,
     "nick_bradury" : {
         "name": "Nick Bradury",
         "type": "person",
@@ -60439,6 +60752,11 @@
             }
         
             ,{
+                "title": "Around the Bend in 60 Minutes",
+                "roles": [null]
+            }
+        
+            ,{
                 "title": "The Wit to Woo",
                 "roles": ["Director"]
             }
@@ -61993,23 +62311,23 @@
     
 
     ,
-    "michelle_mohajer" : {
-        "name": "Michelle Mohajer",
+    "malcolm_windsor" : {
+        "name": "Malcolm Windsor",
         "type": "person",
         "excerpt": "",
         "bio": "",
         
         "course": null,
-        "graduated": 1979,
+        "graduated": 1982,
         "award": [],
         "shows": [
             {
-                "title": "Froots. One Woman's Search for Her Oranges",
-                "roles": [null]
+                "title": "French Without Tears",
+                "roles": ["Director"]
             }
         ],
         "committees": [],
-        "link": "/people/michelle_mohajer/"
+        "link": "/people/malcolm_windsor/"
     }
     
 
@@ -99268,6 +99586,16 @@
                 "title": "The Man in the Door",
                 "roles": ["Inner Self / Mother"]
             }
+        
+            ,{
+                "title": "Goodbye Christopher Robinson",
+                "roles": ["Playwright"]
+            }
+        
+            ,{
+                "title": "Goodbye Christopher Robinson",
+                "roles": ["Playwright","Director"]
+            }
         ],
         "committees": [],
         "link": "/people/hettie_rockell/"
@@ -103492,6 +103820,11 @@
                 "title": "The Man in the Door",
                 "roles": ["Inner Self"]
             }
+        
+            ,{
+                "title": "Goodbye Christopher Robinson",
+                "roles": ["Assistant Director","Producer"]
+            }
         ],
         "committees": [],
         "link": "/people/sienna_mullen/"
@@ -103813,6 +104146,11 @@
                 "title": "The Reunion",
                 "roles": ["Leon","Poster Designer"]
             }
+        
+            ,{
+                "title": "Captain and Boatswain",
+                "roles": [null,"Playwright"]
+            }
         ],
         "committees": [],
         "link": "/people/bryn_martin/"
@@ -104054,7 +104392,7 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
@@ -104069,12 +104407,27 @@
         
             ,{
                 "title": "Wild West Side Story",
-                "roles": ["Deputy Stage Manager"]
+                "roles": ["Playwright","Deputy Stage Manager"]
             }
         
             ,{
                 "title": "The Deep Blue Sea",
                 "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Co-Director"]
+            }
+        
+            ,{
+                "title": "NNTV",
+                "roles": ["Deputy Stage Manager"]
+            }
+        
+            ,{
+                "title": "It's Only A Metal Of Time",
+                "roles": ["Assistant Stage Manager"]
             }
         ],
         "committees": [],
@@ -104704,6 +105057,32 @@
     
 
     ,
+    "shaina_abdellaoui" : {
+        "name": "Shaina Abdellaoui",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2022,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Bacchae",
+                "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "Accidental Death of an Activist",
+                "roles": ["Publicity Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/shaina_abdellaoui/"
+    }
+    
+
+    ,
     "annie_westbury" : {
         "name": "Annie Westbury",
         "type": "person",
@@ -105107,6 +105486,11 @@
             }
         
             ,{
+                "title": "What Goes On Without Me",
+                "roles": ["God"]
+            }
+        
+            ,{
                 "title": "The Servant Of Two Masters",
                 "roles": ["Truffaldino"]
             }
@@ -105169,62 +105553,6 @@
     
 
     ,
-    "laura_denison" : {
-        "name": "Laura Denison",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "An Evening With _____",
-                "roles": ["Shadow Producer"]
-            }
-        
-            ,{
-                "title": "Punk Rock",
-                "roles": ["Assistant Producer"]
-            }
-        
-            ,{
-                "title": "The Lacehouse",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "The Defamation",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "About My Depression",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "NNTV",
-                "roles": ["Herself"]
-            }
-        
-            ,{
-                "title": "Doctor Faustus",
-                "roles": ["Voice"]
-            }
-        
-            ,{
-                "title": "A Streetcar Named Desire",
-                "roles": ["Producer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/laura_denison/"
-    }
-    
-
-    ,
     "karen_turnball" : {
         "name": "Karen Turnball",
         "type": "person",
@@ -105283,7 +105611,7 @@
         
             ,{
                 "title": "Ness",
-                "roles": ["Adapter and Designer"]
+                "roles": ["Designer"]
             }
         ],
         "committees": [],
@@ -105392,7 +105720,7 @@
         
             ,{
                 "title": "In A Flat On Twottle Row",
-                "roles": ["Director"]
+                "roles": ["Co-Director"]
             }
         
             ,{
@@ -106454,27 +106782,6 @@
     
 
     ,
-    "shaina_abdellaoui" : {
-        "name": "Shaina Abdellaoui",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2022,
-        "award": [],
-        "shows": [
-            {
-                "title": "Accidental Death of an Activist",
-                "roles": ["Publicity Manager"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/shaina_abdellaoui/"
-    }
-    
-
-    ,
     "callum_fisher" : {
         "name": "Callum Fisher",
         "type": "person",
@@ -107063,6 +107370,16 @@
                 "title": "Romantic Fools",
                 "roles": ["Sound Operator"]
             }
+        
+            ,{
+                "title": "What Goes On Without Me",
+                "roles": ["Publicity"]
+            }
+        
+            ,{
+                "title": "Goodbye Christopher Robinson",
+                "roles": ["Publicity Manager"]
+            }
         ],
         "committees": [],
         "link": "/people/luc_tucker/"
@@ -107301,6 +107618,11 @@
             ,{
                 "title": "Peter Pan",
                 "roles": ["Assistant Producer"]
+            }
+        
+            ,{
+                "title": "Gosforth's Fête",
+                "roles": ["Stage Manager"]
             }
         ],
         "committees": [],
@@ -108320,7 +108642,12 @@
                 "roles": ["Actor"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2023-24",
+                "roles": ["Marketing Co-ordinator"]
+            }
+        ],
         "link": "/people/cecily_chaplen/"
     }
     
@@ -108400,7 +108727,7 @@
         
             ,{
                 "title": "King Lear",
-                "roles": ["Edgar"]
+                "roles": ["Edgar","Co-Producer"]
             }
         
             ,{
@@ -108482,37 +108809,6 @@
         ],
         "committees": [],
         "link": "/people/daria_demetra-rusa/"
-    }
-    
-
-    ,
-    "molly_higgit" : {
-        "name": "Molly Higgit",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2024,
-        "award": [],
-        "shows": [
-            {
-                "title": "Wild West Side Story",
-                "roles": ["Playwright"]
-            }
-        
-            ,{
-                "title": "NNTV",
-                "roles": ["Deputy Stage Manager"]
-            }
-        
-            ,{
-                "title": "It's Only A Metal Of Time",
-                "roles": ["Assistant Stage Manager"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/molly_higgit/"
     }
     
 
@@ -108914,6 +109210,11 @@
             }
         
             ,{
+                "title": "In A Flat On Twottle Row",
+                "roles": ["Co-Director"]
+            }
+        
+            ,{
                 "title": "A Streetcar Named Desire",
                 "roles": ["Publicity Manager"]
             }
@@ -108921,7 +109222,7 @@
         "committees": [
             {
                 "title": "2023-24",
-                "roles": ["Marketing Co-ordinator"]
+                "roles": ["Marketing Co-ordinator","Company Technical Director"]
             }
         ],
         "link": "/people/zoe_hopper/"
@@ -109144,6 +109445,11 @@
             ,{
                 "title": "The Man in the Door",
                 "roles": ["Inner Self"]
+            }
+        
+            ,{
+                "title": "Goodbye Christopher Robinson",
+                "roles": ["Christopher Robinson / Edward Graves"]
             }
         ],
         "committees": [],
@@ -109509,12 +109815,17 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2023,
+        "graduated": 2024,
         "award": [],
         "shows": [
             {
                 "title": "Romeo & Juliet",
                 "roles": ["Servingman"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Co-Director"]
             }
         ],
         "committees": [],
@@ -109561,12 +109872,32 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2024,
+        "graduated": null,
         "award": [],
         "shows": [
             {
                 "title": "The Man in the Door",
                 "roles": ["Playwright"]
+            }
+        
+            ,{
+                "title": "Gosforth's Fête",
+                "roles": ["Stewart"]
+            }
+        
+            ,{
+                "title": "Goodbye Christopher Robinson",
+                "roles": ["James Shepard"]
+            }
+        
+            ,{
+                "title": "Once Upon A Crime",
+                "roles": ["The Detective"]
+            }
+        
+            ,{
+                "title": "A Streetcar Named Desire",
+                "roles": ["Young collector","Doctor"]
             }
         ],
         "committees": [
@@ -109597,6 +109928,53 @@
         ],
         "committees": [],
         "link": "/people/adian_angol-henry/"
+    }
+    
+
+    ,
+    "alfie_preece" : {
+        "name": "Alfie Preece",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2023,
+        "award": [],
+        "shows": [
+            {
+                "title": "BigNature",
+                "roles": ["Playwright"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/alfie_preece/"
+    }
+    
+
+    ,
+    "matthew_diamond" : {
+        "name": "Matthew Diamond",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2024,
+        "award": [],
+        "shows": [
+            {
+                "title": "Goodbye Christopher Robinson",
+                "roles": ["Arthur Robinson"]
+            }
+        
+            ,{
+                "title": "Ness",
+                "roles": ["Actor Five"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/matthew_diamond/"
     }
     
 
@@ -109685,32 +110063,6 @@
         ],
         "committees": [],
         "link": "/people/nura_bentata/"
-    }
-    
-
-    ,
-    "ollie_enis" : {
-        "name": "Ollie Enis",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Once Upon A Crime",
-                "roles": ["The Detective"]
-            }
-        
-            ,{
-                "title": "A Streetcar Named Desire",
-                "roles": ["Young collector","Doctor"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/ollie_enis/"
     }
     
 
@@ -109898,42 +110250,6 @@
         ],
         "committees": [],
         "link": "/people/olivia_mills/"
-    }
-    
-
-    ,
-    "hareem_babar" : {
-        "name": "Hareem Babar",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "Once Upon A Crime",
-                "roles": ["Publicity Assistant"]
-            }
-        
-            ,{
-                "title": "Ness",
-                "roles": ["Percussionist"]
-            }
-        
-            ,{
-                "title": "NNTV",
-                "roles": ["Actor"]
-            }
-        
-            ,{
-                "title": "POSH",
-                "roles": ["Charlie"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/hareem_babar/"
     }
     
 
@@ -110785,27 +111101,6 @@
         ],
         "committees": [],
         "link": "/people/esther_dewhurst/"
-    }
-    
-
-    ,
-    "matthew_diamond" : {
-        "name": "Matthew Diamond",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2024,
-        "award": [],
-        "shows": [
-            {
-                "title": "Ness",
-                "roles": ["Actor Five"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/matthew_diamond/"
     }
     
 
@@ -113617,27 +113912,6 @@
             }
         ],
         "link": "/people/chilli_wright/"
-    }
-    
-
-    ,
-    "cecily_chaplen_luanne_moses" : {
-        "name": "Cecily Chaplen Luanne Moses",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2024,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "2023-24",
-                "roles": ["Marketing Co-ordinator"]
-            }
-        ],
-        "link": "/people/cecily_chaplen_luanne_moses/"
     }
     
 
