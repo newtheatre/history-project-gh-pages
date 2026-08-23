@@ -3140,7 +3140,17 @@
         "course": "BA Law",
         "graduated": 1964,
         "award": [],
-        "shows": [],
+        "shows": [
+            {
+                "title": "St Joan",
+                "roles": ["Duchess de la Tremouille"]
+            }
+        
+            ,{
+                "title": "Dark of the Moon",
+                "roles": ["Fair Witch"]
+            }
+        ],
         "committees": [],
         "link": "/people/anna_mcneill/"
     }
@@ -22405,6 +22415,27 @@
     
 
     ,
+    "jenny_lapage" : {
+        "name": "Jenny Lapage",
+        "type": "person",
+        "excerpt": "Designed most of the programmes and posters for Dramsoc shows from 1963 to 1966. Married fellow alumnus Patrick McNeill in 1967. Passed in March 2021.\n",
+        "bio": "Designed most of the programmes and posters for Dramsoc shows from 1963 to 1966. Married fellow alumnus Patrick McNeill in 1967. Passed in March 2021.\n",
+        
+        "course": null,
+        "graduated": 1966,
+        "award": [],
+        "shows": [
+            {
+                "title": "One Way Pendulum",
+                "roles": ["Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jenny_lapage/"
+    }
+    
+
+    ,
     "jenny_mann" : {
         "name": "Jenny Mann",
         "type": "person",
@@ -36578,6 +36609,27 @@
     
 
     ,
+    "patrick_mcneill" : {
+        "name": "Patrick McNeill",
+        "type": "person",
+        "excerpt": "Married fellow alumnus Jenny Lapage in 1967.\n",
+        "bio": "Married fellow alumnus Jenny Lapage in 1967.\n",
+        
+        "course": null,
+        "graduated": 1966,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "1965-66",
+                "roles": ["Secretary"]
+            }
+        ],
+        "link": "/people/patrick_mcneill/"
+    }
+    
+
+    ,
     "paul_colebourne" : {
         "name": "Paul Colebourne",
         "type": "person",
@@ -50225,32 +50277,6 @@
     
 
     ,
-    "anna_mcneil" : {
-        "name": "Anna McNeil",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1963,
-        "award": [],
-        "shows": [
-            {
-                "title": "St Joan",
-                "roles": ["Duchess de la Tremouille"]
-            }
-        
-            ,{
-                "title": "Dark of the Moon",
-                "roles": ["Fair Witch"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/anna_mcneil/"
-    }
-    
-
-    ,
     "peter_widdowson" : {
         "name": "Peter Widdowson",
         "type": "person",
@@ -51600,27 +51626,6 @@
             }
         ],
         "link": "/people/roger_lancaster/"
-    }
-    
-
-    ,
-    "jenny_lapage" : {
-        "name": "Jenny Lapage",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1966,
-        "award": [],
-        "shows": [
-            {
-                "title": "One Way Pendulum",
-                "roles": ["Designer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/jenny_lapage/"
     }
     
 
@@ -118115,27 +118120,6 @@
             }
         ],
         "link": "/people/chilli_wright/"
-    }
-    
-
-    ,
-    "patrick_mcneill" : {
-        "name": "Patrick McNeill",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1966,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "1965-66",
-                "roles": ["Secretary"]
-            }
-        ],
-        "link": "/people/patrick_mcneill/"
     }
     
 
