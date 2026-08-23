@@ -4464,6 +4464,11 @@
         
             ,{
                 "title": "The Last Rites",
+                "roles": ["Playwright"]
+            }
+        
+            ,{
+                "title": "The Last Rites",
                 "roles": ["Isaac","Playwright","Co-Director"]
             }
         
@@ -14393,8 +14398,8 @@
     "emma_mcdonald" : {
         "name": "Emma McDonald",
         "type": "person",
-        "excerpt": "\n",
-        "bio": "\n",
+        "excerpt": "Emma studied maths and psychology at Nottingham, performing in New Theatre productions including Antigone, Lysistrata and Jerusalem. After graduating she made her professional stage debut in 2015 as Georgiana Darcy in Pride and Prejudice at the Crucible Theatre, Sheffield. She joined the Watermill Theatre ensemble, appearing in productions and tours...",
+        "bio": "Emma studied maths and psychology at Nottingham, performing in New Theatre productions including Antigone, Lysistrata and Jerusalem. After graduating she made her professional stage debut in 2015 as Georgiana Darcy in Pride and Prejudice at the Crucible Theatre, Sheffield.\n\nShe joined the Watermill Theatre ensemble, appearing in productions and tours of Romeo and Juliet, Twelfth Night and The Picture of Dorian Gray (2017), A Midsummer Night’s Dream (2019) and Macbeth (2020), in which she played Lady Macbeth.\n\nOn screen, she took her first television lead as Bella Sway in the AMC+ science fiction series Moonhaven (2022), and played Rahima in the second season of Starz’s The Serpent Queen (2024). Film roles include Layla (2024), 7 Keys (2024) and Low Rider (2025).\n",
         "poster_thumb_tag": "<a href='/people/emma_mcdonald/'><img src='https://photos.smugmug.com/photos/i-GHZjghV/0/140x140!/i-GHZjghV-140x140!.jpg' class='search-result-poster-thumb' alt='Emma McDonald' /></a>",
         "course": null,
         "graduated": 2014,
@@ -89514,6 +89519,11 @@
             ,{
                 "title": "What's Cooking?",
                 "roles": ["Bill"]
+            }
+        
+            ,{
+                "title": "Telos",
+                "roles": ["Playwright"]
             }
         ],
         "committees": [],
