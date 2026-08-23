@@ -12306,7 +12306,7 @@
         
             ,{
                 "title": "Chasing Butterflies",
-                "roles": ["Playwright","Assistant Producer","Publicity Manager"]
+                "roles": ["Assistant Producer","Publicity Manager"]
             }
         
             ,{
@@ -34644,7 +34644,7 @@
         
             ,{
                 "title": "Vetoed",
-                "roles": [null,"Playwright"]
+                "roles": [null]
             }
         ],
         "committees": [
@@ -35883,7 +35883,7 @@
         
             ,{
                 "title": "Vetoed",
-                "roles": [null,"Playwright"]
+                "roles": [null]
             }
         ],
         "committees": [],
@@ -36669,6 +36669,11 @@
             ,{
                 "title": "The Last Supper",
                 "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Twice Nightly",
+                "roles": ["Playwright"]
             }
         
             ,{
@@ -39694,6 +39699,47 @@
             }
         ],
         "link": "/people/rosie_loader/"
+    }
+    
+
+    ,
+    "rosie_tressler" : {
+        "name": "Rosie Tressler",
+        "type": "person",
+        "excerpt": "After graduating, Rosie served as Equal Opportunities and Welfare Officer at the University of Nottingham Students’ Union, beginning a career in student wellbeing. She joined Student Minds, the UK’s student mental health charity, in roles managing volunteering, campaigns and training, and became its Chief Executive in 2015. At Student Minds...",
+        "bio": "After graduating, Rosie served as Equal Opportunities and Welfare Officer at the University of Nottingham Students’ Union, beginning a career in student wellbeing. She joined Student Minds, the UK’s student mental health charity, in roles managing volunteering, campaigns and training, and became its Chief Executive in 2015.\n\nAt Student Minds she oversaw the development of the University Mental Health Charter, a government-backed initiative rewarding universities that take whole-institution approaches to mental health. She was awarded an OBE in the 2019 Queen’s Birthday Honours for services to mental health in higher education, and has undertaken a Churchill Fellowship exploring preventative approaches to student mental health.\n",
+        "poster_thumb_tag": "<a href='/people/rosie_tressler/'><img src='https://photos.smugmug.com/photos/i-FNhtZxc/0/140x140!/i-FNhtZxc-140x140!.jpg' class='search-result-poster-thumb' alt='Rosie Tressler' /></a>",
+        "course": ["English and History"],
+        "graduated": 2011,
+        "award": [],
+        "shows": [
+            {
+                "title": "Nowhere Warm",
+                "roles": ["Cecilia"]
+            }
+        
+            ,{
+                "title": "Boy's Life",
+                "roles": ["Maggie"]
+            }
+        
+            ,{
+                "title": "The Real Inspector Hound",
+                "roles": ["Felicity Cunningham"]
+            }
+        
+            ,{
+                "title": "A Midsummer Night's Dream",
+                "roles": ["The First Fairy / Courtier"]
+            }
+        
+            ,{
+                "title": "Charley's Aunt",
+                "roles": ["Kitty Verdun"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rosie_tressler/"
     }
     
 
@@ -71457,11 +71503,6 @@
                 "title": "Tom Jones",
                 "roles": ["Squire Western"]
             }
-        
-            ,{
-                "title": "Twice Nightly",
-                "roles": ["Playwright"]
-            }
         ],
         "committees": [
             {
@@ -80121,47 +80162,6 @@
         ],
         "committees": [],
         "link": "/people/harry_anton/"
-    }
-    
-
-    ,
-    "rosie_tressler" : {
-        "name": "Rosie Tressler",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2012,
-        "award": [],
-        "shows": [
-            {
-                "title": "Nowhere Warm",
-                "roles": ["Cecilia"]
-            }
-        
-            ,{
-                "title": "Boy's Life",
-                "roles": ["Maggie"]
-            }
-        
-            ,{
-                "title": "The Real Inspector Hound",
-                "roles": ["Felicity Cunningham"]
-            }
-        
-            ,{
-                "title": "A Midsummer Night's Dream",
-                "roles": ["The First Fairy / Courtier"]
-            }
-        
-            ,{
-                "title": "Charley's Aunt",
-                "roles": ["Kitty Verdun"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/rosie_tressler/"
     }
     
 
@@ -105267,7 +105267,7 @@
         
             ,{
                 "title": "Chasing Butterflies",
-                "roles": ["Playwright","Assistant Producer"]
+                "roles": ["Assistant Producer"]
             }
         
             ,{

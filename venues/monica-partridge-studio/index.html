@@ -16,7 +16,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Monica Partridge Studio &middot; Nottingham New Theatre History Project</title>
-  <meta name="description" content="">
+  <meta name="description" content="A performing arts studio within the Monica Partridge Building on the University Park campus, opened in 2018.">
 
   <!-- CDN Provided Fonts -->
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600|Montserrat:400,700' rel='stylesheet' type='text/css'>
@@ -219,6 +219,73 @@
   </div>
 </div>
 
+
+
+
+<div class="grid-wrap grid-row debug" data-debug-toggle>
+  
+<div class="debug-data" data-debug-toggle>
+  Debug table was not enabled for this build, to enable set enable_debug_table to true in _config.yml.
+</div>
+
+
+</div>
+
+<div class="venue-header">
+  <div class="venue-info venue-header__col">
+    <p>A performing arts studio within the Monica Partridge Building on the University Park campus, opened in 2018.</p>
+
+    <div class="venue-info__meta">
+      <p>
+        <span><i class="ion-calendar"></i> 2018</span>
+        <span><i class="fa fa-building fa-fw"></i> Nottingham</span>
+        <span><i class="fa fa-ticket fa-fw"></i> 1 shows</span>
+      </p>
+      
+    </div>
+  </div>
+
+  <div class="venue-photo venue-header__col">
+    
+      
+      <img src="https://photos.smugmug.com/photos/i-Zkt34q5/0/LQMT6XxntxDF84GzpX589RCkjdBMXBSd6DS956pKZ/M/i-Zkt34q5-M.jpg" alt="Monica Partridge Studio" />
+      
+    
+  </div>
+
+  
+  <div class="venue-map venue-header__col">
+    <link href='/lib/mapbox-gl.css' rel='stylesheet' />
+
+<div class="map-container" id="map"
+     data-lat="52.93920038088793"
+     data-lon="-1.1976961122297372"></div>
+
+<script>
+    // Script seems to leak between pages because turbolinks
+    // Event can only fire once everything is loaded (mapbox-gl-js library)
+    document.addEventListener("turbolinks:load", function(event) {
+        if (document.querySelector('#map') != null) {
+            lat = parseFloat("52.93920038088793");
+            lon = parseFloat("-1.1976961122297372");
+            mapboxgl.accessToken = 'pk.eyJ1Ijoid2pkcCIsImEiOiJjaXFwaHU1MmIwMDVoaHhua2hoeDlkYmViIn0.yxRsR2BA6-a4JgvA92eamw';
+            var map = new mapboxgl.Map({
+                container: 'map', // container id
+                attributionControl: false,
+                style: 'mapbox://styles/wjdp/ciqphv4ap0005xim71pqcn8uq', //stylesheet location
+                center: [lon, lat], // starting position
+                zoom: 16, // starting zoom
+            });
+            var marker = new mapboxgl.Marker()
+                    .setLngLat([lon, lat])
+                    .addTo(map);
+        }
+    });
+</script>
+
+  </div>
+  
+</div>
 
 
 
