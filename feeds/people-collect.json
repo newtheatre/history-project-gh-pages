@@ -5068,7 +5068,7 @@
         
             ,{
                 "title": "Queen B",
-                "roles": ["Playwright","Director","Playwright"]
+                "roles": ["Playwright","Director"]
             }
         
             ,{
@@ -12333,7 +12333,7 @@
         
         "course": ["English and American with International Studies"],
         "graduated": 2011,
-        "award": [],
+        "award": "Commendation",
         "shows": [
             {
                 "title": "Crave",
@@ -20614,7 +20614,7 @@
         
             ,{
                 "title": "Jack, aged five and a half",
-                "roles": ["Playwright","Playwright"]
+                "roles": ["Playwright"]
             }
         
             ,{
@@ -35508,7 +35508,7 @@
         "poster_thumb_tag": "<a href='/people/nicola_fox/'><img src='https://photos.smugmug.com/photos/i-FCdbFMb/0/140x140!/i-FCdbFMb-140x140!.jpg' class='search-result-poster-thumb' alt='Nicola Fox' /></a>",
         "course": ["English"],
         "graduated": 2014,
-        "award": [],
+        "award": "Commendation",
         "shows": [
             {
                 "title": "The Hothouse",
@@ -41624,13 +41624,13 @@
             }
         
             ,{
-                "title": "Blood Wedding",
-                "roles": ["Woodcutter 1"]
+                "title": "The Slippery Soapbox",
+                "roles": ["Graham / Leotard Man"]
             }
         
             ,{
-                "title": "The Slippery Soapbox",
-                "roles": ["Graham / Leotard Man"]
+                "title": "Blood Wedding",
+                "roles": ["Woodcutter 1"]
             }
         
             ,{
@@ -78225,88 +78225,6 @@
     
 
     ,
-    "maia_gibbs" : {
-        "name": "Maia Gibbs",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2008,
-        "award": [],
-        "shows": [
-            {
-                "title": "Blood Wedding",
-                "roles": ["Bride"]
-            }
-        
-            ,{
-                "title": "The Treatment",
-                "roles": ["Bride"]
-            }
-        
-            ,{
-                "title": "Persae",
-                "roles": ["Jean"]
-            }
-        
-            ,{
-                "title": "4.48 Psychosis",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "Colder than Here",
-                "roles": ["Myra"]
-            }
-        
-            ,{
-                "title": "Through the Looking Glass",
-                "roles": ["Alice"]
-            }
-        
-            ,{
-                "title": "The Lonesome West",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "After Miss Julie",
-                "roles": ["Julie"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2007-08",
-                "roles": ["Publicity and Internal Marketing Manager"]
-            }
-        ],
-        "link": "/people/maia_gibbs/"
-    }
-    
-
-    ,
-    "simon_chase" : {
-        "name": "Simon Chase",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2006,
-        "award": [],
-        "shows": [
-            {
-                "title": "Blood Wedding",
-                "roles": ["Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/simon_chase/"
-    }
-    
-
-    ,
     "ben_ford" : {
         "name": "Ben Ford",
         "type": "person",
@@ -78659,6 +78577,67 @@
     
 
     ,
+    "maia_gibbs" : {
+        "name": "Maia Gibbs",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2008,
+        "award": [],
+        "shows": [
+            {
+                "title": "The Treatment",
+                "roles": ["Bride"]
+            }
+        
+            ,{
+                "title": "Persae",
+                "roles": ["Jean"]
+            }
+        
+            ,{
+                "title": "Blood Wedding",
+                "roles": ["Bride"]
+            }
+        
+            ,{
+                "title": "4.48 Psychosis",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Colder than Here",
+                "roles": ["Myra"]
+            }
+        
+            ,{
+                "title": "Through the Looking Glass",
+                "roles": ["Alice"]
+            }
+        
+            ,{
+                "title": "The Lonesome West",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "After Miss Julie",
+                "roles": ["Julie"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2007-08",
+                "roles": ["Publicity and Internal Marketing Manager"]
+            }
+        ],
+        "link": "/people/maia_gibbs/"
+    }
+    
+
+    ,
     "sam_grafton" : {
         "name": "Sam Grafton",
         "type": "person",
@@ -78853,6 +78832,27 @@
         ],
         "committees": [],
         "link": "/people/charlie_eccleshare/"
+    }
+    
+
+    ,
+    "simon_chase" : {
+        "name": "Simon Chase",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": 2007,
+        "award": [],
+        "shows": [
+            {
+                "title": "Blood Wedding",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/simon_chase/"
     }
     
 
