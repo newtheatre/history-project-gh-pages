@@ -117387,6 +117387,37 @@
     
 
     ,
+    "kalista_vordos" : {
+        "name": "Kalista Vordos",
+        "type": "person",
+        "excerpt": "",
+        "bio": "",
+        
+        "course": null,
+        "graduated": null,
+        "award": [],
+        "shows": [
+            {
+                "title": "IDOL",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Machinal",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "If I See Him",
+                "roles": ["Technical Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/kalista_vordos/"
+    }
+    
+
+    ,
     "lucy_cullis" : {
         "name": "Lucy Cullis",
         "type": "person",
@@ -117580,37 +117611,6 @@
         ],
         "committees": [],
         "link": "/people/nantia_khader/"
-    }
-    
-
-    ,
-    "kalista_vordos" : {
-        "name": "Kalista Vordos",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": null,
-        "award": [],
-        "shows": [
-            {
-                "title": "IDOL",
-                "roles": ["Stage Manager"]
-            }
-        
-            ,{
-                "title": "Machinal",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "If I See Him",
-                "roles": ["Technical Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/kalista_vordos/"
     }
     
 
