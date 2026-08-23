@@ -109811,11 +109811,16 @@
         "bio": "",
         
         "course": null,
-        "graduated": 2022,
+        "graduated": 2023,
         "award": [],
         "shows": [
             {
                 "title": "Accidental Death of an Activist",
+                "roles": ["Playwright"]
+            }
+        
+            ,{
+                "title": "Cocoon",
                 "roles": ["Playwright"]
             }
         ],
