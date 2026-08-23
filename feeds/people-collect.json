@@ -9186,6 +9186,27 @@
     
 
     ,
+    "clive_hollick" : {
+        "name": "Clive Hollick",
+        "type": "person",
+        "excerpt": "Clive joined Hambros Bank as a graduate trainee in 1967 and became its youngest-ever director in 1973. He went on to run Mills &amp; Allen International (MAI), taking it into television when Meridian Broadcasting won the ITV South franchise in 1993, and later acquiring Anglia Television and stakes in Yorkshire-Tyne...",
+        "bio": "Clive joined Hambros Bank as a graduate trainee in 1967 and became its youngest-ever director in 1973. He went on to run Mills &amp; Allen International (MAI), taking it into television when Meridian Broadcasting won the ITV South franchise in 1993, and later acquiring Anglia Television and stakes in Yorkshire-Tyne Tees and Channel 5.\n\nAfter MAI merged with United Newspapers in 1996 he became chief executive of United News &amp; Media, owner of the Daily Express and Daily Star, retiring from the renamed United Business Media in 2005. He subsequently joined private equity firm KKR and has held directorships at Diageo and Honeywell, and chaired the South Bank Centre from 2002 to 2008.\n\nHe was created a life peer as Baron Hollick of Notting Hill in 1991, sits as a Labour peer and chaired the House of Lords Economic Affairs Committee from 2014 to 2017.\n",
+        "poster_thumb_tag": "<a href='/people/clive_hollick/'><img src='https://photos.smugmug.com/photos/i-7hJ63mT/0/140x140!/i-7hJ63mT-140x140!.jpg' class='search-result-poster-thumb' alt='Clive Hollick' /></a>",
+        "course": ["Politics, Psychology and Sociology"],
+        "graduated": 1967,
+        "award": [],
+        "shows": [],
+        "committees": [
+            {
+                "title": "1965-66",
+                "roles": ["President"]
+            }
+        ],
+        "link": "/people/clive_hollick/"
+    }
+    
+
+    ,
     "clive_tyldesley" : {
         "name": "Clive Tyldesley",
         "type": "person",
@@ -34450,7 +34471,7 @@
         "type": "person",
         "excerpt": "\n",
         "bio": "\n",
-        
+        "poster_thumb_tag": "<a href='/people/nicholas_landon/'><img src='https://photos.smugmug.com/photos/i-t4XqKVc/0/140x140!/i-t4XqKVc-140x140!.jpg' class='search-result-poster-thumb' alt='Nicholas Landon' /></a>",
         "course": null,
         "graduated": 2022,
         "award": [],
@@ -118094,27 +118115,6 @@
             }
         ],
         "link": "/people/chilli_wright/"
-    }
-    
-
-    ,
-    "clive_hollick" : {
-        "name": "Clive Hollick",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1966,
-        "award": [],
-        "shows": [],
-        "committees": [
-            {
-                "title": "1965-66",
-                "roles": ["President"]
-            }
-        ],
-        "link": "/people/clive_hollick/"
     }
     
 
