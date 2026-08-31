@@ -15107,6 +15107,52 @@
     
 
     ,
+    "eve_wersocki_morris" : {
+        "name": "Eve Wersocki Morris",
+        "type": "person",
+        "excerpt": "Eve acted in Tread Softly and Innocent Infidelity in her first year before turning to writing and directing. She wrote and directed Accidental Loss of a Baby for the 2012 UNCUT season, went on to direct The Woman Who Cooked Her Husband and Little Red, reviewed for the theatre, and...",
+        "bio": "Eve acted in Tread Softly and Innocent Infidelity in her first year before turning to writing and directing. She wrote and directed Accidental Loss of a Baby for the 2012 UNCUT season, went on to direct The Woman Who Cooked Her Husband and Little Red, reviewed for the theatre, and stage managed the 2014 external production of Krapp’s Last Tape.\n\nDiagnosed with dyslexia at twelve, she had finished her first full-length novel by thirteen. She is now a bestselling children’s author, writing mystery, suspense and adventure. Her debut The Bird Singer (2022), inspired by her Polish ancestry, was a Sunday Times Book of the Week and was nominated for the Branford Boase Award. The Wildstorm Curse was an Independent Bookshops Bestseller and featured in The Reading Agency’s Summer Reading Challenge 2024. Lemony Snicket has said he is “tired of Eve Wersocki Morris being the best-kept secret in children’s literature”.\n\nShe has appeared at Bath Children’s Book Festival, Barnes Children’s Literature Festival and Wigtown Book Festival, chaired the judging panel for Wimbledon BookFest’s Junior Young Writers’ Competition in 2024, and volunteered as a reading helper with the literacy charity Coram Beanstalk. Her writing has also appeared in BookTrust, Stylist and the Times Literary Supplement. She lives in London.\n",
+        "poster_thumb_tag": "<a href='/people/eve_wersocki_morris/'><img src='https://photos.smugmug.com/photos/i-FfdrN7w/0/140x140!/i-FfdrN7w-140x140!.jpg' class='search-result-poster-thumb' alt='Eve Wersocki Morris' /></a>",
+        "course": null,
+        "graduated": 2014,
+        "award": [],
+        "shows": [
+            {
+                "title": "Tread Softly",
+                "roles": ["Actor"]
+            }
+        
+            ,{
+                "title": "Innocent Infidelity",
+                "roles": ["Hilary Thornston Blaze"]
+            }
+        
+            ,{
+                "title": "Accidental Loss of a Baby",
+                "roles": ["Playwright","Director"]
+            }
+        
+            ,{
+                "title": "The Woman Who Cooked Her Husband",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Little Red",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Krapp's Last Tape",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/eve_wersocki_morris/"
+    }
+    
+
+    ,
     "ewa_rubaszewska" : {
         "name": "Ewa Rubaszewska",
         "type": "person",
@@ -17386,8 +17432,8 @@
     "guy_unsworth" : {
         "name": "Guy Unsworth",
         "type": "person",
-        "excerpt": "\n",
-        "bio": "\n",
+        "excerpt": "Guy grew up in Southport and studied Industrial Economics at Nottingham. Initially acting on the side, playing Colonel Pickering in My Fair Lady, he moved into directing with Humble Boy and served as Publicity Officer on the 2006–07 committee. In his final year he directed Proof, which reached the National...",
+        "bio": "Guy grew up in Southport and studied Industrial Economics at Nottingham. Initially acting on the side, playing Colonel Pickering in My Fair Lady, he moved into directing with Humble Boy and served as Publicity Officer on the 2006–07 committee. In his final year he directed Proof, which reached the National Student Drama Festival finals and won six of the twelve awards, including the Directors Guild award for Best New Director and the Stage Electrics award for Best New Designer for Guy himself.\n\nAfter graduating he trained in theatre directing at Mountview Academy of Theatre Arts, then worked as Assistant and Associate Director on productions in the West End and at the Royal Shakespeare Company. His Fresher The Musical won Best New Musical at the Edinburgh Fringe’s Musical Theatre Matters awards.\n\nNow a freelance director and writer working in the UK and internationally, his credits include the 2018 stage adaptation of Some Mothers Do ‘Ave ‘Em (three UK tours), Being Mr Wickham (Jermyn Street Theatre, New York and the Garrick Theatre), Miss Saigon in Oslo and Gothenburg, My Fair Lady in Concert at the Liceu Opera Barcelona, three productions for Singapore Repertory Theatre’s Shakespeare in the Park, and Joyride: The Roxette Musical for Malmö Opera, which he wrote and directed. His theatre-film The System (2021) was nominated for Best Director and Best Feature Film at the Sensei Tokyo Film Festival. He was also part of the creative team for the Queen’s 90th Birthday Celebrations in 2016.\n",
         
         "course": null,
         "graduated": 2008,
@@ -52890,27 +52936,6 @@
     
 
     ,
-    "david_mercer" : {
-        "name": "David Mercer",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1972,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Governor's Lady",
-                "roles": ["Playwright"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/david_mercer/"
-    }
-    
-
-    ,
     "debbie_langford" : {
         "name": "Debbie Langford",
         "type": "person",
@@ -61923,27 +61948,6 @@
         ],
         "committees": [],
         "link": "/people/andy_moseley/"
-    }
-    
-
-    ,
-    "bill_macilwraith" : {
-        "name": "Bill MacIlwraith",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 1977,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Anniversary",
-                "roles": ["Playwright"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/bill_macilwraith/"
     }
     
 
@@ -84992,52 +84996,6 @@
     
 
     ,
-    "eve_wersocki-morris" : {
-        "name": "Eve Wersocki-Morris",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2014,
-        "award": [],
-        "shows": [
-            {
-                "title": "Tread Softly",
-                "roles": ["Actor"]
-            }
-        
-            ,{
-                "title": "Innocent Infidelity",
-                "roles": ["Hilary Thornston Blaze"]
-            }
-        
-            ,{
-                "title": "Accidental Loss of a Baby",
-                "roles": ["Playwright","Director"]
-            }
-        
-            ,{
-                "title": "The Woman Who Cooked Her Husband",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Little Red",
-                "roles": ["Director"]
-            }
-        
-            ,{
-                "title": "Krapp's Last Tape",
-                "roles": ["Stage Manager"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/eve_wersocki-morris/"
-    }
-    
-
-    ,
     "olivia_hattenstone" : {
         "name": "Olivia Hattenstone",
         "type": "person",
@@ -87482,27 +87440,6 @@
         ],
         "committees": [],
         "link": "/people/jess_curtis/"
-    }
-    
-
-    ,
-    "debbie_isitt" : {
-        "name": "Debbie Isitt",
-        "type": "person",
-        "excerpt": "",
-        "bio": "",
-        
-        "course": null,
-        "graduated": 2013,
-        "award": [],
-        "shows": [
-            {
-                "title": "The Woman Who Cooked Her Husband",
-                "roles": ["Playwright"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/debbie_isitt/"
     }
     
 
@@ -114559,6 +114496,11 @@
                 "title": "Hamlet",
                 "roles": ["Guildenstern","Priest"]
             }
+        
+            ,{
+                "title": "If I See Him",
+                "roles": ["Ruth"]
+            }
         ],
         "committees": [],
         "link": "/people/hannah_pears/"
@@ -117894,7 +117836,7 @@
         "shows": [
             {
                 "title": "If I See Him",
-                "roles": ["Show Assistant"]
+                "roles": ["Costume Designer"]
             }
         ],
         "committees": [],
@@ -117915,7 +117857,7 @@
         "shows": [
             {
                 "title": "If I See Him",
-                "roles": ["Publicity Manager"]
+                "roles": ["Show Assistant"]
             }
         ],
         "committees": [],
@@ -117924,8 +117866,8 @@
     
 
     ,
-    "becca_ridgers" : {
-        "name": "Becca Ridgers",
+    "rebecca_ridgers" : {
+        "name": "Rebecca Ridgers",
         "type": "person",
         "excerpt": "",
         "bio": "",
@@ -117936,11 +117878,11 @@
         "shows": [
             {
                 "title": "If I See Him",
-                "roles": ["Costume and Props Manager"]
+                "roles": ["Marketing Director"]
             }
         ],
         "committees": [],
-        "link": "/people/becca_ridgers/"
+        "link": "/people/rebecca_ridgers/"
     }
     
 
